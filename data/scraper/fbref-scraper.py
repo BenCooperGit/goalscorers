@@ -3,7 +3,8 @@ import sys
 
 for path in package_paths:
     sys.path.append(path)
-import goalscorer_package.constants as c
+# import goalscorer_package.constants as c
+from goalscorer_package.constants import *
 import goalscorer_package.data_cleaning as dc
 import httpx
 import bs4
@@ -309,7 +310,52 @@ def main(seasons_leagues: list) -> None:
 
 
 if __name__ == "__main__":
-    seaons_leagues = [
-        c.SeasonLeague(c.SEASON_17_18, c.GERMAN_BUNDESLIGA, xg_league_bool=True),
+    seasons_leagues = [
+        ## Lesser leagues
+        SeasonLeague(SEASON_22_23, PORTUGUESE_PREMIERA_LIGA, xg_league_bool=True),
+        SeasonLeague(SEASON_22_23, DUTCH_ERIDIVISIE_LIGA, xg_league_bool=True),
+        SeasonLeague(SEASON_22_23, MEXICAN_LIGA_MX, xg_league_bool=True),
+        SeasonLeague(SEASON_21_22, PORTUGUESE_PREMIERA_LIGA, xg_league_bool=True),
+        SeasonLeague(SEASON_21_22, DUTCH_ERIDIVISIE_LIGA, xg_league_bool=True),
+        SeasonLeague(SEASON_21_22, MEXICAN_LIGA_MX, xg_league_bool=True),
+        SeasonLeague(SEASON_20_21, PORTUGUESE_PREMIERA_LIGA, xg_league_bool=True),
+        SeasonLeague(SEASON_20_21, DUTCH_ERIDIVISIE_LIGA, xg_league_bool=True),
+        SeasonLeague(SEASON_20_21, MEXICAN_LIGA_MX, xg_league_bool=True),
+        SeasonLeague(SEASON_19_20, PORTUGUESE_PREMIERA_LIGA, xg_league_bool=True),
+        SeasonLeague(SEASON_19_20, DUTCH_ERIDIVISIE_LIGA, xg_league_bool=True),
+        SeasonLeague(SEASON_19_20, MEXICAN_LIGA_MX, xg_league_bool=True),
+        SeasonLeague(SEASON_18_19, PORTUGUESE_PREMIERA_LIGA, xg_league_bool=True),
+        SeasonLeague(SEASON_18_19, DUTCH_ERIDIVISIE_LIGA, xg_league_bool=True),
+        SeasonLeague(SEASON_18_19, MEXICAN_LIGA_MX, xg_league_bool=True),
+        ## European competitions
+        SeasonLeague(SEASON_22_23, EUROPEAN_CHAMPIONS_LEAGUE, xg_league_bool=True),
+        SeasonLeague(SEASON_22_23, EUROPEAN_EUROPA_LEAGUE, xg_league_bool=True),
+        SeasonLeague(
+            SEASON_22_23, EUROPEAN_EUROPA_CONFERENCE_LEAGUE, xg_league_bool=True
+        ),
+        SeasonLeague(SEASON_21_22, EUROPEAN_CHAMPIONS_LEAGUE, xg_league_bool=True),
+        SeasonLeague(SEASON_21_22, EUROPEAN_EUROPA_LEAGUE, xg_league_bool=True),
+        SeasonLeague(
+            SEASON_21_22, EUROPEAN_EUROPA_CONFERENCE_LEAGUE, xg_league_bool=True
+        ),
+        SeasonLeague(SEASON_20_21, EUROPEAN_CHAMPIONS_LEAGUE, xg_league_bool=True),
+        SeasonLeague(SEASON_20_21, EUROPEAN_EUROPA_LEAGUE, xg_league_bool=True),
+        SeasonLeague(SEASON_19_20, EUROPEAN_CHAMPIONS_LEAGUE, xg_league_bool=True),
+        SeasonLeague(SEASON_19_20, EUROPEAN_EUROPA_LEAGUE, xg_league_bool=True),
+        SeasonLeague(SEASON_18_19, EUROPEAN_CHAMPIONS_LEAGUE, xg_league_bool=True),
+        SeasonLeague(SEASON_18_19, EUROPEAN_EUROPA_LEAGUE, xg_league_bool=True),
+        SeasonLeague(SEASON_17_18, EUROPEAN_CHAMPIONS_LEAGUE, xg_league_bool=True),
+        SeasonLeague(SEASON_17_18, EUROPEAN_EUROPA_LEAGUE, xg_league_bool=True),
+        ## 1 year leagues
+        SeasonLeague(SEASON_22, AMERICAN_MLS, xg_league_bool=True),
+        SeasonLeague(SEASON_22, BRAZILIAN_SERIE_A, xg_league_bool=True),
+        SeasonLeague(SEASON_21, AMERICAN_MLS, xg_league_bool=True),
+        SeasonLeague(SEASON_21, BRAZILIAN_SERIE_A, xg_league_bool=True),
+        SeasonLeague(SEASON_20, AMERICAN_MLS, xg_league_bool=True),
+        SeasonLeague(SEASON_20, BRAZILIAN_SERIE_A, xg_league_bool=True),
+        SeasonLeague(SEASON_19, AMERICAN_MLS, xg_league_bool=True),
+        SeasonLeague(SEASON_19, BRAZILIAN_SERIE_A, xg_league_bool=True),
+        SeasonLeague(SEASON_18, AMERICAN_MLS, xg_league_bool=True),
+        SeasonLeague(SEASON_18, BRAZILIAN_SERIE_A, xg_league_bool=True),
     ]
-    main(seaons_leagues)
+    main(seasons_leagues)
