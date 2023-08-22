@@ -1,0 +1,766 @@
+home_team,away_team,datetime,nationality,age,minutes,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct,gk_psxg,gk_passes_completed_launched,gk_passes_launched,gk_passes_pct_launched,gk_passes,gk_passes_throws,gk_pct_passes_launched,gk_passes_length_avg,gk_goal_kicks,gk_pct_goal_kicks_launched,gk_goal_kick_length_avg,gk_crosses,gk_crosses_stopped,gk_crosses_stopped_pct,gk_def_actions_outside_pen_area,gk_avg_distance_def_actions,player_id,player,squad,start
+Fulham,Arsenal,1599910200,sk SVK,23-274,90,5,3,2,40.0,1.8,6,12,50.0,23,2,43.5,34.4,4,50.0,44.0,8,0,0.0,1,26.0,17acc2ed,Marek Rodák,Fulham,True
+Crystal Palace,Southampton,1599919200,es ESP,33-246,90,5,0,5,100.0,0.4,6,25,24.0,20,0,95.0,54.7,6,100.0,60.8,12,0,0.0,0,8.5,ab13a5aa,Vicente Guaita,Crystal Palace,True
+Liverpool,Leeds United,1599928200,br BRA,27-346,90,3,3,0,0.0,0.5,2,11,18.2,25,4,32.0,28.8,3,100.0,69.3,7,1,14.3,0,7.7,7a2e46a8,Alisson,Liverpool,True
+West Ham United,Newcastle United,1599937200,pl POL,35-147,90,2,2,0,0.0,1.3,3,10,30.0,21,5,19.0,27.2,7,85.7,55.7,15,0,0.0,1,11.0,9328b835,Łukasz Fabiański,West Ham United,True
+West Bromwich Albion,Leicester City,1600002000,eng ENG,27-172,90,7,3,4,85.7,3.2,10,22,45.5,25,3,64.0,45.9,6,100.0,55.8,12,0,0.0,0,13.0,9e5708be,Sam Johnstone,West Bromwich Albion,True
+Tottenham Hotspur,Everton,1600011000,fr FRA,33-262,90,4,1,3,75.0,0.5,1,2,50.0,22,7,9.1,23.6,8,0.0,11.4,11,0,0.0,2,19.5,8f62b6ee,Hugo Lloris,Tottenham Hotspur,True
+Sheffield United,Wolverhampton Wanderers,1600102800,eng ENG,22-123,90,4,2,2,50.0,1.3,7,17,41.2,18,3,66.7,47.1,6,83.3,64.3,11,0,0.0,2,31.5,466fb2c5,Aaron Ramsdale,Sheffield United,True
+Brighton & Hove Albion,Chelsea,1600110900,au AUS,28-159,90,5,3,2,60.0,1.7,3,7,42.9,46,7,15.2,23.3,0,,,5,0,0.0,0,,4535e4bb,Mathew Ryan,Brighton & Hove Albion,True
+Everton,West Bromwich Albion,1600515000,eng ENG,26-196,90,4,2,2,50.0,0.8,1,5,20.0,33,5,12.1,22.2,5,20.0,27.2,4,0,0.0,0,13.5,4806ec67,Jordan Pickford,Everton,True
+Leeds United,Fulham,1600524000,fr FRA,20-201,90,6,3,3,66.7,2.0,6,10,60.0,31,5,25.8,31.8,9,22.2,27.1,14,0,0.0,0,11.5,6b625ac2,Illan Meslier,Leeds United,True
+Manchester United,Crystal Palace,1600533000,es ESP,29-317,90,5,3,2,60.0,2.1,1,3,33.3,19,2,15.8,25.3,4,0.0,18.3,7,0,0.0,5,30.4,7ba6d84e,David de Gea,Manchester United,True
+Arsenal,West Ham United,1600542000,de GER,28-199,90,2,1,1,50.0,0.7,1,2,50.0,32,6,3.1,19.2,5,20.0,23.2,18,1,5.6,2,19.2,2628fd2b,Bernd Leno,Arsenal,True
+Southampton,Tottenham Hotspur,1600599600,eng ENG,30-292,90,6,5,1,16.7,2.8,3,9,33.3,29,2,27.6,28.6,1,100.0,58.0,4,0,0.0,4,29.5,36c2ca73,Alex McCarthy,Southampton,True
+Newcastle United,Brighton & Hove Albion,1600606800,eng ENG,29-348,90,6,3,3,66.7,2.5,5,17,29.4,18,5,50.0,38.2,8,100.0,63.5,8,1,12.5,0,8.0,cde3309f,Karl Darlow,Newcastle United,True
+Chelsea,Liverpool,1600615800,es ESP,25-353,90,5,2,3,60.0,1.5,6,11,54.5,40,9,22.5,26.4,10,20.0,23.8,19,2,10.5,0,7.5,28d596a0,Kepa Arrizabalaga,Chelsea,True
+Leicester City,Burnley,1600624800,dk DEN,33-320,90,5,2,3,60.0,1.0,2,11,18.2,37,3,21.6,31.8,9,33.3,35.4,11,1,9.1,0,3.0,53af52f3,Kasper Schmeichel,Leicester City,True
+Aston Villa,Sheffield United,1600707600,ar ARG,28-019,90,1,0,0,100.0,1.0,3,7,42.9,33,8,18.2,27.3,3,33.3,30.3,12,1,8.3,1,19.0,7956236f,Emiliano Martínez,Aston Villa,True
+Wolverhampton Wanderers,Manchester City,1600715700,pt POR,32-219,90,9,3,6,77.8,2.3,6,16,37.5,19,7,47.4,36.4,8,87.5,51.1,7,0,0.0,0,14.0,79b0d6a0,Rui Patrício,Wolverhampton Wanderers,True
+Brighton & Hove Albion,Manchester United,1601119800,au AUS,28-171,90,3,3,1,33.3,2.1,3,10,30.0,37,2,27.0,32.4,3,0.0,18.3,6,0,0.0,0,,4535e4bb,Mathew Ryan,Brighton & Hove Albion,True
+Crystal Palace,Everton,1601128800,es ESP,33-260,90,5,2,3,80.0,1.8,4,12,33.3,14,1,64.3,41.8,5,60.0,41.0,12,0,0.0,0,6.0,ab13a5aa,Vicente Guaita,Crystal Palace,True
+West Bromwich Albion,Chelsea,1601137800,eng ENG,27-185,90,10,3,7,70.0,2.5,6,22,27.3,21,3,81.0,49.4,7,71.4,47.4,30,1,3.3,0,4.3,9e5708be,Sam Johnstone,West Bromwich Albion,True
+Burnley,Southampton,1601146800,eng ENG,28-160,90,1,1,0,0.0,0.7,7,26,26.9,33,4,69.7,45.3,4,75.0,50.5,5,0,0.0,0,19.7,4b40d9ca,Nick Pope,Burnley,True
+Sheffield United,Leeds United,1601204400,eng ENG,22-136,90,8,1,7,87.5,1.2,8,25,32.0,22,7,59.1,40.4,13,92.3,59.2,21,1,4.8,2,13.0,466fb2c5,Aaron Ramsdale,Sheffield United,True
+Tottenham Hotspur,Newcastle United,1601211600,fr FRA,33-276,90,1,1,0,100.0,1.0,1,3,33.3,10,2,30.0,29.1,3,0.0,17.7,14,0,0.0,1,21.0,8f62b6ee,Hugo Lloris,Tottenham Hotspur,True
+Manchester City,Leicester City,1601220600,br BRA,27-041,90,7,5,2,71.4,4.4,0,0,,13,4,0.0,19.3,2,0.0,14.5,5,0,0.0,8,22.9,3bb7b8b4,Ederson,Manchester City,True
+West Ham United,Wolverhampton Wanderers,1601229600,pl POL,35-162,90,2,0,2,100.0,0.3,6,19,31.6,22,4,68.2,45.6,7,57.1,43.9,17,0,0.0,0,16.0,9328b835,Łukasz Fabiański,West Ham United,True
+Fulham,Aston Villa,1601311500,fr FRA,27-214,90,5,3,2,40.0,1.8,2,5,40.0,17,3,23.5,26.9,7,14.3,22.9,8,1,12.5,1,17.0,2f965a72,Alphonse Areola,Fulham,True
+Liverpool,Arsenal,1601319600,br BRA,27-362,90,3,1,2,66.7,2.0,4,8,50.0,38,1,18.4,27.8,3,33.3,28.0,7,0,0.0,4,27.5,7a2e46a8,Alisson,Liverpool,True
+Chelsea,Crystal Palace,1601724600,sn SEN,28-216,90,0,0,0,,0.0,2,4,50.0,20,2,20.0,25.4,5,0.0,11.2,13,0,0.0,1,11.0,33887998,Edouard Mendy,Chelsea,True
+Everton,Brighton & Hove Albion,1601733600,eng ENG,26-210,90,3,2,1,33.3,1.3,3,15,20.0,24,4,45.8,36.9,8,50.0,39.5,15,1,6.7,0,6.3,4806ec67,Jordan Pickford,Everton,True
+Leeds United,Manchester City,1601742600,fr FRA,20-215,90,1,1,0,0.0,0.3,9,15,60.0,44,7,22.7,29.5,14,35.7,28.6,18,1,5.6,0,9.8,6b625ac2,Illan Meslier,Leeds United,True
+Newcastle United,Burnley,1601751600,eng ENG,29-361,90,3,1,2,66.7,0.6,8,29,27.6,35,8,71.4,45.5,4,100.0,67.0,17,4,23.5,0,5.6,cde3309f,Karl Darlow,Newcastle United,True
+Southampton,West Bromwich Albion,1601809200,eng ENG,30-306,90,2,0,2,100.0,0.1,10,22,45.5,43,8,39.5,31.8,6,83.3,55.7,9,0,0.0,2,23.0,36c2ca73,Alex McCarthy,Southampton,True
+Leicester City,West Ham United,1601809200,dk DEN,33-334,90,6,3,3,50.0,2.7,3,9,33.3,28,7,32.1,31.9,4,0.0,22.8,11,0,0.0,1,23.0,53af52f3,Kasper Schmeichel,Leicester City,True
+Arsenal,Sheffield United,1601816400,de GER,28-214,90,2,1,1,50.0,0.4,1,7,14.3,37,2,8.1,23.1,9,44.4,36.0,13,0,0.0,2,36.0,2628fd2b,Bernd Leno,Arsenal,True
+Wolverhampton Wanderers,Fulham,1601816400,pt POR,32-232,90,2,0,2,100.0,0.9,2,10,20.0,15,4,40.0,28.9,8,50.0,37.9,22,2,9.1,1,14.3,79b0d6a0,Rui Patrício,Wolverhampton Wanderers,True
+Manchester United,Tottenham Hotspur,1601825400,es ESP,29-332,90,8,6,2,37.5,5.1,4,5,80.0,16,4,6.3,19.4,6,66.7,45.3,7,0,0.0,0,1.0,7ba6d84e,David de Gea,Manchester United,True
+Aston Villa,Liverpool,1601835300,ar ARG,28-032,90,8,2,6,75.0,2.1,8,26,30.8,26,0,84.6,52.4,4,100.0,63.3,15,2,13.3,0,6.5,7956236f,Emiliano Martínez,Aston Villa,True
+Everton,Liverpool,1602934200,eng ENG,26-224,90,8,2,6,75.0,2.4,11,30,36.7,26,4,65.4,47.1,13,100.0,71.8,17,0,0.0,0,10.3,4806ec67,Jordan Pickford,Everton,True
+Chelsea,Southampton,1602943200,es ESP,26-014,90,6,3,3,50.0,2.7,3,6,50.0,21,6,14.3,27.6,8,37.5,31.8,11,1,9.1,0,8.4,28d596a0,Kepa Arrizabalaga,Chelsea,True
+Manchester City,Arsenal,1602952200,br BRA,27-061,90,3,0,3,100.0,0.3,9,23,39.1,36,1,41.7,37.5,10,80.0,56.1,12,0,0.0,1,13.5,3bb7b8b4,Ederson,Manchester City,True
+Newcastle United,Manchester United,1602961200,eng ENG,30-009,90,12,4,7,66.7,3.5,7,24,29.2,26,5,65.4,45.2,10,70.0,48.9,16,0,0.0,1,10.5,cde3309f,Karl Darlow,Newcastle United,True
+Sheffield United,Fulham,1603018800,eng ENG,22-157,90,6,1,5,83.3,0.7,11,22,50.0,21,1,85.7,53.1,5,80.0,63.6,16,1,6.3,1,15.0,466fb2c5,Aaron Ramsdale,Sheffield United,True
+Crystal Palace,Brighton & Hove Albion,1603026000,es ESP,33-282,90,3,1,2,66.7,0.5,7,28,25.0,17,3,64.7,44.6,17,100.0,59.7,14,2,14.3,0,7.2,ab13a5aa,Vicente Guaita,Crystal Palace,True
+Tottenham Hotspur,West Ham United,1603035000,fr FRA,33-297,90,4,3,2,25.0,1.1,11,19,57.9,28,3,50.0,35.4,8,62.5,41.4,22,0,0.0,0,,8f62b6ee,Hugo Lloris,Tottenham Hotspur,True
+Leicester City,Aston Villa,1603044900,dk DEN,33-348,90,4,1,3,75.0,0.6,6,20,30.0,40,6,47.5,38.1,4,25.0,28.5,18,2,11.1,0,3.5,53af52f3,Kasper Schmeichel,Leicester City,True
+West Bromwich Albion,Burnley,1603125000,eng ENG,27-208,90,4,0,4,100.0,0.2,4,22,18.2,36,13,50.0,40.1,6,66.7,50.2,22,0,0.0,2,14.0,9e5708be,Sam Johnstone,West Bromwich Albion,True
+Leeds United,Wolverhampton Wanderers,1603134000,fr FRA,20-231,90,3,1,2,66.7,0.8,0,1,0.0,25,5,4.0,23.6,7,0.0,17.1,8,0,0.0,1,20.5,6b625ac2,Illan Meslier,Leeds United,True
+Aston Villa,Leeds United,1603479600,ar ARG,28-051,90,9,3,6,66.7,2.6,10,30,33.3,34,6,61.8,42.8,12,75.0,49.5,17,3,17.6,0,6.5,7956236f,Emiliano Martínez,Aston Villa,True
+West Ham United,Manchester City,1603539000,pl POL,35-189,90,7,1,6,85.7,1.1,13,23,56.5,19,3,57.9,44.5,15,80.0,55.3,19,1,5.3,0,9.8,9328b835,Łukasz Fabiański,West Ham United,True
+Fulham,Crystal Palace,1603548000,fr FRA,27-240,90,10,2,8,80.0,2.6,1,1,100.0,13,5,0.0,13.8,5,20.0,22.0,5,0,0.0,0,16.7,2f965a72,Alphonse Areola,Fulham,True
+Manchester United,Chelsea,1603557000,es ESP,29-352,90,1,0,1,100.0,0.0,1,8,12.5,18,5,33.3,30.8,6,33.3,30.5,15,0,0.0,0,,7ba6d84e,David de Gea,Manchester United,True
+Liverpool,Sheffield United,1603566000,br BRA,28-022,90,2,1,1,100.0,1.0,3,12,25.0,26,1,30.8,32.8,8,50.0,36.0,14,0,0.0,0,9.0,7a2e46a8,Alisson,Liverpool,True
+Southampton,Everton,1603634400,eng ENG,30-327,90,2,0,2,100.0,0.1,5,13,38.5,30,5,36.7,30.8,2,100.0,60.5,14,0,0.0,0,7.0,36c2ca73,Alex McCarthy,Southampton,True
+Wolverhampton Wanderers,Newcastle United,1603643400,pt POR,32-253,90,2,1,1,50.0,0.4,1,2,50.0,13,7,15.4,26.2,2,0.0,16.5,11,0,0.0,1,12.7,79b0d6a0,Rui Patrício,Wolverhampton Wanderers,True
+Arsenal,Leicester City,1603653300,de GER,28-235,90,2,1,1,50.0,0.3,0,1,0.0,24,6,0.0,18.4,2,50.0,36.5,3,0,0.0,2,21.0,2628fd2b,Bernd Leno,Arsenal,True
+Brighton & Hove Albion,West Bromwich Albion,1603733400,au AUS,28-201,90,3,1,2,66.7,0.2,9,18,50.0,30,3,40.0,33.2,8,75.0,50.4,13,1,7.7,0,8.3,4535e4bb,Mathew Ryan,Brighton & Hove Albion,True
+Burnley,Tottenham Hotspur,1603742400,eng ENG,28-190,90,3,1,2,66.7,1.0,9,31,29.0,34,6,70.6,47.7,7,100.0,66.1,15,0,0.0,2,21.0,4b40d9ca,Nick Pope,Burnley,True
+Wolverhampton Wanderers,Crystal Palace,1604088000,pt POR,32-258,90,2,0,2,100.0,0.1,5,13,38.5,12,2,75.0,50.2,4,100.0,59.5,13,1,7.7,0,4.0,79b0d6a0,Rui Patrício,Wolverhampton Wanderers,True
+Sheffield United,Manchester City,1604147400,eng ENG,22-170,90,8,1,7,87.5,2.2,9,26,34.6,28,5,67.9,43.9,7,100.0,68.0,10,0,0.0,2,19.8,466fb2c5,Aaron Ramsdale,Sheffield United,True
+Burnley,Chelsea,1604156400,eng ENG,28-195,90,9,3,6,66.7,2.2,10,22,45.5,25,4,68.0,44.9,6,83.3,60.0,14,0,0.0,1,13.7,4b40d9ca,Nick Pope,Burnley,True
+Liverpool,West Ham United,1604165400,br BRA,28-029,90,3,1,2,66.7,0.6,1,4,25.0,18,6,16.7,24.2,3,33.3,38.3,12,0,0.0,1,29.0,7a2e46a8,Alisson,Liverpool,True
+Aston Villa,Southampton,1604232000,ar ARG,28-060,90,4,4,0,0.0,2.2,10,14,71.4,23,0,56.5,39.0,4,25.0,29.8,2,0,0.0,1,20.5,7956236f,Emiliano Martínez,Aston Villa,True
+Newcastle United,Everton,1604239200,eng ENG,30-024,90,4,1,3,75.0,1.1,6,20,30.0,19,5,63.2,45.3,11,72.7,52.3,19,2,10.5,0,7.4,cde3309f,Karl Darlow,Newcastle United,True
+Manchester United,Arsenal,1604248200,es ESP,29-360,90,2,1,1,100.0,1.0,1,9,11.1,15,2,53.3,37.3,9,11.1,17.9,11,0,0.0,0,4.0,7ba6d84e,David de Gea,Manchester United,True
+Tottenham Hotspur,Brighton & Hove Albion,1604258100,fr FRA,33-311,90,2,1,1,50.0,0.8,2,9,22.2,22,5,27.3,27.9,5,60.0,42.8,13,1,7.7,1,13.0,8f62b6ee,Hugo Lloris,Tottenham Hotspur,True
+Fulham,West Bromwich Albion,1604338200,fr FRA,27-249,90,1,0,1,100.0,0.0,6,16,37.5,20,4,50.0,36.7,8,75.0,52.8,9,0,0.0,1,18.0,2f965a72,Alphonse Areola,Fulham,True
+Leeds United,Leicester City,1604347200,fr FRA,20-245,90,8,4,4,62.5,3.6,0,1,0.0,18,6,5.6,18.6,2,0.0,20.0,10,1,10.0,0,8.7,6b625ac2,Illan Meslier,Leeds United,True
+Brighton & Hove Albion,Burnley,1604683800,au AUS,28-212,90,1,0,1,100.0,0.1,3,8,37.5,34,6,14.7,25.5,5,60.0,44.0,12,1,8.3,1,11.3,4535e4bb,Mathew Ryan,Brighton & Hove Albion,True
+Southampton,Newcastle United,1604692800,eng ENG,30-339,90,2,0,2,100.0,0.3,0,8,0.0,27,3,25.9,27.9,3,33.3,32.0,8,0,0.0,0,,36c2ca73,Alex McCarthy,Southampton,True
+Everton,Manchester United,1604752200,eng ENG,26-245,90,5,3,2,40.0,2.4,7,19,36.8,41,10,36.6,31.4,6,66.7,48.5,5,1,20.0,1,14.0,4806ec67,Jordan Pickford,Everton,True
+Crystal Palace,Leeds United,1604761200,es ESP,33-302,90,3,1,2,66.7,1.2,5,24,20.8,16,1,93.8,59.4,9,100.0,67.8,19,1,5.3,0,7.0,ab13a5aa,Vicente Guaita,Crystal Palace,True
+Chelsea,Sheffield United,1604770200,sn SEN,28-251,90,3,1,2,66.7,0.8,1,3,33.3,34,6,8.8,20.3,3,0.0,21.3,12,1,8.3,0,10.7,33887998,Edouard Mendy,Chelsea,True
+West Ham United,Fulham,1604779200,pl POL,35-203,90,3,0,2,100.0,1.4,3,9,33.3,17,3,52.9,37.2,6,0.0,20.7,15,0,0.0,3,22.5,9328b835,Łukasz Fabiański,West Ham United,True
+West Bromwich Albion,Tottenham Hotspur,1604836800,eng ENG,27-228,90,5,1,4,80.0,1.1,9,24,37.5,21,2,85.7,53.4,7,85.7,61.4,16,0,0.0,0,,9e5708be,Sam Johnstone,West Bromwich Albion,True
+Leicester City,Wolverhampton Wanderers,1604844000,dk DEN,34-003,90,2,0,2,100.0,0.4,4,10,40.0,12,2,41.7,38.0,7,71.4,46.7,17,1,5.9,0,5.5,53af52f3,Kasper Schmeichel,Leicester City,True
+Manchester City,Liverpool,1604853000,br BRA,27-083,90,3,1,2,100.0,1.2,6,10,60.0,30,5,13.3,24.5,7,85.7,53.6,9,0,0.0,1,11.8,3bb7b8b4,Ederson,Manchester City,True
+Arsenal,Aston Villa,1604862900,de GER,28-249,90,5,3,3,40.0,1.6,1,2,50.0,24,1,8.3,21.2,1,0.0,16.0,12,0,0.0,0,4.0,2628fd2b,Bernd Leno,Arsenal,True
+Newcastle United,Chelsea,1605961800,eng ENG,30-044,90,3,2,2,33.3,1.3,5,17,29.4,18,4,61.1,40.4,7,85.7,55.1,11,3,27.3,0,5.7,cde3309f,Karl Darlow,Newcastle United,True
+Aston Villa,Brighton & Hove Albion,1605970800,ar ARG,28-080,90,3,2,1,33.3,1.7,5,6,83.3,16,8,31.3,26.8,5,20.0,26.8,13,1,7.7,2,23.0,7956236f,Emiliano Martínez,Aston Villa,True
+Tottenham Hotspur,Manchester City,1605979800,fr FRA,33-331,90,5,0,5,100.0,0.5,10,19,52.6,19,4,63.2,43.4,17,41.2,27.4,22,2,9.1,0,6.0,8f62b6ee,Hugo Lloris,Tottenham Hotspur,True
+Manchester United,West Bromwich Albion,1605988800,es ESP,30-014,90,2,0,2,100.0,0.7,2,5,40.0,11,0,27.3,29.8,8,25.0,28.0,3,0,0.0,2,26.0,7ba6d84e,David de Gea,Manchester United,True
+Fulham,Everton,1606046400,fr FRA,27-269,90,7,3,4,57.1,3.5,0,1,0.0,21,11,4.8,20.0,0,,,14,3,21.4,1,11.2,2f965a72,Alphonse Areola,Fulham,True
+Sheffield United,West Ham United,1606053600,eng ENG,22-192,90,3,1,2,66.7,0.5,8,22,36.4,21,5,66.7,45.1,9,88.9,61.2,14,1,7.1,0,4.0,466fb2c5,Aaron Ramsdale,Sheffield United,True
+Leeds United,Arsenal,1606062600,fr FRA,20-265,90,2,0,2,100.0,0.4,2,7,28.6,16,2,25.0,23.6,5,60.0,37.6,10,0,0.0,4,27.8,6b625ac2,Illan Meslier,Leeds United,True
+Liverpool,Leicester City,1606072500,br BRA,28-051,90,4,0,4,100.0,1.0,1,6,16.7,20,6,15.0,28.8,8,37.5,33.8,14,0,0.0,4,21.3,7a2e46a8,Alisson,Liverpool,True
+Burnley,Crystal Palace,1606152600,eng ENG,28-218,90,5,0,5,100.0,1.3,9,22,40.9,16,3,75.0,47.2,11,90.9,57.6,17,1,5.9,1,18.3,4b40d9ca,Nick Pope,Burnley,True
+Wolverhampton Wanderers,Southampton,1606161600,pt POR,32-282,90,2,1,1,50.0,0.6,6,14,42.9,18,1,55.6,40.5,4,100.0,53.8,11,0,0.0,0,3.0,79b0d6a0,Rui Patrício,Wolverhampton Wanderers,True
+Crystal Palace,Newcastle United,1606507200,es ESP,33-322,90,7,2,5,71.4,0.9,4,11,36.4,16,5,43.8,41.3,4,100.0,60.3,14,0,0.0,0,11.5,ab13a5aa,Vicente Guaita,Crystal Palace,True
+Brighton & Hove Albion,Liverpool,1606566600,au AUS,28-234,90,2,1,1,50.0,0.5,4,17,23.5,33,5,45.5,34.9,2,100.0,55.5,9,0,0.0,2,25.0,4535e4bb,Mathew Ryan,Brighton & Hove Albion,True
+Manchester City,Burnley,1606575600,br BRA,27-103,90,1,0,1,100.0,0.0,4,7,57.1,27,2,22.2,23.7,6,16.7,26.8,15,0,0.0,1,15.3,3bb7b8b4,Ederson,Manchester City,True
+Everton,Leeds United,1606584600,eng ENG,26-266,90,6,1,5,83.3,2.3,13,24,54.2,36,7,52.8,38.7,7,71.4,52.3,10,2,20.0,4,14.9,4806ec67,Jordan Pickford,Everton,True
+West Bromwich Albion,Sheffield United,1606593600,eng ENG,27-248,90,5,0,5,100.0,1.1,14,29,48.3,27,3,74.1,49.3,10,90.0,58.3,21,1,4.8,2,12.0,9e5708be,Sam Johnstone,West Bromwich Albion,True
+Southampton,Manchester United,1606658400,eng ENG,30-362,90,6,3,3,50.0,1.6,6,14,42.9,31,4,29.0,27.5,7,71.4,48.1,19,1,5.3,1,11.6,36c2ca73,Alex McCarthy,Southampton,True
+Chelsea,Tottenham Hotspur,1606667400,sn SEN,28-273,90,1,0,1,100.0,0.1,2,2,100.0,19,4,5.3,21.1,3,33.3,23.7,7,1,14.3,2,23.3,33887998,Edouard Mendy,Chelsea,True
+Arsenal,Wolverhampton Wanderers,1606677300,de GER,28-270,90,5,2,3,60.0,1.8,1,1,100.0,17,5,5.9,23.7,3,0.0,23.3,8,1,12.5,0,6.0,2628fd2b,Bernd Leno,Arsenal,True
+Leicester City,Fulham,1606757400,dk DEN,34-025,90,5,2,3,80.0,2.1,0,1,0.0,17,1,5.9,20.5,3,0.0,17.7,5,0,0.0,1,14.0,53af52f3,Kasper Schmeichel,Leicester City,True
+West Ham United,Aston Villa,1606766400,pl POL,35-226,90,6,1,5,83.3,2.0,12,29,41.4,21,1,90.5,51.8,11,90.9,55.5,24,0,0.0,0,9.0,9328b835,Łukasz Fabiański,West Ham United,True
+Burnley,Everton,1607171400,eng ENG,28-230,90,6,1,5,83.3,2.9,3,15,20.0,23,5,43.5,38.6,5,100.0,60.2,11,0,0.0,0,14.5,4b40d9ca,Nick Pope,Burnley,True
+Manchester City,Fulham,1607180400,br BRA,27-110,90,1,0,1,100.0,0.4,3,7,42.9,23,4,17.4,26.0,7,42.9,34.7,7,0,0.0,0,14.0,3bb7b8b4,Ederson,Manchester City,True
+West Ham United,Manchester United,1607189400,pl POL,35-231,90,6,3,3,50.0,1.6,4,13,30.8,20,4,50.0,37.5,5,60.0,47.6,9,0,0.0,2,22.3,9328b835,Łukasz Fabiański,West Ham United,True
+Chelsea,Leeds United,1607198400,sn SEN,28-279,90,3,1,2,66.7,0.8,4,14,28.6,23,2,34.8,32.1,6,100.0,62.0,12,0,0.0,2,15.7,33887998,Edouard Mendy,Chelsea,True
+West Bromwich Albion,Crystal Palace,1607256000,eng ENG,27-256,90,6,5,2,16.7,1.5,2,8,25.0,19,4,31.6,33.6,6,33.3,35.0,9,0,0.0,2,21.3,9e5708be,Sam Johnstone,West Bromwich Albion,True
+Sheffield United,Leicester City,1607264100,eng ENG,22-206,90,4,2,2,50.0,1.7,10,21,47.6,22,3,72.7,46.9,5,100.0,64.4,22,1,4.5,2,13.0,466fb2c5,Aaron Ramsdale,Sheffield United,True
+Tottenham Hotspur,Arsenal,1607272200,fr FRA,33-346,90,2,0,2,100.0,0.1,4,16,25.0,14,0,85.7,45.4,11,36.4,26.5,37,0,0.0,0,6.0,8f62b6ee,Hugo Lloris,Tottenham Hotspur,True
+Liverpool,Wolverhampton Wanderers,1607282100,ie IRL,22-013,90,3,0,3,100.0,0.9,1,8,12.5,23,5,26.1,29.3,5,40.0,33.8,16,1,6.3,0,10.3,62d7ef38,Caoimhín Kelleher,Liverpool,True
+Brighton & Hove Albion,Southampton,1607371200,au AUS,28-243,90,3,2,1,66.7,1.4,4,15,26.7,26,7,50.0,36.7,6,33.3,26.7,13,0,0.0,0,7.7,4535e4bb,Mathew Ryan,Brighton & Hove Albion,True
+Leeds United,West Ham United,1607716800,fr FRA,20-284,90,8,2,6,75.0,1.2,0,5,0.0,37,11,5.4,21.1,8,37.5,34.5,15,0,0.0,0,8.5,6b625ac2,Illan Meslier,Leeds United,True
+Wolverhampton Wanderers,Aston Villa,1607776200,pt POR,32-301,90,2,1,1,100.0,1.1,7,13,53.8,13,1,46.2,35.6,7,100.0,49.3,22,0,0.0,0,,79b0d6a0,Rui Patrício,Wolverhampton Wanderers,True
+Newcastle United,West Bromwich Albion,1607785200,eng ENG,30-065,90,3,1,2,66.7,0.6,6,23,26.1,23,5,69.6,46.2,8,87.5,57.6,22,0,0.0,0,14.0,cde3309f,Karl Darlow,Newcastle United,True
+Manchester United,Manchester City,1607794200,es ESP,30-035,90,2,0,2,100.0,0.5,1,5,20.0,20,2,20.0,29.1,10,10.0,17.3,10,0,0.0,1,14.5,7ba6d84e,David de Gea,Manchester United,True
+Everton,Chelsea,1607803200,eng ENG,26-280,90,3,0,3,100.0,0.6,7,23,30.4,21,3,81.0,51.6,6,100.0,67.0,22,1,4.5,0,8.4,4806ec67,Jordan Pickford,Everton,True
+Southampton,Sheffield United,1607860800,eng ENG,31-010,90,0,0,0,,0.0,3,5,60.0,24,4,16.7,23.7,4,25.0,23.5,12,0,0.0,0,,36c2ca73,Alex McCarthy,Southampton,True
+Crystal Palace,Tottenham Hotspur,1607868900,es ESP,33-338,90,6,1,5,83.3,0.8,10,16,62.5,18,5,44.4,32.6,8,100.0,59.0,18,0,0.0,0,3.7,ab13a5aa,Vicente Guaita,Crystal Palace,True
+Fulham,Liverpool,1607877000,fr FRA,27-290,90,6,1,5,100.0,1.7,11,22,50.0,18,2,77.8,56.9,8,100.0,58.9,24,1,4.2,0,8.0,2f965a72,Alphonse Areola,Fulham,True
+Leicester City,Brighton & Hove Albion,1607886900,dk DEN,34-038,90,4,0,4,100.0,0.6,3,5,60.0,28,7,14.3,27.5,4,25.0,23.0,12,0,0.0,0,,53af52f3,Kasper Schmeichel,Leicester City,True
+Arsenal,Burnley,1607886900,de GER,28-284,90,2,1,2,50.0,0.3,4,15,26.7,44,5,18.2,30.0,11,63.6,48.5,16,0,0.0,3,29.7,2628fd2b,Bernd Leno,Arsenal,True
+Wolverhampton Wanderers,Chelsea,1608055200,pt POR,32-304,90,3,1,2,66.7,0.4,5,9,55.6,10,3,30.0,34.0,9,66.7,42.6,29,1,3.4,0,7.7,79b0d6a0,Rui Patrício,Wolverhampton Wanderers,True
+Manchester City,West Bromwich Albion,1608062400,br BRA,27-120,90,1,1,1,0.0,0.7,3,3,100.0,17,3,11.8,22.4,5,20.0,28.8,4,0,0.0,5,25.6,3bb7b8b4,Ederson,Manchester City,True
+Arsenal,Southampton,1608141600,de GER,28-287,90,3,1,2,66.7,0.3,2,10,20.0,21,7,23.8,33.6,5,100.0,65.6,21,0,0.0,4,15.8,2628fd2b,Bernd Leno,Arsenal,True
+Leicester City,Everton,1608141600,dk DEN,34-041,90,6,2,4,66.7,1.3,4,5,80.0,17,3,29.4,30.2,2,0.0,17.5,11,0,0.0,2,31.0,53af52f3,Kasper Schmeichel,Leicester City,True
+Leeds United,Newcastle United,1608141600,fr FRA,20-289,90,4,2,2,50.0,2.1,1,3,33.3,24,5,8.3,22.8,8,12.5,23.4,12,0,0.0,0,7.0,6b625ac2,Illan Meslier,Leeds United,True
+Liverpool,Tottenham Hotspur,1608148800,br BRA,28-075,90,2,1,1,50.0,0.8,0,4,0.0,20,5,15.0,27.7,7,14.3,26.7,7,0,0.0,4,17.6,7a2e46a8,Alisson,Liverpool,True
+West Ham United,Crystal Palace,1608148800,pl POL,35-242,90,2,1,1,50.0,1.2,4,8,50.0,15,6,40.0,33.3,5,40.0,39.0,10,1,10.0,0,2.5,9328b835,Łukasz Fabiański,West Ham United,True
+Fulham,Brighton & Hove Albion,1608148800,fr FRA,27-293,90,4,0,4,100.0,0.4,4,16,25.0,22,4,50.0,39.0,6,83.3,57.0,17,0,0.0,1,9.8,2f965a72,Alphonse Areola,Fulham,True
+Aston Villa,Burnley,1608228000,ar ARG,28-106,90,4,0,4,100.0,0.4,7,16,43.8,22,4,54.5,39.9,4,100.0,59.8,12,0,0.0,0,,7956236f,Emiliano Martínez,Aston Villa,True
+Sheffield United,Manchester United,1608235200,eng ENG,22-217,90,8,3,4,62.5,1.5,12,30,40.0,29,3,86.2,54.4,5,100.0,65.0,7,0,0.0,0,5.5,466fb2c5,Aaron Ramsdale,Sheffield United,True
+Crystal Palace,Liverpool,1608381000,es ESP,33-344,90,7,7,0,0.0,4.0,9,20,45.0,30,6,53.3,40.0,4,100.0,63.8,9,1,11.1,3,19.3,ab13a5aa,Vicente Guaita,Crystal Palace,True
+Southampton,Manchester City,1608390000,eng ENG,31-016,90,5,1,4,80.0,1.2,2,19,10.5,41,3,36.6,30.8,6,66.7,41.8,7,0,0.0,1,19.3,36c2ca73,Alex McCarthy,Southampton,True
+Everton,Arsenal,1608399000,eng ENG,26-287,90,2,1,1,100.0,1.0,9,28,32.1,21,2,81.0,52.8,13,84.6,61.2,11,1,9.1,0,5.5,4806ec67,Jordan Pickford,Everton,True
+Newcastle United,Fulham,1608408000,eng ENG,30-072,90,4,1,4,75.0,1.0,4,9,44.4,15,5,33.3,35.2,8,50.0,40.9,20,1,5.0,0,6.7,cde3309f,Karl Darlow,Newcastle United,True
+Brighton & Hove Albion,Sheffield United,1608465600,es ESP,23-032,90,3,1,2,66.7,,,,,,,,,,,,,,,,,cce694d4,Robert Sanchez,Brighton & Hove Albion,True
+Tottenham Hotspur,Leicester City,1608473700,fr FRA,33-360,90,4,2,3,75.0,1.4,2,6,33.3,18,5,27.8,26.8,6,16.7,21.8,10,0,0.0,1,28.0,8f62b6ee,Hugo Lloris,Tottenham Hotspur,True
+Manchester United,Leeds United,1608481800,es ESP,30-043,90,4,2,1,50.0,1.7,7,16,43.8,19,3,47.4,35.6,10,70.0,44.5,28,1,3.6,2,16.6,7ba6d84e,David de Gea,Manchester United,True
+West Bromwich Albion,Aston Villa,1608491700,eng ENG,27-270,90,10,3,7,80.0,2.9,11,31,35.5,26,3,73.1,52.2,12,100.0,60.2,19,0,0.0,0,19.0,9e5708be,Sam Johnstone,West Bromwich Albion,True
+Burnley,Wolverhampton Wanderers,1608571800,eng ENG,28-246,90,3,1,2,100.0,1.2,9,19,47.4,20,3,60.0,42.6,10,70.0,55.1,18,1,5.6,3,22.5,4b40d9ca,Nick Pope,Burnley,True
+Chelsea,West Ham United,1608580800,sn SEN,28-295,90,0,0,0,,0.0,7,20,35.0,29,3,48.3,35.4,8,75.0,53.3,17,0,0.0,0,6.0,33887998,Edouard Mendy,Chelsea,True
+Leicester City,Manchester United,1608985800,dk DEN,34-051,90,4,2,2,50.0,2.1,4,14,28.6,38,6,34.2,35.1,3,33.3,39.7,5,0,0.0,0,,53af52f3,Kasper Schmeichel,Leicester City,True
+Aston Villa,Crystal Palace,1608994800,ar ARG,28-115,90,6,0,6,100.0,0.8,8,22,36.4,20,5,70.0,51.2,10,80.0,54.7,17,4,23.5,0,6.3,7956236f,Emiliano Martínez,Aston Villa,True
+Fulham,Southampton,1608994800,fr FRA,27-303,90,2,0,2,100.0,0.6,6,10,60.0,18,6,27.8,31.0,8,62.5,43.5,8,0,0.0,4,28.2,2f965a72,Alphonse Areola,Fulham,True
+Arsenal,Chelsea,1609003800,de GER,28-297,90,3,1,1,66.7,2.2,6,18,33.3,17,4,29.4,32.5,14,92.9,61.4,27,1,3.7,0,9.0,2628fd2b,Bernd Leno,Arsenal,True
+Sheffield United,Everton,1609012800,eng ENG,22-226,90,3,1,2,66.7,0.7,8,26,30.8,25,2,84.0,52.6,5,100.0,66.2,12,4,33.3,1,12.0,466fb2c5,Aaron Ramsdale,Sheffield United,True
+Manchester City,Newcastle United,1609012800,br BRA,27-131,90,2,0,2,100.0,0.8,1,7,14.3,31,3,22.6,29.9,2,0.0,20.0,14,0,0.0,1,22.0,3bb7b8b4,Ederson,Manchester City,True
+Leeds United,Burnley,1609070400,fr FRA,20-300,90,6,0,6,100.0,0.8,3,15,20.0,25,8,36.0,36.4,9,66.7,38.4,26,1,3.8,0,6.9,6b625ac2,Illan Meslier,Leeds United,True
+West Ham United,Brighton & Hove Albion,1609078500,pl POL,35-253,90,4,2,2,50.0,1.6,5,16,31.3,20,8,40.0,37.4,11,72.7,52.7,9,0,0.0,2,28.5,9328b835,Łukasz Fabiański,West Ham United,True
+Liverpool,West Bromwich Albion,1609086600,br BRA,28-086,90,3,1,2,66.7,1.0,0,2,0.0,24,7,8.3,25.3,4,0.0,19.3,7,2,28.6,3,17.2,7a2e46a8,Alisson,Liverpool,True
+Wolverhampton Wanderers,Tottenham Hotspur,1609096500,pt POR,32-316,90,3,1,2,66.7,0.2,1,2,50.0,13,5,15.4,27.4,3,0.0,14.0,6,1,16.7,0,6.7,79b0d6a0,Rui Patrício,Wolverhampton Wanderers,True
+Crystal Palace,Leicester City,1609167600,es ESP,33-353,90,3,1,1,66.7,1.2,7,21,33.3,21,5,42.9,36.8,15,80.0,56.3,21,0,0.0,0,2.0,ab13a5aa,Vicente Guaita,Crystal Palace,True
+Chelsea,Aston Villa,1609176600,sn SEN,28-302,90,2,1,1,50.0,0.4,2,6,33.3,29,4,17.2,26.3,6,16.7,25.5,15,1,6.7,1,15.3,33887998,Edouard Mendy,Chelsea,True
+West Bromwich Albion,Leeds United,1609264800,eng ENG,27-279,90,6,5,2,16.7,3.1,5,21,23.8,22,4,63.6,47.1,7,100.0,62.7,25,1,4.0,0,11.0,9e5708be,Sam Johnstone,West Bromwich Albion,True
+Southampton,West Ham United,1609264800,eng ENG,31-026,90,3,0,3,100.0,1.0,3,9,33.3,35,7,25.7,29.3,1,0.0,16.0,15,0,0.0,0,,36c2ca73,Alex McCarthy,Southampton,True
+Burnley,Sheffield United,1609264800,eng ENG,28-254,90,2,0,2,100.0,0.3,12,19,63.2,25,6,56.0,44.3,6,83.3,54.8,18,1,5.6,2,19.3,4b40d9ca,Nick Pope,Burnley,True
+Brighton & Hove Albion,Arsenal,1609264800,es ESP,23-041,90,3,1,2,66.7,,,,,,,,,,,,,,,,,cce694d4,Robert Sanchez,Brighton & Hove Albion,True
+Manchester United,Wolverhampton Wanderers,1609272000,es ESP,30-052,90,5,0,5,100.0,0.9,0,0,,12,5,0.0,16.8,5,0.0,10.0,6,0,0.0,0,13.0,7ba6d84e,David de Gea,Manchester United,True
+Newcastle United,Liverpool,1609358400,eng ENG,30-083,90,4,0,4,100.0,1.3,7,21,33.3,15,0,93.3,55.5,7,100.0,61.9,28,0,0.0,0,5.0,cde3309f,Karl Darlow,Newcastle United,True
+Everton,West Ham United,1609522200,eng ENG,26-300,90,5,1,4,80.0,1.4,6,14,42.9,31,7,35.5,31.9,6,50.0,39.8,12,0,0.0,1,21.0,4806ec67,Jordan Pickford,Everton,True
+Manchester United,Aston Villa,1609531200,es ESP,30-055,90,5,1,4,80.0,1.0,6,9,66.7,9,1,33.3,32.0,8,75.0,41.9,23,0,0.0,0,9.5,7ba6d84e,David de Gea,Manchester United,True
+Tottenham Hotspur,Leeds United,1609590600,fr FRA,34-007,90,5,0,5,100.0,1.0,6,9,66.7,12,4,41.7,36.8,10,40.0,21.3,18,0,0.0,0,5.0,8f62b6ee,Hugo Lloris,Tottenham Hotspur,True
+Crystal Palace,Sheffield United,1609599600,es ESP,33-358,90,2,0,2,100.0,0.1,6,17,35.3,17,2,58.8,40.8,7,100.0,61.3,11,0,0.0,0,17.0,ab13a5aa,Vicente Guaita,Crystal Palace,True
+Brighton & Hove Albion,Wolverhampton Wanderers,1609608600,es ESP,23-045,90,4,3,2,50.0,,,,,,,,,,,,,,,,,cce694d4,Robert Sanchez,Brighton & Hove Albion,True
+West Bromwich Albion,Arsenal,1609617600,eng ENG,27-283,90,11,4,7,63.6,3.4,15,24,62.5,23,5,60.9,42.5,10,100.0,56.0,16,1,6.3,1,9.8,9e5708be,Sam Johnstone,West Bromwich Albion,True
+Newcastle United,Leicester City,1609683300,eng ENG,30-087,90,3,2,1,33.3,0.8,9,22,40.9,22,4,63.6,44.4,10,80.0,54.1,12,0,0.0,0,,cde3309f,Karl Darlow,Newcastle United,True
+Chelsea,Manchester City,1609691400,sn SEN,28-308,90,6,3,3,50.0,3.0,0,2,0.0,37,6,5.4,21.8,8,0.0,8.0,4,0,0.0,0,11.0,33887998,Edouard Mendy,Chelsea,True
+Southampton,Liverpool,1609790400,eng ENG,32-293,90,1,0,1,100.0,0.1,5,30,16.7,25,1,64.0,44.0,14,100.0,57.2,33,0,0.0,3,16.2,c3e39f12,Fraser Forster,Southampton,True
+Sheffield United,Newcastle United,1610474400,eng ENG,22-243,90,3,0,3,100.0,0.2,7,15,46.7,20,3,65.0,45.1,2,100.0,73.5,10,1,10.0,2,19.3,466fb2c5,Aaron Ramsdale,Sheffield United,True
+Burnley,Manchester United,1610482500,eng ENG,28-268,90,7,1,6,85.7,1.1,8,21,38.1,25,4,72.0,44.3,4,75.0,53.5,12,0,0.0,1,24.0,4b40d9ca,Nick Pope,Burnley,True
+Wolverhampton Wanderers,Everton,1610482500,pt POR,32-332,90,3,2,1,33.3,0.8,0,1,0.0,16,4,6.3,23.8,5,0.0,20.4,14,0,0.0,0,,79b0d6a0,Rui Patrício,Wolverhampton Wanderers,True
+Manchester City,Brighton & Hove Albion,1610560800,br BRA,27-149,90,1,0,1,100.0,0.0,5,12,41.7,35,5,31.4,29.1,4,25.0,25.3,8,1,12.5,0,8.0,3bb7b8b4,Ederson,Manchester City,True
+Tottenham Hotspur,Fulham,1610568900,fr FRA,34-018,90,4,1,3,75.0,1.0,4,10,40.0,18,0,50.0,37.9,7,14.3,19.1,15,0,0.0,0,,8f62b6ee,Hugo Lloris,Tottenham Hotspur,True
+Arsenal,Crystal Palace,1610654400,de GER,28-316,90,2,0,2,100.0,0.4,0,2,0.0,25,7,8.0,20.8,6,0.0,14.5,8,0,0.0,1,27.5,2628fd2b,Bernd Leno,Arsenal,True
+Wolverhampton Wanderers,West Bromwich Albion,1610800200,pt POR,32-336,90,5,3,2,80.0,3.0,1,1,100.0,15,3,6.7,19.9,4,0.0,23.3,4,0,0.0,0,12.0,79b0d6a0,Rui Patrício,Wolverhampton Wanderers,True
+West Ham United,Burnley,1610809200,pl POL,35-273,90,2,0,2,100.0,0.4,6,23,26.1,19,0,84.2,50.2,7,100.0,64.3,23,1,4.3,0,6.0,9328b835,Łukasz Fabiański,West Ham United,True
+Leeds United,Brighton & Hove Albion,1610809200,es ESP,34-106,90,2,1,1,50.0,1.1,0,1,0.0,24,10,4.2,21.3,10,0.0,15.5,10,3,30.0,0,10.9,58bc7d18,Kiko Casilla,Leeds United,True
+Fulham,Chelsea,1610818200,fr FRA,27-324,90,6,1,5,83.3,1.6,9,16,56.3,15,4,60.0,43.2,8,87.5,57.5,24,1,4.2,0,5.8,2f965a72,Alphonse Areola,Fulham,True
+Leicester City,Southampton,1610827200,dk DEN,34-072,90,3,0,3,100.0,0.6,5,13,38.5,27,5,40.7,37.0,8,25.0,31.3,12,0,0.0,0,18.0,53af52f3,Kasper Schmeichel,Leicester City,True
+Sheffield United,Tottenham Hotspur,1610892000,eng ENG,22-248,90,5,3,2,40.0,1.2,3,15,20.0,15,1,66.7,46.9,5,100.0,64.2,11,1,9.1,0,3.7,466fb2c5,Aaron Ramsdale,Sheffield United,True
+Liverpool,Manchester United,1610901000,br BRA,28-107,90,4,0,4,100.0,0.9,1,3,33.3,36,4,8.3,25.6,3,0.0,18.3,9,0,0.0,2,20.3,7a2e46a8,Alisson,Liverpool,True
+Manchester City,Crystal Palace,1610910900,br BRA,27-153,90,0,0,0,,0.0,0,1,0.0,18,4,5.6,23.0,2,0.0,10.5,5,1,20.0,0,15.0,3bb7b8b4,Ederson,Manchester City,True
+Arsenal,Newcastle United,1611000000,de GER,28-320,90,1,0,1,100.0,0.0,1,4,25.0,22,5,0.0,17.6,6,66.7,45.3,8,0,0.0,1,23.0,2628fd2b,Bernd Leno,Arsenal,True
+West Ham United,West Bromwich Albion,1611079200,pl POL,35-276,90,2,1,1,50.0,0.4,9,11,81.8,18,6,38.9,34.2,8,50.0,40.9,12,4,33.3,0,6.4,9328b835,Łukasz Fabiański,West Ham United,True
+Leicester City,Chelsea,1611087300,dk DEN,34-075,90,5,0,5,100.0,0.3,8,14,57.1,32,5,40.6,34.2,4,25.0,28.8,12,1,8.3,2,27.3,53af52f3,Kasper Schmeichel,Leicester City,True
+Manchester City,Aston Villa,1611165600,br BRA,27-156,90,4,0,4,100.0,0.8,1,4,25.0,22,3,18.2,28.8,1,0.0,29.0,6,0,0.0,3,22.3,3bb7b8b4,Ederson,Manchester City,True
+Fulham,Manchester United,1611173700,fr FRA,27-328,90,5,2,3,60.0,2.5,3,7,42.9,14,3,14.3,24.2,14,35.7,27.7,20,2,10.0,1,9.3,2f965a72,Alphonse Areola,Fulham,True
+Liverpool,Burnley,1611259200,br BRA,28-111,90,4,1,3,100.0,1.5,2,4,50.0,39,8,10.3,22.4,5,0.0,15.4,8,2,25.0,3,19.0,7a2e46a8,Alisson,Liverpool,True
+Aston Villa,Newcastle United,1611432000,ar ARG,28-143,90,1,0,1,100.0,0.4,10,16,62.5,41,4,34.1,29.3,3,66.7,50.7,23,1,4.3,0,16.3,7956236f,Emiliano Martínez,Aston Villa,True
+Newcastle United,Leeds United,1611684000,eng ENG,30-110,90,2,2,0,0.0,1.2,3,10,30.0,16,2,50.0,38.3,8,25.0,33.1,8,0,0.0,1,18.0,cde3309f,Karl Darlow,Newcastle United,True
+Crystal Palace,West Ham United,1611684000,es ESP,34-016,90,7,3,4,57.1,2.2,5,9,55.6,23,5,30.4,28.2,4,50.0,35.5,8,0,0.0,0,14.3,ab13a5aa,Vicente Guaita,Crystal Palace,True
+West Bromwich Albion,Manchester City,1611692100,eng ENG,27-307,90,7,5,2,28.6,3.5,7,28,25.0,31,3,71.0,45.6,6,100.0,59.7,12,0,0.0,1,14.5,9e5708be,Sam Johnstone,West Bromwich Albion,True
+Southampton,Arsenal,1611692100,eng ENG,31-054,90,4,3,1,25.0,2.9,1,10,10.0,36,5,25.0,30.9,5,20.0,21.4,11,0,0.0,1,27.0,36c2ca73,Alex McCarthy,Southampton,True
+Chelsea,Wolverhampton Wanderers,1611770400,sn SEN,28-332,90,0,0,0,,0.0,0,0,,12,2,0.0,17.9,7,0.0,18.6,4,0,0.0,2,21.0,33887998,Edouard Mendy,Chelsea,True
+Burnley,Aston Villa,1611770400,eng ENG,28-283,90,10,2,8,80.0,2.3,10,23,43.5,19,2,89.5,51.9,7,85.7,57.7,18,2,11.1,3,19.2,4b40d9ca,Nick Pope,Burnley,True
+Brighton & Hove Albion,Fulham,1611775800,es ESP,23-070,90,2,0,2,100.0,,,,,,,,,,,,,,,,,cce694d4,Robert Sanchez,Brighton & Hove Albion,True
+Everton,Leicester City,1611778500,eng ENG,26-326,90,6,1,5,83.3,1.3,3,14,21.4,20,2,50.0,39.7,9,44.4,40.2,15,0,0.0,0,3.6,4806ec67,Jordan Pickford,Everton,True
+Manchester United,Sheffield United,1611778500,es ESP,30-081,90,3,2,1,33.3,1.2,1,2,50.0,16,2,12.5,26.9,2,0.0,9.5,6,0,0.0,3,19.8,7ba6d84e,David de Gea,Manchester United,True
+Tottenham Hotspur,Liverpool,1611864000,fr FRA,34-033,90,7,3,4,57.1,2.8,5,11,45.5,23,5,39.1,33.7,7,28.6,22.1,8,0,0.0,2,22.5,8f62b6ee,Hugo Lloris,Tottenham Hotspur,True
+Everton,Newcastle United,1612009800,eng ENG,26-329,90,3,2,1,33.3,1.4,9,13,69.2,27,7,48.1,37.8,3,0.0,10.3,26,0,0.0,0,8.7,4806ec67,Jordan Pickford,Everton,True
+Crystal Palace,Wolverhampton Wanderers,1612018800,es ESP,34-020,90,4,0,4,100.0,0.4,5,10,50.0,23,5,30.4,31.5,5,60.0,39.8,18,2,11.1,0,6.0,ab13a5aa,Vicente Guaita,Crystal Palace,True
+Manchester City,Sheffield United,1612018800,br BRA,27-166,90,1,0,1,100.0,0.0,3,6,50.0,25,4,16.0,28.6,3,66.7,49.3,3,0,0.0,0,,3bb7b8b4,Ederson,Manchester City,True
+West Bromwich Albion,Fulham,1612018800,eng ENG,27-311,90,7,2,5,71.4,1.1,10,32,31.3,35,4,77.1,50.1,7,71.4,51.3,13,1,7.7,0,12.3,9e5708be,Sam Johnstone,West Bromwich Albion,True
+Arsenal,Manchester United,1612027800,de GER,28-332,90,3,0,3,100.0,0.6,0,10,0.0,19,4,15.8,27.8,8,87.5,60.4,18,0,0.0,0,12.0,2628fd2b,Bernd Leno,Arsenal,True
+Southampton,Aston Villa,1612036800,eng ENG,31-058,90,4,1,3,75.0,0.8,3,16,18.8,34,6,41.2,34.0,5,40.0,42.4,7,0,0.0,0,11.0,36c2ca73,Alex McCarthy,Southampton,True
+Chelsea,Burnley,1612094400,sn SEN,28-336,90,0,0,0,,0.0,1,3,33.3,22,5,9.1,23.5,4,25.0,22.0,10,0,0.0,0,8.0,33887998,Edouard Mendy,Chelsea,True
+Leicester City,Leeds United,1612101600,dk DEN,34-087,90,6,3,3,50.0,3.1,5,11,45.5,35,7,25.7,30.0,4,50.0,36.3,7,1,14.3,0,9.5,53af52f3,Kasper Schmeichel,Leicester City,True
+West Ham United,Liverpool,1612110600,pl POL,35-288,90,5,3,2,40.0,1.6,6,19,31.6,25,5,44.0,36.0,9,88.9,53.9,9,0,0.0,0,3.0,9328b835,Łukasz Fabiański,West Ham United,True
+Brighton & Hove Albion,Tottenham Hotspur,1612120500,es ESP,23-074,90,4,0,4,100.0,,,,,,,,,,,,,,,,,cce694d4,Robert Sanchez,Brighton & Hove Albion,True
+Sheffield United,West Bromwich Albion,1612288800,eng ENG,22-264,90,4,1,3,75.0,1.2,0,8,0.0,18,3,22.2,30.3,5,80.0,65.4,13,0,0.0,2,15.0,466fb2c5,Aaron Ramsdale,Sheffield United,True
+Wolverhampton Wanderers,Arsenal,1612288800,pt POR,32-353,90,3,1,2,66.7,0.9,3,6,50.0,16,5,37.5,30.0,3,0.0,14.7,10,0,0.0,1,11.7,79b0d6a0,Rui Patrício,Wolverhampton Wanderers,True
+Manchester United,Southampton,1612296900,es ESP,30-087,90,1,0,1,100.0,0.5,0,0,,8,1,0.0,21.4,3,0.0,26.3,4,0,0.0,1,18.0,7ba6d84e,David de Gea,Manchester United,True
+Newcastle United,Crystal Palace,1612296900,eng ENG,30-117,90,3,2,1,33.3,0.6,3,5,60.0,18,4,22.2,33.1,4,25.0,28.8,6,0,0.0,0,,cde3309f,Karl Darlow,Newcastle United,True
+Burnley,Manchester City,1612375200,eng ENG,28-290,90,6,2,4,66.7,2.3,8,16,50.0,21,3,61.9,43.2,4,75.0,54.8,8,0,0.0,3,14.3,4b40d9ca,Nick Pope,Burnley,True
+Fulham,Leicester City,1612375200,fr FRA,27-342,90,5,2,3,60.0,1.4,2,3,66.7,30,4,10.0,21.2,3,0.0,16.0,4,0,0.0,0,7.0,2f965a72,Alphonse Areola,Fulham,True
+Leeds United,Everton,1612380600,fr FRA,20-338,90,6,2,4,66.7,1.8,0,2,0.0,26,5,7.7,21.6,4,0.0,22.0,9,2,22.2,0,9.0,6b625ac2,Illan Meslier,Leeds United,True
+Liverpool,Brighton & Hove Albion,1612383300,ie IRL,22-072,90,4,1,3,75.0,1.2,1,7,14.3,27,7,18.5,27.9,9,22.2,28.6,11,0,0.0,2,24.3,62d7ef38,Caoimhín Kelleher,Liverpool,True
+Aston Villa,West Ham United,1612383300,ar ARG,28-154,90,9,3,6,66.7,2.2,5,9,55.6,35,9,22.9,26.2,5,20.0,33.2,14,1,7.1,0,10.5,7956236f,Emiliano Martínez,Aston Villa,True
+Tottenham Hotspur,Chelsea,1612468800,fr FRA,34-040,90,2,1,1,100.0,1.2,6,12,50.0,24,5,41.7,34.1,9,22.2,18.4,13,0,0.0,0,4.0,8f62b6ee,Hugo Lloris,Tottenham Hotspur,True
+Aston Villa,Arsenal,1612614600,ar ARG,28-157,90,3,0,3,100.0,0.7,14,32,43.8,31,2,67.7,44.8,12,91.7,60.1,24,2,8.3,0,4.8,7956236f,Emiliano Martínez,Aston Villa,True
+Burnley,Brighton & Hove Albion,1612623600,eng ENG,28-293,90,2,1,1,50.0,0.6,5,14,35.7,23,7,47.8,36.8,6,50.0,40.5,11,0,0.0,1,32.0,4b40d9ca,Nick Pope,Burnley,True
+Newcastle United,Southampton,1612623600,eng ENG,30-121,90,5,2,3,60.0,1.3,9,27,33.3,18,2,88.9,56.4,11,100.0,63.3,24,0,0.0,0,4.0,cde3309f,Karl Darlow,Newcastle United,True
+Fulham,West Ham United,1612632600,fr FRA,27-345,90,1,0,1,100.0,0.3,1,8,12.5,29,4,17.2,22.7,6,50.0,35.3,13,0,0.0,1,21.0,2f965a72,Alphonse Areola,Fulham,True
+Manchester United,Everton,1612641600,es ESP,30-091,90,3,3,0,0.0,2.0,6,11,54.5,19,3,42.1,31.0,8,37.5,31.6,11,1,9.1,0,3.7,7ba6d84e,David de Gea,Manchester United,True
+Tottenham Hotspur,West Bromwich Albion,1612699200,fr FRA,34-043,90,1,0,1,100.0,0.5,1,7,14.3,14,2,35.7,29.5,4,50.0,34.5,9,1,11.1,0,9.0,8f62b6ee,Hugo Lloris,Tottenham Hotspur,True
+Wolverhampton Wanderers,Leicester City,1612706400,pt POR,32-358,90,3,0,3,100.0,0.3,3,10,30.0,14,2,64.3,40.1,6,16.7,21.0,10,0,0.0,0,4.0,79b0d6a0,Rui Patrício,Wolverhampton Wanderers,True
+Liverpool,Manchester City,1612715400,br BRA,28-128,90,5,4,1,20.0,3.0,2,5,40.0,42,0,11.9,20.9,3,0.0,17.0,5,0,0.0,1,17.3,7a2e46a8,Alisson,Liverpool,True
+Sheffield United,Chelsea,1612725300,eng ENG,22-269,90,2,2,0,50.0,1.5,8,24,33.3,22,2,77.3,51.3,7,100.0,67.1,11,0,0.0,0,,466fb2c5,Aaron Ramsdale,Sheffield United,True
+Leeds United,Crystal Palace,1612814400,fr FRA,20-343,90,3,0,3,100.0,0.1,1,2,50.0,50,13,4.0,22.4,3,0.0,14.0,6,0,0.0,0,,6b625ac2,Illan Meslier,Leeds United,True
+Leicester City,Liverpool,1613219400,dk DEN,34-100,90,4,1,3,75.0,1.2,4,14,28.6,24,6,41.7,35.2,5,80.0,50.4,24,0,0.0,0,,53af52f3,Kasper Schmeichel,Leicester City,True
+Crystal Palace,Burnley,1613228400,es ESP,34-034,90,4,3,1,25.0,1.5,9,16,56.3,20,5,50.0,36.1,6,100.0,64.2,12,0,0.0,1,11.0,ab13a5aa,Vicente Guaita,Crystal Palace,True
+Manchester City,Tottenham Hotspur,1613237400,br BRA,27-180,90,3,0,3,100.0,0.6,1,3,33.3,25,5,8.0,23.6,2,50.0,57.0,6,0,0.0,2,17.2,3bb7b8b4,Ederson,Manchester City,True
+Brighton & Hove Albion,Aston Villa,1613246400,es ESP,23-087,90,1,0,1,100.0,,,,,,,,,,,,,,,,,cce694d4,Robert Sanchez,Brighton & Hove Albion,True
+Southampton,Wolverhampton Wanderers,1613304000,eng ENG,31-073,90,4,2,2,75.0,1.8,2,10,20.0,26,5,26.9,26.5,7,42.9,30.6,14,2,14.3,1,17.3,36c2ca73,Alex McCarthy,Southampton,True
+West Bromwich Albion,Manchester United,1613311200,eng ENG,27-326,90,6,1,5,83.3,1.3,6,29,20.7,33,3,75.8,50.9,4,100.0,68.3,24,0,0.0,1,13.5,9e5708be,Sam Johnstone,West Bromwich Albion,True
+Arsenal,Leeds United,1613320200,de GER,28-347,90,5,2,3,60.0,1.9,3,14,21.4,32,11,25.0,27.3,7,85.7,60.0,14,0,0.0,0,4.0,2628fd2b,Bernd Leno,Arsenal,True
+Everton,Fulham,1613329200,se SWE,31-037,90,3,2,1,33.3,1.8,2,7,28.6,15,1,33.3,30.1,6,33.3,27.8,9,0,0.0,2,14.2,e7ee38c3,Robin Olsen,Everton,True
+West Ham United,Sheffield United,1613412000,pl POL,35-303,90,5,0,5,100.0,1.3,5,14,35.7,23,8,43.5,35.0,8,50.0,38.1,20,1,5.0,0,4.0,9328b835,Łukasz Fabiański,West Ham United,True
+Chelsea,Newcastle United,1613419200,es ESP,26-135,90,4,0,4,100.0,0.8,4,9,44.4,27,3,25.9,30.7,7,28.6,29.1,14,0,0.0,0,9.7,28d596a0,Kepa Arrizabalaga,Chelsea,True
+Burnley,Fulham,1613584800,eng ENG,28-304,90,3,1,2,66.7,0.9,7,21,33.3,18,0,88.9,60.1,5,100.0,64.8,12,0,0.0,2,28.7,4b40d9ca,Nick Pope,Burnley,True
+Everton,Manchester City,1613592900,eng ENG,26-347,90,7,3,4,57.1,1.7,14,31,45.2,38,5,57.9,45.1,11,81.8,56.4,17,1,5.9,3,15.0,4806ec67,Jordan Pickford,Everton,True
+Wolverhampton Wanderers,Leeds United,1613764800,pt POR,33-004,90,7,0,7,100.0,1.2,7,19,36.8,21,4,66.7,44.2,8,62.5,40.6,18,1,5.6,0,10.8,79b0d6a0,Rui Patrício,Wolverhampton Wanderers,True
+Southampton,Chelsea,1613824200,eng ENG,31-079,90,3,1,2,100.0,1.3,6,22,27.3,26,3,61.5,43.5,6,100.0,67.7,9,1,11.1,0,10.5,36c2ca73,Alex McCarthy,Southampton,True
+Burnley,West Bromwich Albion,1613833200,eng ENG,28-307,90,2,0,2,100.0,0.7,3,15,20.0,19,7,52.6,40.7,11,45.5,40.2,9,1,11.1,3,14.0,4b40d9ca,Nick Pope,Burnley,True
+Liverpool,Everton,1613842200,br BRA,28-141,90,6,2,4,83.3,2.4,1,4,25.0,29,2,13.8,24.9,4,0.0,28.8,6,0,0.0,3,21.3,7a2e46a8,Alisson,Liverpool,True
+Fulham,Sheffield United,1613851200,fr FRA,27-359,90,2,0,2,100.0,0.9,5,11,45.5,20,3,40.0,30.0,6,50.0,36.2,11,0,0.0,2,25.5,2f965a72,Alphonse Areola,Fulham,True
+West Ham United,Tottenham Hotspur,1613908800,pl POL,35-309,90,4,1,3,75.0,0.7,10,33,30.3,21,2,90.5,58.0,15,93.3,62.5,24,1,4.2,0,5.3,9328b835,Łukasz Fabiański,West Ham United,True
+Aston Villa,Leicester City,1613916300,ar ARG,28-172,90,7,2,5,71.4,1.7,1,5,20.0,23,5,21.7,30.0,5,0.0,19.0,10,0,0.0,1,25.5,7956236f,Emiliano Martínez,Aston Villa,True
+Arsenal,Manchester City,1613925000,de GER,28-354,90,3,1,2,66.7,1.5,5,12,41.7,33,6,27.3,29.3,11,27.3,28.6,4,0,0.0,2,23.5,2628fd2b,Bernd Leno,Arsenal,True
+Manchester United,Newcastle United,1613934000,es ESP,30-106,90,6,1,5,83.3,0.7,3,11,27.3,26,7,34.6,30.4,5,40.0,30.8,10,0,0.0,3,16.4,7ba6d84e,David de Gea,Manchester United,True
+Brighton & Hove Albion,Crystal Palace,1614024000,es ESP,23-096,90,2,2,0,0.0,,,,,,,,,,,,,,,,,cce694d4,Robert Sanchez,Brighton & Hove Albion,True
+Leeds United,Southampton,1614103200,fr FRA,20-358,90,5,0,5,100.0,0.6,3,11,27.3,37,13,24.3,28.9,9,22.2,29.9,12,1,8.3,4,17.0,6b625ac2,Illan Meslier,Leeds United,True
+Manchester City,West Ham United,1614429000,br BRA,27-194,90,3,1,2,66.7,1.1,4,8,50.0,32,6,18.8,28.3,4,50.0,39.0,10,2,20.0,0,7.0,3bb7b8b4,Ederson,Manchester City,True
+West Bromwich Albion,Brighton & Hove Albion,1614438000,eng ENG,27-339,90,6,0,6,100.0,1.0,5,23,21.7,21,5,66.7,51.7,9,100.0,64.7,11,1,9.1,2,18.3,9e5708be,Sam Johnstone,West Bromwich Albion,True
+Leeds United,Aston Villa,1614447000,fr FRA,20-362,90,4,1,3,75.0,0.4,3,6,50.0,25,3,24.0,26.5,5,0.0,14.6,8,0,0.0,0,,6b625ac2,Illan Meslier,Leeds United,True
+Newcastle United,Wolverhampton Wanderers,1614456000,sk SVK,32-043,90,4,1,3,75.0,0.7,7,16,43.8,24,1,33.3,33.1,9,88.9,60.0,14,0,0.0,0,15.7,3a949a25,Martin Dúbravka,Newcastle United,True
+Crystal Palace,Fulham,1614513600,es ESP,34-049,90,4,0,4,100.0,0.5,11,26,42.3,23,7,52.2,37.6,14,100.0,63.8,13,0,0.0,0,,ab13a5aa,Vicente Guaita,Crystal Palace,True
+Leicester City,Arsenal,1614513600,dk DEN,34-115,90,4,3,1,50.0,2.2,5,8,62.5,35,6,20.0,28.8,5,20.0,32.4,16,1,6.3,0,9.5,53af52f3,Kasper Schmeichel,Leicester City,True
+Tottenham Hotspur,Burnley,1614520800,fr FRA,34-064,90,3,0,3,100.0,0.3,5,16,31.3,25,6,56.0,36.3,6,33.3,30.2,16,1,6.3,0,10.0,8f62b6ee,Hugo Lloris,Tottenham Hotspur,True
+Chelsea,Manchester United,1614529800,sn SEN,28-364,90,4,0,4,100.0,0.5,1,4,25.0,29,2,10.3,23.6,5,20.0,23.8,10,1,10.0,0,9.5,33887998,Edouard Mendy,Chelsea,True
+Sheffield United,Liverpool,1614539700,eng ENG,22-290,90,8,2,7,75.0,2.5,10,26,38.5,25,1,80.0,51.8,6,100.0,69.7,10,0,0.0,1,16.5,466fb2c5,Aaron Ramsdale,Sheffield United,True
+Everton,Southampton,1614628800,eng ENG,26-359,90,1,0,1,100.0,0.1,14,23,60.9,42,3,40.5,35.1,6,100.0,66.7,19,0,0.0,0,8.0,4806ec67,Jordan Pickford,Everton,True
+Manchester City,Wolverhampton Wanderers,1614715200,br BRA,27-197,90,1,1,0,0.0,0.4,2,5,40.0,27,6,11.1,24.3,4,50.0,39.0,4,0,0.0,0,5.0,3bb7b8b4,Ederson,Manchester City,True
+Sheffield United,Aston Villa,1614794400,eng ENG,22-293,90,4,0,4,100.0,0.7,8,31,25.8,20,1,90.0,54.9,13,100.0,69.7,39,0,0.0,0,7.0,466fb2c5,Aaron Ramsdale,Sheffield United,True
+Burnley,Leicester City,1614794400,eng ENG,28-318,90,4,1,3,75.0,1.1,5,18,27.8,19,8,63.2,45.3,6,100.0,61.3,14,0,0.0,1,22.0,4b40d9ca,Nick Pope,Burnley,True
+Crystal Palace,Manchester United,1614802500,es ESP,34-052,90,1,0,1,100.0,0.5,8,23,34.8,27,4,63.0,41.3,8,75.0,59.0,21,1,4.8,1,15.5,ab13a5aa,Vicente Guaita,Crystal Palace,True
+West Bromwich Albion,Everton,1614880800,eng ENG,27-344,90,3,1,2,66.7,0.6,4,13,30.8,29,7,37.9,34.0,2,100.0,68.5,13,0,0.0,2,17.0,9e5708be,Sam Johnstone,West Bromwich Albion,True
+Fulham,Tottenham Hotspur,1614880800,fr FRA,28-005,90,2,1,2,50.0,0.9,0,7,0.0,26,5,15.4,21.0,7,42.9,31.1,1,1,100.0,1,20.0,2f965a72,Alphonse Areola,Fulham,True
+Liverpool,Chelsea,1614888900,br BRA,28-153,90,4,1,3,75.0,1.0,2,3,66.7,43,6,4.7,24.4,4,25.0,33.5,8,0,0.0,1,28.0,7a2e46a8,Alisson,Liverpool,True
+Burnley,Arsenal,1615033800,eng ENG,28-321,90,2,1,1,50.0,0.4,6,19,31.6,18,1,88.9,52.7,4,75.0,55.0,13,0,0.0,1,30.0,4b40d9ca,Nick Pope,Burnley,True
+Sheffield United,Southampton,1615042800,eng ENG,22-296,90,7,2,5,85.7,2.1,8,18,44.4,20,3,60.0,46.1,6,100.0,70.7,7,0,0.0,0,,466fb2c5,Aaron Ramsdale,Sheffield United,True
+Aston Villa,Wolverhampton Wanderers,1615051800,ar ARG,28-185,90,2,0,2,100.0,0.9,5,10,50.0,23,3,34.8,31.4,9,22.2,26.0,19,1,5.3,0,14.5,7956236f,Emiliano Martínez,Aston Villa,True
+Brighton & Hove Albion,Leicester City,1615060800,es ESP,23-108,90,4,2,2,50.0,,,,,,,,,,,,,,,,,cce694d4,Robert Sanchez,Brighton & Hove Albion,True
+West Bromwich Albion,Newcastle United,1615118400,eng ENG,27-347,90,5,0,5,100.0,1.0,13,28,46.4,32,5,71.9,44.4,5,100.0,66.0,15,0,0.0,0,13.7,9e5708be,Sam Johnstone,West Bromwich Albion,True
+Liverpool,Fulham,1615125600,br BRA,28-156,90,3,1,2,66.7,2.0,2,4,50.0,25,4,16.0,24.0,8,0.0,19.1,12,1,8.3,3,25.0,7a2e46a8,Alisson,Liverpool,True
+Manchester City,Manchester United,1615134600,br BRA,27-202,90,6,2,4,83.3,2.3,0,3,0.0,27,5,11.1,24.6,3,0.0,15.7,4,1,25.0,1,16.5,3bb7b8b4,Ederson,Manchester City,True
+Tottenham Hotspur,Crystal Palace,1615144500,fr FRA,34-071,90,1,1,0,0.0,0.7,0,1,0.0,16,5,6.3,21.9,2,0.0,24.0,13,0,0.0,0,6.0,8f62b6ee,Hugo Lloris,Tottenham Hotspur,True
+Chelsea,Everton,1615226400,sn SEN,29-007,90,1,0,1,100.0,0.2,3,8,37.5,32,6,15.6,24.4,6,50.0,35.7,8,0,0.0,0,12.0,33887998,Edouard Mendy,Chelsea,True
+West Ham United,Leeds United,1615233600,pl POL,35-324,90,2,0,2,100.0,0.3,9,21,42.9,12,4,58.3,41.4,15,93.3,56.5,16,0,0.0,0,12.0,9328b835,Łukasz Fabiański,West Ham United,True
+Manchester City,Southampton,1615399200,br BRA,27-205,90,6,2,4,83.3,1.9,2,8,25.0,42,5,19.0,31.0,4,0.0,21.0,7,0,0.0,0,14.0,3bb7b8b4,Ederson,Manchester City,True
+Newcastle United,Aston Villa,1615579200,sk SVK,32-056,90,6,1,6,83.3,0.9,7,17,41.2,21,1,61.9,45.4,9,44.4,36.1,13,0,0.0,0,,3a949a25,Martin Dúbravka,Newcastle United,True
+Leeds United,Chelsea,1615638600,fr FRA,21-011,90,8,0,8,100.0,1.1,2,6,33.3,32,16,15.6,26.6,8,12.5,23.1,8,1,12.5,0,4.5,6b625ac2,Illan Meslier,Leeds United,True
+Crystal Palace,West Bromwich Albion,1615647600,es ESP,34-062,90,1,0,1,100.0,0.2,6,21,28.6,27,8,48.1,36.4,10,80.0,51.9,16,2,12.5,0,6.3,ab13a5aa,Vicente Guaita,Crystal Palace,True
+Everton,Burnley,1615656600,eng ENG,27-006,42,2,2,,0.0,0.9,6,10,60.0,23,4,34.8,32.9,2,100.0,65.0,8,,,,,4806ec67,Jordan Pickford,Everton,True
+Everton,Burnley,1615656600,pt POR,21-154,48,3,0,3,100.0,0.3,2,9,22.2,12,3,50.0,44.6,3,100.0,67.3,4,1,25.0,0,10.0,728e9b2e,João Virgínia,Everton,True
+Fulham,Manchester City,1615665600,fr FRA,28-014,90,7,3,4,71.4,3.0,8,16,50.0,29,5,48.3,31.7,5,40.0,30.4,6,0,0.0,0,9.0,2f965a72,Alphonse Areola,Fulham,True
+Southampton,Brighton & Hove Albion,1615723200,eng ENG,32-362,90,6,2,4,66.7,1.6,7,17,41.2,26,4,42.3,32.2,10,60.0,38.7,15,1,6.7,0,12.0,c3e39f12,Fraser Forster,Southampton,True
+Leicester City,Sheffield United,1615730400,dk DEN,34-129,90,0,0,0,,0.0,1,3,33.3,33,3,9.1,25.3,0,,,6,0,0.0,1,29.0,53af52f3,Kasper Schmeichel,Leicester City,True
+Arsenal,Tottenham Hotspur,1615739400,de GER,29-010,90,3,1,2,66.7,0.8,2,8,25.0,26,7,26.9,27.2,1,100.0,85.0,5,0,0.0,1,15.5,2628fd2b,Bernd Leno,Arsenal,True
+Manchester United,West Ham United,1615749300,eng ENG,24-002,90,0,0,0,,0.0,0,8,0.0,15,3,33.3,32.9,10,30.0,30.5,14,1,7.1,1,14.3,e5a76dfe,Dean Henderson,Manchester United,True
+Wolverhampton Wanderers,Liverpool,1615838400,pt POR,33-028,89,4,1,3,75.0,1.0,5,9,55.6,14,5,42.9,35.6,8,37.5,22.4,8,,,1,24.0,79b0d6a0,Rui Patrício,Wolverhampton Wanderers,True
+Wolverhampton Wanderers,Liverpool,1615838400,eng ENG,34-142,1,0,0,0,,0.0,0,2,0.0,1,0,100.0,61.0,2,50.0,40.5,2,0,0.0,0,,da8b19e2,John Ruddy,Wolverhampton Wanderers,True
+Fulham,Leeds United,1616184000,fr FRA,28-020,90,4,2,2,50.0,1.6,6,10,60.0,19,6,47.4,35.0,5,20.0,19.2,15,0,0.0,0,13.0,2f965a72,Alphonse Areola,Fulham,True
+Brighton & Hove Albion,Newcastle United,1616270400,es ESP,23-122,90,1,0,1,100.0,,,,,,,,,,,,,,,,,cce694d4,Robert Sanchez,Brighton & Hove Albion,True
+West Ham United,Arsenal,1616338800,pl POL,35-337,90,6,3,5,50.0,1.4,4,19,21.1,21,4,66.7,44.9,5,100.0,62.2,22,1,4.5,0,7.5,9328b835,Łukasz Fabiański,West Ham United,True
+Aston Villa,Tottenham Hotspur,1616355000,ar ARG,28-200,90,3,2,1,66.7,2.0,0,1,0.0,20,2,5.0,21.5,4,0.0,19.3,13,1,7.7,5,25.7,7956236f,Emiliano Martínez,Aston Villa,True
+Chelsea,West Bromwich Albion,1617449400,sn SEN,29-033,90,7,5,2,28.6,1.7,0,4,0.0,29,5,6.9,20.7,5,40.0,33.4,7,0,0.0,0,13.0,33887998,Edouard Mendy,Chelsea,True
+Leeds United,Sheffield United,1617458400,fr FRA,21-032,90,1,1,0,0.0,0.9,3,7,42.9,25,5,20.0,31.6,5,40.0,32.4,15,1,6.7,1,15.0,6b625ac2,Illan Meslier,Leeds United,True
+Leicester City,Manchester City,1617467400,dk DEN,34-149,90,4,2,2,50.0,1.1,4,14,28.6,41,5,26.8,32.0,9,33.3,34.1,16,0,0.0,0,,53af52f3,Kasper Schmeichel,Leicester City,True
+Arsenal,Liverpool,1617476400,de GER,29-030,90,7,3,4,57.1,2.8,5,17,29.4,23,4,39.1,31.1,8,100.0,61.3,13,0,0.0,1,15.0,2628fd2b,Bernd Leno,Arsenal,True
+Southampton,Burnley,1617534000,eng ENG,33-018,90,5,2,3,80.0,2.0,3,22,13.6,32,3,56.3,41.4,4,100.0,58.8,26,2,7.7,3,14.7,c3e39f12,Fraser Forster,Southampton,True
+Newcastle United,Tottenham Hotspur,1617541500,sk SVK,32-079,90,4,2,2,50.0,2.5,4,12,33.3,24,5,29.2,33.9,9,55.6,43.0,14,0,0.0,1,23.0,3a949a25,Martin Dúbravka,Newcastle United,True
+Aston Villa,Fulham,1617550200,ar ARG,28-214,90,7,1,6,85.7,1.1,3,8,37.5,25,4,28.0,32.2,4,25.0,30.5,10,0,0.0,2,18.8,7956236f,Emiliano Martínez,Aston Villa,True
+Manchester United,Brighton & Hove Albion,1617561000,eng ENG,24-023,90,3,1,2,66.7,1.1,0,5,0.0,11,4,36.4,35.3,5,20.0,27.0,13,2,15.4,1,10.8,e5a76dfe,Dean Henderson,Manchester United,True
+Everton,Crystal Palace,1617642000,se SWE,31-087,90,6,1,5,83.3,1.4,1,6,16.7,18,6,27.8,28.5,8,12.5,15.6,7,0,0.0,0,10.5,e7ee38c3,Robin Olsen,Everton,True
+Wolverhampton Wanderers,West Ham United,1617650100,pt POR,33-049,90,6,3,3,50.0,2.0,1,1,100.0,16,5,6.3,24.8,3,0.0,15.7,9,0,0.0,0,1.0,79b0d6a0,Rui Patrício,Wolverhampton Wanderers,True
+Fulham,Wolverhampton Wanderers,1617994800,fr FRA,28-041,90,3,1,2,66.7,0.3,6,9,66.7,14,5,28.6,28.2,13,38.5,32.6,15,0,0.0,0,3.0,2f965a72,Alphonse Areola,Fulham,True
+Manchester City,Leeds United,1618054200,br BRA,27-236,90,2,2,0,0.0,0.2,0,0,,20,5,0.0,21.5,0,,,6,1,16.7,3,22.4,3bb7b8b4,Ederson,Manchester City,True
+Liverpool,Aston Villa,1618063200,br BRA,28-190,90,5,1,4,80.0,0.6,4,7,57.1,30,5,16.7,25.5,11,18.2,27.7,5,0,0.0,6,24.4,7a2e46a8,Alisson,Liverpool,True
+Crystal Palace,Chelsea,1618072200,es ESP,34-090,90,9,4,5,55.6,3.9,12,23,52.2,33,4,45.5,35.6,9,88.9,55.9,20,1,5.0,1,16.0,ab13a5aa,Vicente Guaita,Crystal Palace,True
+Burnley,Newcastle United,1618138800,nir NIR,24-164,90,4,2,2,50.0,1.3,12,23,52.2,21,0,76.2,48.6,7,100.0,68.7,14,0,0.0,3,20.8,4879f8cb,Bailey Peacock-Farrell,Burnley,True
+West Ham United,Leicester City,1618146300,pl POL,35-358,90,4,2,2,50.0,1.0,7,23,30.4,28,7,71.4,46.8,4,75.0,52.5,16,0,0.0,0,10.0,9328b835,Łukasz Fabiański,West Ham United,True
+Tottenham Hotspur,Manchester United,1618155000,fr FRA,34-106,90,7,3,4,57.1,1.9,5,11,45.5,19,6,47.4,37.0,4,50.0,34.5,17,0,0.0,0,,8f62b6ee,Hugo Lloris,Tottenham Hotspur,True
+Sheffield United,Arsenal,1618164000,eng ENG,22-332,90,5,3,2,40.0,2.4,5,19,26.3,35,5,45.7,38.5,5,60.0,46.4,6,0,0.0,2,18.7,466fb2c5,Aaron Ramsdale,Sheffield United,True
+West Bromwich Albion,Southampton,1618246800,eng ENG,28-018,90,4,0,3,100.0,1.5,10,31,32.3,26,4,76.9,50.8,11,100.0,58.8,15,1,6.7,1,13.3,9e5708be,Sam Johnstone,West Bromwich Albion,True
+Brighton & Hove Albion,Everton,1618254900,es ESP,23-145,90,1,0,1,100.0,,,,,,,,,,,,,,,,,cce694d4,Robert Sanchez,Brighton & Hove Albion,True
+Everton,Tottenham Hotspur,1618599600,eng ENG,27-040,90,3,2,1,33.3,1.8,4,22,18.2,43,8,41.9,34.7,5,80.0,56.2,9,0,0.0,1,20.5,4806ec67,Jordan Pickford,Everton,True
+Newcastle United,West Ham United,1618659000,sk SVK,32-092,90,6,2,4,83.3,2.1,4,12,33.3,24,7,29.2,29.9,8,62.5,46.9,24,0,0.0,0,9.5,3a949a25,Martin Dúbravka,Newcastle United,True
+Wolverhampton Wanderers,Sheffield United,1618686900,pt POR,33-061,90,2,0,2,100.0,0.4,2,5,40.0,12,5,25.0,36.3,4,50.0,32.8,20,1,5.0,0,4.0,79b0d6a0,Rui Patrício,Wolverhampton Wanderers,True
+Arsenal,Fulham,1618749000,au AUS,29-010,90,1,1,0,100.0,1.0,0,2,0.0,19,5,10.5,18.5,2,0.0,15.5,5,3,60.0,2,19.0,4535e4bb,Mathew Ryan,Arsenal,True
+Manchester United,Burnley,1618758000,eng ENG,24-037,90,3,1,2,66.7,1.0,1,9,11.1,16,8,31.3,33.3,5,80.0,55.0,12,1,8.3,1,17.5,e5a76dfe,Dean Henderson,Manchester United,True
+Leeds United,Liverpool,1618858800,fr FRA,21-048,90,7,1,6,85.7,1.1,6,11,54.5,34,8,23.5,30.0,12,25.0,24.3,12,1,8.3,0,7.5,6b625ac2,Illan Meslier,Leeds United,True
+Chelsea,Brighton & Hove Albion,1618946100,es ESP,26-199,90,2,0,2,100.0,0.3,2,5,40.0,48,12,10.4,23.9,7,0.0,12.4,7,0,0.0,1,24.5,28d596a0,Kepa Arrizabalaga,Chelsea,True
+Tottenham Hotspur,Southampton,1619024400,fr FRA,34-116,90,5,1,4,80.0,0.9,0,5,0.0,22,7,22.7,27.6,1,0.0,14.0,10,1,10.0,0,9.0,8f62b6ee,Hugo Lloris,Tottenham Hotspur,True
+Aston Villa,Manchester City,1619032500,ar ARG,28-231,90,3,2,1,33.3,1.3,2,14,14.3,27,4,40.7,36.6,6,50.0,37.7,12,1,8.3,0,6.0,7956236f,Emiliano Martínez,Aston Villa,True
+Leicester City,West Bromwich Albion,1619118000,dk DEN,34-168,90,1,0,1,100.0,0.1,2,4,50.0,22,4,18.2,28.3,4,0.0,20.3,8,0,0.0,0,,53af52f3,Kasper Schmeichel,Leicester City,True
+Arsenal,Everton,1619204400,de GER,29-050,90,1,1,1,0.0,0.1,2,3,66.7,18,4,11.1,25.3,4,25.0,29.3,10,0,0.0,0,8.0,2628fd2b,Bernd Leno,Arsenal,True
+Liverpool,Newcastle United,1619263800,br BRA,28-204,90,4,1,3,75.0,1.0,2,2,100.0,33,4,6.1,21.6,4,0.0,19.5,12,1,8.3,5,22.0,7a2e46a8,Alisson,Liverpool,True
+West Ham United,Chelsea,1619281800,pl POL,36-006,90,6,1,5,83.3,1.7,4,20,20.0,25,1,64.0,42.6,7,57.1,47.7,8,0,0.0,0,,9328b835,Łukasz Fabiański,West Ham United,True
+Sheffield United,Brighton & Hove Albion,1619290800,eng ENG,22-345,90,4,0,4,100.0,0.6,6,21,28.6,16,0,62.5,45.2,12,91.7,62.8,20,1,5.0,2,14.7,466fb2c5,Aaron Ramsdale,Sheffield United,True
+Wolverhampton Wanderers,Burnley,1619348400,pt POR,33-069,90,7,4,3,42.9,2.8,3,15,20.0,18,6,50.0,35.2,8,75.0,44.9,17,2,11.8,0,7.3,79b0d6a0,Rui Patrício,Wolverhampton Wanderers,True
+Leeds United,Manchester United,1619355600,fr FRA,21-054,90,4,0,4,100.0,0.4,1,12,8.3,35,8,28.6,29.9,8,25.0,28.5,16,2,12.5,1,12.7,6b625ac2,Illan Meslier,Leeds United,True
+Aston Villa,West Bromwich Albion,1619373600,ar ARG,28-235,90,4,2,3,75.0,1.4,3,5,60.0,24,4,20.8,30.4,7,0.0,18.1,9,1,11.1,2,13.3,7956236f,Emiliano Martínez,Aston Villa,True
+Leicester City,Crystal Palace,1619463600,dk DEN,34-172,90,2,1,1,50.0,0.9,1,8,12.5,21,4,28.6,27.3,3,66.7,54.3,4,0,0.0,1,14.0,53af52f3,Kasper Schmeichel,Leicester City,True
+Southampton,Leicester City,1619809200,eng ENG,31-148,90,9,1,8,88.9,1.9,9,31,29.0,25,2,80.0,49.4,12,91.7,59.0,26,2,7.7,0,10.5,36c2ca73,Alex McCarthy,Southampton,True
+Crystal Palace,Manchester City,1619868600,es ESP,34-111,90,3,2,1,33.3,0.5,7,18,38.9,14,5,57.1,37.4,10,100.0,64.5,16,0,0.0,0,13.0,ab13a5aa,Vicente Guaita,Crystal Palace,True
+Brighton & Hove Albion,Leeds United,1619877600,es ESP,23-164,90,2,0,2,100.0,,,,,,,,,,,,,,,,,cce694d4,Robert Sanchez,Brighton & Hove Albion,True
+Chelsea,Fulham,1619886600,sn SEN,29-061,90,3,0,3,100.0,0.1,1,6,16.7,26,5,19.2,27.5,8,12.5,14.3,20,0,0.0,0,,33887998,Edouard Mendy,Chelsea,True
+Everton,Aston Villa,1619895600,eng ENG,27-055,90,5,2,3,60.0,1.7,8,18,44.4,35,2,42.9,36.9,5,60.0,45.4,12,2,16.7,4,23.5,4806ec67,Jordan Pickford,Everton,True
+Newcastle United,Arsenal,1619960400,sk SVK,32-107,90,4,2,2,50.0,1.7,2,4,50.0,23,4,13.0,26.4,9,11.1,21.4,11,1,9.1,0,7.0,3a949a25,Martin Dúbravka,Newcastle United,True
+Tottenham Hotspur,Sheffield United,1619979300,fr FRA,34-127,90,1,0,1,100.0,0.1,0,3,0.0,19,4,15.8,21.3,4,0.0,16.8,14,1,7.1,1,13.7,8f62b6ee,Hugo Lloris,Tottenham Hotspur,True
+West Bromwich Albion,Wolverhampton Wanderers,1620061200,eng ENG,28-039,90,10,1,9,90.0,0.8,8,25,32.0,31,6,64.5,44.7,7,71.4,51.7,16,1,6.3,2,16.0,9e5708be,Sam Johnstone,West Bromwich Albion,True
+Burnley,West Ham United,1620069300,eng ENG,29-014,90,4,2,2,50.0,1.8,8,36,22.2,36,5,69.4,47.9,12,91.7,63.2,19,2,10.5,7,28.1,4b40d9ca,Nick Pope,Burnley,True
+Leicester City,Newcastle United,1620414000,dk DEN,34-183,90,6,4,2,33.3,3.1,4,7,57.1,14,4,28.6,29.9,4,75.0,45.5,12,0,0.0,0,4.0,53af52f3,Kasper Schmeichel,Leicester City,True
+Leeds United,Tottenham Hotspur,1620473400,fr FRA,21-067,90,3,1,2,66.7,0.8,1,8,12.5,28,5,21.4,29.0,6,33.3,28.7,10,0,0.0,1,25.0,6b625ac2,Illan Meslier,Leeds United,True
+Sheffield United,Crystal Palace,1620482400,eng ENG,22-359,90,8,2,6,75.0,1.2,7,16,43.8,25,8,48.0,38.2,6,66.7,52.2,14,3,21.4,1,11.0,466fb2c5,Aaron Ramsdale,Sheffield United,True
+Manchester City,Chelsea,1620491400,br BRA,27-264,90,5,2,3,60.0,1.1,2,4,50.0,32,7,6.3,22.0,3,66.7,37.3,10,1,10.0,0,5.0,3bb7b8b4,Ederson,Manchester City,True
+Liverpool,Southampton,1620501300,br BRA,28-218,90,6,0,6,100.0,0.9,1,5,20.0,37,9,13.5,27.1,4,0.0,20.3,9,1,11.1,2,13.9,7a2e46a8,Alisson,Liverpool,True
+Wolverhampton Wanderers,Brighton & Hove Albion,1620558000,pt POR,33-083,90,3,1,2,66.7,1.0,5,10,50.0,10,3,50.0,34.4,9,55.6,38.6,9,0,0.0,0,6.0,79b0d6a0,Rui Patrício,Wolverhampton Wanderers,True
+Aston Villa,Manchester United,1620565500,ar ARG,28-249,90,7,3,4,71.4,2.3,5,15,33.3,29,10,44.8,37.0,4,50.0,38.5,15,0,0.0,0,3.0,7956236f,Emiliano Martínez,Aston Villa,True
+West Ham United,Everton,1620574200,pl POL,36-021,90,3,1,2,66.7,1.3,3,6,50.0,17,6,23.5,31.3,5,40.0,37.6,11,1,9.1,1,13.8,9328b835,Łukasz Fabiański,West Ham United,True
+Arsenal,West Bromwich Albion,1620583200,de GER,29-066,90,1,1,0,0.0,0.5,2,7,28.6,23,8,17.4,26.3,6,50.0,42.7,20,3,15.0,2,11.6,2628fd2b,Bernd Leno,Arsenal,True
+Fulham,Burnley,1620673200,fr FRA,28-072,90,5,2,3,60.0,1.8,2,9,22.2,30,7,20.0,26.7,7,42.9,33.4,8,2,25.0,4,20.0,2f965a72,Alphonse Areola,Fulham,True
+Manchester United,Leicester City,1620752400,es ESP,30-185,90,3,2,1,33.3,1.4,6,14,42.9,32,5,37.5,34.1,6,33.3,39.7,12,0,0.0,0,9.0,7ba6d84e,David de Gea,Manchester United,True
+Southampton,Crystal Palace,1620760500,eng ENG,33-055,90,4,1,2,75.0,1.2,1,3,33.3,16,2,18.8,21.9,4,0.0,16.3,11,0,0.0,1,9.5,c3e39f12,Fraser Forster,Southampton,True
+Chelsea,Arsenal,1620846900,es ESP,26-221,90,2,1,1,50.0,1.1,0,2,0.0,36,7,5.6,23.6,4,0.0,15.0,7,0,0.0,0,,28d596a0,Kepa Arrizabalaga,Chelsea,True
+Aston Villa,Everton,1620925200,ar ARG,28-253,90,5,0,5,100.0,0.5,4,16,25.0,35,9,28.6,30.2,8,75.0,48.0,16,2,12.5,2,13.2,7956236f,Emiliano Martínez,Aston Villa,True
+Manchester United,Liverpool,1620933300,eng ENG,24-062,90,8,4,4,50.0,2.2,3,13,23.1,22,5,40.9,32.0,8,50.0,39.5,6,0,0.0,1,16.0,e5a76dfe,Dean Henderson,Manchester United,True
+Newcastle United,Manchester City,1621018800,sk SVK,32-119,90,6,4,2,33.3,2.1,5,13,38.5,12,2,58.3,39.4,9,66.7,49.1,14,2,14.3,1,9.5,3a949a25,Martin Dúbravka,Newcastle United,True
+Burnley,Leeds United,1621078200,nir NIR,24-198,90,6,4,2,33.3,1.5,11,24,45.8,24,3,79.2,53.8,6,83.3,63.7,16,0,0.0,0,,4879f8cb,Bailey Peacock-Farrell,Burnley,True
+Southampton,Fulham,1621087200,eng ENG,31-163,90,3,1,2,66.7,0.9,0,5,0.0,28,5,14.3,25.3,5,20.0,16.4,11,1,9.1,1,14.5,36c2ca73,Alex McCarthy,Southampton,True
+Brighton & Hove Albion,West Ham United,1621105200,es ESP,23-178,90,2,1,1,50.0,,,,,,,,,,,,,,,,,cce694d4,Robert Sanchez,Brighton & Hove Albion,True
+Crystal Palace,Aston Villa,1621162800,eng ENG,28-067,90,5,2,3,60.0,1.0,3,18,16.7,13,2,76.9,48.9,8,100.0,68.1,18,1,5.6,2,23.3,cc70a1d5,Jack Butland,Crystal Palace,True
+Tottenham Hotspur,Wolverhampton Wanderers,1621170300,fr FRA,34-141,90,3,0,3,100.0,0.3,3,5,60.0,21,6,14.3,21.0,7,28.6,24.9,9,1,11.1,0,2.5,8f62b6ee,Hugo Lloris,Tottenham Hotspur,True
+West Bromwich Albion,Liverpool,1621179000,eng ENG,28-052,90,6,2,4,66.7,1.1,11,37,29.7,29,6,79.3,51.0,14,100.0,68.4,25,0,0.0,5,21.2,9e5708be,Sam Johnstone,West Bromwich Albion,True
+Everton,Sheffield United,1621188000,eng ENG,27-070,90,3,1,2,66.7,1.1,7,19,36.8,44,7,40.9,35.0,4,25.0,26.3,12,1,8.3,7,23.8,4806ec67,Jordan Pickford,Everton,True
+Manchester United,Fulham,1621357200,es ESP,30-192,90,5,1,4,80.0,0.8,3,7,42.9,19,3,26.3,32.9,2,100.0,59.5,7,0,0.0,0,,7ba6d84e,David de Gea,Manchester United,True
+Southampton,Leeds United,1621357200,eng ENG,31-166,90,7,2,5,71.4,2.4,2,8,25.0,26,6,23.1,24.0,7,28.6,22.0,9,0,0.0,2,19.8,36c2ca73,Alex McCarthy,Southampton,True
+Brighton & Hove Albion,Manchester City,1621360800,es ESP,23-181,90,4,2,2,50.0,,,,,,,,,,,,,,,,,cce694d4,Robert Sanchez,Brighton & Hove Albion,True
+Chelsea,Leicester City,1621365300,sn SEN,29-078,90,3,1,2,66.7,0.8,2,4,50.0,21,5,9.5,19.9,7,28.6,28.4,15,2,13.3,1,10.3,33887998,Edouard Mendy,Chelsea,True
+Newcastle United,Sheffield United,1621443600,sk SVK,32-124,90,1,0,1,100.0,0.1,5,8,62.5,26,3,23.1,28.5,10,20.0,26.9,16,0,0.0,2,26.5,3a949a25,Martin Dúbravka,Newcastle United,True
+Tottenham Hotspur,Aston Villa,1621443600,fr FRA,34-144,90,4,2,3,50.0,1.3,0,1,0.0,15,4,6.7,25.5,9,0.0,11.1,8,0,0.0,0,5.0,8f62b6ee,Hugo Lloris,Tottenham Hotspur,True
+Everton,Wolverhampton Wanderers,1621443600,eng ENG,27-073,90,3,0,3,100.0,0.2,11,15,73.3,15,2,60.0,39.1,7,85.7,58.9,23,2,8.7,1,12.3,4806ec67,Jordan Pickford,Everton,True
+Crystal Palace,Arsenal,1621447200,es ESP,34-129,90,3,3,0,0.0,1.9,5,15,33.3,18,3,61.1,46.1,5,80.0,56.6,19,0,0.0,0,3.5,ab13a5aa,Vicente Guaita,Crystal Palace,True
+Burnley,Liverpool,1621451700,eng ENG,27-280,90,3,3,0,0.0,0.4,11,20,55.0,14,0,85.7,53.4,9,88.9,61.6,9,0,0.0,1,15.5,c73ada83,Will Norris,Burnley,True
+West Bromwich Albion,West Ham United,1621451700,eng ENG,28-055,90,9,3,6,66.7,3.1,9,27,33.3,31,8,61.3,44.8,9,88.9,60.1,20,1,5.0,0,4.0,9e5708be,Sam Johnstone,West Bromwich Albion,True
+Aston Villa,Chelsea,1621782000,ar ARG,28-263,90,7,1,6,85.7,2.0,8,22,36.4,24,4,54.2,44.0,10,90.0,61.2,28,0,0.0,0,,7956236f,Emiliano Martínez,Aston Villa,True
+Leicester City,Tottenham Hotspur,1621782000,dk DEN,34-199,90,4,4,1,0.0,1.1,3,9,33.3,21,2,42.9,38.7,4,0.0,18.0,17,0,0.0,1,27.0,53af52f3,Kasper Schmeichel,Leicester City,True
+Manchester City,Everton,1621782000,br BRA,27-279,90,3,0,2,100.0,1.1,4,7,57.1,29,4,24.1,25.2,4,0.0,18.0,9,0,0.0,3,20.3,3bb7b8b4,Ederson,Manchester City,True
+Sheffield United,Burnley,1621782000,eng ENG,23-009,90,3,0,3,100.0,0.1,11,35,31.4,29,3,75.9,53.8,13,100.0,74.5,18,3,16.7,0,7.8,466fb2c5,Aaron Ramsdale,Sheffield United,True
+Wolverhampton Wanderers,Manchester United,1621782000,pt POR,33-097,90,4,2,2,75.0,2.1,1,2,50.0,5,4,20.0,16.2,7,14.3,13.0,5,0,0.0,0,,79b0d6a0,Rui Patrício,Wolverhampton Wanderers,True
+West Ham United,Southampton,1621782000,pl POL,36-035,90,5,0,5,100.0,1.3,14,28,50.0,26,7,65.4,46.7,12,91.7,56.9,7,0,0.0,0,10.0,9328b835,Łukasz Fabiański,West Ham United,True
+Leeds United,West Bromwich Albion,1621782000,es ESP,34-233,90,5,1,4,80.0,0.8,1,2,50.0,19,4,10.5,20.8,8,0.0,14.1,9,0,0.0,0,8.5,58bc7d18,Kiko Casilla,Leeds United,True
+Arsenal,Brighton & Hove Albion,1621782000,de GER,29-080,90,1,0,1,100.0,0.1,1,5,20.0,31,9,6.5,20.6,8,37.5,34.9,9,1,11.1,0,6.7,2628fd2b,Bernd Leno,Arsenal,True
+Liverpool,Crystal Palace,1621782000,br BRA,28-233,90,4,0,4,100.0,0.4,5,6,83.3,20,3,25.0,22.8,5,20.0,21.4,1,0,0.0,1,23.0,7a2e46a8,Alisson,Liverpool,True
+Fulham,Newcastle United,1621782000,sk SVK,24-161,90,4,2,2,75.0,2.2,0,1,0.0,17,4,5.9,24.6,3,0.0,11.7,9,1,11.1,1,11.0,17acc2ed,Marek Rodák,Fulham,True
+Fulham,Arsenal,1599910200,de GER,28-192,90,2,0,2,100.0,0.1,1,1,100.0,29,3,0.0,18.2,4,25.0,27.3,14,0,0.0,1,17.0,2628fd2b,Bernd Leno,,True
+Crystal Palace,Southampton,1599919200,eng ENG,30-284,90,3,1,2,66.7,0.8,3,13,23.1,43,8,27.9,28.5,7,14.3,21.9,11,2,18.2,5,19.6,36c2ca73,Alex McCarthy,,True
+Liverpool,Leeds United,1599928200,fr FRA,20-194,90,6,4,2,66.7,2.5,6,16,37.5,46,11,17.4,26.4,12,66.7,41.9,18,0,0.0,1,17.0,6b625ac2,Illan Meslier,,True
+West Ham United,Newcastle United,1599937200,eng ENG,29-340,90,3,0,3,100.0,0.5,6,17,35.3,20,2,70.0,48.3,3,100.0,67.3,24,0,0.0,1,30.0,cde3309f,Karl Darlow,,True
+West Bromwich Albion,Leicester City,1600002000,dk DEN,33-313,90,1,0,1,100.0,0.6,2,7,28.6,24,3,16.7,26.6,6,50.0,40.7,6,0,0.0,0,,53af52f3,Kasper Schmeichel,,True
+Tottenham Hotspur,Everton,1600011000,eng ENG,26-190,90,5,0,5,100.0,0.9,6,23,26.1,33,5,63.6,46.0,4,50.0,38.3,19,1,5.3,1,14.2,4806ec67,Jordan Pickford,,True
+Sheffield United,Wolverhampton Wanderers,1600102800,pt POR,32-212,90,1,0,1,100.0,0.0,9,15,60.0,18,7,50.0,44.9,6,100.0,53.3,31,1,3.2,0,4.7,79b0d6a0,Rui Patrício,,True
+Brighton & Hove Albion,Chelsea,1600110900,es ESP,25-347,90,3,1,2,66.7,0.7,5,16,31.3,19,4,42.1,37.7,9,88.9,60.0,9,0,0.0,0,3.5,28d596a0,Kepa Arrizabalaga,,True
+Everton,West Bromwich Albion,1600515000,eng ENG,27-178,90,7,5,2,28.6,3.5,6,18,33.3,23,8,52.2,42.2,8,75.0,49.4,20,1,5.0,0,11.0,9e5708be,Sam Johnstone,,True
+Leeds United,Fulham,1600524000,fr FRA,27-205,90,7,4,3,57.1,2.3,4,9,44.4,34,8,20.6,23.6,3,66.7,45.0,15,0,0.0,5,21.9,2f965a72,Alphonse Areola,,True
+Manchester United,Crystal Palace,1600533000,es ESP,33-253,90,4,1,3,75.0,1.4,5,14,35.7,12,0,66.7,47.1,7,85.7,56.6,18,0,0.0,2,38.0,ab13a5aa,Vicente Guaita,,True
+Arsenal,West Ham United,1600542000,pl POL,35-154,90,3,2,1,33.3,1.3,8,16,50.0,30,3,46.7,36.6,5,40.0,36.0,14,0,0.0,0,9.5,9328b835,Łukasz Fabiański,,True
+Southampton,Tottenham Hotspur,1600599600,fr FRA,33-269,90,7,2,5,85.7,2.6,2,7,28.6,17,4,29.4,28.4,9,22.2,25.3,10,0,0.0,2,17.0,8f62b6ee,Hugo Lloris,,True
+Newcastle United,Brighton & Hove Albion,1600606800,au AUS,28-165,90,0,0,0,,0.0,3,13,23.1,35,7,28.6,31.0,6,50.0,40.3,17,2,11.8,0,9.4,4535e4bb,Mathew Ryan,,True
+Chelsea,Liverpool,1600615800,br BRA,27-354,90,3,0,2,100.0,1.3,2,2,100.0,22,5,9.1,21.9,2,0.0,14.5,3,0,0.0,1,21.0,7a2e46a8,Alisson,,True
+Leicester City,Burnley,1600624800,eng ENG,28-154,90,6,4,3,33.3,2.3,8,18,44.4,16,2,87.5,54.1,4,100.0,64.5,21,2,9.5,2,21.8,4b40d9ca,Nick Pope,,True
+Aston Villa,Sheffield United,1600707600,eng ENG,22-130,90,2,1,1,50.0,0.5,10,33,30.3,16,0,93.8,57.3,18,100.0,65.4,34,1,2.9,0,4.5,466fb2c5,Aaron Ramsdale,,True
+Wolverhampton Wanderers,Manchester City,1600715700,br BRA,27-035,90,1,1,0,0.0,0.1,6,11,54.5,31,5,19.4,26.9,8,62.5,52.6,10,1,10.0,0,11.0,3bb7b8b4,Ederson,,True
+Brighton & Hove Albion,Manchester United,1601119800,es ESP,29-324,90,5,2,3,80.0,2.3,1,6,16.7,12,2,25.0,27.0,9,33.3,28.7,25,0,0.0,0,10.0,7ba6d84e,David de Gea,,True
+Crystal Palace,Everton,1601128800,eng ENG,26-203,90,1,1,0,0.0,0.1,8,19,42.1,30,4,50.0,36.8,6,66.7,50.8,17,1,5.9,1,8.0,4806ec67,Jordan Pickford,,True
+West Bromwich Albion,Chelsea,1601137800,ar ARG,38-364,90,3,3,0,0.0,1.5,1,3,33.3,20,2,15.0,21.6,6,0.0,19.2,9,0,0.0,3,28.0,a179d516,Willy Caballero,,True
+Burnley,Southampton,1601146800,eng ENG,30-298,90,2,0,2,100.0,0.4,3,24,12.5,29,2,69.0,39.9,4,100.0,59.3,25,0,0.0,1,11.7,36c2ca73,Alex McCarthy,,True
+Sheffield United,Leeds United,1601204400,fr FRA,20-209,90,4,0,4,100.0,0.8,0,3,0.0,34,10,8.8,22.5,6,0.0,19.8,14,0,0.0,2,22.0,6b625ac2,Illan Meslier,,True
+Tottenham Hotspur,Newcastle United,1601211600,eng ENG,29-355,90,12,1,11,91.7,2.6,12,24,50.0,28,8,64.3,42.6,6,100.0,63.2,16,1,6.3,0,6.3,cde3309f,Karl Darlow,,True
+Manchester City,Leicester City,1601220600,dk DEN,33-327,90,5,2,3,60.0,1.3,11,31,35.5,32,7,53.1,42.7,14,100.0,61.6,13,0,0.0,0,8.0,53af52f3,Kasper Schmeichel,,True
+West Ham United,Wolverhampton Wanderers,1601229600,pt POR,32-225,90,7,4,4,42.9,1.7,3,11,27.3,16,6,50.0,33.9,5,60.0,40.4,9,0,0.0,0,16.0,79b0d6a0,Rui Patrício,,True
+Fulham,Aston Villa,1601311500,ar ARG,28-026,90,2,0,2,100.0,0.3,8,25,32.0,31,5,48.4,42.7,11,90.9,63.2,36,2,5.6,0,6.7,7956236f,Emiliano Martínez,,True
+Liverpool,Arsenal,1601319600,de GER,28-208,90,8,3,5,62.5,2.6,2,5,40.0,34,6,11.8,18.9,9,11.1,14.0,20,1,5.0,2,15.0,2628fd2b,Bernd Leno,,True
+Chelsea,Crystal Palace,1601724600,es ESP,33-267,90,6,4,2,66.7,2.5,2,17,11.8,15,3,60.0,40.4,8,100.0,65.9,17,0,0.0,0,,ab13a5aa,Vicente Guaita,,True
+Everton,Brighton & Hove Albion,1601733600,au AUS,28-178,90,6,4,2,33.3,2.5,3,4,75.0,23,5,17.4,25.6,3,0.0,19.0,9,0,0.0,0,,4535e4bb,Mathew Ryan,,True
+Leeds United,Manchester City,1601742600,br BRA,27-047,90,7,1,6,85.7,3.3,2,7,28.6,25,4,16.0,26.2,6,50.0,50.3,11,1,9.1,1,12.2,3bb7b8b4,Ederson,,True
+Newcastle United,Burnley,1601751600,eng ENG,28-167,90,5,3,2,60.0,2.4,6,18,33.3,24,6,58.3,41.7,6,66.7,50.2,10,0,0.0,3,21.0,4b40d9ca,Nick Pope,,True
+Southampton,West Bromwich Albion,1601809200,eng ENG,27-193,90,7,2,5,71.4,1.9,12,20,60.0,25,4,52.0,38.6,9,77.8,50.4,11,0,0.0,2,20.3,9e5708be,Sam Johnstone,,True
+Leicester City,West Ham United,1601809200,pl POL,35-169,90,0,0,0,,0.0,6,20,30.0,27,5,63.0,42.3,3,100.0,66.7,15,0,0.0,0,4.0,9328b835,Łukasz Fabiański,,True
+Arsenal,Sheffield United,1601816400,eng ENG,22-143,90,5,2,3,60.0,2.0,5,19,26.3,25,4,56.0,41.0,5,100.0,60.8,16,1,6.3,0,7.0,466fb2c5,Aaron Ramsdale,,True
+Wolverhampton Wanderers,Fulham,1601816400,fr FRA,27-220,90,5,1,4,80.0,1.1,2,5,40.0,18,9,22.2,30.4,6,16.7,27.7,15,3,20.0,0,6.0,2f965a72,Alphonse Areola,,True
+Manchester United,Tottenham Hotspur,1601825400,fr FRA,33-283,90,2,1,1,100.0,1.3,2,7,28.6,20,7,30.0,29.4,4,25.0,20.5,8,0,0.0,0,19.0,8f62b6ee,Hugo Lloris,,True
+Aston Villa,Liverpool,1601835300,es ESP,33-275,90,11,7,4,36.4,4.7,2,6,33.3,30,9,20.0,27.3,5,0.0,10.4,8,0,0.0,2,20.0,f76e6b4e,Adrián,,True
+Everton,Liverpool,1602934200,es ESP,33-288,90,5,2,3,60.0,1.2,5,15,33.3,18,4,66.7,40.3,9,33.3,27.8,11,0,0.0,0,1.0,f76e6b4e,Adrián,,True
+Chelsea,Southampton,1602943200,eng ENG,30-319,90,5,3,2,40.0,2.0,4,18,22.2,32,2,37.5,32.3,7,85.7,52.3,11,1,9.1,0,8.0,36c2ca73,Alex McCarthy,,True
+Manchester City,Arsenal,1602952200,de GER,28-227,90,5,1,4,80.0,1.4,4,11,36.4,48,4,18.8,22.5,4,50.0,36.0,8,1,12.5,0,7.0,2628fd2b,Bernd Leno,,True
+Newcastle United,Manchester United,1602961200,es ESP,29-345,90,4,1,4,75.0,1.4,2,4,50.0,17,3,23.5,27.5,1,0.0,10.0,7,0,0.0,0,,7ba6d84e,David de Gea,,True
+Sheffield United,Fulham,1603018800,fr FRA,27-234,90,6,1,5,100.0,1.6,7,16,43.8,26,7,46.2,33.8,4,100.0,61.3,11,3,27.3,0,7.7,2f965a72,Alphonse Areola,,True
+Crystal Palace,Brighton & Hove Albion,1603026000,au AUS,28-193,90,1,1,0,100.0,1.0,1,3,33.3,28,4,3.6,21.0,3,66.7,44.0,6,0,0.0,1,29.0,4535e4bb,Mathew Ryan,,True
+Tottenham Hotspur,West Ham United,1603035000,pl POL,35-183,90,6,3,3,50.0,2.4,5,5,100.0,19,9,21.1,26.8,4,25.0,26.5,10,2,20.0,1,16.7,9328b835,Łukasz Fabiański,,True
+Leicester City,Aston Villa,1603044900,ar ARG,28-046,90,5,0,5,100.0,0.7,4,21,19.0,37,2,43.2,38.4,6,83.3,58.5,10,0,0.0,0,,7956236f,Emiliano Martínez,,True
+West Bromwich Albion,Burnley,1603125000,eng ENG,28-183,90,6,0,6,100.0,1.0,8,21,38.1,25,8,52.0,42.5,9,88.9,64.3,16,4,25.0,3,15.3,4b40d9ca,Nick Pope,,True
+Leeds United,Wolverhampton Wanderers,1603134000,pt POR,32-247,90,2,0,2,100.0,0.1,11,24,45.8,19,4,63.2,47.3,12,100.0,57.5,29,0,0.0,0,,79b0d6a0,Rui Patrício,,True
+Aston Villa,Leeds United,1603479600,fr FRA,20-235,90,3,0,3,100.0,0.5,3,8,37.5,23,7,21.7,30.0,6,50.0,35.8,8,1,12.5,0,10.5,6b625ac2,Illan Meslier,,True
+West Ham United,Manchester City,1603539000,br BRA,27-068,90,2,1,1,50.0,0.2,0,1,0.0,24,6,4.2,24.3,2,0.0,20.5,10,1,10.0,1,17.7,3bb7b8b4,Ederson,,True
+Fulham,Crystal Palace,1603548000,es ESP,33-288,90,3,1,2,66.7,0.6,2,15,13.3,16,4,43.8,39.6,14,57.1,44.4,21,2,9.5,0,3.5,ab13a5aa,Vicente Guaita,,True
+Manchester United,Chelsea,1603557000,sn SEN,28-237,90,4,0,4,100.0,0.8,2,6,33.3,23,2,21.7,25.0,4,25.0,24.5,14,0,0.0,0,15.0,33887998,Edouard Mendy,,True
+Liverpool,Sheffield United,1603566000,eng ENG,22-163,90,5,2,3,60.0,2.0,9,23,39.1,19,3,84.2,54.3,7,100.0,77.0,15,1,6.7,1,18.0,466fb2c5,Aaron Ramsdale,,True
+Southampton,Everton,1603634400,eng ENG,26-232,90,6,2,4,66.7,0.5,1,4,25.0,14,2,28.6,28.6,6,0.0,11.8,12,0,0.0,3,25.0,4806ec67,Jordan Pickford,,True
+Wolverhampton Wanderers,Newcastle United,1603643400,eng ENG,30-017,90,3,1,2,66.7,0.6,6,16,37.5,15,4,53.3,43.3,12,66.7,47.9,11,1,9.1,0,5.0,cde3309f,Karl Darlow,,True
+Arsenal,Leicester City,1603653300,dk DEN,33-355,90,4,0,4,100.0,0.3,9,19,47.4,37,8,40.5,36.8,7,57.1,39.9,16,2,12.5,1,11.7,53af52f3,Kasper Schmeichel,,True
+Brighton & Hove Albion,West Bromwich Albion,1603733400,eng ENG,27-215,90,3,1,3,66.7,0.8,8,15,53.3,30,4,43.3,38.8,5,40.0,32.4,13,0,0.0,0,11.5,9e5708be,Sam Johnstone,,True
+Burnley,Tottenham Hotspur,1603742400,fr FRA,33-305,90,3,0,3,100.0,0.8,5,16,31.3,29,8,41.4,28.9,7,57.1,38.0,14,3,21.4,3,17.0,8f62b6ee,Hugo Lloris,,True
+Wolverhampton Wanderers,Crystal Palace,1604088000,es ESP,33-294,90,5,2,3,60.0,1.2,0,4,0.0,17,6,17.6,30.1,10,10.0,22.7,19,1,5.3,1,7.4,ab13a5aa,Vicente Guaita,,True
+Sheffield United,Manchester City,1604147400,br BRA,27-075,90,1,0,1,100.0,0.3,4,11,36.4,32,3,28.1,32.2,4,50.0,49.5,10,0,0.0,0,23.0,3bb7b8b4,Ederson,,True
+Burnley,Chelsea,1604156400,sn SEN,28-244,90,0,0,0,,0.0,3,14,21.4,27,2,25.9,27.7,9,77.8,45.8,7,1,14.3,1,14.7,33887998,Edouard Mendy,,True
+Liverpool,West Ham United,1604165400,pl POL,35-196,90,5,2,3,80.0,2.4,9,29,31.0,27,1,81.5,47.9,8,87.5,53.3,12,2,16.7,0,10.3,9328b835,Łukasz Fabiański,,True
+Aston Villa,Southampton,1604232000,eng ENG,30-334,90,10,3,7,80.0,3.3,1,21,4.8,26,3,57.7,39.2,6,100.0,66.3,25,1,4.0,0,8.3,36c2ca73,Alex McCarthy,,True
+Newcastle United,Everton,1604239200,se SWE,30-298,90,4,2,2,75.0,2.7,4,6,66.7,18,3,33.3,31.1,3,0.0,20.7,6,1,16.7,1,18.7,e7ee38c3,Robin Olsen,,True
+Manchester United,Arsenal,1604248200,de GER,28-242,90,2,0,2,100.0,0.1,3,14,21.4,43,0,27.9,30.0,4,50.0,41.0,18,1,5.6,0,14.5,2628fd2b,Bernd Leno,,True
+Tottenham Hotspur,Brighton & Hove Albion,1604258100,es ESP,22-349,90,3,2,2,66.7,,,,,,,,,,,,,,,,,cce694d4,Robert Sanchez,,True
+Fulham,West Bromwich Albion,1604338200,eng ENG,27-222,90,4,2,2,50.0,1.7,6,8,75.0,31,12,22.6,28.7,7,14.3,22.9,15,0,0.0,4,20.0,9e5708be,Sam Johnstone,,True
+Leeds United,Leicester City,1604347200,dk DEN,33-363,90,4,1,3,75.0,1.9,5,17,29.4,24,9,41.7,35.7,12,58.3,47.0,21,0,0.0,0,4.0,53af52f3,Kasper Schmeichel,,True
+Brighton & Hove Albion,Burnley,1604683800,eng ENG,28-201,90,3,0,3,100.0,0.6,9,21,42.9,29,7,48.3,38.8,7,100.0,61.6,22,2,9.1,4,15.3,4b40d9ca,Nick Pope,,True
+Southampton,Newcastle United,1604692800,eng ENG,30-029,90,7,2,5,71.4,0.8,4,20,20.0,20,3,70.0,47.5,8,75.0,54.4,10,0,0.0,0,5.0,cde3309f,Karl Darlow,,True
+Everton,Manchester United,1604752200,es ESP,30-000,90,1,1,0,0.0,0.3,3,10,30.0,12,4,33.3,33.6,10,60.0,43.0,15,0,0.0,0,,7ba6d84e,David de Gea,,True
+Crystal Palace,Leeds United,1604761200,fr FRA,20-250,90,6,4,3,33.3,1.9,0,0,,26,9,0.0,20.3,5,0.0,15.6,7,0,0.0,0,2.0,6b625ac2,Illan Meslier,,True
+Chelsea,Sheffield United,1604770200,eng ENG,22-177,90,9,4,5,55.6,2.8,8,19,42.1,16,1,87.5,48.9,5,100.0,69.8,13,0,0.0,0,2.8,466fb2c5,Aaron Ramsdale,,True
+West Ham United,Fulham,1604779200,fr FRA,27-254,90,7,1,6,85.7,1.0,7,18,38.9,14,2,57.1,34.4,11,90.9,60.7,28,0,0.0,2,17.3,2f965a72,Alphonse Areola,,True
+West Bromwich Albion,Tottenham Hotspur,1604836800,fr FRA,33-318,90,2,0,2,100.0,0.2,2,11,18.2,20,3,35.0,31.1,8,50.0,33.6,22,1,4.5,0,7.7,8f62b6ee,Hugo Lloris,,True
+Leicester City,Wolverhampton Wanderers,1604844000,pt POR,32-267,90,3,1,1,100.0,2.0,5,14,35.7,9,1,55.6,36.4,12,75.0,46.3,18,0,0.0,3,19.0,79b0d6a0,Rui Patrício,,True
+Manchester City,Liverpool,1604853000,br BRA,28-037,90,2,1,1,50.0,0.3,4,13,30.8,40,3,30.0,29.1,7,14.3,22.7,6,1,16.7,3,20.3,7a2e46a8,Alisson,,True
+Arsenal,Aston Villa,1604862900,ar ARG,28-067,90,2,0,2,100.0,0.6,15,31,48.4,31,3,71.0,44.4,10,90.0,57.5,22,2,9.1,0,4.3,7956236f,Emiliano Martínez,,True
+Newcastle United,Chelsea,1605961800,sn SEN,28-265,90,1,0,1,100.0,0.2,10,16,62.5,39,2,38.5,30.5,4,25.0,23.3,12,2,16.7,1,12.9,33887998,Edouard Mendy,,True
+Aston Villa,Brighton & Hove Albion,1605970800,au AUS,28-227,90,4,1,3,75.0,1.4,5,9,55.6,28,7,25.0,29.6,12,16.7,23.1,32,2,6.3,0,5.0,4535e4bb,Mathew Ryan,,True
+Tottenham Hotspur,Manchester City,1605979800,br BRA,27-096,90,2,2,0,0.0,1.0,0,1,0.0,12,4,8.3,24.8,2,0.0,27.5,2,0,0.0,4,24.8,3bb7b8b4,Ederson,,True
+Manchester United,West Bromwich Albion,1605988800,eng ENG,27-241,90,7,1,6,100.0,2.6,3,18,16.7,32,6,43.8,39.7,6,66.7,41.2,18,0,0.0,1,44.0,9e5708be,Sam Johnstone,,True
+Fulham,Everton,1606046400,eng ENG,26-260,90,6,2,4,66.7,1.5,8,25,32.0,35,6,62.9,45.1,4,75.0,53.0,9,0,0.0,0,,4806ec67,Jordan Pickford,,True
+Sheffield United,West Ham United,1606053600,pl POL,35-218,90,5,0,5,100.0,0.9,8,17,47.1,23,4,60.9,45.0,3,100.0,65.0,13,0,0.0,0,,9328b835,Łukasz Fabiański,,True
+Leeds United,Arsenal,1606062600,de GER,28-263,90,4,0,4,100.0,0.8,7,29,24.1,25,2,52.0,36.1,17,94.1,56.0,21,0,0.0,0,14.0,2628fd2b,Bernd Leno,,True
+Liverpool,Leicester City,1606072500,dk DEN,34-017,90,11,3,9,72.7,1.8,9,19,47.4,31,8,38.7,37.9,8,87.5,53.8,21,0,0.0,0,4.0,53af52f3,Kasper Schmeichel,,True
+Burnley,Crystal Palace,1606152600,es ESP,33-318,90,4,1,3,75.0,0.8,5,23,21.7,37,11,48.6,34.5,5,100.0,60.8,9,1,11.1,7,22.0,ab13a5aa,Vicente Guaita,,True
+Wolverhampton Wanderers,Southampton,1606161600,eng ENG,30-356,90,9,1,8,88.9,1.3,2,13,15.4,28,3,39.3,33.9,8,25.0,22.8,15,1,6.7,0,10.3,36c2ca73,Alex McCarthy,,True
+Crystal Palace,Newcastle United,1606507200,eng ENG,30-050,90,3,0,3,100.0,0.4,12,26,46.2,24,4,66.7,42.8,10,100.0,66.8,19,1,5.3,0,5.0,cde3309f,Karl Darlow,,True
+Brighton & Hove Albion,Liverpool,1606566600,br BRA,28-057,90,3,1,2,100.0,1.3,6,13,46.2,25,7,28.0,31.5,11,54.5,40.1,11,0,0.0,6,21.8,7a2e46a8,Alisson,,True
+Manchester City,Burnley,1606575600,nir NIR,24-030,90,6,5,1,16.7,2.8,10,28,35.7,23,1,87.0,47.3,9,88.9,59.2,8,0,0.0,1,31.0,4879f8cb,Bailey Peacock-Farrell,,True
+Everton,Leeds United,1606584600,fr FRA,20-271,90,8,0,8,100.0,1.4,3,6,50.0,29,15,17.2,24.5,8,12.5,18.4,10,0,0.0,0,17.5,6b625ac2,Illan Meslier,,True
+West Bromwich Albion,Sheffield United,1606593600,eng ENG,22-198,90,6,1,5,83.3,0.9,10,23,43.5,27,4,59.3,41.9,8,87.5,62.5,19,2,10.5,0,4.7,466fb2c5,Aaron Ramsdale,,True
+Southampton,Manchester United,1606658400,es ESP,30-022,45,3,2,1,33.3,0.4,,2,,4,1,,39.0,2,,17.5,7,,,,,7ba6d84e,David de Gea,,True
+Southampton,Manchester United,1606658400,eng ENG,23-262,45,2,0,2,100.0,0.0,0,2,0.0,10,4,20.0,28.7,2,0.0,15.0,4,0,0.0,0,,e5a76dfe,Dean Henderson,,True
+Chelsea,Tottenham Hotspur,1606667400,fr FRA,33-339,90,3,0,3,100.0,0.4,3,8,37.5,28,7,25.0,27.3,10,10.0,17.2,24,2,8.3,0,7.5,8f62b6ee,Hugo Lloris,,True
+Arsenal,Wolverhampton Wanderers,1606677300,pt POR,32-288,90,2,1,1,50.0,0.3,9,15,60.0,20,1,30.0,30.8,9,100.0,57.9,27,0,0.0,0,12.0,79b0d6a0,Rui Patrício,,True
+Leicester City,Fulham,1606757400,fr FRA,27-277,90,3,1,2,66.7,0.9,5,17,29.4,16,1,68.8,45.0,6,100.0,56.2,19,1,5.3,0,6.5,2f965a72,Alphonse Areola,,True
+West Ham United,Aston Villa,1606766400,ar ARG,28-089,90,2,2,0,0.0,0.5,2,9,22.2,26,4,23.1,27.3,8,37.5,33.9,10,1,10.0,1,15.5,7956236f,Emiliano Martínez,,True
+Burnley,Everton,1607171400,eng ENG,26-273,90,3,1,2,66.7,1.2,5,23,21.7,45,7,44.4,34.9,3,100.0,73.7,23,1,4.3,2,14.2,4806ec67,Jordan Pickford,,True
+Manchester City,Fulham,1607180400,fr FRA,27-282,90,5,2,3,80.0,2.7,4,14,28.6,18,6,44.4,30.7,15,40.0,33.3,10,0,0.0,0,4.0,2f965a72,Alphonse Areola,,True
+West Ham United,Manchester United,1607189400,eng ENG,23-268,90,6,1,5,83.3,1.3,2,6,33.3,20,8,25.0,27.2,8,12.5,20.4,20,0,0.0,3,25.0,e5a76dfe,Dean Henderson,,True
+Chelsea,Leeds United,1607198400,fr FRA,20-278,90,10,3,7,70.0,3.4,3,3,100.0,28,8,7.1,21.5,8,12.5,18.6,13,0,0.0,0,9.0,6b625ac2,Illan Meslier,,True
+West Bromwich Albion,Crystal Palace,1607256000,es ESP,33-331,90,4,1,3,75.0,0.5,1,5,20.0,21,3,14.3,27.3,4,50.0,40.8,12,0,0.0,1,34.0,ab13a5aa,Vicente Guaita,,True
+Sheffield United,Leicester City,1607264100,dk DEN,34-031,90,1,1,0,0.0,0.4,2,4,50.0,20,5,20.0,30.4,3,0.0,23.0,16,2,12.5,0,3.0,53af52f3,Kasper Schmeichel,,True
+Tottenham Hotspur,Arsenal,1607272200,de GER,28-277,90,3,2,1,33.3,0.9,1,2,50.0,29,4,3.4,19.4,2,50.0,39.0,6,0,0.0,2,32.0,2628fd2b,Bernd Leno,,True
+Liverpool,Wolverhampton Wanderers,1607282100,pt POR,32-295,90,6,4,3,33.3,2.3,8,11,72.7,9,3,44.4,33.0,7,100.0,53.0,13,0,0.0,0,,79b0d6a0,Rui Patrício,,True
+Brighton & Hove Albion,Southampton,1607371200,eng ENG,31-004,90,4,1,3,100.0,1.8,6,17,35.3,21,2,61.9,41.7,6,66.7,40.5,13,3,23.1,0,4.4,36c2ca73,Alex McCarthy,,True
+Leeds United,West Ham United,1607716800,pl POL,35-237,90,7,1,6,100.0,1.3,9,17,52.9,25,9,48.0,37.7,6,83.3,51.7,22,2,9.1,0,7.8,9328b835,Łukasz Fabiański,,True
+Wolverhampton Wanderers,Aston Villa,1607776200,ar ARG,28-101,90,7,0,7,100.0,1.3,3,12,25.0,29,5,41.4,37.7,1,0.0,20.0,16,0,0.0,1,25.0,7956236f,Emiliano Martínez,,True
+Newcastle United,West Bromwich Albion,1607785200,eng ENG,27-262,90,6,2,4,66.7,1.7,5,14,35.7,22,6,40.9,35.4,5,100.0,61.8,17,1,5.9,3,18.8,9e5708be,Sam Johnstone,,True
+Manchester United,Manchester City,1607794200,br BRA,27-117,90,2,0,2,100.0,0.2,4,11,36.4,28,5,25.0,32.0,6,66.7,54.7,4,0,0.0,0,,3bb7b8b4,Ederson,,True
+Everton,Chelsea,1607803200,sn SEN,28-286,90,4,1,3,100.0,1.4,4,9,44.4,33,0,27.3,26.7,7,0.0,14.0,11,1,9.1,4,19.9,33887998,Edouard Mendy,,True
+Southampton,Sheffield United,1607860800,eng ENG,22-213,90,6,3,3,50.0,2.4,14,35,40.0,31,2,83.9,51.4,9,100.0,64.7,15,0,0.0,1,11.3,466fb2c5,Aaron Ramsdale,,True
+Crystal Palace,Tottenham Hotspur,1607868900,fr FRA,33-353,90,5,1,4,80.0,1.2,5,9,55.6,15,7,40.0,31.5,6,50.0,30.8,12,0,0.0,0,4.0,8f62b6ee,Hugo Lloris,,True
+Fulham,Liverpool,1607877000,br BRA,28-072,90,5,1,4,80.0,1.7,1,2,50.0,20,2,5.0,23.2,7,14.3,23.4,15,0,0.0,5,27.2,7a2e46a8,Alisson,,True
+Leicester City,Brighton & Hove Albion,1607886900,au AUS,28-249,90,6,3,3,50.0,1.7,4,7,57.1,35,8,17.1,25.8,8,12.5,21.9,14,0,0.0,0,9.7,4535e4bb,Mathew Ryan,,True
+Arsenal,Burnley,1607886900,eng ENG,28-238,90,6,0,6,100.0,1.3,7,24,29.2,25,3,84.0,52.9,5,60.0,45.0,29,1,3.4,7,20.7,4b40d9ca,Nick Pope,,True
+Wolverhampton Wanderers,Chelsea,1608055200,sn SEN,28-289,90,4,2,2,50.0,0.7,3,4,75.0,22,6,18.2,24.9,7,0.0,16.9,14,0,0.0,0,10.5,33887998,Edouard Mendy,,True
+Manchester City,West Bromwich Albion,1608062400,eng ENG,27-265,90,7,1,6,85.7,1.8,10,33,30.3,24,3,70.8,48.4,16,100.0,61.1,26,1,3.8,2,17.0,9e5708be,Sam Johnstone,,True
+Arsenal,Southampton,1608141600,eng ENG,31-013,90,4,1,3,75.0,0.9,3,12,25.0,25,3,44.0,34.4,4,25.0,35.8,9,0,0.0,2,23.5,36c2ca73,Alex McCarthy,,True
+Leicester City,Everton,1608141600,se SWE,30-343,90,2,0,2,100.0,0.2,8,23,34.8,26,2,69.2,46.8,6,83.3,56.3,12,0,0.0,0,10.5,e7ee38c3,Robin Olsen,,True
+Leeds United,Newcastle United,1608141600,eng ENG,30-069,90,10,5,5,50.0,3.7,10,27,37.0,16,1,87.5,52.8,13,100.0,62.5,26,1,3.8,0,7.0,cde3309f,Karl Darlow,,True
+Liverpool,Tottenham Hotspur,1608148800,fr FRA,33-356,90,11,2,9,81.8,2.3,7,16,43.8,22,6,59.1,42.0,5,60.0,36.6,20,1,5.0,0,6.5,8f62b6ee,Hugo Lloris,,True
+West Ham United,Crystal Palace,1608148800,es ESP,33-341,90,2,1,1,50.0,0.9,6,22,27.3,17,3,58.8,40.3,12,100.0,62.9,21,1,4.8,0,5.0,ab13a5aa,Vicente Guaita,,True
+Fulham,Brighton & Hove Albion,1608148800,es ESP,23-028,90,4,0,4,100.0,,,,,,,,,,,,,,,,,cce694d4,Robert Sanchez,,True
+Aston Villa,Burnley,1608228000,eng ENG,28-242,90,6,0,6,100.0,0.8,10,34,29.4,24,4,79.2,49.9,15,100.0,65.1,19,3,15.8,1,10.6,4b40d9ca,Nick Pope,,True
+Sheffield United,Manchester United,1608235200,eng ENG,23-280,90,6,2,4,66.7,1.5,0,6,0.0,20,5,25.0,30.4,8,12.5,24.8,14,0,0.0,2,11.7,e5a76dfe,Dean Henderson,,True
+Crystal Palace,Liverpool,1608381000,br BRA,28-078,90,3,0,3,100.0,0.3,1,4,25.0,27,5,11.1,25.1,3,33.3,28.7,7,0,0.0,2,15.6,7a2e46a8,Alisson,,True
+Southampton,Manchester City,1608390000,br BRA,27-124,90,3,0,3,100.0,0.1,4,12,33.3,29,6,31.0,34.9,6,50.0,39.0,18,1,5.6,0,3.5,3bb7b8b4,Ederson,,True
+Everton,Arsenal,1608399000,de GER,28-290,90,2,2,1,0.0,0.5,2,3,66.7,21,6,9.5,22.0,8,12.5,28.4,13,1,7.7,0,12.5,2628fd2b,Bernd Leno,,True
+Newcastle United,Fulham,1608408000,fr FRA,27-296,90,5,1,4,100.0,1.3,4,16,25.0,15,1,66.7,41.9,9,66.7,44.8,13,1,7.7,0,7.0,2f965a72,Alphonse Areola,,True
+Brighton & Hove Albion,Sheffield United,1608465600,eng ENG,22-220,90,4,1,3,75.0,1.0,5,25,20.0,15,1,86.7,58.9,12,100.0,69.4,29,0,0.0,0,7.8,466fb2c5,Aaron Ramsdale,,True
+Tottenham Hotspur,Leicester City,1608473700,dk DEN,34-045,90,3,0,3,100.0,0.4,4,19,21.1,29,4,51.7,40.9,6,66.7,50.0,19,0,0.0,0,,53af52f3,Kasper Schmeichel,,True
+Manchester United,Leeds United,1608481800,fr FRA,20-293,90,14,6,8,64.3,3.6,2,5,40.0,28,8,17.9,25.3,4,0.0,17.3,11,1,9.1,1,13.8,6b625ac2,Illan Meslier,,True
+West Bromwich Albion,Aston Villa,1608491700,ar ARG,28-109,90,1,0,1,100.0,0.3,1,2,50.0,12,5,16.7,25.4,0,,,8,0,0.0,2,19.0,7956236f,Emiliano Martínez,,True
+Burnley,Wolverhampton Wanderers,1608571800,pt POR,32-310,90,4,2,2,50.0,1.6,5,10,50.0,7,3,57.1,37.1,11,54.5,33.4,12,2,16.7,0,6.0,79b0d6a0,Rui Patrício,,True
+Chelsea,West Ham United,1608580800,pl POL,35-247,90,7,3,4,57.1,2.6,3,12,25.0,25,6,44.0,37.3,7,14.3,27.4,15,0,0.0,1,21.0,9328b835,Łukasz Fabiański,,True
+Leicester City,Manchester United,1608985800,es ESP,30-049,90,2,2,1,0.0,0.5,1,3,33.3,14,3,21.4,27.0,5,0.0,19.2,19,0,0.0,2,27.0,7ba6d84e,David de Gea,,True
+Aston Villa,Crystal Palace,1608994800,es ESP,33-351,90,9,3,6,66.7,3.5,4,13,30.8,22,7,36.4,32.8,6,83.3,53.7,15,0,0.0,2,28.0,ab13a5aa,Vicente Guaita,,True
+Fulham,Southampton,1608994800,eng ENG,31-023,90,1,0,1,100.0,0.1,7,18,38.9,33,4,48.5,37.0,3,66.7,47.7,17,2,11.8,2,16.4,36c2ca73,Alex McCarthy,,True
+Arsenal,Chelsea,1609003800,sn SEN,28-300,90,7,3,4,71.4,2.9,6,14,42.9,32,4,31.3,32.2,7,57.1,44.4,14,0,0.0,1,20.0,33887998,Edouard Mendy,,True
+Sheffield United,Everton,1609012800,eng ENG,26-294,90,1,0,1,100.0,0.7,11,20,55.0,30,3,53.3,38.6,5,80.0,62.6,14,1,7.1,0,8.4,4806ec67,Jordan Pickford,,True
+Manchester City,Newcastle United,1609012800,eng ENG,30-079,90,6,2,4,66.7,3.5,11,21,52.4,18,1,88.9,54.5,5,100.0,58.8,8,0,0.0,0,10.3,cde3309f,Karl Darlow,,True
+Leeds United,Burnley,1609070400,eng ENG,28-252,90,4,1,3,100.0,2.0,9,20,45.0,19,5,63.2,42.5,9,88.9,55.2,10,0,0.0,4,22.6,4b40d9ca,Nick Pope,,True
+West Ham United,Brighton & Hove Albion,1609078500,es ESP,23-039,90,4,2,2,50.0,,,,,,,,,,,,,,,,,cce694d4,Robert Sanchez,,True
+Liverpool,West Bromwich Albion,1609086600,eng ENG,27-277,90,2,1,1,50.0,1.5,8,31,25.8,16,1,100.0,58.1,15,100.0,66.1,25,3,12.0,0,6.3,9e5708be,Sam Johnstone,,True
+Wolverhampton Wanderers,Tottenham Hotspur,1609096500,fr FRA,34-001,90,6,1,5,83.3,1.5,7,17,41.2,22,3,68.2,42.0,4,50.0,28.3,21,0,0.0,0,12.0,8f62b6ee,Hugo Lloris,,True
+Crystal Palace,Leicester City,1609167600,dk DEN,34-053,90,1,1,0,0.0,0.2,3,6,50.0,23,3,21.7,27.6,4,25.0,25.3,12,0,0.0,0,,53af52f3,Kasper Schmeichel,,True
+Chelsea,Aston Villa,1609176600,ar ARG,28-117,90,5,1,4,80.0,0.8,10,27,37.0,26,3,69.2,44.7,10,90.0,60.8,22,3,13.6,0,6.0,7956236f,Emiliano Martínez,,True
+West Bromwich Albion,Leeds United,1609264800,fr FRA,20-302,90,1,0,1,100.0,0.4,2,6,33.3,33,11,18.2,26.7,5,0.0,16.0,14,0,0.0,0,9.6,6b625ac2,Illan Meslier,,True
+Southampton,West Ham United,1609264800,pl POL,35-255,90,3,0,3,100.0,0.3,15,19,78.9,17,2,76.5,47.9,6,100.0,59.8,13,0,0.0,0,,9328b835,Łukasz Fabiański,,True
+Burnley,Sheffield United,1609264800,eng ENG,22-229,90,3,1,2,66.7,0.9,1,17,5.9,21,3,57.1,40.9,5,100.0,65.0,9,0,0.0,1,13.5,466fb2c5,Aaron Ramsdale,,True
+Brighton & Hove Albion,Arsenal,1609264800,de GER,28-300,90,2,0,2,100.0,0.3,2,16,12.5,37,8,29.7,28.5,7,71.4,52.1,18,0,0.0,1,13.7,2628fd2b,Bernd Leno,,True
+Manchester United,Wolverhampton Wanderers,1609272000,pt POR,32-318,90,3,1,2,66.7,0.8,8,14,57.1,19,6,52.6,37.8,12,33.3,28.8,14,2,14.3,0,7.3,79b0d6a0,Rui Patrício,,True
+Newcastle United,Liverpool,1609358400,br BRA,28-089,90,2,0,2,100.0,0.1,1,3,33.3,22,5,9.1,24.7,5,20.0,31.2,16,0,0.0,1,10.8,7a2e46a8,Alisson,,True
+Everton,West Ham United,1609522200,ie IRL,33-234,90,2,0,2,100.0,0.2,3,13,23.1,16,2,50.0,39.4,6,83.3,53.7,17,0,0.0,0,10.3,6385ebfb,Darren Randolph,,True
+Manchester United,Aston Villa,1609531200,ar ARG,28-121,90,9,2,7,88.9,1.8,5,17,29.4,25,10,44.0,36.1,10,60.0,47.0,13,0,0.0,4,26.6,7956236f,Emiliano Martínez,,True
+Tottenham Hotspur,Leeds United,1609590600,fr FRA,20-306,90,7,3,4,71.4,1.7,2,2,100.0,34,4,5.9,21.4,9,0.0,13.1,7,1,14.3,0,13.3,6b625ac2,Illan Meslier,,True
+Crystal Palace,Sheffield United,1609599600,eng ENG,22-233,90,4,2,2,50.0,1.2,5,13,38.5,29,5,34.5,35.0,3,100.0,70.3,10,3,30.0,1,9.3,466fb2c5,Aaron Ramsdale,,True
+Brighton & Hove Albion,Wolverhampton Wanderers,1609608600,pt POR,32-322,90,4,3,1,50.0,2.1,4,8,50.0,11,2,45.5,36.5,10,30.0,27.6,16,0,0.0,0,5.0,79b0d6a0,Rui Patrício,,True
+West Bromwich Albion,Arsenal,1609617600,de GER,28-304,90,3,0,3,100.0,0.9,0,6,0.0,27,7,14.8,25.1,3,66.7,45.7,17,1,5.9,0,11.0,2628fd2b,Bernd Leno,,True
+Newcastle United,Leicester City,1609683300,dk DEN,34-059,90,2,1,1,50.0,0.3,5,13,38.5,30,2,40.0,35.5,4,25.0,26.0,10,0,0.0,3,29.5,53af52f3,Kasper Schmeichel,,True
+Chelsea,Manchester City,1609691400,us USA,25-276,90,2,1,1,50.0,0.9,0,4,0.0,22,4,13.6,27.0,8,12.5,12.3,14,0,0.0,0,,42130443,Zack Steffen,,True
+Southampton,Liverpool,1609790400,br BRA,28-094,90,2,1,1,50.0,0.9,2,5,40.0,37,8,13.5,25.1,3,0.0,23.0,2,0,0.0,9,24.2,7a2e46a8,Alisson,,True
+Sheffield United,Newcastle United,1610474400,eng ENG,30-096,90,4,1,3,100.0,1.8,10,25,40.0,18,4,66.7,45.4,13,100.0,60.0,19,0,0.0,0,5.5,cde3309f,Karl Darlow,,True
+Burnley,Manchester United,1610482500,es ESP,30-066,90,0,0,0,,0.0,3,10,30.0,14,5,28.6,33.2,7,85.7,49.3,12,0,0.0,0,,7ba6d84e,David de Gea,,True
+Wolverhampton Wanderers,Everton,1610482500,eng ENG,26-311,90,3,1,2,66.7,0.6,3,6,50.0,23,6,17.4,25.6,4,50.0,36.3,18,0,0.0,0,3.0,4806ec67,Jordan Pickford,,True
+Manchester City,Brighton & Hove Albion,1610560800,es ESP,23-056,90,6,1,5,83.3,,,,,,,,,,,,,,,,,cce694d4,Robert Sanchez,,True
+Tottenham Hotspur,Fulham,1610568900,fr FRA,27-321,90,6,1,5,83.3,1.9,6,15,40.0,20,7,50.0,37.0,6,83.3,53.5,17,1,5.9,1,15.0,2f965a72,Alphonse Areola,,True
+Arsenal,Crystal Palace,1610654400,es ESP,34-004,90,4,0,4,100.0,0.2,3,12,25.0,17,3,52.9,37.6,7,42.9,39.4,19,0,0.0,1,15.3,ab13a5aa,Vicente Guaita,,True
+Wolverhampton Wanderers,West Bromwich Albion,1610800200,eng ENG,31-324,90,6,2,4,66.7,0.8,8,27,29.6,25,1,60.0,41.8,12,100.0,64.4,25,0,0.0,0,7.0,e608ed4c,David Button,,True
+West Ham United,Burnley,1610809200,eng ENG,28-272,90,3,1,2,66.7,1.2,9,22,40.9,24,5,70.8,46.4,6,83.3,67.0,21,0,0.0,1,18.3,4b40d9ca,Nick Pope,,True
+Leeds United,Brighton & Hove Albion,1610809200,es ESP,23-059,90,2,0,2,100.0,,,,,,,,,,,,,,,,,cce694d4,Robert Sanchez,,True
+Fulham,Chelsea,1610818200,sn SEN,28-321,90,2,0,2,100.0,0.5,2,10,20.0,26,4,26.9,32.7,6,50.0,36.7,7,0,0.0,0,12.0,33887998,Edouard Mendy,,True
+Leicester City,Southampton,1610827200,eng ENG,31-044,90,4,2,2,50.0,1.5,7,22,31.8,40,7,40.0,33.4,7,85.7,49.7,13,2,15.4,2,16.7,36c2ca73,Alex McCarthy,,True
+Sheffield United,Tottenham Hotspur,1610892000,fr FRA,34-022,90,5,1,4,80.0,0.8,8,13,61.5,37,8,29.7,32.9,5,40.0,37.0,17,1,5.9,0,7.7,8f62b6ee,Hugo Lloris,,True
+Liverpool,Manchester United,1610901000,es ESP,30-071,90,3,0,3,100.0,0.2,6,12,50.0,17,6,47.1,37.5,10,40.0,27.8,14,0,0.0,0,7.5,7ba6d84e,David de Gea,,True
+Manchester City,Crystal Palace,1610910900,es ESP,34-007,90,6,4,2,33.3,1.7,3,15,20.0,25,7,48.0,35.9,5,60.0,42.0,22,1,4.5,0,8.5,ab13a5aa,Vicente Guaita,,True
+Arsenal,Newcastle United,1611000000,eng ENG,30-102,90,6,3,3,50.0,2.2,11,23,47.8,25,3,60.0,44.2,12,66.7,48.5,15,1,6.7,0,6.0,cde3309f,Karl Darlow,,True
+West Ham United,West Bromwich Albion,1611079200,eng ENG,27-300,90,6,2,4,66.7,2.7,5,18,27.8,26,6,50.0,41.0,6,83.3,65.0,20,1,5.0,0,7.3,9e5708be,Sam Johnstone,,True
+Leicester City,Chelsea,1611087300,sn SEN,28-324,90,6,2,4,66.7,1.0,5,7,71.4,37,5,18.9,25.7,5,0.0,8.6,15,1,6.7,0,10.5,33887998,Edouard Mendy,,True
+Manchester City,Aston Villa,1611165600,ar ARG,28-140,90,9,2,0,88.9,2.8,6,24,25.0,37,3,51.4,42.1,8,62.5,40.6,25,2,8.0,0,6.3,7956236f,Emiliano Martínez,,True
+Fulham,Manchester United,1611173700,es ESP,30-074,90,5,1,4,80.0,0.9,1,7,14.3,19,7,15.8,21.7,7,57.1,41.0,11,0,0.0,5,21.1,7ba6d84e,David de Gea,,True
+Liverpool,Burnley,1611259200,eng ENG,28-277,90,6,0,6,100.0,1.0,11,32,34.4,25,4,72.0,53.2,15,93.3,65.6,31,1,3.2,5,16.6,4b40d9ca,Nick Pope,,True
+Aston Villa,Newcastle United,1611432000,eng ENG,30-107,90,5,2,3,60.0,2.1,5,13,38.5,17,4,41.2,38.3,9,66.7,49.4,14,0,0.0,0,8.5,cde3309f,Karl Darlow,,True
+Newcastle United,Leeds United,1611684000,fr FRA,20-330,90,5,1,4,80.0,1.2,11,24,45.8,35,5,40.0,30.3,13,76.9,43.9,21,1,4.8,1,11.7,6b625ac2,Illan Meslier,,True
+Crystal Palace,West Ham United,1611684000,pl POL,35-283,90,3,2,1,33.3,1.2,4,19,21.1,23,2,60.9,42.7,7,71.4,51.1,12,1,8.3,1,13.5,9328b835,Łukasz Fabiański,,True
+West Bromwich Albion,Manchester City,1611692100,br BRA,27-162,90,1,0,1,100.0,0.2,0,2,0.0,21,1,9.5,25.1,1,0.0,4.0,7,0,0.0,2,15.8,3bb7b8b4,Ederson,,True
+Southampton,Arsenal,1611692100,de GER,28-328,90,5,1,4,80.0,1.1,2,10,20.0,23,5,13.0,28.6,9,77.8,54.3,17,0,0.0,0,7.0,2628fd2b,Bernd Leno,,True
+Chelsea,Wolverhampton Wanderers,1611770400,pt POR,32-347,90,5,0,5,100.0,1.1,6,16,37.5,16,3,81.3,46.6,8,37.5,29.1,27,1,3.7,0,4.0,79b0d6a0,Rui Patrício,,True
+Burnley,Aston Villa,1611770400,ar ARG,28-147,90,5,3,2,40.0,1.7,9,25,36.0,42,5,45.2,39.0,7,85.7,56.3,14,3,21.4,4,18.6,7956236f,Emiliano Martínez,,True
+Brighton & Hove Albion,Fulham,1611775800,fr FRA,27-335,90,5,0,5,100.0,1.4,4,17,23.5,21,5,42.9,34.4,9,88.9,51.8,28,1,3.6,0,7.6,2f965a72,Alphonse Areola,,True
+Everton,Leicester City,1611778500,dk DEN,34-083,90,2,1,1,50.0,0.9,1,3,33.3,20,4,15.0,27.3,5,0.0,21.6,15,0,0.0,1,18.0,53af52f3,Kasper Schmeichel,,True
+Manchester United,Sheffield United,1611778500,eng ENG,22-258,90,4,1,3,75.0,0.5,4,26,15.4,18,0,94.4,60.8,9,100.0,68.0,19,2,10.5,4,19.7,466fb2c5,Aaron Ramsdale,,True
+Tottenham Hotspur,Liverpool,1611864000,br BRA,28-118,90,2,1,1,50.0,0.4,1,3,33.3,35,9,5.7,25.1,3,33.3,41.3,3,1,33.3,2,15.3,7a2e46a8,Alisson,,True
+Everton,Newcastle United,1612009800,eng ENG,30-114,90,3,0,3,100.0,0.4,5,25,20.0,19,3,78.9,47.4,11,90.9,61.0,20,2,10.0,3,10.8,cde3309f,Karl Darlow,,True
+Crystal Palace,Wolverhampton Wanderers,1612018800,pt POR,32-350,90,2,1,1,50.0,0.1,1,4,25.0,7,3,42.9,35.1,9,11.1,17.4,2,0,0.0,0,3.0,79b0d6a0,Rui Patrício,,True
+Manchester City,Sheffield United,1612018800,eng ENG,22-261,90,5,1,4,80.0,2.1,9,25,36.0,25,1,80.0,51.6,5,100.0,66.2,17,1,5.9,0,5.0,466fb2c5,Aaron Ramsdale,,True
+West Bromwich Albion,Fulham,1612018800,fr FRA,27-338,90,3,2,1,33.3,1.3,2,7,28.6,18,3,11.1,22.2,8,62.5,40.4,12,0,0.0,1,32.0,2f965a72,Alphonse Areola,,True
+Arsenal,Manchester United,1612027800,es ESP,30-084,90,3,0,3,100.0,0.3,5,9,55.6,17,3,41.2,32.7,11,18.2,22.4,12,0,0.0,0,,7ba6d84e,David de Gea,,True
+Southampton,Aston Villa,1612036800,ar ARG,28-150,90,4,0,4,100.0,0.6,9,21,42.9,29,1,51.7,40.5,9,66.7,51.6,18,0,0.0,1,9.7,7956236f,Emiliano Martínez,,True
+Chelsea,Burnley,1612094400,eng ENG,28-287,90,8,2,6,75.0,1.3,13,32,40.6,20,3,75.0,48.4,17,100.0,62.1,12,1,8.3,0,12.3,4b40d9ca,Nick Pope,,True
+Leicester City,Leeds United,1612101600,fr FRA,20-335,90,8,1,7,87.5,2.0,1,6,16.7,38,13,13.2,27.6,7,14.3,23.1,10,0,0.0,0,5.5,6b625ac2,Illan Meslier,,True
+West Ham United,Liverpool,1612110600,br BRA,28-121,90,2,1,1,50.0,0.6,2,5,40.0,32,4,9.4,22.7,7,28.6,24.3,15,0,0.0,5,26.7,7a2e46a8,Alisson,,True
+Brighton & Hove Albion,Tottenham Hotspur,1612120500,fr FRA,34-036,90,3,1,2,66.7,0.5,1,8,12.5,20,5,35.0,33.7,10,10.0,22.8,20,0,0.0,0,,8f62b6ee,Hugo Lloris,,True
+Sheffield United,West Bromwich Albion,1612288800,eng ENG,27-314,90,6,2,4,66.7,1.4,7,26,26.9,26,4,69.2,48.2,10,80.0,50.2,23,0,0.0,0,5.0,9e5708be,Sam Johnstone,,True
+Wolverhampton Wanderers,Arsenal,1612288800,de GER,28-335,71,5,2,3,80.0,1.5,2,3,66.7,19,4,10.5,20.3,4,25.0,26.0,17,2,11.8,1,13.0,2628fd2b,Bernd Leno,,True
+Wolverhampton Wanderers,Arsenal,1612288800,is ISL,25-350,16,2,0,2,100.0,0.1,0,3,0.0,10,2,30.0,28.2,1,0.0,15.0,3,0,0.0,0,,8fa8f8d2,Rúnar Alex Rúnarsson,,True
+Manchester United,Southampton,1612296900,eng ENG,31-061,90,14,9,6,42.9,5.8,3,23,13.0,22,2,59.1,42.3,10,100.0,60.4,16,0,0.0,0,,36c2ca73,Alex McCarthy,,True
+Newcastle United,Crystal Palace,1612296900,es ESP,34-023,90,5,1,4,80.0,0.8,1,24,4.2,23,4,60.9,43.8,10,100.0,61.4,26,0,0.0,0,6.0,ab13a5aa,Vicente Guaita,,True
+Burnley,Manchester City,1612375200,br BRA,27-170,90,0,0,0,,0.0,3,6,50.0,33,7,12.1,24.6,3,66.7,46.3,10,2,20.0,1,12.3,3bb7b8b4,Ederson,,True
+Fulham,Leicester City,1612375200,dk DEN,34-090,90,1,0,1,100.0,0.1,8,18,44.4,29,8,34.5,40.7,10,80.0,59.2,17,2,11.8,1,12.3,53af52f3,Kasper Schmeichel,,True
+Leeds United,Everton,1612380600,se SWE,31-026,90,7,1,6,85.7,1.5,9,22,40.9,22,1,50.0,36.7,11,100.0,65.5,22,1,4.5,0,8.0,e7ee38c3,Robin Olsen,,True
+Liverpool,Brighton & Hove Albion,1612383300,es ESP,23-077,90,1,0,1,100.0,,,,,,,,,,,,,,,,,cce694d4,Robert Sanchez,,True
+Aston Villa,West Ham United,1612383300,pl POL,35-291,90,2,1,1,50.0,0.7,8,15,53.3,14,2,57.1,41.9,8,87.5,52.5,20,1,5.0,0,8.0,9328b835,Łukasz Fabiański,,True
+Tottenham Hotspur,Chelsea,1612468800,sn SEN,28-340,90,2,0,2,100.0,0.3,1,6,16.7,26,4,7.7,19.7,5,80.0,47.0,10,0,0.0,2,23.7,33887998,Edouard Mendy,,True
+Aston Villa,Arsenal,1612614600,au AUS,28-304,90,8,1,7,87.5,2.6,1,1,100.0,14,6,0.0,20.6,3,33.3,34.3,6,0,0.0,0,4.0,4535e4bb,Mathew Ryan,,True
+Burnley,Brighton & Hove Albion,1612623600,es ESP,23-080,90,7,1,6,85.7,,,,,,,,,,,,,,,,,cce694d4,Robert Sanchez,,True
+Newcastle United,Southampton,1612623600,eng ENG,31-065,90,4,3,1,25.0,0.9,0,3,0.0,21,4,14.3,22.2,4,0.0,12.5,3,0,0.0,4,22.0,36c2ca73,Alex McCarthy,,True
+Fulham,West Ham United,1612632600,pl POL,35-294,90,2,0,2,100.0,0.1,6,20,30.0,17,3,52.9,43.3,14,78.6,58.9,15,2,13.3,0,7.7,9328b835,Łukasz Fabiański,,True
+Manchester United,Everton,1612641600,se SWE,31-029,90,5,3,2,40.0,1.4,6,12,50.0,26,3,34.6,32.7,7,42.9,36.3,19,1,5.3,0,3.5,e7ee38c3,Robin Olsen,,True
+Tottenham Hotspur,West Bromwich Albion,1612699200,eng ENG,27-319,90,6,2,4,66.7,1.5,11,28,39.3,31,7,67.7,43.9,8,87.5,59.9,14,1,7.1,1,16.5,9e5708be,Sam Johnstone,,True
+Wolverhampton Wanderers,Leicester City,1612706400,dk DEN,34-094,90,1,0,1,100.0,0.1,2,4,50.0,11,1,27.3,29.0,9,11.1,19.6,14,1,7.1,0,6.0,53af52f3,Kasper Schmeichel,,True
+Liverpool,Manchester City,1612715400,br BRA,27-174,90,3,1,2,100.0,1.2,3,8,37.5,26,4,26.9,31.5,2,50.0,36.5,16,1,6.3,0,11.0,3bb7b8b4,Ederson,,True
+Sheffield United,Chelsea,1612725300,sn SEN,28-343,90,3,1,3,66.7,0.5,3,6,50.0,40,4,12.5,26.3,6,16.7,23.7,8,1,12.5,0,11.0,33887998,Edouard Mendy,,True
+Leeds United,Crystal Palace,1612814400,es ESP,34-029,90,7,2,5,71.4,2.0,5,13,38.5,14,4,14.3,28.6,12,91.7,54.7,13,1,7.7,0,4.3,ab13a5aa,Vicente Guaita,,True
+Leicester City,Liverpool,1613219400,br BRA,28-134,90,6,3,3,50.0,2.0,2,3,66.7,29,9,3.4,23.2,4,50.0,35.0,5,0,0.0,4,25.8,7a2e46a8,Alisson,,True
+Crystal Palace,Burnley,1613228400,eng ENG,28-300,90,3,0,3,100.0,0.2,11,21,52.4,21,2,76.2,51.3,7,71.4,55.4,21,1,4.8,1,18.0,4b40d9ca,Nick Pope,,True
+Manchester City,Tottenham Hotspur,1613237400,fr FRA,34-049,90,6,3,3,66.7,2.1,7,9,77.8,16,4,37.5,30.5,6,50.0,28.2,10,0,0.0,0,,8f62b6ee,Hugo Lloris,,True
+Brighton & Hove Albion,Aston Villa,1613246400,ar ARG,28-164,90,9,0,9,100.0,2.3,8,15,53.3,22,5,54.5,39.7,6,50.0,41.0,18,0,0.0,0,13.0,7956236f,Emiliano Martínez,,True
+Southampton,Wolverhampton Wanderers,1613304000,pt POR,32-365,90,3,1,2,66.7,1.5,4,13,30.8,23,3,52.2,38.9,3,33.3,39.3,7,1,14.3,2,17.5,79b0d6a0,Rui Patrício,,True
+West Bromwich Albion,Manchester United,1613311200,es ESP,30-099,90,3,1,2,66.7,0.8,1,1,100.0,13,2,7.7,24.9,8,0.0,13.0,14,0,0.0,4,18.2,7ba6d84e,David de Gea,,True
+Arsenal,Leeds United,1613320200,fr FRA,20-349,90,5,4,1,40.0,2.3,3,16,18.8,51,7,29.4,29.7,4,25.0,22.5,6,0,0.0,0,18.5,6b625ac2,Illan Meslier,,True
+Everton,Fulham,1613329200,fr FRA,27-353,90,2,0,2,100.0,0.1,3,10,30.0,20,2,40.0,33.8,6,33.3,33.5,17,0,0.0,0,8.5,2f965a72,Alphonse Areola,,True
+West Ham United,Sheffield United,1613412000,eng ENG,22-277,90,9,3,6,77.8,3.1,4,17,23.5,27,6,51.9,36.2,3,100.0,66.7,14,0,0.0,0,7.0,466fb2c5,Aaron Ramsdale,,True
+Chelsea,Newcastle United,1613419200,eng ENG,30-130,90,5,2,3,60.0,0.9,8,22,36.4,20,5,65.0,42.1,11,81.8,57.7,17,0,0.0,3,13.7,cde3309f,Karl Darlow,,True
+Burnley,Fulham,1613584800,fr FRA,27-356,90,3,1,2,66.7,0.5,1,10,10.0,16,4,43.8,36.6,7,42.9,34.9,16,1,6.3,1,7.9,2f965a72,Alphonse Areola,,True
+Everton,Manchester City,1613592900,br BRA,27-184,90,2,1,1,50.0,1.1,1,4,25.0,27,6,14.8,25.9,2,0.0,23.5,9,0,0.0,2,16.8,3bb7b8b4,Ederson,,True
+Wolverhampton Wanderers,Leeds United,1613764800,fr FRA,20-354,90,5,1,5,80.0,0.5,3,10,30.0,27,5,37.0,35.8,6,0.0,16.2,10,1,10.0,1,11.5,6b625ac2,Illan Meslier,,True
+Southampton,Chelsea,1613824200,sn SEN,28-356,90,1,1,0,0.0,0.5,3,6,50.0,38,4,15.8,27.1,5,0.0,13.4,7,1,14.3,1,13.8,33887998,Edouard Mendy,,True
+Burnley,West Bromwich Albion,1613833200,eng ENG,27-332,90,1,0,1,100.0,0.0,13,36,36.1,31,3,83.9,48.7,11,90.9,64.7,18,1,5.6,1,11.5,9e5708be,Sam Johnstone,,True
+Liverpool,Everton,1613842200,eng ENG,26-350,90,6,0,6,100.0,1.3,9,33,27.3,28,3,78.6,55.8,11,100.0,75.1,19,1,5.3,0,5.0,4806ec67,Jordan Pickford,,True
+Fulham,Sheffield United,1613851200,eng ENG,22-282,90,5,1,4,80.0,0.7,10,28,35.7,27,0,74.1,53.1,9,88.9,71.4,16,0,0.0,1,9.8,466fb2c5,Aaron Ramsdale,,True
+West Ham United,Tottenham Hotspur,1613908800,fr FRA,34-057,90,4,2,2,50.0,1.7,3,8,37.5,22,3,36.4,31.2,8,0.0,13.5,9,1,11.1,1,12.3,8f62b6ee,Hugo Lloris,,True
+Aston Villa,Leicester City,1613916300,dk DEN,34-108,90,2,1,1,50.0,1.0,3,11,27.3,17,2,47.1,35.5,7,42.9,39.1,20,0,0.0,2,16.5,53af52f3,Kasper Schmeichel,,True
+Arsenal,Manchester City,1613925000,br BRA,27-188,90,1,0,1,100.0,0.1,8,21,38.1,35,3,37.1,37.6,9,88.9,65.0,10,0,0.0,1,18.5,3bb7b8b4,Ederson,,True
+Manchester United,Newcastle United,1613934000,eng ENG,30-136,90,7,3,4,71.4,2.0,3,22,13.6,21,1,76.2,48.9,7,85.7,58.0,11,0,0.0,1,21.0,cde3309f,Karl Darlow,,True
+Brighton & Hove Albion,Crystal Palace,1614024000,es ESP,34-043,90,5,1,4,80.0,1.6,8,20,40.0,19,2,52.6,39.2,15,66.7,50.1,29,0,0.0,0,14.5,ab13a5aa,Vicente Guaita,,True
+Leeds United,Southampton,1614103200,eng ENG,31-082,90,7,3,4,57.1,2.5,1,10,10.0,27,8,18.5,26.0,8,62.5,40.9,8,3,37.5,0,3.7,36c2ca73,Alex McCarthy,,True
+Manchester City,West Ham United,1614429000,ie IRL,33-291,90,3,2,1,33.3,0.4,3,9,33.3,13,0,61.5,47.4,6,16.7,22.2,14,0,0.0,2,19.7,6385ebfb,Darren Randolph,,True
+West Bromwich Albion,Brighton & Hove Albion,1614438000,es ESP,23-101,90,2,1,1,50.0,,,,,,,,,,,,,,,,,cce694d4,Robert Sanchez,,True
+Leeds United,Aston Villa,1614447000,ar ARG,28-178,90,3,0,3,100.0,0.3,11,27,40.7,24,5,66.7,43.5,11,100.0,65.3,25,4,16.0,0,6.2,7956236f,Emiliano Martínez,,True
+Newcastle United,Wolverhampton Wanderers,1614456000,pt POR,33-012,90,6,1,5,83.3,1.5,6,17,35.3,20,3,60.0,39.8,8,62.5,37.3,14,1,7.1,2,15.5,79b0d6a0,Rui Patrício,,True
+Crystal Palace,Fulham,1614513600,fr FRA,28-001,90,0,0,0,,0.0,1,2,50.0,17,3,11.8,22.4,0,,,9,0,0.0,0,,2f965a72,Alphonse Areola,,True
+Leicester City,Arsenal,1614513600,de GER,28-361,90,3,1,2,66.7,0.7,1,5,20.0,28,5,10.7,25.3,3,66.7,48.7,7,0,0.0,4,26.0,2628fd2b,Bernd Leno,,True
+Tottenham Hotspur,Burnley,1614520800,eng ENG,28-315,90,7,4,3,42.9,2.3,6,18,33.3,21,4,47.6,40.4,9,88.9,59.9,9,1,11.1,3,19.4,4b40d9ca,Nick Pope,,True
+Chelsea,Manchester United,1614529800,es ESP,30-113,90,6,0,6,100.0,1.3,2,5,40.0,19,7,26.3,30.9,10,0.0,14.4,14,0,0.0,0,9.0,7ba6d84e,David de Gea,,True
+Sheffield United,Liverpool,1614539700,es ESP,34-056,90,2,0,2,100.0,0.9,4,7,57.1,29,6,20.7,29.8,8,12.5,20.4,16,0,0.0,4,17.5,f76e6b4e,Adrián,,True
+Everton,Southampton,1614628800,eng ENG,32-349,90,1,1,0,0.0,0.7,3,15,20.0,28,5,46.4,37.4,4,50.0,41.5,12,1,8.3,1,12.4,c3e39f12,Fraser Forster,,True
+Manchester City,Wolverhampton Wanderers,1614715200,pt POR,33-015,90,10,4,7,60.0,3.7,2,11,18.2,17,4,64.7,40.5,9,0.0,6.7,18,1,5.6,0,6.0,79b0d6a0,Rui Patrício,,True
+Sheffield United,Aston Villa,1614794400,ar ARG,28-182,90,2,1,1,50.0,0.8,4,7,57.1,30,6,23.3,26.6,1,0.0,33.0,7,1,14.3,3,23.0,7956236f,Emiliano Martínez,,True
+Burnley,Leicester City,1614794400,dk DEN,34-118,90,7,1,6,85.7,2.4,6,16,37.5,37,9,37.8,32.8,5,40.0,38.0,20,3,15.0,0,5.3,53af52f3,Kasper Schmeichel,,True
+Crystal Palace,Manchester United,1614802500,eng ENG,23-356,90,2,0,2,100.0,0.5,1,1,100.0,8,4,12.5,21.0,5,0.0,16.6,9,1,11.1,2,26.3,e5a76dfe,Dean Henderson,,True
+West Bromwich Albion,Everton,1614880800,eng ENG,26-362,90,3,0,3,100.0,0.8,7,16,43.8,32,6,43.8,36.5,4,50.0,40.5,15,1,6.7,0,9.0,4806ec67,Jordan Pickford,,True
+Fulham,Tottenham Hotspur,1614880800,fr FRA,34-068,90,3,0,3,100.0,0.5,11,22,50.0,25,4,68.0,40.7,11,45.5,40.5,18,1,5.6,1,11.3,8f62b6ee,Hugo Lloris,,True
+Liverpool,Chelsea,1614888900,sn SEN,29-003,90,1,0,1,100.0,0.1,0,2,0.0,28,12,7.1,20.2,8,0.0,7.9,13,1,7.7,2,16.2,33887998,Edouard Mendy,,True
+Burnley,Arsenal,1615033800,de GER,29-002,90,5,1,4,80.0,1.5,0,8,0.0,35,13,14.3,23.7,6,50.0,34.5,14,1,7.1,0,7.5,2628fd2b,Bernd Leno,,True
+Sheffield United,Southampton,1615042800,eng ENG,32-354,90,2,0,2,100.0,0.3,6,27,22.2,35,3,54.3,40.8,8,100.0,68.9,17,2,11.8,4,21.8,c3e39f12,Fraser Forster,,True
+Aston Villa,Wolverhampton Wanderers,1615051800,pt POR,33-019,90,1,0,1,100.0,0.1,6,15,40.0,11,1,63.6,45.1,9,88.9,46.7,19,0,0.0,0,,79b0d6a0,Rui Patrício,,True
+Brighton & Hove Albion,Leicester City,1615060800,dk DEN,34-121,90,2,1,1,50.0,0.7,4,11,36.4,42,4,21.4,30.1,9,22.2,29.6,10,1,10.0,1,14.5,53af52f3,Kasper Schmeichel,,True
+West Bromwich Albion,Newcastle United,1615118400,sk SVK,32-051,90,3,0,3,100.0,0.6,3,11,27.3,24,5,20.8,27.0,15,40.0,35.1,29,3,10.3,0,7.6,3a949a25,Martin Dúbravka,,True
+Liverpool,Fulham,1615125600,fr FRA,28-008,90,3,0,3,100.0,0.3,4,16,25.0,25,8,40.0,31.6,10,60.0,44.2,27,0,0.0,0,3.2,2f965a72,Alphonse Areola,,True
+Manchester City,Manchester United,1615134600,eng ENG,23-360,90,6,0,6,100.0,0.4,1,11,9.1,15,5,33.3,31.1,17,35.3,30.2,15,1,6.7,1,14.5,e5a76dfe,Dean Henderson,,True
+Tottenham Hotspur,Crystal Palace,1615144500,es ESP,34-056,90,5,4,1,20.0,3.1,8,16,50.0,23,5,43.5,35.0,6,100.0,62.5,9,0,0.0,0,,ab13a5aa,Vicente Guaita,,True
+Chelsea,Everton,1615226400,eng ENG,27-001,90,9,2,8,88.9,3.0,6,20,30.0,41,5,43.9,37.1,6,33.3,32.7,7,0,0.0,0,4.0,4806ec67,Jordan Pickford,,True
+West Ham United,Leeds United,1615233600,fr FRA,21-006,90,5,2,2,60.0,1.8,4,6,66.7,40,8,15.0,25.8,6,0.0,16.5,13,1,7.7,0,5.0,6b625ac2,Illan Meslier,,True
+Manchester City,Southampton,1615399200,eng ENG,31-097,90,10,5,5,50.0,3.2,4,14,28.6,40,3,27.5,29.0,6,50.0,37.7,7,0,0.0,1,16.5,36c2ca73,Alex McCarthy,,True
+Newcastle United,Aston Villa,1615579200,ar ARG,28-191,90,3,1,2,66.7,1.6,3,23,13.0,30,3,60.0,43.7,5,100.0,65.2,21,0,0.0,2,21.7,7956236f,Emiliano Martínez,,True
+Leeds United,Chelsea,1615638600,sn SEN,29-012,90,4,0,4,100.0,0.8,0,2,0.0,35,4,5.7,21.5,4,0.0,13.5,17,0,0.0,2,17.1,33887998,Edouard Mendy,,True
+Crystal Palace,West Bromwich Albion,1615647600,eng ENG,27-353,90,4,1,3,100.0,1.6,3,13,23.1,29,8,44.8,37.5,1,0.0,25.0,7,0,0.0,1,15.2,9e5708be,Sam Johnstone,,True
+Everton,Burnley,1615656600,eng ENG,28-328,90,4,1,3,75.0,1.4,10,25,40.0,21,4,76.2,53.5,9,100.0,71.6,21,1,4.8,4,23.5,4b40d9ca,Nick Pope,,True
+Fulham,Manchester City,1615665600,br BRA,27-208,90,0,0,0,,0.0,3,6,50.0,32,6,15.6,25.3,3,33.3,32.3,11,2,18.2,0,9.3,3bb7b8b4,Ederson,,True
+Southampton,Brighton & Hove Albion,1615723200,es ESP,23-116,90,4,1,3,75.0,,,,,,,,,,,,,,,,,cce694d4,Robert Sanchez,,True
+Leicester City,Sheffield United,1615730400,eng ENG,22-304,90,9,5,5,44.4,3.3,1,12,8.3,18,5,50.0,42.3,8,37.5,41.8,13,1,7.7,0,4.0,466fb2c5,Aaron Ramsdale,,True
+Arsenal,Tottenham Hotspur,1615739400,fr FRA,34-078,90,3,2,1,66.7,1.2,10,19,52.6,32,5,46.9,36.3,6,66.7,42.2,21,0,0.0,4,21.5,8f62b6ee,Hugo Lloris,,True
+Manchester United,West Ham United,1615749300,pl POL,35-330,90,4,1,4,75.0,0.8,4,10,40.0,19,5,36.8,35.3,4,75.0,52.3,13,2,15.4,1,8.8,9328b835,Łukasz Fabiański,,True
+Wolverhampton Wanderers,Liverpool,1615838400,br BRA,28-164,90,5,0,5,100.0,1.4,4,10,40.0,32,7,25.0,30.7,3,66.7,45.0,22,1,4.5,1,8.6,7a2e46a8,Alisson,,True
+Fulham,Leeds United,1616184000,fr FRA,21-017,90,6,1,5,83.3,0.6,2,13,15.4,26,13,38.5,35.0,5,60.0,44.8,21,2,9.5,0,6.4,6b625ac2,Illan Meslier,,True
+Brighton & Hove Albion,Newcastle United,1616270400,sk SVK,32-064,90,6,3,3,50.0,1.5,12,20,60.0,36,7,44.4,34.9,4,100.0,63.3,8,0,0.0,4,24.0,3a949a25,Martin Dúbravka,,True
+West Ham United,Arsenal,1616338800,de GER,29-017,90,5,3,2,40.0,2.0,5,7,71.4,19,1,21.1,25.3,6,50.0,39.2,16,0,0.0,1,13.3,2628fd2b,Bernd Leno,,True
+Aston Villa,Tottenham Hotspur,1616355000,fr FRA,34-085,90,1,0,1,100.0,0.1,6,17,35.3,22,3,59.1,38.3,4,100.0,58.5,21,2,9.5,0,4.3,8f62b6ee,Hugo Lloris,,True
+Chelsea,West Bromwich Albion,1617449400,eng ENG,28-009,90,7,2,5,71.4,1.5,5,19,26.3,20,3,75.0,48.5,7,57.1,42.0,14,0,0.0,0,5.3,9e5708be,Sam Johnstone,,True
+Leeds United,Sheffield United,1617458400,eng ENG,22-324,90,8,2,7,75.0,1.9,3,15,20.0,24,6,33.3,32.3,9,77.8,51.7,13,1,7.7,0,10.0,466fb2c5,Aaron Ramsdale,,True
+Leicester City,Manchester City,1617467400,br BRA,27-229,90,2,0,2,100.0,0.3,2,7,28.6,21,6,28.6,33.0,3,33.3,29.3,5,1,20.0,0,12.0,3bb7b8b4,Ederson,,True
+Arsenal,Liverpool,1617476400,br BRA,28-183,90,2,0,2,100.0,0.6,5,7,71.4,41,4,14.6,26.6,1,100.0,63.0,4,1,25.0,1,19.5,7a2e46a8,Alisson,,True
+Southampton,Burnley,1617534000,eng ENG,28-350,90,8,3,5,62.5,1.4,5,14,35.7,19,5,63.2,42.2,6,33.3,36.7,18,1,5.6,1,13.0,4b40d9ca,Nick Pope,,True
+Newcastle United,Tottenham Hotspur,1617541500,fr FRA,34-099,90,6,2,4,66.7,3.5,4,12,33.3,24,9,29.2,32.5,6,83.3,50.2,24,1,4.2,3,23.8,8f62b6ee,Hugo Lloris,,True
+Aston Villa,Fulham,1617550200,fr FRA,28-036,90,4,3,1,25.0,2.0,6,13,46.2,24,7,41.7,33.4,7,42.9,34.9,17,2,11.8,0,9.0,2f965a72,Alphonse Areola,,True
+Manchester United,Brighton & Hove Albion,1617561000,es ESP,23-137,90,7,2,5,71.4,,,,,,,,,,,,,,,,,cce694d4,Robert Sanchez,,True
+Everton,Crystal Palace,1617642000,es ESP,34-085,90,7,1,6,85.7,1.8,3,13,23.1,23,6,21.7,30.0,9,88.9,58.2,13,0,0.0,2,16.5,ab13a5aa,Vicente Guaita,,True
+Wolverhampton Wanderers,West Ham United,1617650100,pl POL,35-352,90,5,2,3,60.0,2.1,11,24,45.8,16,4,62.5,43.4,16,87.5,58.4,20,1,5.0,0,3.5,9328b835,Łukasz Fabiański,,True
+Fulham,Wolverhampton Wanderers,1617994800,pt POR,33-053,90,3,0,3,100.0,0.5,2,8,25.0,17,8,23.5,26.5,11,36.4,34.7,25,2,8.0,0,7.0,79b0d6a0,Rui Patrício,,True
+Manchester City,Leeds United,1618054200,fr FRA,21-039,90,7,1,6,85.7,0.8,5,31,16.1,34,8,44.1,38.3,17,94.1,56.6,30,3,10.0,0,4.6,6b625ac2,Illan Meslier,,True
+Liverpool,Aston Villa,1618063200,ar ARG,28-220,90,10,2,8,80.0,2.7,15,28,53.6,27,5,74.1,48.0,11,72.7,43.8,17,0,0.0,0,,7956236f,Emiliano Martínez,,True
+Crystal Palace,Chelsea,1618072200,sn SEN,29-040,90,1,1,0,0.0,0.8,0,4,0.0,16,1,18.8,27.9,4,25.0,24.5,5,0,0.0,0,,33887998,Edouard Mendy,,True
+Burnley,Newcastle United,1618138800,sk SVK,32-086,90,4,1,3,75.0,0.6,2,17,11.8,22,8,50.0,40.4,8,75.0,50.4,33,2,6.1,0,5.4,3a949a25,Martin Dúbravka,,True
+West Ham United,Leicester City,1618146300,dk DEN,34-157,90,4,3,1,25.0,1.0,8,13,61.5,40,7,32.5,31.6,2,0.0,13.5,6,1,16.7,0,7.0,53af52f3,Kasper Schmeichel,,True
+Tottenham Hotspur,Manchester United,1618155000,eng ENG,24-030,90,3,1,2,66.7,1.0,3,8,37.5,17,2,41.2,33.4,8,12.5,25.0,15,1,6.7,4,23.0,e5a76dfe,Dean Henderson,,True
+Sheffield United,Arsenal,1618164000,de GER,29-038,90,2,0,2,100.0,0.1,4,7,57.1,24,2,20.8,26.9,6,33.3,31.3,7,0,0.0,0,12.0,2628fd2b,Bernd Leno,,True
+West Bromwich Albion,Southampton,1618246800,eng ENG,33-026,90,6,3,3,66.7,2.2,4,13,30.8,17,4,29.4,27.0,11,72.7,47.3,13,0,0.0,1,24.0,c3e39f12,Fraser Forster,,True
+Brighton & Hove Albion,Everton,1618254900,se SWE,31-094,90,3,0,3,100.0,0.4,6,17,35.3,23,7,39.1,37.9,10,80.0,52.1,13,1,7.7,1,17.0,e7ee38c3,Robin Olsen,,True
+Everton,Tottenham Hotspur,1618599600,fr FRA,34-111,90,7,2,5,85.7,1.7,4,16,25.0,26,5,38.5,32.1,11,54.5,38.6,9,2,22.2,1,15.5,8f62b6ee,Hugo Lloris,,True
+Newcastle United,West Ham United,1618659000,pl POL,35-364,90,6,3,4,50.0,1.4,2,7,28.6,24,7,25.0,29.8,3,33.3,36.3,7,1,14.3,0,2.5,9328b835,Łukasz Fabiański,,True
+Wolverhampton Wanderers,Sheffield United,1618686900,eng ENG,22-338,90,4,1,3,75.0,1.0,1,4,25.0,22,11,13.6,23.4,4,25.0,26.5,8,0,0.0,3,30.0,466fb2c5,Aaron Ramsdale,,True
+Arsenal,Fulham,1618749000,fr FRA,28-050,90,5,1,4,80.0,1.8,5,19,26.3,18,1,38.9,32.7,16,75.0,44.8,21,2,9.5,0,5.4,2f965a72,Alphonse Areola,,True
+Manchester United,Burnley,1618758000,nir NIR,24-171,90,8,3,5,62.5,2.4,10,19,52.6,15,2,80.0,48.9,7,100.0,69.0,12,0,0.0,0,,4879f8cb,Bailey Peacock-Farrell,,True
+Leeds United,Liverpool,1618858800,br BRA,28-199,90,5,1,4,80.0,1.4,3,7,42.9,25,5,16.0,25.8,7,42.9,36.9,23,2,8.7,2,12.6,7a2e46a8,Alisson,,True
+Chelsea,Brighton & Hove Albion,1618946100,es ESP,23-153,90,4,0,4,100.0,,,,,,,,,,,,,,,,,cce694d4,Robert Sanchez,,True
+Tottenham Hotspur,Southampton,1619024400,eng ENG,31-139,90,3,2,1,66.7,1.3,6,16,37.5,28,6,46.4,33.3,8,37.5,29.5,7,0,0.0,1,20.5,36c2ca73,Alex McCarthy,,True
+Aston Villa,Manchester City,1619032500,br BRA,27-247,90,3,1,2,66.7,0.6,6,11,54.5,31,3,29.0,30.8,7,28.6,36.6,12,0,0.0,0,6.0,3bb7b8b4,Ederson,,True
+Leicester City,West Bromwich Albion,1619118000,eng ENG,28-028,90,7,3,4,57.1,1.8,10,28,35.7,31,5,67.7,46.0,8,87.5,56.3,9,0,0.0,0,3.5,9e5708be,Sam Johnstone,,True
+Arsenal,Everton,1619204400,eng ENG,27-047,90,3,0,3,100.0,0.2,8,22,36.4,49,7,36.7,30.9,5,80.0,54.8,19,0,0.0,1,19.0,4806ec67,Jordan Pickford,,True
+Liverpool,Newcastle United,1619263800,sk SVK,32-099,90,9,1,8,88.9,1.8,6,13,46.2,25,8,28.0,26.1,13,46.2,35.0,15,0,0.0,0,10.6,3a949a25,Martin Dúbravka,,True
+West Ham United,Chelsea,1619281800,sn SEN,29-054,90,2,0,2,100.0,0.1,2,9,22.2,20,4,35.0,31.1,5,40.0,34.0,14,2,14.3,1,15.3,33887998,Edouard Mendy,,True
+Sheffield United,Brighton & Hove Albion,1619290800,es ESP,23-157,90,3,1,2,66.7,,,,,,,,,,,,,,,,,cce694d4,Robert Sanchez,,True
+Wolverhampton Wanderers,Burnley,1619348400,eng ENG,29-006,90,2,0,2,100.0,0.1,6,16,37.5,17,4,52.9,42.2,7,100.0,68.1,17,2,11.8,2,15.8,4b40d9ca,Nick Pope,,True
+Leeds United,Manchester United,1619355600,eng ENG,24-044,90,3,0,3,100.0,0.2,0,3,0.0,31,7,9.7,21.5,1,0.0,12.0,9,1,11.1,1,19.0,e5a76dfe,Dean Henderson,,True
+Aston Villa,West Bromwich Albion,1619373600,eng ENG,28-031,90,11,2,9,90.9,2.9,6,36,16.7,27,1,92.6,57.9,11,100.0,65.1,33,2,6.1,0,5.0,9e5708be,Sam Johnstone,,True
+Leicester City,Crystal Palace,1619463600,es ESP,34-106,90,5,2,3,60.0,1.3,13,24,54.2,18,1,83.3,53.1,9,100.0,67.0,13,1,7.7,0,5.0,ab13a5aa,Vicente Guaita,,True
+Southampton,Leicester City,1619809200,dk DEN,34-176,90,3,1,2,100.0,1.2,1,1,100.0,15,4,6.7,23.5,1,0.0,19.0,0,0,,1,31.0,53af52f3,Kasper Schmeichel,,True
+Crystal Palace,Manchester City,1619868600,br BRA,27-257,90,4,0,4,100.0,1.1,4,4,100.0,18,8,16.7,27.1,7,14.3,23.9,7,1,14.3,2,19.7,3bb7b8b4,Ederson,,True
+Brighton & Hove Albion,Leeds United,1619877600,fr FRA,21-060,90,5,2,3,80.0,2.2,7,15,46.7,26,7,30.8,29.6,13,53.8,35.2,9,0,0.0,0,,6b625ac2,Illan Meslier,,True
+Chelsea,Fulham,1619886600,fr FRA,28-063,90,5,2,3,60.0,2.2,2,4,50.0,26,5,15.4,25.2,0,,,1,0,0.0,1,13.3,2f965a72,Alphonse Areola,,True
+Everton,Aston Villa,1619895600,ar ARG,28-241,90,3,1,2,66.7,0.2,7,16,43.8,35,3,28.6,29.1,13,46.2,39.2,13,0,0.0,0,4.0,7956236f,Emiliano Martínez,,True
+Newcastle United,Arsenal,1619960400,au AUS,29-024,90,1,0,1,100.0,0.1,2,4,50.0,26,10,7.7,25.0,4,50.0,33.8,17,3,17.6,2,12.2,4535e4bb,Mathew Ryan,,True
+Tottenham Hotspur,Sheffield United,1619979300,eng ENG,22-353,90,10,4,6,60.0,2.4,6,23,26.1,28,7,57.1,42.5,8,87.5,65.0,13,0,0.0,2,21.0,466fb2c5,Aaron Ramsdale,,True
+West Bromwich Albion,Wolverhampton Wanderers,1620061200,pt POR,33-077,90,3,1,2,66.7,1.4,2,9,22.2,17,7,23.5,32.4,9,55.6,41.3,16,1,6.3,1,11.5,79b0d6a0,Rui Patrício,,True
+Burnley,West Ham United,1620069300,pl POL,36-015,90,2,1,1,100.0,1.0,4,17,23.5,22,3,40.9,34.1,9,88.9,59.9,23,0,0.0,0,5.0,9328b835,Łukasz Fabiański,,True
+Leicester City,Newcastle United,1620414000,sk SVK,32-112,90,9,2,7,77.8,2.0,9,15,60.0,24,6,41.7,36.3,8,62.5,47.4,26,0,0.0,1,21.5,3a949a25,Martin Dúbravka,,True
+Leeds United,Tottenham Hotspur,1620473400,fr FRA,34-133,90,7,3,4,57.1,3.0,2,14,14.3,27,6,33.3,30.7,9,55.6,32.7,22,0,0.0,0,5.3,8f62b6ee,Hugo Lloris,,True
+Sheffield United,Crystal Palace,1620482400,es ESP,34-118,90,0,0,0,,0.0,7,19,36.8,21,4,47.6,40.4,10,90.0,60.8,17,0,0.0,1,23.5,ab13a5aa,Vicente Guaita,,True
+Manchester City,Chelsea,1620491400,sn SEN,29-068,90,4,1,2,75.0,1.9,1,2,50.0,32,7,6.3,22.8,9,0.0,13.1,10,1,10.0,3,16.6,33887998,Edouard Mendy,,True
+Liverpool,Southampton,1620501300,eng ENG,33-052,90,6,2,4,66.7,1.6,1,7,14.3,28,6,21.4,27.1,9,11.1,11.4,15,0,0.0,1,14.0,c3e39f12,Fraser Forster,,True
+Wolverhampton Wanderers,Brighton & Hove Albion,1620558000,es ESP,23-172,90,6,2,4,66.7,,,,,,,,,,,,,,,,,cce694d4,Robert Sanchez,,True
+Aston Villa,Manchester United,1620565500,eng ENG,24-058,90,5,1,4,80.0,1.1,5,10,50.0,25,5,32.0,34.5,7,28.6,31.9,16,1,6.3,2,15.6,e5a76dfe,Dean Henderson,,True
+West Ham United,Everton,1620574200,eng ENG,27-063,90,0,0,0,,0.0,10,22,45.5,22,6,63.6,44.3,8,100.0,70.6,30,1,3.3,0,10.0,4806ec67,Jordan Pickford,,True
+Arsenal,West Bromwich Albion,1620583200,eng ENG,28-045,90,7,3,4,57.1,1.7,7,27,25.9,29,2,72.4,49.4,6,100.0,62.8,12,0,0.0,1,15.5,9e5708be,Sam Johnstone,,True
+Fulham,Burnley,1620673200,eng ENG,29-021,90,3,0,3,100.0,0.4,7,26,26.9,20,2,80.0,55.7,12,83.3,63.8,32,4,12.5,1,7.7,4b40d9ca,Nick Pope,,True
+Manchester United,Leicester City,1620752400,dk DEN,34-187,90,1,1,0,0.0,0.6,4,16,25.0,26,1,50.0,39.7,3,100.0,62.0,8,1,12.5,0,3.0,53af52f3,Kasper Schmeichel,,True
+Southampton,Crystal Palace,1620760500,es ESP,34-121,90,6,3,3,50.0,1.9,14,21,66.7,20,3,70.0,43.7,7,100.0,57.9,14,1,7.1,0,6.0,ab13a5aa,Vicente Guaita,,True
+Chelsea,Arsenal,1620846900,de GER,29-069,90,4,0,4,100.0,0.3,3,19,15.8,23,6,47.8,37.8,11,72.7,56.7,28,1,3.6,0,4.0,2628fd2b,Bernd Leno,,True
+Aston Villa,Everton,1620925200,eng ENG,27-067,90,2,0,2,100.0,0.1,10,17,58.8,22,5,40.9,34.9,11,72.7,56.3,17,1,5.9,0,12.0,4806ec67,Jordan Pickford,,True
+Manchester United,Liverpool,1620933300,br BRA,28-223,90,2,2,0,0.0,0.6,4,14,28.6,30,7,26.7,29.5,10,60.0,43.8,17,1,5.9,1,15.0,7a2e46a8,Alisson,,True
+Newcastle United,Manchester City,1621018800,eng ENG,35-253,90,5,3,1,60.0,2.4,0,1,0.0,14,6,0.0,18.9,2,50.0,29.5,10,0,0.0,0,16.5,3e1550ee,Scott Carson,,True
+Burnley,Leeds United,1621078200,fr FRA,21-074,90,4,0,4,100.0,1.0,2,13,15.4,29,12,24.1,30.5,11,54.5,35.7,16,2,12.5,1,10.4,6b625ac2,Illan Meslier,,True
+Southampton,Fulham,1621087200,fr FRA,28-077,90,6,3,3,50.0,2.2,0,2,0.0,26,6,7.7,17.3,3,0.0,10.7,8,0,0.0,3,22.6,2f965a72,Alphonse Areola,,True
+Brighton & Hove Albion,West Ham United,1621105200,pl POL,36-027,90,2,1,1,50.0,0.4,9,18,50.0,20,5,60.0,37.3,7,85.7,56.1,6,1,16.7,2,12.5,9328b835,Łukasz Fabiański,,True
+Crystal Palace,Aston Villa,1621162800,ar ARG,28-256,90,8,3,5,62.5,1.8,9,18,50.0,27,6,55.6,42.0,3,100.0,59.0,22,2,9.1,0,6.3,7956236f,Emiliano Martínez,,True
+Tottenham Hotspur,Wolverhampton Wanderers,1621170300,pt POR,33-090,90,11,2,9,81.8,3.1,5,10,50.0,14,5,35.7,31.4,8,62.5,44.1,16,0,0.0,0,,79b0d6a0,Rui Patrício,,True
+West Bromwich Albion,Liverpool,1621179000,br BRA,28-226,90,3,1,2,66.7,0.9,0,2,0.0,29,4,6.9,23.6,4,0.0,22.3,19,1,5.3,0,10.0,7a2e46a8,Alisson,,True
+Everton,Sheffield United,1621188000,eng ENG,23-002,90,6,0,6,100.0,1.2,5,26,19.2,24,5,62.5,48.5,11,100.0,70.5,21,2,9.5,0,4.5,466fb2c5,Aaron Ramsdale,,True
+Manchester United,Fulham,1621357200,fr FRA,28-080,90,6,1,5,83.3,1.0,5,12,41.7,33,7,27.3,28.8,9,33.3,26.8,15,0,0.0,0,,2f965a72,Alphonse Areola,,True
+Southampton,Leeds United,1621357200,es ESP,34-228,90,3,0,3,100.0,1.3,4,11,36.4,24,6,16.7,26.9,13,53.8,38.2,11,1,9.1,1,11.4,58bc7d18,Kiko Casilla,,True
+Brighton & Hove Albion,Manchester City,1621360800,br BRA,27-274,90,6,3,3,50.0,1.4,8,25,32.0,31,3,64.5,44.0,9,55.6,43.2,13,1,7.7,1,15.7,3bb7b8b4,Ederson,,True
+Chelsea,Leicester City,1621365300,dk DEN,34-194,90,6,2,4,83.3,2.7,4,17,23.5,29,6,48.3,42.1,9,33.3,33.1,16,0,0.0,0,,53af52f3,Kasper Schmeichel,,True
+Newcastle United,Sheffield United,1621443600,eng ENG,23-005,90,5,1,4,80.0,1.0,7,17,41.2,23,5,39.1,36.5,8,100.0,69.0,12,1,8.3,0,5.5,466fb2c5,Aaron Ramsdale,,True
+Tottenham Hotspur,Aston Villa,1621443600,ar ARG,28-259,90,4,1,3,75.0,0.8,7,17,41.2,27,7,55.6,42.0,4,50.0,43.8,15,1,6.7,0,4.0,7956236f,Emiliano Martínez,,True
+Everton,Wolverhampton Wanderers,1621443600,eng ENG,34-207,90,4,1,3,75.0,0.9,1,4,25.0,18,10,22.2,31.6,3,0.0,24.7,17,3,17.6,0,8.7,da8b19e2,John Ruddy,,True
+Crystal Palace,Arsenal,1621447200,de GER,29-076,90,6,1,5,83.3,1.3,2,9,22.2,21,6,19.0,27.8,9,55.6,39.3,19,2,10.5,0,8.0,2628fd2b,Bernd Leno,,True
+Burnley,Liverpool,1621451700,br BRA,28-229,90,3,0,3,100.0,0.5,3,11,27.3,29,6,24.1,27.3,9,44.4,40.0,30,4,13.3,1,9.1,7a2e46a8,Alisson,,True
+West Bromwich Albion,West Ham United,1621451700,ie IRL,34-007,90,4,1,3,75.0,0.7,6,17,35.3,14,3,57.1,40.6,11,81.8,54.2,18,0,0.0,0,5.0,6385ebfb,Darren Randolph,,True
+Aston Villa,Chelsea,1621782000,sn SEN,29-083,45,2,1,1,50.0,1.0,,,,10,4,,19.0,3,,7.7,3,,,,,33887998,Edouard Mendy,,True
+Aston Villa,Chelsea,1621782000,es ESP,26-232,45,1,1,0,100.0,0.9,1,4,25.0,9,0,33.3,30.7,1,100.0,48.0,1,0,0.0,0,,28d596a0,Kepa Arrizabalaga,,True
+Leicester City,Tottenham Hotspur,1621782000,fr FRA,34-148,90,6,2,4,100.0,3.0,4,14,28.6,29,3,41.4,33.4,7,28.6,26.4,9,0,0.0,1,24.0,8f62b6ee,Hugo Lloris,,True
+Manchester City,Everton,1621782000,eng ENG,27-077,90,11,5,6,54.5,4.8,5,17,29.4,27,4,48.1,41.1,5,80.0,54.8,12,0,0.0,1,15.3,4806ec67,Jordan Pickford,,True
+Sheffield United,Burnley,1621782000,eng ENG,27-284,90,3,1,2,66.7,0.5,9,28,32.1,25,1,80.0,55.0,9,88.9,64.1,18,2,11.1,0,6.3,c73ada83,Will Norris,,True
+Wolverhampton Wanderers,Manchester United,1621782000,eng ENG,24-072,90,4,1,3,75.0,1.0,3,10,30.0,20,6,30.0,41.2,10,40.0,36.2,22,0,0.0,0,,e5a76dfe,Dean Henderson,,True
+West Ham United,Southampton,1621782000,eng ENG,31-171,90,7,3,4,57.1,1.6,4,10,40.0,24,6,29.2,30.6,6,50.0,31.7,10,1,10.0,0,3.0,36c2ca73,Alex McCarthy,,True
+Leeds United,West Bromwich Albion,1621782000,eng ENG,28-059,90,9,3,6,77.8,2.7,9,25,36.0,23,8,60.9,41.3,12,91.7,59.5,16,0,0.0,1,14.2,9e5708be,Sam Johnstone,,True
+Arsenal,Brighton & Hove Albion,1621782000,es ESP,23-186,90,5,2,3,60.0,,,,,,,,,,,,,,,,,cce694d4,Robert Sanchez,,True
+Liverpool,Crystal Palace,1621782000,es ESP,34-133,90,5,2,3,60.0,1.7,7,26,26.9,25,6,56.0,41.4,13,92.3,62.5,24,0,0.0,1,14.3,ab13a5aa,Vicente Guaita,,True
+Fulham,Newcastle United,1621782000,sk SVK,32-128,90,0,0,0,,0.0,4,8,50.0,31,10,12.9,27.5,11,36.4,35.5,27,1,3.7,2,17.5,3a949a25,Martin Dúbravka,,True

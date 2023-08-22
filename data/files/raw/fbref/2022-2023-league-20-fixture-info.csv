@@ -1,0 +1,307 @@
+url,home_team,away_team,datetime,home_team_manager,away_team_manager,stadium,attendance
+https://fbref.com/en/matches/6a1c18c4/Eintracht-Frankfurt-Bayern-Munich-August-5-2022-Bundesliga,Eintracht Frankfurt,Bayern Munich,1659724200,Oliver Glasner,Julian Nagelsmann,"Deutsche Bank Park, Frankfurt am Main",51500
+https://fbref.com/en/matches/1591be13/Wolfsburg-Werder-Bremen-August-6-2022-Bundesliga,Wolfsburg,Werder Bremen,1659792600,Niko Kovač,Ole Werner,"Volkswagen Arena, Wolfsburg",28015
+https://fbref.com/en/matches/3c5c48d7/Augsburg-Freiburg-August-6-2022-Bundesliga,Augsburg,Freiburg,1659792600,Enrico Maaßen,Christian Streich,"WWK Arena, Augsburg",25310
+https://fbref.com/en/matches/58e704e1/Union-Berlin-Hertha-BSC-August-6-2022-Bundesliga,Union Berlin,Hertha BSC,1659792600,Urs Fischer,Sandro Schwarz,"Stadion An der Alten Försterei, Berlin",22012
+https://fbref.com/en/matches/aeed6604/Monchengladbach-Hoffenheim-August-6-2022-Bundesliga,Mönchengladbach,Hoffenheim,1659792600,Daniel Farke,André Breitenreiter,"Stadion im Borussia-Park, Mönchengladbach",49659
+https://fbref.com/en/matches/b9e40750/Bochum-Mainz-05-August-6-2022-Bundesliga,Bochum,Mainz 05,1659792600,Thomas Reis,Bo Svensson,"Vonovia Ruhrstadion, Bochum",24110
+https://fbref.com/en/matches/db9b4ee2/Dortmund-Bayer-Leverkusen-August-6-2022-Bundesliga,Dortmund,Bayer Leverkusen,1659803400,Edin Terzić,Gerardo Seoane,"Signal Iduna Park, Dortmund",81365
+https://fbref.com/en/matches/d0ce6f1a/Stuttgart-RB-Leipzig-August-7-2022-Bundesliga,Stuttgart,RB Leipzig,1659879000,Pellegrino Matarazzo,Domenico Tedesco ,"Mercedes-Benz Arena, Stuttgart",46000
+https://fbref.com/en/matches/6ba18904/Koln-Schalke-04-August-7-2022-Bundesliga,Köln,Schalke 04,1659886200,Steffen Baumgart,Frank Kramer,"RheinEnergieSTADION, Köln",50000
+https://fbref.com/en/matches/ba444a3a/Freiburg-Dortmund-August-12-2022-Bundesliga,Freiburg,Dortmund,1660329000,Christian Streich,Edin Terzić,"Europa-Park Stadion, Freiburg",34700
+https://fbref.com/en/matches/25d41fa1/Hoffenheim-Bochum-August-13-2022-Bundesliga,Hoffenheim,Bochum,1660397400,André Breitenreiter,Thomas Reis,"PreZero Arena, Sinsheim",17005
+https://fbref.com/en/matches/46fbabbf/Werder-Bremen-Stuttgart-August-13-2022-Bundesliga,Werder Bremen,Stuttgart,1660397400,Ole Werner,Pellegrino Matarazzo,"Wohninvest Weserstadion, Bremen",41000
+https://fbref.com/en/matches/593a6bbe/Bayer-Leverkusen-Augsburg-August-13-2022-Bundesliga,Bayer Leverkusen,Augsburg,1660397400,Gerardo Seoane,Enrico Maaßen,"BayArena, Leverkusen",22903
+https://fbref.com/en/matches/9db4ecbc/RB-Leipzig-Koln-August-13-2022-Bundesliga,RB Leipzig,Köln,1660397400,Domenico Tedesco ,Steffen Baumgart,"Red Bull Arena, Leipzig",49579
+https://fbref.com/en/matches/ce54d618/Hertha-BSC-Eintracht-Frankfurt-August-13-2022-Bundesliga,Hertha BSC,Eintracht Frankfurt,1660397400,Sandro Schwarz,Oliver Glasner,"Olympiastadion Berlin, Berlin",45000
+https://fbref.com/en/matches/b799281f/Schalke-04-Monchengladbach-August-13-2022-Bundesliga,Schalke 04,Mönchengladbach,1660408200,Frank Kramer,Daniel Farke,"Veltins-Arena, Gelsenkirchen",62271
+https://fbref.com/en/matches/ff6b65cd/Mainz-05-Union-Berlin-August-14-2022-Bundesliga,Mainz 05,Union Berlin,1660483800,Bo Svensson,Urs Fischer,"Mewa Arena, Mainz",25009
+https://fbref.com/en/matches/1a9bb65b/Bayern-Munich-Wolfsburg-August-14-2022-Bundesliga,Bayern Munich,Wolfsburg,1660491000,Julian Nagelsmann,Niko Kovač,"Allianz Arena, München",75000
+https://fbref.com/en/matches/e0d55038/Monchengladbach-Hertha-BSC-August-19-2022-Bundesliga,Mönchengladbach,Hertha BSC,1660933800,Daniel Farke,Sandro Schwarz,"Stadion im Borussia-Park, Mönchengladbach",48411
+https://fbref.com/en/matches/10b88c11/Bayer-Leverkusen-Hoffenheim-August-20-2022-Bundesliga,Bayer Leverkusen,Hoffenheim,1661002200,Gerardo Seoane,André Breitenreiter,"BayArena, Leverkusen",26300
+https://fbref.com/en/matches/5c135cd8/Augsburg-Mainz-05-August-20-2022-Bundesliga,Augsburg,Mainz 05,1661002200,Enrico Maaßen,Bo Svensson,"WWK Arena, Augsburg",23755
+https://fbref.com/en/matches/6600ea4e/Stuttgart-Freiburg-August-20-2022-Bundesliga,Stuttgart,Freiburg,1661002200,Pellegrino Matarazzo,Christian Streich,"Mercedes-Benz Arena, Stuttgart",47500
+https://fbref.com/en/matches/7c429f46/Dortmund-Werder-Bremen-August-20-2022-Bundesliga,Dortmund,Werder Bremen,1661002200,Edin Terzić,Ole Werner,"Signal Iduna Park, Dortmund",81365
+https://fbref.com/en/matches/8bced063/Wolfsburg-Schalke-04-August-20-2022-Bundesliga,Wolfsburg,Schalke 04,1661002200,Niko Kovač,Frank Kramer,"Volkswagen Arena, Wolfsburg",26959
+https://fbref.com/en/matches/5a91233f/Union-Berlin-RB-Leipzig-August-20-2022-Bundesliga,Union Berlin,RB Leipzig,1661013000,Urs Fischer,Domenico Tedesco ,"Stadion An der Alten Försterei, Berlin",21056
+https://fbref.com/en/matches/ede68248/Eintracht-Frankfurt-Koln-August-21-2022-Bundesliga,Eintracht Frankfurt,Köln,1661088600,Oliver Glasner,Steffen Baumgart,"Deutsche Bank Park, Frankfurt am Main",50800
+https://fbref.com/en/matches/0df447e7/Bochum-Bayern-Munich-August-21-2022-Bundesliga,Bochum,Bayern Munich,1661095800,Thomas Reis,Julian Nagelsmann,"Vonovia Ruhrstadion, Bochum",26000
+https://fbref.com/en/matches/c55b2bad/Freiburg-Bochum-August-26-2022-Bundesliga,Freiburg,Bochum,1661538600,Christian Streich,Thomas Reis,"Europa-Park Stadion, Freiburg",32800
+https://fbref.com/en/matches/7e4f3822/Hoffenheim-Augsburg-August-27-2022-Bundesliga,Hoffenheim,Augsburg,1661607000,André Breitenreiter,Enrico Maaßen,"PreZero Arena, Sinsheim",17206
+https://fbref.com/en/matches/81e2a8be/Mainz-05-Bayer-Leverkusen-August-27-2022-Bundesliga,Mainz 05,Bayer Leverkusen,1661607000,Bo Svensson,Gerardo Seoane,"Mewa Arena, Mainz",28500
+https://fbref.com/en/matches/945d99b8/RB-Leipzig-Wolfsburg-August-27-2022-Bundesliga,RB Leipzig,Wolfsburg,1661607000,Domenico Tedesco ,Niko Kovač,"Red Bull Arena, Leipzig",41243
+https://fbref.com/en/matches/97ce3356/Schalke-04-Union-Berlin-August-27-2022-Bundesliga,Schalke 04,Union Berlin,1661607000,Frank Kramer,Urs Fischer,"Veltins-Arena, Gelsenkirchen",62271
+https://fbref.com/en/matches/a41a2361/Hertha-BSC-Dortmund-August-27-2022-Bundesliga,Hertha BSC,Dortmund,1661607000,Sandro Schwarz,Edin Terzić,"Olympiastadion Berlin, Berlin",62142
+https://fbref.com/en/matches/18734157/Bayern-Munich-Monchengladbach-August-27-2022-Bundesliga,Bayern Munich,Mönchengladbach,1661617800,Julian Nagelsmann,Daniel Farke,"Allianz Arena, München",75000
+https://fbref.com/en/matches/6cf9a0a8/Koln-Stuttgart-August-28-2022-Bundesliga,Köln,Stuttgart,1661693400,Steffen Baumgart,Pellegrino Matarazzo,"RheinEnergieSTADION, Köln",50000
+https://fbref.com/en/matches/2202b810/Werder-Bremen-Eintracht-Frankfurt-August-28-2022-Bundesliga,Werder Bremen,Eintracht Frankfurt,1661700600,Ole Werner,Oliver Glasner,"Wohninvest Weserstadion, Bremen",41000
+https://fbref.com/en/matches/0d4e976a/Dortmund-Hoffenheim-September-2-2022-Bundesliga,Dortmund,Hoffenheim,1662143400,Edin Terzić,André Breitenreiter,"Signal Iduna Park, Dortmund",79300
+https://fbref.com/en/matches/0d221ece/Stuttgart-Schalke-04-September-3-2022-Bundesliga,Stuttgart,Schalke 04,1662211800,Michael Wimmer,Frank Kramer,"Mercedes-Benz Arena, Stuttgart",47500
+https://fbref.com/en/matches/18504732/Bochum-Werder-Bremen-September-3-2022-Bundesliga,Bochum,Werder Bremen,1662211800,Thomas Reis,Ole Werner,"Vonovia Ruhrstadion, Bochum",25800
+https://fbref.com/en/matches/434ccae6/Union-Berlin-Bayern-Munich-September-3-2022-Bundesliga,Union Berlin,Bayern Munich,1662211800,Urs Fischer,Julian Nagelsmann,"Stadion An der Alten Försterei, Berlin",22012
+https://fbref.com/en/matches/857c6eda/Bayer-Leverkusen-Freiburg-September-3-2022-Bundesliga,Bayer Leverkusen,Freiburg,1662211800,Gerardo Seoane,Christian Streich,"BayArena, Leverkusen",26853
+https://fbref.com/en/matches/e01323cb/Wolfsburg-Koln-September-3-2022-Bundesliga,Wolfsburg,Köln,1662211800,Niko Kovač,Steffen Baumgart,"Volkswagen Arena, Wolfsburg",25654
+https://fbref.com/en/matches/5662d607/Eintracht-Frankfurt-RB-Leipzig-September-3-2022-Bundesliga,Eintracht Frankfurt,RB Leipzig,1662222600,Oliver Glasner,Domenico Tedesco ,"Deutsche Bank Park, Frankfurt am Main",49700
+https://fbref.com/en/matches/276383fe/Augsburg-Hertha-BSC-September-4-2022-Bundesliga,Augsburg,Hertha BSC,1662298200,Enrico Maaßen,Sandro Schwarz,"WWK Arena, Augsburg",25789
+https://fbref.com/en/matches/dac3e0d1/Monchengladbach-Mainz-05-September-4-2022-Bundesliga,Mönchengladbach,Mainz 05,1662305400,Daniel Farke,Bo Svensson,"Stadion im Borussia-Park, Mönchengladbach",51210
+https://fbref.com/en/matches/bc40c506/Werder-Bremen-Augsburg-September-9-2022-Bundesliga,Werder Bremen,Augsburg,1662748200,Ole Werner,Enrico Maaßen,"Wohninvest Weserstadion, Bremen",41000
+https://fbref.com/en/matches/3cf30801/Bayern-Munich-Stuttgart-September-10-2022-Bundesliga,Bayern Munich,Stuttgart,1662816600,Julian Nagelsmann,Pellegrino Matarazzo,"Allianz Arena, München",75000
+https://fbref.com/en/matches/425671db/Eintracht-Frankfurt-Wolfsburg-September-10-2022-Bundesliga,Eintracht Frankfurt,Wolfsburg,1662816600,Oliver Glasner,Niko Kovač,"Deutsche Bank Park, Frankfurt am Main",49000
+https://fbref.com/en/matches/61102d16/Hertha-BSC-Bayer-Leverkusen-September-10-2022-Bundesliga,Hertha BSC,Bayer Leverkusen,1662816600,Sandro Schwarz,Gerardo Seoane,"Olympiastadion Berlin, Berlin",40643
+https://fbref.com/en/matches/b08c7efd/Hoffenheim-Mainz-05-September-10-2022-Bundesliga,Hoffenheim,Mainz 05,1662816600,André Breitenreiter,Bo Svensson,"PreZero Arena, Sinsheim",20114
+https://fbref.com/en/matches/e5fe17ad/RB-Leipzig-Dortmund-September-10-2022-Bundesliga,RB Leipzig,Dortmund,1662816600,Marco Rose,Edin Terzić,"Red Bull Arena, Leipzig",47069
+https://fbref.com/en/matches/b14cfbae/Schalke-04-Bochum-September-10-2022-Bundesliga,Schalke 04,Bochum,1662827400,Frank Kramer,Thomas Reis,"Veltins-Arena, Gelsenkirchen",62041
+https://fbref.com/en/matches/8871407b/Koln-Union-Berlin-September-11-2022-Bundesliga,Köln,Union Berlin,1662903000,Steffen Baumgart,Urs Fischer,"RheinEnergieSTADION, Köln",49500
+https://fbref.com/en/matches/71b44862/Freiburg-Monchengladbach-September-11-2022-Bundesliga,Freiburg,Mönchengladbach,1662910200,Christian Streich,Daniel Farke,"Europa-Park Stadion, Freiburg",34700
+https://fbref.com/en/matches/6c1338f3/Mainz-05-Hertha-BSC-September-16-2022-Bundesliga,Mainz 05,Hertha BSC,1663353000,Bo Svensson,Sandro Schwarz,"Mewa Arena, Mainz",25300
+https://fbref.com/en/matches/5bae3507/Revierderby-Dortmund-Schalke-04-September-17-2022-Bundesliga,Dortmund,Schalke 04,1663421400,Edin Terzić,Frank Kramer,"Signal Iduna Park, Dortmund",81100
+https://fbref.com/en/matches/d0475442/Bayer-Leverkusen-Werder-Bremen-September-17-2022-Bundesliga,Bayer Leverkusen,Werder Bremen,1663421400,Gerardo Seoane,Ole Werner,"BayArena, Leverkusen",30210
+https://fbref.com/en/matches/e89fbb60/Stuttgart-Eintracht-Frankfurt-September-17-2022-Bundesliga,Stuttgart,Eintracht Frankfurt,1663421400,Pellegrino Matarazzo,Oliver Glasner,"Mercedes-Benz Arena, Stuttgart",47500
+https://fbref.com/en/matches/f89d5de3/Augsburg-Bayern-Munich-September-17-2022-Bundesliga,Augsburg,Bayern Munich,1663421400,Enrico Maaßen,Julian Nagelsmann,"WWK Arena, Augsburg",30660
+https://fbref.com/en/matches/3ca096b5/Monchengladbach-RB-Leipzig-September-17-2022-Bundesliga,Mönchengladbach,RB Leipzig,1663432200,Daniel Farke,Marco Rose,"Stadion im Borussia-Park, Mönchengladbach",50186
+https://fbref.com/en/matches/894c69f9/Union-Berlin-Wolfsburg-September-18-2022-Bundesliga,Union Berlin,Wolfsburg,1663507800,Urs Fischer,Niko Kovač,"Stadion An der Alten Försterei, Berlin",22012
+https://fbref.com/en/matches/d22f7e06/Bochum-Koln-September-18-2022-Bundesliga,Bochum,Köln,1663515000,Heiko Butscher,Steffen Baumgart,"Vonovia Ruhrstadion, Bochum",25800
+https://fbref.com/en/matches/62d3a5b6/Hoffenheim-Freiburg-September-18-2022-Bundesliga,Hoffenheim,Freiburg,1663522200,André Breitenreiter,Christian Streich,"PreZero Arena, Sinsheim",24233
+https://fbref.com/en/matches/a5cf6022/Bayern-Munich-Bayer-Leverkusen-September-30-2022-Bundesliga,Bayern Munich,Bayer Leverkusen,1664562600,Julian Nagelsmann,Gerardo Seoane,"Allianz Arena, München",75000
+https://fbref.com/en/matches/4e3a874d/Freiburg-Mainz-05-October-1-2022-Bundesliga,Freiburg,Mainz 05,1664631000,Christian Streich,Bo Svensson,"Europa-Park Stadion, Freiburg",34700
+https://fbref.com/en/matches/621858d4/Eintracht-Frankfurt-Union-Berlin-October-1-2022-Bundesliga,Eintracht Frankfurt,Union Berlin,1664631000,Oliver Glasner,Urs Fischer,"Deutsche Bank Park, Frankfurt am Main",50500
+https://fbref.com/en/matches/84c74535/Koln-Dortmund-October-1-2022-Bundesliga,Köln,Dortmund,1664631000,Steffen Baumgart,Edin Terzić,"RheinEnergieSTADION, Köln",50000
+https://fbref.com/en/matches/9c4a8b42/Wolfsburg-Stuttgart-October-1-2022-Bundesliga,Wolfsburg,Stuttgart,1664631000,Niko Kovač,Pellegrino Matarazzo,"Volkswagen Arena, Wolfsburg",24125
+https://fbref.com/en/matches/cf634a2b/RB-Leipzig-Bochum-October-1-2022-Bundesliga,RB Leipzig,Bochum,1664631000,Marco Rose,Thomas Letsch,"Red Bull Arena, Leipzig",44403
+https://fbref.com/en/matches/348d53fd/Werder-Bremen-Monchengladbach-October-1-2022-Bundesliga,Werder Bremen,Mönchengladbach,1664641800,Ole Werner,Daniel Farke,"Wohninvest Weserstadion, Bremen",42100
+https://fbref.com/en/matches/446e82e7/Hertha-BSC-Hoffenheim-October-2-2022-Bundesliga,Hertha BSC,Hoffenheim,1664717400,Sandro Schwarz,André Breitenreiter,"Olympiastadion Berlin, Berlin",41653
+https://fbref.com/en/matches/2d3719fb/Schalke-04-Augsburg-October-2-2022-Bundesliga,Schalke 04,Augsburg,1664724600,Frank Kramer,Enrico Maaßen,"Veltins-Arena, Gelsenkirchen",60328
+https://fbref.com/en/matches/62ea6f05/Hoffenheim-Werder-Bremen-October-7-2022-Bundesliga,Hoffenheim,Werder Bremen,1665167400,André Breitenreiter,Ole Werner,"PreZero Arena, Sinsheim",25410
+https://fbref.com/en/matches/4cb956d3/Bochum-Eintracht-Frankfurt-October-8-2022-Bundesliga,Bochum,Eintracht Frankfurt,1665235800,Thomas Letsch,Oliver Glasner,"Vonovia Ruhrstadion, Bochum",24850
+https://fbref.com/en/matches/8eba0211/Mainz-05-RB-Leipzig-October-8-2022-Bundesliga,Mainz 05,RB Leipzig,1665235800,Bo Svensson,Marco Rose,"Mewa Arena, Mainz",26100
+https://fbref.com/en/matches/b41edb5f/Augsburg-Wolfsburg-October-8-2022-Bundesliga,Augsburg,Wolfsburg,1665235800,Enrico Maaßen,Niko Kovač,"WWK Arena, Augsburg",26220
+https://fbref.com/en/matches/dfb09293/Bayer-Leverkusen-Schalke-04-October-8-2022-Bundesliga,Bayer Leverkusen,Schalke 04,1665235800,Xabi Alonso,Frank Kramer,"BayArena, Leverkusen",30210
+https://fbref.com/en/matches/09926a13/Der-Klassiker-Dortmund-Bayern-Munich-October-8-2022-Bundesliga,Dortmund,Bayern Munich,1665246600,Edin Terzić,Julian Nagelsmann,"Signal Iduna Park, Dortmund",81365
+https://fbref.com/en/matches/17ff2fd2/Monchengladbach-Koln-October-9-2022-Bundesliga,Mönchengladbach,Köln,1665322200,Daniel Farke,Steffen Baumgart,"Stadion im Borussia-Park, Mönchengladbach",54042
+https://fbref.com/en/matches/7345ac20/Hertha-BSC-Freiburg-October-9-2022-Bundesliga,Hertha BSC,Freiburg,1665329400,Sandro Schwarz,Christian Streich,"Olympiastadion Berlin, Berlin",40481
+https://fbref.com/en/matches/58ecc893/Stuttgart-Union-Berlin-October-9-2022-Bundesliga,Stuttgart,Union Berlin,1665336600,Pellegrino Matarazzo,Urs Fischer,"Mercedes-Benz Arena, Stuttgart",43250
+https://fbref.com/en/matches/6ecee775/Schalke-04-Hoffenheim-October-14-2022-Bundesliga,Schalke 04,Hoffenheim,1665772200,Frank Kramer,André Breitenreiter,"Veltins-Arena, Gelsenkirchen",59811
+https://fbref.com/en/matches/13646bf4/Wolfsburg-Monchengladbach-October-15-2022-Bundesliga,Wolfsburg,Mönchengladbach,1665840600,Niko Kovač,Daniel Farke,"Volkswagen Arena, Wolfsburg",26701
+https://fbref.com/en/matches/1f10b4b6/Eintracht-Frankfurt-Bayer-Leverkusen-October-15-2022-Bundesliga,Eintracht Frankfurt,Bayer Leverkusen,1665840600,Oliver Glasner,Xabi Alonso,"Deutsche Bank Park, Frankfurt am Main",49700
+https://fbref.com/en/matches/aabd723a/Werder-Bremen-Mainz-05-October-15-2022-Bundesliga,Werder Bremen,Mainz 05,1665840600,Ole Werner,Bo Svensson,"Wohninvest Weserstadion, Bremen",41000
+https://fbref.com/en/matches/d14313b8/Stuttgart-Bochum-October-15-2022-Bundesliga,Stuttgart,Bochum,1665840600,Michael Wimmer,Thomas Letsch,"Mercedes-Benz Arena, Stuttgart",45400
+https://fbref.com/en/matches/d424a35d/RB-Leipzig-Hertha-BSC-October-15-2022-Bundesliga,RB Leipzig,Hertha BSC,1665851400,Marco Rose,Sandro Schwarz,"Red Bull Arena, Leipzig",47069
+https://fbref.com/en/matches/410c0cac/Koln-Augsburg-October-16-2022-Bundesliga,Köln,Augsburg,1665927000,Steffen Baumgart,Enrico Maaßen,"RheinEnergieSTADION, Köln",49000
+https://fbref.com/en/matches/0093e438/Union-Berlin-Dortmund-October-16-2022-Bundesliga,Union Berlin,Dortmund,1665934200,Urs Fischer,Edin Terzić,"Stadion An der Alten Försterei, Berlin",22012
+https://fbref.com/en/matches/a8e87a05/Bayern-Munich-Freiburg-October-16-2022-Bundesliga,Bayern Munich,Freiburg,1665941400,Julian Nagelsmann,Christian Streich,"Allianz Arena, München",75000
+https://fbref.com/en/matches/d88938af/Mainz-05-Koln-October-21-2022-Bundesliga,Mainz 05,Köln,1666377000,Bo Svensson,Steffen Baumgart,"Mewa Arena, Mainz",31610
+https://fbref.com/en/matches/479a4e6b/Bayer-Leverkusen-Wolfsburg-October-22-2022-Bundesliga,Bayer Leverkusen,Wolfsburg,1666445400,Xabi Alonso,Niko Kovač,"BayArena, Leverkusen",26294
+https://fbref.com/en/matches/70d1d2d9/Hoffenheim-Bayern-Munich-October-22-2022-Bundesliga,Hoffenheim,Bayern Munich,1666445400,André Breitenreiter,Julian Nagelsmann,"PreZero Arena, Sinsheim",30150
+https://fbref.com/en/matches/99a2c409/Dortmund-Stuttgart-October-22-2022-Bundesliga,Dortmund,Stuttgart,1666445400,Edin Terzić,Michael Wimmer,"Signal Iduna Park, Dortmund",81365
+https://fbref.com/en/matches/dc19c7f7/Freiburg-Werder-Bremen-October-22-2022-Bundesliga,Freiburg,Werder Bremen,1666445400,Christian Streich,Ole Werner,"Europa-Park Stadion, Freiburg",34700
+https://fbref.com/en/matches/efdacea4/Augsburg-RB-Leipzig-October-22-2022-Bundesliga,Augsburg,RB Leipzig,1666445400,Enrico Maaßen,Marco Rose,"WWK Arena, Augsburg",25109
+https://fbref.com/en/matches/f45cb803/Monchengladbach-Eintracht-Frankfurt-October-22-2022-Bundesliga,Mönchengladbach,Eintracht Frankfurt,1666456200,Daniel Farke,Oliver Glasner,"Stadion im Borussia-Park, Mönchengladbach",53019
+https://fbref.com/en/matches/ab55c8de/Bochum-Union-Berlin-October-23-2022-Bundesliga,Bochum,Union Berlin,1666531800,Thomas Letsch,Urs Fischer,"Vonovia Ruhrstadion, Bochum",25460
+https://fbref.com/en/matches/b8ef651e/Hertha-BSC-Schalke-04-October-23-2022-Bundesliga,Hertha BSC,Schalke 04,1666539000,Sandro Schwarz,Matthias Kreutzer,"Olympiastadion Berlin, Berlin",60165
+https://fbref.com/en/matches/d9457056/Werder-Bremen-Hertha-BSC-October-28-2022-Bundesliga,Werder Bremen,Hertha BSC,1666981800,Ole Werner,Sandro Schwarz,"Wohninvest Weserstadion, Bremen",42100
+https://fbref.com/en/matches/4064fa8b/Bayern-Munich-Mainz-05-October-29-2022-Bundesliga,Bayern Munich,Mainz 05,1667050200,Julian Nagelsmann,Bo Svensson,"Allianz Arena, München",75000
+https://fbref.com/en/matches/4d55ede5/Wolfsburg-Bochum-October-29-2022-Bundesliga,Wolfsburg,Bochum,1667050200,Niko Kovač,Thomas Letsch,"Volkswagen Arena, Wolfsburg",24037
+https://fbref.com/en/matches/6cdb0d1e/RB-Leipzig-Bayer-Leverkusen-October-29-2022-Bundesliga,RB Leipzig,Bayer Leverkusen,1667050200,Marco Rose,Xabi Alonso,"Red Bull Arena, Leipzig",45598
+https://fbref.com/en/matches/d65b9084/Stuttgart-Augsburg-October-29-2022-Bundesliga,Stuttgart,Augsburg,1667050200,Michael Wimmer,Enrico Maaßen,"Mercedes-Benz Arena, Stuttgart",46400
+https://fbref.com/en/matches/fd1ed255/Eintracht-Frankfurt-Dortmund-October-29-2022-Bundesliga,Eintracht Frankfurt,Dortmund,1667061000,Oliver Glasner,Edin Terzić,"Deutsche Bank Park, Frankfurt am Main",50000
+https://fbref.com/en/matches/fa327fa0/Union-Berlin-Monchengladbach-October-30-2022-Bundesliga,Union Berlin,Mönchengladbach,1667140200,Urs Fischer,Daniel Farke,"Stadion An der Alten Försterei, Berlin",22012
+https://fbref.com/en/matches/408042b1/Schalke-04-Freiburg-October-30-2022-Bundesliga,Schalke 04,Freiburg,1667147400,Thomas Reis,Christian Streich,"Veltins-Arena, Gelsenkirchen",61115
+https://fbref.com/en/matches/fdbc58f9/Koln-Hoffenheim-October-30-2022-Bundesliga,Köln,Hoffenheim,1667154600,Steffen Baumgart,André Breitenreiter,"RheinEnergieSTADION, Köln",49000
+https://fbref.com/en/matches/49542474/Monchengladbach-Stuttgart-November-4-2022-Bundesliga,Mönchengladbach,Stuttgart,1667590200,Daniel Farke,Michael Wimmer,"Stadion im Borussia-Park, Mönchengladbach",53178
+https://fbref.com/en/matches/016315f6/Dortmund-Bochum-November-5-2022-Bundesliga,Dortmund,Bochum,1667658600,Edin Terzić,Thomas Letsch,"Signal Iduna Park, Dortmund",81365
+https://fbref.com/en/matches/1a5d2266/Mainz-05-Wolfsburg-November-5-2022-Bundesliga,Mainz 05,Wolfsburg,1667658600,Bo Svensson,Niko Kovač,"Mewa Arena, Mainz",26750
+https://fbref.com/en/matches/bf93778c/Augsburg-Eintracht-Frankfurt-November-5-2022-Bundesliga,Augsburg,Eintracht Frankfurt,1667658600,Enrico Maaßen,Oliver Glasner,"WWK Arena, Augsburg",30087
+https://fbref.com/en/matches/ebb5eea0/Hertha-BSC-Bayern-Munich-November-5-2022-Bundesliga,Hertha BSC,Bayern Munich,1667658600,Sandro Schwarz,Julian Nagelsmann,"Olympiastadion Berlin, Berlin",74667
+https://fbref.com/en/matches/f2dd0498/Hoffenheim-RB-Leipzig-November-5-2022-Bundesliga,Hoffenheim,RB Leipzig,1667658600,André Breitenreiter,Marco Rose,"PreZero Arena, Sinsheim",23127
+https://fbref.com/en/matches/a716d080/Werder-Bremen-Schalke-04-November-5-2022-Bundesliga,Werder Bremen,Schalke 04,1667669400,Ole Werner,Thomas Reis,"Wohninvest Weserstadion, Bremen",41000
+https://fbref.com/en/matches/f4fe21bd/Bayer-Leverkusen-Union-Berlin-November-6-2022-Bundesliga,Bayer Leverkusen,Union Berlin,1667745000,Xabi Alonso,Urs Fischer,"BayArena, Leverkusen",30210
+https://fbref.com/en/matches/e7bddbdc/Freiburg-Koln-November-6-2022-Bundesliga,Freiburg,Köln,1667752200,Christian Streich,Steffen Baumgart,"Europa-Park Stadion, Freiburg",33800
+https://fbref.com/en/matches/c2157a06/Wolfsburg-Dortmund-November-8-2022-Bundesliga,Wolfsburg,Dortmund,1667928600,Niko Kovač,Edin Terzić,"Volkswagen Arena, Wolfsburg",28675
+https://fbref.com/en/matches/166186d3/Stuttgart-Hertha-BSC-November-8-2022-Bundesliga,Stuttgart,Hertha BSC,1667935800,Michael Wimmer,Sandro Schwarz,"Mercedes-Benz Arena, Stuttgart",44500
+https://fbref.com/en/matches/28b010e8/Bochum-Monchengladbach-November-8-2022-Bundesliga,Bochum,Mönchengladbach,1667935800,Thomas Letsch,Daniel Farke,"Vonovia Ruhrstadion, Bochum",25900
+https://fbref.com/en/matches/d9a12455/Bayern-Munich-Werder-Bremen-November-8-2022-Bundesliga,Bayern Munich,Werder Bremen,1667935800,Julian Nagelsmann,Ole Werner,"Allianz Arena, München",75000
+https://fbref.com/en/matches/fd84b4c7/Koln-Bayer-Leverkusen-November-9-2022-Bundesliga,Köln,Bayer Leverkusen,1668015000,Steffen Baumgart,Xabi Alonso,"RheinEnergieSTADION, Köln",50000
+https://fbref.com/en/matches/2ec5b7e0/Union-Berlin-Augsburg-November-9-2022-Bundesliga,Union Berlin,Augsburg,1668022200,Urs Fischer,Enrico Maaßen,"Stadion An der Alten Försterei, Berlin",22012
+https://fbref.com/en/matches/61b56228/Schalke-04-Mainz-05-November-9-2022-Bundesliga,Schalke 04,Mainz 05,1668022200,Thomas Reis,Bo Svensson,"Veltins-Arena, Gelsenkirchen",58256
+https://fbref.com/en/matches/8870eb5d/RB-Leipzig-Freiburg-November-9-2022-Bundesliga,RB Leipzig,Freiburg,1668022200,Marco Rose,Christian Streich,"Red Bull Arena, Leipzig",41240
+https://fbref.com/en/matches/f07a9d92/Eintracht-Frankfurt-Hoffenheim-November-9-2022-Bundesliga,Eintracht Frankfurt,Hoffenheim,1668022200,Oliver Glasner,André Breitenreiter,"Deutsche Bank Park, Frankfurt am Main",49000
+https://fbref.com/en/matches/d7864ec5/Monchengladbach-Dortmund-November-11-2022-Bundesliga,Mönchengladbach,Dortmund,1668195000,Daniel Farke,Edin Terzić,"Stadion im Borussia-Park, Mönchengladbach",54042
+https://fbref.com/en/matches/120ec880/Augsburg-Bochum-November-12-2022-Bundesliga,Augsburg,Bochum,1668263400,Enrico Maaßen,Thomas Letsch,"WWK Arena, Augsburg",28011
+https://fbref.com/en/matches/33b74264/Hoffenheim-Wolfsburg-November-12-2022-Bundesliga,Hoffenheim,Wolfsburg,1668263400,André Breitenreiter,Niko Kovač,"PreZero Arena, Sinsheim",18014
+https://fbref.com/en/matches/5802a6a1/Werder-Bremen-RB-Leipzig-November-12-2022-Bundesliga,Werder Bremen,RB Leipzig,1668263400,Ole Werner,Marco Rose,"Wohninvest Weserstadion, Bremen",41500
+https://fbref.com/en/matches/d8aa1e2f/Hertha-BSC-Koln-November-12-2022-Bundesliga,Hertha BSC,Köln,1668263400,Sandro Schwarz,Steffen Baumgart,"Olympiastadion Berlin, Berlin",60827
+https://fbref.com/en/matches/f45e1cad/Bayer-Leverkusen-Stuttgart-November-12-2022-Bundesliga,Bayer Leverkusen,Stuttgart,1668263400,Xabi Alonso,Michael Wimmer,"BayArena, Leverkusen",30210
+https://fbref.com/en/matches/90b95645/Schalke-04-Bayern-Munich-November-12-2022-Bundesliga,Schalke 04,Bayern Munich,1668274200,Thomas Reis,Julian Nagelsmann,"Veltins-Arena, Gelsenkirchen",62271
+https://fbref.com/en/matches/65a0816d/Mainz-05-Eintracht-Frankfurt-November-13-2022-Bundesliga,Mainz 05,Eintracht Frankfurt,1668349800,Bo Svensson,Oliver Glasner,"Mewa Arena, Mainz",33305
+https://fbref.com/en/matches/6f964d83/Freiburg-Union-Berlin-November-13-2022-Bundesliga,Freiburg,Union Berlin,1668357000,Christian Streich,Urs Fischer,"Europa-Park Stadion, Freiburg",33800
+https://fbref.com/en/matches/e54e4723/RB-Leipzig-Bayern-Munich-January-20-2023-Bundesliga,RB Leipzig,Bayern Munich,1674243000,Marco Rose,Julian Nagelsmann,"Red Bull Arena, Leipzig",47069
+https://fbref.com/en/matches/56a7d0d0/Union-Berlin-Hoffenheim-January-21-2023-Bundesliga,Union Berlin,Hoffenheim,1674311400,Urs Fischer,André Breitenreiter,"Stadion An der Alten Försterei, Berlin",21747
+https://fbref.com/en/matches/908285ca/Stuttgart-Mainz-05-January-21-2023-Bundesliga,Stuttgart,Mainz 05,1674311400,Bruno Labbadia,Bo Svensson,"Mercedes-Benz Arena, Stuttgart",45903
+https://fbref.com/en/matches/9fe9e678/Bochum-Hertha-BSC-January-21-2023-Bundesliga,Bochum,Hertha BSC,1674311400,Thomas Letsch,Sandro Schwarz,"Vonovia Ruhrstadion, Bochum",26000
+https://fbref.com/en/matches/cb069426/Wolfsburg-Freiburg-January-21-2023-Bundesliga,Wolfsburg,Freiburg,1674311400,Niko Kovač,Christian Streich,"Volkswagen Arena, Wolfsburg",25849
+https://fbref.com/en/matches/d731c369/Eintracht-Frankfurt-Schalke-04-January-21-2023-Bundesliga,Eintracht Frankfurt,Schalke 04,1674311400,Oliver Glasner,Thomas Reis,"Deutsche Bank Park, Frankfurt am Main",50000
+https://fbref.com/en/matches/19f58056/Koln-Werder-Bremen-January-21-2023-Bundesliga,Köln,Werder Bremen,1674322200,Steffen Baumgart,Ole Werner,"RheinEnergieSTADION, Köln",50000
+https://fbref.com/en/matches/33175b1b/Dortmund-Augsburg-January-22-2023-Bundesliga,Dortmund,Augsburg,1674397800,Edin Terzić,Enrico Maaßen,"Signal Iduna Park, Dortmund",81365
+https://fbref.com/en/matches/deef21aa/Monchengladbach-Bayer-Leverkusen-January-22-2023-Bundesliga,Mönchengladbach,Bayer Leverkusen,1674405000,Daniel Farke,Xabi Alonso,"Stadion im Borussia-Park, Mönchengladbach",53336
+https://fbref.com/en/matches/90f60fcc/Schalke-04-RB-Leipzig-January-24-2023-Bundesliga,Schalke 04,RB Leipzig,1674581400,Thomas Reis,Marco Rose,"Veltins-Arena, Gelsenkirchen",56841
+https://fbref.com/en/matches/854a3876/Hoffenheim-Stuttgart-January-24-2023-Bundesliga,Hoffenheim,Stuttgart,1674588600,André Breitenreiter,Bruno Labbadia,"PreZero Arena, Sinsheim",23159
+https://fbref.com/en/matches/88c0675f/Hertha-BSC-Wolfsburg-January-24-2023-Bundesliga,Hertha BSC,Wolfsburg,1674588600,Sandro Schwarz,Niko Kovač,"Olympiastadion Berlin, Berlin",29483
+https://fbref.com/en/matches/d292482b/Bayern-Munich-Koln-January-24-2023-Bundesliga,Bayern Munich,Köln,1674588600,Julian Nagelsmann,Steffen Baumgart,"Allianz Arena, München",75000
+https://fbref.com/en/matches/b8d0e1ee/Mainz-05-Dortmund-January-25-2023-Bundesliga,Mainz 05,Dortmund,1674667800,Bo Svensson,Edin Terzić,"Mewa Arena, Mainz",31500
+https://fbref.com/en/matches/15b8706e/Werder-Bremen-Union-Berlin-January-25-2023-Bundesliga,Werder Bremen,Union Berlin,1674675000,Ole Werner,Urs Fischer,"Wohninvest Weserstadion, Bremen",41500
+https://fbref.com/en/matches/72d60e73/Freiburg-Eintracht-Frankfurt-January-25-2023-Bundesliga,Freiburg,Eintracht Frankfurt,1674675000,Christian Streich,Oliver Glasner,"Europa-Park Stadion, Freiburg",34700
+https://fbref.com/en/matches/97983925/Augsburg-Monchengladbach-January-25-2023-Bundesliga,Augsburg,Mönchengladbach,1674675000,Enrico Maaßen,Daniel Farke,"WWK Arena, Augsburg",23158
+https://fbref.com/en/matches/f2bf462a/Bayer-Leverkusen-Bochum-January-25-2023-Bundesliga,Bayer Leverkusen,Bochum,1674675000,Xabi Alonso,Thomas Letsch,"BayArena, Leverkusen",25820
+https://fbref.com/en/matches/86ac01eb/RB-Leipzig-Stuttgart-January-27-2023-Bundesliga,RB Leipzig,Stuttgart,1674847800,Marco Rose,Bruno Labbadia,"Red Bull Arena, Leipzig",46158
+https://fbref.com/en/matches/2d387bd4/Hoffenheim-Monchengladbach-January-28-2023-Bundesliga,Hoffenheim,Mönchengladbach,1674916200,André Breitenreiter,Daniel Farke,"PreZero Arena, Sinsheim",24119
+https://fbref.com/en/matches/3cb24e8c/Freiburg-Augsburg-January-28-2023-Bundesliga,Freiburg,Augsburg,1674916200,Christian Streich,Enrico Maaßen,"Europa-Park Stadion, Freiburg",33500
+https://fbref.com/en/matches/59dc2823/Mainz-05-Bochum-January-28-2023-Bundesliga,Mainz 05,Bochum,1674916200,Bo Svensson,Thomas Letsch,"Mewa Arena, Mainz",23300
+https://fbref.com/en/matches/9369ff0a/Werder-Bremen-Wolfsburg-January-28-2023-Bundesliga,Werder Bremen,Wolfsburg,1674916200,Ole Werner,Niko Kovač,"Wohninvest Weserstadion, Bremen",41000
+https://fbref.com/en/matches/cdc0aa10/Hertha-BSC-Union-Berlin-January-28-2023-Bundesliga,Hertha BSC,Union Berlin,1674916200,Sandro Schwarz,Urs Fischer,"Olympiastadion Berlin, Berlin",74667
+https://fbref.com/en/matches/833c4e45/Bayern-Munich-Eintracht-Frankfurt-January-28-2023-Bundesliga,Bayern Munich,Eintracht Frankfurt,1674927000,Julian Nagelsmann,Oliver Glasner,"Allianz Arena, München",75000
+https://fbref.com/en/matches/f45358e4/Schalke-04-Koln-January-29-2023-Bundesliga,Schalke 04,Köln,1675002600,Thomas Reis,Steffen Baumgart,"Veltins-Arena, Gelsenkirchen",61571
+https://fbref.com/en/matches/397a485b/Bayer-Leverkusen-Dortmund-January-29-2023-Bundesliga,Bayer Leverkusen,Dortmund,1675009800,Xabi Alonso,Edin Terzić,"BayArena, Leverkusen",30210
+https://fbref.com/en/matches/4782defe/Augsburg-Bayer-Leverkusen-February-3-2023-Bundesliga,Augsburg,Bayer Leverkusen,1675452600,Enrico Maaßen,Xabi Alonso,"WWK Arena, Augsburg",27318
+https://fbref.com/en/matches/4e460d5f/Eintracht-Frankfurt-Hertha-BSC-February-4-2023-Bundesliga,Eintracht Frankfurt,Hertha BSC,1675521000,Oliver Glasner,Sandro Schwarz,"Deutsche Bank Park, Frankfurt am Main",49500
+https://fbref.com/en/matches/66ad90ae/Bochum-Hoffenheim-February-4-2023-Bundesliga,Bochum,Hoffenheim,1675521000,Thomas Letsch,André Breitenreiter,"Vonovia Ruhrstadion, Bochum",23700
+https://fbref.com/en/matches/7e5eb5e7/Koln-RB-Leipzig-February-4-2023-Bundesliga,Köln,RB Leipzig,1675521000,Steffen Baumgart,Marco Rose,"RheinEnergieSTADION, Köln",49200
+https://fbref.com/en/matches/85e9a74e/Dortmund-Freiburg-February-4-2023-Bundesliga,Dortmund,Freiburg,1675521000,Edin Terzić,Christian Streich,"Signal Iduna Park, Dortmund",81365
+https://fbref.com/en/matches/b4d8e07a/Union-Berlin-Mainz-05-February-4-2023-Bundesliga,Union Berlin,Mainz 05,1675521000,Urs Fischer,Bo Svensson,"Stadion An der Alten Försterei, Berlin",22012
+https://fbref.com/en/matches/bd090272/Monchengladbach-Schalke-04-February-4-2023-Bundesliga,Mönchengladbach,Schalke 04,1675531800,Daniel Farke,Thomas Reis,"Stadion im Borussia-Park, Mönchengladbach",54042
+https://fbref.com/en/matches/8668a4af/Stuttgart-Werder-Bremen-February-5-2023-Bundesliga,Stuttgart,Werder Bremen,1675607400,Bruno Labbadia,Ole Werner,"Mercedes-Benz Arena, Stuttgart",47700
+https://fbref.com/en/matches/29fe863b/Wolfsburg-Bayern-Munich-February-5-2023-Bundesliga,Wolfsburg,Bayern Munich,1675614600,Niko Kovač,Julian Nagelsmann,"Volkswagen Arena, Wolfsburg",30000
+https://fbref.com/en/matches/ee7ae28f/Schalke-04-Wolfsburg-February-10-2023-Bundesliga,Schalke 04,Wolfsburg,1676057400,Thomas Reis,Niko Kovač,"Veltins-Arena, Gelsenkirchen",60836
+https://fbref.com/en/matches/5965a1a5/Bayern-Munich-Bochum-February-11-2023-Bundesliga,Bayern Munich,Bochum,1676125800,Julian Nagelsmann,Thomas Letsch,"Allianz Arena, München",75000
+https://fbref.com/en/matches/b4611264/Mainz-05-Augsburg-February-11-2023-Bundesliga,Mainz 05,Augsburg,1676125800,Bo Svensson,Enrico Maaßen,"Mewa Arena, Mainz",22200
+https://fbref.com/en/matches/c1164128/Freiburg-Stuttgart-February-11-2023-Bundesliga,Freiburg,Stuttgart,1676125800,Lars Voßler,Bruno Labbadia,"Europa-Park Stadion, Freiburg",34700
+https://fbref.com/en/matches/f1174eaa/Hoffenheim-Bayer-Leverkusen-February-11-2023-Bundesliga,Hoffenheim,Bayer Leverkusen,1676125800,Pellegrino Matarazzo,Xabi Alonso,"PreZero Arena, Sinsheim",20619
+https://fbref.com/en/matches/f4770889/Werder-Bremen-Dortmund-February-11-2023-Bundesliga,Werder Bremen,Dortmund,1676125800,Ole Werner,Edin Terzić,"Wohninvest Weserstadion, Bremen",42100
+https://fbref.com/en/matches/675c7caa/RB-Leipzig-Union-Berlin-February-11-2023-Bundesliga,RB Leipzig,Union Berlin,1676136600,Marco Rose,Urs Fischer,"Red Bull Arena, Leipzig",47069
+https://fbref.com/en/matches/52794a29/Hertha-BSC-Monchengladbach-February-12-2023-Bundesliga,Hertha BSC,Mönchengladbach,1676212200,Sandro Schwarz,Daniel Farke,"Olympiastadion Berlin, Berlin",40973
+https://fbref.com/en/matches/607bccee/Koln-Eintracht-Frankfurt-February-12-2023-Bundesliga,Köln,Eintracht Frankfurt,1676219400,Steffen Baumgart,Oliver Glasner,"RheinEnergieSTADION, Köln",50000
+https://fbref.com/en/matches/1ad1a820/Augsburg-Hoffenheim-February-17-2023-Bundesliga,Augsburg,Hoffenheim,1676662200,Enrico Maaßen,Pellegrino Matarazzo,"WWK Arena, Augsburg",25872
+https://fbref.com/en/matches/2a6ca0af/Wolfsburg-RB-Leipzig-February-18-2023-Bundesliga,Wolfsburg,RB Leipzig,1676730600,Niko Kovač,Marco Rose,"Volkswagen Arena, Wolfsburg",24831
+https://fbref.com/en/matches/a92f59f3/Monchengladbach-Bayern-Munich-February-18-2023-Bundesliga,Mönchengladbach,Bayern Munich,1676730600,Daniel Farke,Julian Nagelsmann,"Stadion im Borussia-Park, Mönchengladbach",54042
+https://fbref.com/en/matches/b7b9e3af/Bochum-Freiburg-February-18-2023-Bundesliga,Bochum,Freiburg,1676730600,Thomas Letsch,Christian Streich,"Vonovia Ruhrstadion, Bochum",25100
+https://fbref.com/en/matches/e83011a1/Stuttgart-Koln-February-18-2023-Bundesliga,Stuttgart,Köln,1676730600,Bruno Labbadia,Steffen Baumgart,"Mercedes-Benz Arena, Stuttgart",46850
+https://fbref.com/en/matches/2f761f57/Eintracht-Frankfurt-Werder-Bremen-February-18-2023-Bundesliga,Eintracht Frankfurt,Werder Bremen,1676741400,Oliver Glasner,Ole Werner,"Deutsche Bank Park, Frankfurt am Main",50000
+https://fbref.com/en/matches/a9e38b5e/Union-Berlin-Schalke-04-February-19-2023-Bundesliga,Union Berlin,Schalke 04,1676817000,Urs Fischer,Thomas Reis,"Stadion An der Alten Försterei, Berlin",22012
+https://fbref.com/en/matches/f19df84d/Dortmund-Hertha-BSC-February-19-2023-Bundesliga,Dortmund,Hertha BSC,1676824200,Edin Terzić,Sandro Schwarz,"Signal Iduna Park, Dortmund",81365
+https://fbref.com/en/matches/5c6f34d5/Bayer-Leverkusen-Mainz-05-February-19-2023-Bundesliga,Bayer Leverkusen,Mainz 05,1676831400,Xabi Alonso,Bo Svensson,"BayArena, Leverkusen",27002
+https://fbref.com/en/matches/810ae873/Mainz-05-Monchengladbach-February-24-2023-Bundesliga,Mainz 05,Mönchengladbach,1677267000,Bo Svensson,Daniel Farke,"Mewa Arena, Mainz",32500
+https://fbref.com/en/matches/036557e3/Hertha-BSC-Augsburg-February-25-2023-Bundesliga,Hertha BSC,Augsburg,1677335400,Sandro Schwarz,Enrico Maaßen,"Olympiastadion Berlin, Berlin",40522
+https://fbref.com/en/matches/3783fb1a/Hoffenheim-Dortmund-February-25-2023-Bundesliga,Hoffenheim,Dortmund,1677335400,Pellegrino Matarazzo,Edin Terzić,"PreZero Arena, Sinsheim",30150
+https://fbref.com/en/matches/81cc7bca/Werder-Bremen-Bochum-February-25-2023-Bundesliga,Werder Bremen,Bochum,1677335400,Ole Werner,Thomas Letsch,"Wohninvest Weserstadion, Bremen",42100
+https://fbref.com/en/matches/b67e1a2b/Koln-Wolfsburg-February-25-2023-Bundesliga,Köln,Wolfsburg,1677335400,Steffen Baumgart,Niko Kovač,"RheinEnergieSTADION, Köln",49300
+https://fbref.com/en/matches/ba661568/RB-Leipzig-Eintracht-Frankfurt-February-25-2023-Bundesliga,RB Leipzig,Eintracht Frankfurt,1677335400,Marco Rose,Oliver Glasner,"Red Bull Arena, Leipzig",47069
+https://fbref.com/en/matches/66587081/Schalke-04-Stuttgart-February-25-2023-Bundesliga,Schalke 04,Stuttgart,1677346200,Thomas Reis,Bruno Labbadia,"Veltins-Arena, Gelsenkirchen",62271
+https://fbref.com/en/matches/80d78571/Freiburg-Bayer-Leverkusen-February-26-2023-Bundesliga,Freiburg,Bayer Leverkusen,1677421800,Christian Streich,Xabi Alonso,"Europa-Park Stadion, Freiburg",34000
+https://fbref.com/en/matches/a7295b73/Bayern-Munich-Union-Berlin-February-26-2023-Bundesliga,Bayern Munich,Union Berlin,1677429000,Julian Nagelsmann,Urs Fischer,"Allianz Arena, München",75000
+https://fbref.com/en/matches/ffdf70a3/Dortmund-RB-Leipzig-March-3-2023-Bundesliga,Dortmund,RB Leipzig,1677871800,Edin Terzić,Marco Rose,"Signal Iduna Park, Dortmund",81365
+https://fbref.com/en/matches/43262c26/Bochum-Schalke-04-March-4-2023-Bundesliga,Bochum,Schalke 04,1677940200,Thomas Letsch,Thomas Reis,"Vonovia Ruhrstadion, Bochum",26000
+https://fbref.com/en/matches/4f3e16bd/Monchengladbach-Freiburg-March-4-2023-Bundesliga,Mönchengladbach,Freiburg,1677940200,Daniel Farke,Christian Streich,"Stadion im Borussia-Park, Mönchengladbach",52000
+https://fbref.com/en/matches/a53ea960/Mainz-05-Hoffenheim-March-4-2023-Bundesliga,Mainz 05,Hoffenheim,1677940200,Bo Svensson,Pellegrino Matarazzo,"Mewa Arena, Mainz",28100
+https://fbref.com/en/matches/c1c98fdb/Augsburg-Werder-Bremen-March-4-2023-Bundesliga,Augsburg,Werder Bremen,1677940200,Enrico Maaßen,Ole Werner,"WWK Arena, Augsburg",30660
+https://fbref.com/en/matches/c8f452f3/Union-Berlin-Koln-March-4-2023-Bundesliga,Union Berlin,Köln,1677940200,Urs Fischer,Steffen Baumgart,"Stadion An der Alten Försterei, Berlin",22012
+https://fbref.com/en/matches/74b28bd6/Stuttgart-Bayern-Munich-March-4-2023-Bundesliga,Stuttgart,Bayern Munich,1677951000,Bruno Labbadia,Julian Nagelsmann,"Mercedes-Benz Arena, Stuttgart",47800
+https://fbref.com/en/matches/653f7b37/Bayer-Leverkusen-Hertha-BSC-March-5-2023-Bundesliga,Bayer Leverkusen,Hertha BSC,1678026600,Xabi Alonso,Sandro Schwarz,"BayArena, Leverkusen",30210
+https://fbref.com/en/matches/d5c104c4/Wolfsburg-Eintracht-Frankfurt-March-5-2023-Bundesliga,Wolfsburg,Eintracht Frankfurt,1678033800,Niko Kovač,Oliver Glasner,"Volkswagen Arena, Wolfsburg",27853
+https://fbref.com/en/matches/de4b3121/Koln-Bochum-March-10-2023-Bundesliga,Köln,Bochum,1678476600,Steffen Baumgart,Thomas Letsch,"RheinEnergieSTADION, Köln",50000
+https://fbref.com/en/matches/09b6b304/Eintracht-Frankfurt-Stuttgart-March-11-2023-Bundesliga,Eintracht Frankfurt,Stuttgart,1678545000,Oliver Glasner,Bruno Labbadia,"Deutsche Bank Park, Frankfurt am Main",50000
+https://fbref.com/en/matches/944bd3c5/Bayern-Munich-Augsburg-March-11-2023-Bundesliga,Bayern Munich,Augsburg,1678545000,Julian Nagelsmann,Enrico Maaßen,"Allianz Arena, München",75000
+https://fbref.com/en/matches/98d4118f/Hertha-BSC-Mainz-05-March-11-2023-Bundesliga,Hertha BSC,Mainz 05,1678545000,Sandro Schwarz,Bo Svensson,"Olympiastadion Berlin, Berlin",41689
+https://fbref.com/en/matches/b3cf8218/RB-Leipzig-Monchengladbach-March-11-2023-Bundesliga,RB Leipzig,Mönchengladbach,1678545000,Marco Rose,Daniel Farke,"Red Bull Arena, Leipzig",46687
+https://fbref.com/en/matches/d5614bd8/Revierderby-Schalke-04-Dortmund-March-11-2023-Bundesliga,Schalke 04,Dortmund,1678555800,Thomas Reis,Edin Terzić,"Veltins-Arena, Gelsenkirchen",61571
+https://fbref.com/en/matches/3b637bd1/Freiburg-Hoffenheim-March-12-2023-Bundesliga,Freiburg,Hoffenheim,1678631400,Christian Streich,Pellegrino Matarazzo,"Europa-Park Stadion, Freiburg",33500
+https://fbref.com/en/matches/b5fadc4a/Werder-Bremen-Bayer-Leverkusen-March-12-2023-Bundesliga,Werder Bremen,Bayer Leverkusen,1678638600,Ole Werner,Xabi Alonso,"Wohninvest Weserstadion, Bremen",41000
+https://fbref.com/en/matches/bccd23bd/Wolfsburg-Union-Berlin-March-12-2023-Bundesliga,Wolfsburg,Union Berlin,1678645800,Niko Kovač,Urs Fischer,"Volkswagen Arena, Wolfsburg",23554
+https://fbref.com/en/matches/7955d3c4/Monchengladbach-Werder-Bremen-March-17-2023-Bundesliga,Mönchengladbach,Werder Bremen,1679081400,Daniel Farke,Ole Werner,"Stadion im Borussia-Park, Mönchengladbach",54042
+https://fbref.com/en/matches/0a29bb4d/Augsburg-Schalke-04-March-18-2023-Bundesliga,Augsburg,Schalke 04,1679149800,Enrico Maaßen,Thomas Reis,"WWK Arena, Augsburg",30660
+https://fbref.com/en/matches/25568360/Stuttgart-Wolfsburg-March-18-2023-Bundesliga,Stuttgart,Wolfsburg,1679149800,Bruno Labbadia,Niko Kovač,"Mercedes-Benz Arena, Stuttgart",44900
+https://fbref.com/en/matches/387232e1/Hoffenheim-Hertha-BSC-March-18-2023-Bundesliga,Hoffenheim,Hertha BSC,1679149800,Pellegrino Matarazzo,Sandro Schwarz,"PreZero Arena, Sinsheim",25027
+https://fbref.com/en/matches/bf042f0f/Bochum-RB-Leipzig-March-18-2023-Bundesliga,Bochum,RB Leipzig,1679149800,Thomas Letsch,Marco Rose,"Vonovia Ruhrstadion, Bochum",24400
+https://fbref.com/en/matches/573e61e6/Dortmund-Koln-March-18-2023-Bundesliga,Dortmund,Köln,1679160600,Edin Terzić,Steffen Baumgart,"Signal Iduna Park, Dortmund",81365
+https://fbref.com/en/matches/25c69425/Union-Berlin-Eintracht-Frankfurt-March-19-2023-Bundesliga,Union Berlin,Eintracht Frankfurt,1679236200,Urs Fischer,Oliver Glasner,"Stadion An der Alten Försterei, Berlin",22012
+https://fbref.com/en/matches/aec673b3/Bayer-Leverkusen-Bayern-Munich-March-19-2023-Bundesliga,Bayer Leverkusen,Bayern Munich,1679243400,Xabi Alonso,Julian Nagelsmann,"BayArena, Leverkusen",30210
+https://fbref.com/en/matches/9e17b9e4/Mainz-05-Freiburg-March-19-2023-Bundesliga,Mainz 05,Freiburg,1679250600,Bo Svensson,Christian Streich,"Mewa Arena, Mainz",26800
+https://fbref.com/en/matches/abd8c355/Eintracht-Frankfurt-Bochum-March-31-2023-Bundesliga,Eintracht Frankfurt,Bochum,1680287400,Oliver Glasner,Thomas Letsch,"Deutsche Bank Park, Frankfurt am Main",51500
+https://fbref.com/en/matches/269bd326/Union-Berlin-Stuttgart-April-1-2023-Bundesliga,Union Berlin,Stuttgart,1680355800,Urs Fischer,Bruno Labbadia,"Stadion An der Alten Försterei, Berlin",22012
+https://fbref.com/en/matches/2f71d15b/Wolfsburg-Augsburg-April-1-2023-Bundesliga,Wolfsburg,Augsburg,1680355800,Niko Kovač,Enrico Maaßen,"Volkswagen Arena, Wolfsburg",22107
+https://fbref.com/en/matches/65762e1c/Schalke-04-Bayer-Leverkusen-April-1-2023-Bundesliga,Schalke 04,Bayer Leverkusen,1680355800,Thomas Reis,Xabi Alonso,"Veltins-Arena, Gelsenkirchen",62271
+https://fbref.com/en/matches/b091d9ef/RB-Leipzig-Mainz-05-April-1-2023-Bundesliga,RB Leipzig,Mainz 05,1680355800,Marco Rose,Bo Svensson,"Red Bull Arena, Leipzig",45597
+https://fbref.com/en/matches/e03fd67e/Freiburg-Hertha-BSC-April-1-2023-Bundesliga,Freiburg,Hertha BSC,1680355800,Christian Streich,Sandro Schwarz,"Europa-Park Stadion, Freiburg",34700
+https://fbref.com/en/matches/bb6bc93e/Der-Klassiker-Bayern-Munich-Dortmund-April-1-2023-Bundesliga,Bayern Munich,Dortmund,1680366600,Thomas Tuchel,Edin Terzić,"Allianz Arena, München",75000
+https://fbref.com/en/matches/cad146d2/Koln-Monchengladbach-April-2-2023-Bundesliga,Köln,Mönchengladbach,1680442200,Steffen Baumgart,Daniel Farke,"RheinEnergieSTADION, Köln",50000
+https://fbref.com/en/matches/0a8b5f27/Werder-Bremen-Hoffenheim-April-2-2023-Bundesliga,Werder Bremen,Hoffenheim,1680449400,Ole Werner,Pellegrino Matarazzo,"Wohninvest Weserstadion, Bremen",42000
+https://fbref.com/en/matches/2c7da156/Dortmund-Union-Berlin-April-8-2023-Bundesliga,Dortmund,Union Berlin,1680960600,Edin Terzić,Urs Fischer,"Signal Iduna Park, Dortmund",81365
+https://fbref.com/en/matches/59b47cfa/Freiburg-Bayern-Munich-April-8-2023-Bundesliga,Freiburg,Bayern Munich,1680960600,Christian Streich,Thomas Tuchel,"Europa-Park Stadion, Freiburg",34700
+https://fbref.com/en/matches/66757d65/Mainz-05-Werder-Bremen-April-8-2023-Bundesliga,Mainz 05,Werder Bremen,1680960600,Bo Svensson,Ole Werner,"Mewa Arena, Mainz",33305
+https://fbref.com/en/matches/81752d4e/Bayer-Leverkusen-Eintracht-Frankfurt-April-8-2023-Bundesliga,Bayer Leverkusen,Eintracht Frankfurt,1680960600,Xabi Alonso,Oliver Glasner,"BayArena, Leverkusen",30210
+https://fbref.com/en/matches/e4c946bf/Augsburg-Koln-April-8-2023-Bundesliga,Augsburg,Köln,1680960600,Enrico Maaßen,Steffen Baumgart,"WWK Arena, Augsburg",30660
+https://fbref.com/en/matches/6061bd97/Hertha-BSC-RB-Leipzig-April-8-2023-Bundesliga,Hertha BSC,RB Leipzig,1680971400,Sandro Schwarz,Marco Rose,"Olympiastadion Berlin, Berlin",50679
+https://fbref.com/en/matches/5a8c9445/Monchengladbach-Wolfsburg-April-9-2023-Bundesliga,Mönchengladbach,Wolfsburg,1681047000,Daniel Farke,Niko Kovač,"Stadion im Borussia-Park, Mönchengladbach",51127
+https://fbref.com/en/matches/ae8b05b0/Bochum-Stuttgart-April-9-2023-Bundesliga,Bochum,Stuttgart,1681054200,Thomas Letsch,Sebastian Hoeneß,"Vonovia Ruhrstadion, Bochum",26000
+https://fbref.com/en/matches/71c77d73/Hoffenheim-Schalke-04-April-9-2023-Bundesliga,Hoffenheim,Schalke 04,1681061400,Pellegrino Matarazzo,Thomas Reis,"PreZero Arena, Sinsheim",30150
+https://fbref.com/en/matches/d5b1699d/Schalke-04-Hertha-BSC-April-14-2023-Bundesliga,Schalke 04,Hertha BSC,1681497000,Thomas Reis,Sandro Schwarz,"Veltins-Arena, Gelsenkirchen",61981
+https://fbref.com/en/matches/3bd0a0b0/Bayern-Munich-Hoffenheim-April-15-2023-Bundesliga,Bayern Munich,Hoffenheim,1681565400,Thomas Tuchel,Pellegrino Matarazzo,"Allianz Arena, München",75000
+https://fbref.com/en/matches/6e392bf7/Koln-Mainz-05-April-15-2023-Bundesliga,Köln,Mainz 05,1681565400,Steffen Baumgart,Bo Svensson,"RheinEnergieSTADION, Köln",50000
+https://fbref.com/en/matches/6edfa8da/Stuttgart-Dortmund-April-15-2023-Bundesliga,Stuttgart,Dortmund,1681565400,Sebastian Hoeneß,Edin Terzić,"Mercedes-Benz Arena, Stuttgart",47300
+https://fbref.com/en/matches/eebf5f63/RB-Leipzig-Augsburg-April-15-2023-Bundesliga,RB Leipzig,Augsburg,1681565400,Marco Rose,Enrico Maaßen,"Red Bull Arena, Leipzig",46058
+https://fbref.com/en/matches/0f0732a9/Eintracht-Frankfurt-Monchengladbach-April-15-2023-Bundesliga,Eintracht Frankfurt,Mönchengladbach,1681576200,Oliver Glasner,Daniel Farke,"Deutsche Bank Park, Frankfurt am Main",50000
+https://fbref.com/en/matches/0bb9084f/Werder-Bremen-Freiburg-April-16-2023-Bundesliga,Werder Bremen,Freiburg,1681651800,Ole Werner,Christian Streich,"Wohninvest Weserstadion, Bremen",42100
+https://fbref.com/en/matches/3085d44f/Union-Berlin-Bochum-April-16-2023-Bundesliga,Union Berlin,Bochum,1681659000,Urs Fischer,Thomas Letsch,"Stadion An der Alten Försterei, Berlin",20000
+https://fbref.com/en/matches/120d171d/Wolfsburg-Bayer-Leverkusen-April-16-2023-Bundesliga,Wolfsburg,Bayer Leverkusen,1681666200,Niko Kovač,Xabi Alonso,"Volkswagen Arena, Wolfsburg",20137
+https://fbref.com/en/matches/09ca6600/Augsburg-Stuttgart-April-21-2023-Bundesliga,Augsburg,Stuttgart,1682101800,Enrico Maaßen,Sebastian Hoeneß,"WWK Arena, Augsburg",30660
+https://fbref.com/en/matches/3410db21/Mainz-05-Bayern-Munich-April-22-2023-Bundesliga,Mainz 05,Bayern Munich,1682170200,Bo Svensson,Thomas Tuchel,"Mewa Arena, Mainz",33305
+https://fbref.com/en/matches/3e28c288/Bochum-Wolfsburg-April-22-2023-Bundesliga,Bochum,Wolfsburg,1682170200,Thomas Letsch,Niko Kovač,"Vonovia Ruhrstadion, Bochum",24834
+https://fbref.com/en/matches/8f26336c/Hertha-BSC-Werder-Bremen-April-22-2023-Bundesliga,Hertha BSC,Werder Bremen,1682170200,Pál Dárdai,Ole Werner,"Olympiastadion Berlin, Berlin",74667
+https://fbref.com/en/matches/95d759ca/Hoffenheim-Koln-April-22-2023-Bundesliga,Hoffenheim,Köln,1682170200,Pellegrino Matarazzo,Steffen Baumgart,"PreZero Arena, Sinsheim",30150
+https://fbref.com/en/matches/6711d41f/Dortmund-Eintracht-Frankfurt-April-22-2023-Bundesliga,Dortmund,Eintracht Frankfurt,1682181000,Edin Terzić,Oliver Glasner,"Signal Iduna Park, Dortmund",81365
+https://fbref.com/en/matches/f0286cc7/Freiburg-Schalke-04-April-23-2023-Bundesliga,Freiburg,Schalke 04,1682256600,Christian Streich,Thomas Reis,"Europa-Park Stadion, Freiburg",34700
+https://fbref.com/en/matches/26543a5e/Bayer-Leverkusen-RB-Leipzig-April-23-2023-Bundesliga,Bayer Leverkusen,RB Leipzig,1682263800,Xabi Alonso,Marco Rose,"BayArena, Leverkusen",29085
+https://fbref.com/en/matches/e12d79d5/Monchengladbach-Union-Berlin-April-23-2023-Bundesliga,Mönchengladbach,Union Berlin,1682271000,Daniel Farke,Urs Fischer,"Stadion im Borussia-Park, Mönchengladbach",52107
+https://fbref.com/en/matches/118ea8ca/Bochum-Dortmund-April-28-2023-Bundesliga,Bochum,Dortmund,1682706600,Thomas Letsch,Edin Terzić,"Vonovia Ruhrstadion, Bochum",26000
+https://fbref.com/en/matches/05947df3/Koln-Freiburg-April-29-2023-Bundesliga,Köln,Freiburg,1682775000,Steffen Baumgart,Christian Streich,"RheinEnergieSTADION, Köln",50000
+https://fbref.com/en/matches/139ca136/Stuttgart-Monchengladbach-April-29-2023-Bundesliga,Stuttgart,Mönchengladbach,1682775000,Sebastian Hoeneß,Daniel Farke,"Mercedes-Benz Arena, Stuttgart",47700
+https://fbref.com/en/matches/2cc7718d/RB-Leipzig-Hoffenheim-April-29-2023-Bundesliga,RB Leipzig,Hoffenheim,1682775000,Marco Rose,Pellegrino Matarazzo,"Red Bull Arena, Leipzig",45294
+https://fbref.com/en/matches/37225ef5/Union-Berlin-Bayer-Leverkusen-April-29-2023-Bundesliga,Union Berlin,Bayer Leverkusen,1682775000,Urs Fischer,Xabi Alonso,"Stadion An der Alten Försterei, Berlin",22012
+https://fbref.com/en/matches/e050564f/Eintracht-Frankfurt-Augsburg-April-29-2023-Bundesliga,Eintracht Frankfurt,Augsburg,1682775000,Oliver Glasner,Enrico Maaßen,"Deutsche Bank Park, Frankfurt am Main",50000
+https://fbref.com/en/matches/d5da6439/Schalke-04-Werder-Bremen-April-29-2023-Bundesliga,Schalke 04,Werder Bremen,1682785800,Thomas Reis,Ole Werner,"Veltins-Arena, Gelsenkirchen",61981
+https://fbref.com/en/matches/479842a5/Bayern-Munich-Hertha-BSC-April-30-2023-Bundesliga,Bayern Munich,Hertha BSC,1682861400,Thomas Tuchel,Pál Dárdai,"Allianz Arena, München",75000
+https://fbref.com/en/matches/9e5d2eb6/Wolfsburg-Mainz-05-April-30-2023-Bundesliga,Wolfsburg,Mainz 05,1682868600,Niko Kovač,Bo Svensson,"Volkswagen Arena, Wolfsburg",23817
+https://fbref.com/en/matches/675d9386/Bayer-Leverkusen-Koln-May-5-2023-Bundesliga,Bayer Leverkusen,Köln,1683311400,Xabi Alonso,Steffen Baumgart,"BayArena, Leverkusen",30210
+https://fbref.com/en/matches/6b6e2610/Mainz-05-Schalke-04-May-5-2023-Bundesliga,Mainz 05,Schalke 04,1683311400,Bo Svensson,Thomas Reis,"Mewa Arena, Mainz",33305
+https://fbref.com/en/matches/156130d8/Hoffenheim-Eintracht-Frankfurt-May-6-2023-Bundesliga,Hoffenheim,Eintracht Frankfurt,1683379800,Pellegrino Matarazzo,Oliver Glasner,"PreZero Arena, Sinsheim",30000
+https://fbref.com/en/matches/42e4af5d/Hertha-BSC-Stuttgart-May-6-2023-Bundesliga,Hertha BSC,Stuttgart,1683379800,Pál Dárdai,Sebastian Hoeneß,"Olympiastadion Berlin, Berlin",63443
+https://fbref.com/en/matches/67097ed4/Freiburg-RB-Leipzig-May-6-2023-Bundesliga,Freiburg,RB Leipzig,1683379800,Christian Streich,Marco Rose,"Europa-Park Stadion, Freiburg",32900
+https://fbref.com/en/matches/7879b588/Monchengladbach-Bochum-May-6-2023-Bundesliga,Mönchengladbach,Bochum,1683379800,Daniel Farke,Thomas Letsch,"Stadion im Borussia-Park, Mönchengladbach",53797
+https://fbref.com/en/matches/e3d5bffe/Augsburg-Union-Berlin-May-6-2023-Bundesliga,Augsburg,Union Berlin,1683379800,Enrico Maaßen,Urs Fischer,"WWK Arena, Augsburg",30660
+https://fbref.com/en/matches/6b6c1395/Werder-Bremen-Bayern-Munich-May-6-2023-Bundesliga,Werder Bremen,Bayern Munich,1683390600,Ole Werner,Thomas Tuchel,"Wohninvest Weserstadion, Bremen",42100
+https://fbref.com/en/matches/b4ef9cd4/Dortmund-Wolfsburg-May-7-2023-Bundesliga,Dortmund,Wolfsburg,1683473400,Edin Terzić,Niko Kovač,"Signal Iduna Park, Dortmund",81365
+https://fbref.com/en/matches/5c7691f9/Koln-Hertha-BSC-May-12-2023-Bundesliga,Köln,Hertha BSC,1683916200,Steffen Baumgart,Pál Dárdai,"RheinEnergieSTADION, Köln",50000
+https://fbref.com/en/matches/36b97bb0/Eintracht-Frankfurt-Mainz-05-May-13-2023-Bundesliga,Eintracht Frankfurt,Mainz 05,1683984600,Michael Angerschmid,Bo Svensson,"Deutsche Bank Park, Frankfurt am Main",50000
+https://fbref.com/en/matches/72640936/Wolfsburg-Hoffenheim-May-13-2023-Bundesliga,Wolfsburg,Hoffenheim,1683984600,Niko Kovač,Pellegrino Matarazzo,"Volkswagen Arena, Wolfsburg",22617
+https://fbref.com/en/matches/f82fd3c0/Union-Berlin-Freiburg-May-13-2023-Bundesliga,Union Berlin,Freiburg,1683984600,Urs Fischer,Christian Streich,"Stadion An der Alten Försterei, Berlin",22012
+https://fbref.com/en/matches/fe49dbb7/Bochum-Augsburg-May-13-2023-Bundesliga,Bochum,Augsburg,1683984600,Thomas Letsch,Enrico Maaßen,"Vonovia Ruhrstadion, Bochum",24453
+https://fbref.com/en/matches/fe6503dd/Bayern-Munich-Schalke-04-May-13-2023-Bundesliga,Bayern Munich,Schalke 04,1683984600,Thomas Tuchel,Thomas Reis,"Allianz Arena, München",75000
+https://fbref.com/en/matches/9446dc35/Dortmund-Monchengladbach-May-13-2023-Bundesliga,Dortmund,Mönchengladbach,1683995400,Edin Terzić,Daniel Farke,"Signal Iduna Park, Dortmund",81365
+https://fbref.com/en/matches/42d7adfc/Stuttgart-Bayer-Leverkusen-May-14-2023-Bundesliga,Stuttgart,Bayer Leverkusen,1684071000,Sebastian Hoeneß,Xabi Alonso,"Mercedes-Benz Arena, Stuttgart",47500
+https://fbref.com/en/matches/2d19cb2b/RB-Leipzig-Werder-Bremen-May-14-2023-Bundesliga,RB Leipzig,Werder Bremen,1684078200,Marco Rose,Ole Werner,"Red Bull Arena, Leipzig",47069
+https://fbref.com/en/matches/47aa9aee/Freiburg-Wolfsburg-May-19-2023-Bundesliga,Freiburg,Wolfsburg,1684521000,Christian Streich,Niko Kovač,"Europa-Park Stadion, Freiburg",33300
+https://fbref.com/en/matches/076b76d0/Schalke-04-Eintracht-Frankfurt-May-20-2023-Bundesliga,Schalke 04,Eintracht Frankfurt,1684589400,Thomas Reis,Oliver Glasner,"Veltins-Arena, Gelsenkirchen",61575
+https://fbref.com/en/matches/08639b6b/Werder-Bremen-Koln-May-20-2023-Bundesliga,Werder Bremen,Köln,1684589400,Ole Werner,Steffen Baumgart,"Wohninvest Weserstadion, Bremen",41846
+https://fbref.com/en/matches/7cf736d6/Hertha-BSC-Bochum-May-20-2023-Bundesliga,Hertha BSC,Bochum,1684589400,Pál Dárdai,Thomas Letsch,"Olympiastadion Berlin, Berlin",70692
+https://fbref.com/en/matches/a65d5d30/Hoffenheim-Union-Berlin-May-20-2023-Bundesliga,Hoffenheim,Union Berlin,1684589400,Pellegrino Matarazzo,Urs Fischer,"PreZero Arena, Sinsheim",30000
+https://fbref.com/en/matches/82b8a000/Bayern-Munich-RB-Leipzig-May-20-2023-Bundesliga,Bayern Munich,RB Leipzig,1684600200,Thomas Tuchel,Marco Rose,"Allianz Arena, München",75000
+https://fbref.com/en/matches/24268cd4/Mainz-05-Stuttgart-May-21-2023-Bundesliga,Mainz 05,Stuttgart,1684675800,Bo Svensson,Sebastian Hoeneß,"Mewa Arena, Mainz",33305
+https://fbref.com/en/matches/675b470e/Augsburg-Dortmund-May-21-2023-Bundesliga,Augsburg,Dortmund,1684683000,Enrico Maaßen,Edin Terzić,"WWK Arena, Augsburg",30660
+https://fbref.com/en/matches/950d530f/Bayer-Leverkusen-Monchengladbach-May-21-2023-Bundesliga,Bayer Leverkusen,Mönchengladbach,1684690200,Xabi Alonso,Daniel Farke,"BayArena, Leverkusen",30210
+https://fbref.com/en/matches/2f8cd3bf/RB-Leipzig-Schalke-04-May-27-2023-Bundesliga,RB Leipzig,Schalke 04,1685194200,Marco Rose,Thomas Reis,"Red Bull Arena, Leipzig",47069
+https://fbref.com/en/matches/53e70f1f/Bochum-Bayer-Leverkusen-May-27-2023-Bundesliga,Bochum,Bayer Leverkusen,1685194200,Thomas Letsch,Xabi Alonso,"Vonovia Ruhrstadion, Bochum",26000
+https://fbref.com/en/matches/878df9c3/Union-Berlin-Werder-Bremen-May-27-2023-Bundesliga,Union Berlin,Werder Bremen,1685194200,Urs Fischer,Ole Werner,"Stadion An der Alten Försterei, Berlin",22012
+https://fbref.com/en/matches/a4e2fd72/Eintracht-Frankfurt-Freiburg-May-27-2023-Bundesliga,Eintracht Frankfurt,Freiburg,1685194200,Oliver Glasner,Christian Streich,"Deutsche Bank Park, Frankfurt am Main",50500
+https://fbref.com/en/matches/a888a024/Dortmund-Mainz-05-May-27-2023-Bundesliga,Dortmund,Mainz 05,1685194200,Edin Terzić,Bo Svensson,"Signal Iduna Park, Dortmund",81365
+https://fbref.com/en/matches/aeea6378/Monchengladbach-Augsburg-May-27-2023-Bundesliga,Mönchengladbach,Augsburg,1685194200,Daniel Farke,Enrico Maaßen,"Stadion im Borussia-Park, Mönchengladbach",52186
+https://fbref.com/en/matches/d9be90fd/Stuttgart-Hoffenheim-May-27-2023-Bundesliga,Stuttgart,Hoffenheim,1685194200,Sebastian Hoeneß,Pellegrino Matarazzo,"Mercedes-Benz Arena, Stuttgart",47500
+https://fbref.com/en/matches/e1005615/Wolfsburg-Hertha-BSC-May-27-2023-Bundesliga,Wolfsburg,Hertha BSC,1685194200,Niko Kovač,Pál Dárdai,"Volkswagen Arena, Wolfsburg",26775
+https://fbref.com/en/matches/e4cfcebe/Koln-Bayern-Munich-May-27-2023-Bundesliga,Köln,Bayern Munich,1685194200,Steffen Baumgart,Thomas Tuchel,"RheinEnergieSTADION, Köln",50000

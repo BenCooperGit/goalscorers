@@ -1,0 +1,381 @@
+url,home_team,away_team,datetime,home_team_manager,away_team_manager,stadium,attendance
+https://fbref.com/en/matches/3adf2aa7/Brentford-Arsenal-August-13-2021-Premier-League,Brentford,Arsenal,1628881200,Thomas Frank,Mikel Arteta,"Brentford Community Stadium, Brentford",16479
+https://fbref.com/en/matches/e62685d4/Manchester-United-Leeds-United-August-14-2021-Premier-League,Manchester United,Leeds United,1628940600,Ole Gunnar Solskjær,Marcelo Bielsa,"Old Trafford, Manchester",72732
+https://fbref.com/en/matches/0b346a62/Leicester-City-Wolverhampton-Wanderers-August-14-2021-Premier-League,Leicester City,Wolverhampton Wanderers,1628949600,Brendan Rodgers,Bruno Lage,"King Power Stadium, Leicester",31983
+https://fbref.com/en/matches/4eb36e37/Burnley-Brighton-and-Hove-Albion-August-14-2021-Premier-League,Burnley,Brighton & Hove Albion,1628949600,Sean Dyche,Graham Potter,"Turf Moor, Burnley",16910
+https://fbref.com/en/matches/6f454493/Chelsea-Crystal-Palace-August-14-2021-Premier-League,Chelsea,Crystal Palace,1628949600,Thomas Tuchel,Patrick Vieira,"Stamford Bridge, London",38965
+https://fbref.com/en/matches/814b563c/Watford-Aston-Villa-August-14-2021-Premier-League,Watford,Aston Villa,1628949600,Xisco,Dean Smith,"Vicarage Road Stadium, Watford",20051
+https://fbref.com/en/matches/c99ebbf5/Everton-Southampton-August-14-2021-Premier-League,Everton,Southampton,1628949600,Rafael Benítez,Ralph Hasenhüttl,"Goodison Park, Liverpool",38487
+https://fbref.com/en/matches/c52500ad/Norwich-City-Liverpool-August-14-2021-Premier-League,Norwich City,Liverpool,1628958600,Daniel Farke,Jürgen Klopp,"Carrow Road, Norwich",27023
+https://fbref.com/en/matches/41091264/Newcastle-United-West-Ham-United-August-15-2021-Premier-League,Newcastle United,West Ham United,1629032400,Steve Bruce,David Moyes,"St. James' Park, Newcastle upon Tyne",50673
+https://fbref.com/en/matches/ff51efc7/Tottenham-Hotspur-Manchester-City-August-15-2021-Premier-League,Tottenham Hotspur,Manchester City,1629041400,Nuno Espírito Santo,Pep Guardiola,"Tottenham Hotspur Stadium, London",58262
+https://fbref.com/en/matches/94d9dac0/Liverpool-Burnley-August-21-2021-Premier-League,Liverpool,Burnley,1629545400,Jürgen Klopp,Sean Dyche,"Anfield, Liverpool",52591
+https://fbref.com/en/matches/662d4074/Aston-Villa-Newcastle-United-August-21-2021-Premier-League,Aston Villa,Newcastle United,1629554400,Dean Smith,Steve Bruce,"Villa Park, Birmingham",41964
+https://fbref.com/en/matches/ab6db0d6/Manchester-City-Norwich-City-August-21-2021-Premier-League,Manchester City,Norwich City,1629554400,Pep Guardiola,Daniel Farke,"Etihad Stadium, Manchester",51437
+https://fbref.com/en/matches/b9064680/Leeds-United-Everton-August-21-2021-Premier-League,Leeds United,Everton,1629554400,Marcelo Bielsa,Rafael Benítez,"Elland Road, Leeds",36293
+https://fbref.com/en/matches/c8945d11/Crystal-Palace-Brentford-August-21-2021-Premier-League,Crystal Palace,Brentford,1629554400,Patrick Vieira,Thomas Frank,"Selhurst Park, London",23091
+https://fbref.com/en/matches/072af2f8/Brighton-and-Hove-Albion-Watford-August-21-2021-Premier-League,Brighton & Hove Albion,Watford,1629563400,Graham Potter,Xisco,"The American Express Community Stadium, Brighton & Hove",29485
+https://fbref.com/en/matches/26ceb3c9/Wolverhampton-Wanderers-Tottenham-Hotspur-August-22-2021-Premier-League,Wolverhampton Wanderers,Tottenham Hotspur,1629637200,Bruno Lage,Nuno Espírito Santo,"Molineux Stadium, Wolverhampton",30368
+https://fbref.com/en/matches/345b3989/Southampton-Manchester-United-August-22-2021-Premier-League,Southampton,Manchester United,1629637200,Ralph Hasenhüttl,Ole Gunnar Solskjær,"St. Mary's Stadium, Southampton",32000
+https://fbref.com/en/matches/93954213/North-West-London-Derby-Arsenal-Chelsea-August-22-2021-Premier-League,Arsenal,Chelsea,1629646200,Mikel Arteta,Thomas Tuchel,"Emirates Stadium, London",58729
+https://fbref.com/en/matches/1d07228e/West-Ham-United-Leicester-City-August-23-2021-Premier-League,West Ham United,Leicester City,1629745200,David Moyes,Brendan Rodgers,"London Stadium, London",59901
+https://fbref.com/en/matches/d4650aa2/Manchester-City-Arsenal-August-28-2021-Premier-League,Manchester City,Arsenal,1630150200,Pep Guardiola,Mikel Arteta,"Etihad Stadium, Manchester",52276
+https://fbref.com/en/matches/78c685cc/Norwich-City-Leicester-City-August-28-2021-Premier-League,Norwich City,Leicester City,1630159200,Daniel Farke,Brendan Rodgers,"Carrow Road, Norwich",26765
+https://fbref.com/en/matches/8e017435/West-Ham-United-Crystal-Palace-August-28-2021-Premier-League,West Ham United,Crystal Palace,1630159200,David Moyes,Patrick Vieira,"London Stadium, London",59751
+https://fbref.com/en/matches/a08ef96c/Aston-Villa-Brentford-August-28-2021-Premier-League,Aston Villa,Brentford,1630159200,Dean Smith,Thomas Frank,"Villa Park, Birmingham",42045
+https://fbref.com/en/matches/d81af076/Newcastle-United-Southampton-August-28-2021-Premier-League,Newcastle United,Southampton,1630159200,Steve Bruce,Ralph Hasenhüttl,"St. James' Park, Newcastle upon Tyne",44017
+https://fbref.com/en/matches/ec8b667a/Brighton-and-Hove-Albion-Everton-August-28-2021-Premier-League,Brighton & Hove Albion,Everton,1630159200,Graham Potter,Rafael Benítez,"The American Express Community Stadium, Brighton & Hove",30548
+https://fbref.com/en/matches/78aa75e6/Liverpool-Chelsea-August-28-2021-Premier-League,Liverpool,Chelsea,1630168200,Jürgen Klopp,Thomas Tuchel,"Anfield, Liverpool",54000
+https://fbref.com/en/matches/2e5db698/Burnley-Leeds-United-August-29-2021-Premier-League,Burnley,Leeds United,1630242000,Sean Dyche,Marcelo Bielsa,"Turf Moor, Burnley",20000
+https://fbref.com/en/matches/3cd9a733/Tottenham-Hotspur-Watford-August-29-2021-Premier-League,Tottenham Hotspur,Watford,1630242000,Nuno Espírito Santo,Xisco,"Tottenham Hotspur Stadium, London",57672
+https://fbref.com/en/matches/871109e6/Wolverhampton-Wanderers-Manchester-United-August-29-2021-Premier-League,Wolverhampton Wanderers,Manchester United,1630251000,Bruno Lage,Ole Gunnar Solskjær,"Molineux Stadium, Wolverhampton",30621
+https://fbref.com/en/matches/17e86f90/Crystal-Palace-Tottenham-Hotspur-September-11-2021-Premier-League,Crystal Palace,Tottenham Hotspur,1631359800,Patrick Vieira,Nuno Espírito Santo,"Selhurst Park, London",26000
+https://fbref.com/en/matches/09db0909/Watford-Wolverhampton-Wanderers-September-11-2021-Premier-League,Watford,Wolverhampton Wanderers,1631368800,Xisco,Bruno Lage,"Vicarage Road Stadium, Watford",20019
+https://fbref.com/en/matches/19a03697/Brentford-Brighton-and-Hove-Albion-September-11-2021-Premier-League,Brentford,Brighton & Hove Albion,1631368800,Thomas Frank,Graham Potter,"Brentford Community Stadium, Brentford",16518
+https://fbref.com/en/matches/4ac58f71/Arsenal-Norwich-City-September-11-2021-Premier-League,Arsenal,Norwich City,1631368800,Mikel Arteta,Daniel Farke,"Emirates Stadium, London",58000
+https://fbref.com/en/matches/7794fd6c/Manchester-United-Newcastle-United-September-11-2021-Premier-League,Manchester United,Newcastle United,1631368800,Ole Gunnar Solskjær,Steve Bruce,"Old Trafford, Manchester",72732
+https://fbref.com/en/matches/8dd69c8d/Leicester-City-Manchester-City-September-11-2021-Premier-League,Leicester City,Manchester City,1631368800,Brendan Rodgers,Pep Guardiola,"King Power Stadium, Leicester",32087
+https://fbref.com/en/matches/ddff1858/Southampton-West-Ham-United-September-11-2021-Premier-League,Southampton,West Ham United,1631368800,Ralph Hasenhüttl,David Moyes,"St. Mary's Stadium, Southampton",30000
+https://fbref.com/en/matches/67bbc3a5/Chelsea-Aston-Villa-September-11-2021-Premier-League,Chelsea,Aston Villa,1631377800,Thomas Tuchel,Dean Smith,"Stamford Bridge, London",39969
+https://fbref.com/en/matches/e6a245be/Leeds-United-Liverpool-September-12-2021-Premier-League,Leeds United,Liverpool,1631460600,Marcelo Bielsa,Jürgen Klopp,"Elland Road, Leeds",36507
+https://fbref.com/en/matches/668b2f97/Everton-Burnley-September-13-2021-Premier-League,Everton,Burnley,1631559600,Rafael Benítez,Sean Dyche,"Goodison Park, Liverpool",30000
+https://fbref.com/en/matches/aad7d38a/Newcastle-United-Leeds-United-September-17-2021-Premier-League,Newcastle United,Leeds United,1631905200,Steve Bruce,Marcelo Bielsa,"St. James' Park, Newcastle upon Tyne",50407
+https://fbref.com/en/matches/fd1d60f4/Wolverhampton-Wanderers-Brentford-September-18-2021-Premier-League,Wolverhampton Wanderers,Brentford,1631964600,Bruno Lage,Thomas Frank,"Molineux Stadium, Wolverhampton",30000
+https://fbref.com/en/matches/1576c578/Manchester-City-Southampton-September-18-2021-Premier-League,Manchester City,Southampton,1631973600,Pep Guardiola,Ralph Hasenhüttl,"Etihad Stadium, Manchester",52698
+https://fbref.com/en/matches/59ef8c18/Liverpool-Crystal-Palace-September-18-2021-Premier-League,Liverpool,Crystal Palace,1631973600,Jürgen Klopp,Patrick Vieira,"Anfield, Liverpool",52000
+https://fbref.com/en/matches/835fa19c/Norwich-City-Watford-September-18-2021-Premier-League,Norwich City,Watford,1631973600,Daniel Farke,Xisco,"Carrow Road, Norwich",26649
+https://fbref.com/en/matches/a427debc/Burnley-Arsenal-September-18-2021-Premier-League,Burnley,Arsenal,1631973600,Sean Dyche,Mikel Arteta,"Turf Moor, Burnley",20000
+https://fbref.com/en/matches/57323feb/Aston-Villa-Everton-September-18-2021-Premier-League,Aston Villa,Everton,1631982600,Dean Smith,Rafael Benítez,"Villa Park, Birmingham",41888
+https://fbref.com/en/matches/2daea068/West-Ham-United-Manchester-United-September-19-2021-Premier-League,West Ham United,Manchester United,1632056400,David Moyes,Ole Gunnar Solskjær,"London Stadium, London",60000
+https://fbref.com/en/matches/723f5105/Brighton-and-Hove-Albion-Leicester-City-September-19-2021-Premier-League,Brighton & Hove Albion,Leicester City,1632056400,Graham Potter,Brendan Rodgers,"The American Express Community Stadium, Brighton & Hove",31078
+https://fbref.com/en/matches/eaf98461/Tottenham-Hotspur-Chelsea-September-19-2021-Premier-League,Tottenham Hotspur,Chelsea,1632065400,Nuno Espírito Santo,Thomas Tuchel,"Tottenham Hotspur Stadium, London",60059
+https://fbref.com/en/matches/7c21232e/Manchester-United-Aston-Villa-September-25-2021-Premier-League,Manchester United,Aston Villa,1632569400,Ole Gunnar Solskjær,Dean Smith,"Old Trafford, Manchester",72922
+https://fbref.com/en/matches/fc59faf7/Chelsea-Manchester-City-September-25-2021-Premier-League,Chelsea,Manchester City,1632569400,Thomas Tuchel,Pep Guardiola,"Stamford Bridge, London",40036
+https://fbref.com/en/matches/2d61f328/Leicester-City-Burnley-September-25-2021-Premier-League,Leicester City,Burnley,1632578400,Brendan Rodgers,Sean Dyche,"King Power Stadium, Leicester",31650
+https://fbref.com/en/matches/6e228b2c/Leeds-United-West-Ham-United-September-25-2021-Premier-League,Leeds United,West Ham United,1632578400,Marcelo Bielsa,David Moyes,"Elland Road, Leeds",36417
+https://fbref.com/en/matches/70fda3e9/Watford-Newcastle-United-September-25-2021-Premier-League,Watford,Newcastle United,1632578400,Xisco,Steve Bruce,"Vicarage Road Stadium, Watford",20650
+https://fbref.com/en/matches/d516ccbf/Everton-Norwich-City-September-25-2021-Premier-League,Everton,Norwich City,1632578400,Rafael Benítez,Daniel Farke,"Goodison Park, Liverpool",38821
+https://fbref.com/en/matches/87140543/Brentford-Liverpool-September-25-2021-Premier-League,Brentford,Liverpool,1632587400,Thomas Frank,Jürgen Klopp,"Brentford Community Stadium, Brentford",16876
+https://fbref.com/en/matches/d99f984c/Southampton-Wolverhampton-Wanderers-September-26-2021-Premier-League,Southampton,Wolverhampton Wanderers,1632661200,Ralph Hasenhüttl,Bruno Lage,"St. Mary's Stadium, Southampton",28002
+https://fbref.com/en/matches/a2c07e97/North-London-Derby-Arsenal-Tottenham-Hotspur-September-26-2021-Premier-League,Arsenal,Tottenham Hotspur,1632670200,Mikel Arteta,Nuno Espírito Santo,"Emirates Stadium, London",59919
+https://fbref.com/en/matches/3d7659fc/Crystal-Palace-Brighton-and-Hove-Albion-September-27-2021-Premier-League,Crystal Palace,Brighton & Hove Albion,1632769200,Patrick Vieira,Graham Potter,"Selhurst Park, London",22975
+https://fbref.com/en/matches/2129c7e9/Manchester-United-Everton-October-2-2021-Premier-League,Manchester United,Everton,1633174200,Ole Gunnar Solskjær,Rafael Benítez,"Old Trafford, Manchester",73128
+https://fbref.com/en/matches/00dcbdaa/Wolverhampton-Wanderers-Newcastle-United-October-2-2021-Premier-League,Wolverhampton Wanderers,Newcastle United,1633183200,Bruno Lage,Steve Bruce,"Molineux Stadium, Wolverhampton",30483
+https://fbref.com/en/matches/9231df9a/Burnley-Norwich-City-October-2-2021-Premier-League,Burnley,Norwich City,1633183200,Sean Dyche,Daniel Farke,"Turf Moor, Burnley",17427
+https://fbref.com/en/matches/a6466617/Chelsea-Southampton-October-2-2021-Premier-League,Chelsea,Southampton,1633183200,Thomas Tuchel,Ralph Hasenhüttl,"Stamford Bridge, London",40109
+https://fbref.com/en/matches/be9d8a45/Leeds-United-Watford-October-2-2021-Premier-League,Leeds United,Watford,1633183200,Marcelo Bielsa,Xisco,"Elland Road, Leeds",36261
+https://fbref.com/en/matches/cdaded7b/Brighton-and-Hove-Albion-Arsenal-October-2-2021-Premier-League,Brighton & Hove Albion,Arsenal,1633192200,Graham Potter,Mikel Arteta,"The American Express Community Stadium, Brighton & Hove",31266
+https://fbref.com/en/matches/7bb0a43c/Tottenham-Hotspur-Aston-Villa-October-3-2021-Premier-League,Tottenham Hotspur,Aston Villa,1633266000,Nuno Espírito Santo,Dean Smith,"Tottenham Hotspur Stadium, London",53076
+https://fbref.com/en/matches/b06fd537/Crystal-Palace-Leicester-City-October-3-2021-Premier-League,Crystal Palace,Leicester City,1633266000,Patrick Vieira,Brendan Rodgers,"Selhurst Park, London",25000
+https://fbref.com/en/matches/f1eead63/West-Ham-United-Brentford-October-3-2021-Premier-League,West Ham United,Brentford,1633266000,David Moyes,Thomas Frank,"London Stadium, London",49940
+https://fbref.com/en/matches/2598b046/Liverpool-Manchester-City-October-3-2021-Premier-League,Liverpool,Manchester City,1633275000,Jürgen Klopp,Pep Guardiola,"Anfield, Liverpool",53102
+https://fbref.com/en/matches/2ce6d340/Watford-Liverpool-October-16-2021-Premier-League,Watford,Liverpool,1634383800,Claudio Ranieri,Jürgen Klopp,"Vicarage Road Stadium, Watford",21085
+https://fbref.com/en/matches/45502ded/Leicester-City-Manchester-United-October-16-2021-Premier-League,Leicester City,Manchester United,1634392800,Brendan Rodgers,Ole Gunnar Solskjær,"King Power Stadium, Leicester",32219
+https://fbref.com/en/matches/55778d0d/Manchester-City-Burnley-October-16-2021-Premier-League,Manchester City,Burnley,1634392800,Pep Guardiola,Sean Dyche,"Etihad Stadium, Manchester",52711
+https://fbref.com/en/matches/8bde822c/Southampton-Leeds-United-October-16-2021-Premier-League,Southampton,Leeds United,1634392800,Ralph Hasenhüttl,Marcelo Bielsa,"St. Mary's Stadium, Southampton",30506
+https://fbref.com/en/matches/a1668499/Aston-Villa-Wolverhampton-Wanderers-October-16-2021-Premier-League,Aston Villa,Wolverhampton Wanderers,1634392800,Dean Smith,Bruno Lage,"Villa Park, Birmingham",41951
+https://fbref.com/en/matches/bc0a1eb5/Norwich-City-Brighton-and-Hove-Albion-October-16-2021-Premier-League,Norwich City,Brighton & Hove Albion,1634392800,Daniel Farke,Graham Potter,"Carrow Road, Norwich",26777
+https://fbref.com/en/matches/866cfb1f/Brentford-Chelsea-October-16-2021-Premier-League,Brentford,Chelsea,1634401800,Thomas Frank,Thomas Tuchel,"Brentford Community Stadium, Brentford",16940
+https://fbref.com/en/matches/15871600/Everton-West-Ham-United-October-17-2021-Premier-League,Everton,West Ham United,1634475600,Rafael Benítez,David Moyes,"Goodison Park, Liverpool",39132
+https://fbref.com/en/matches/4bd69343/Newcastle-United-Tottenham-Hotspur-October-17-2021-Premier-League,Newcastle United,Tottenham Hotspur,1634484600,Steve Bruce,Nuno Espírito Santo,"St. James' Park, Newcastle upon Tyne",52214
+https://fbref.com/en/matches/0f3a1892/Arsenal-Crystal-Palace-October-18-2021-Premier-League,Arsenal,Crystal Palace,1634583600,Mikel Arteta,Patrick Vieira,"Emirates Stadium, London",59475
+https://fbref.com/en/matches/ac95a75a/Arsenal-Aston-Villa-October-22-2021-Premier-League,Arsenal,Aston Villa,1634929200,Mikel Arteta,Dean Smith,"Emirates Stadium, London",59496
+https://fbref.com/en/matches/a6ff9cf9/Chelsea-Norwich-City-October-23-2021-Premier-League,Chelsea,Norwich City,1634988600,Thomas Tuchel,Daniel Farke,"Stamford Bridge, London",40113
+https://fbref.com/en/matches/49b3afe3/Leeds-United-Wolverhampton-Wanderers-October-23-2021-Premier-League,Leeds United,Wolverhampton Wanderers,1634997600,Marcelo Bielsa,Bruno Lage,"Elland Road, Leeds",36475
+https://fbref.com/en/matches/4d1b6f6f/Crystal-Palace-Newcastle-United-October-23-2021-Premier-League,Crystal Palace,Newcastle United,1634997600,Patrick Vieira,Graeme Jones,"Selhurst Park, London",24609
+https://fbref.com/en/matches/6985d123/Everton-Watford-October-23-2021-Premier-League,Everton,Watford,1634997600,Rafael Benítez,Claudio Ranieri,"Goodison Park, Liverpool",38834
+https://fbref.com/en/matches/d5164fbe/Southampton-Burnley-October-23-2021-Premier-League,Southampton,Burnley,1634997600,Ralph Hasenhüttl,Sean Dyche,"St. Mary's Stadium, Southampton",29145
+https://fbref.com/en/matches/dc93611c/Brighton-and-Hove-Albion-Manchester-City-October-23-2021-Premier-League,Brighton & Hove Albion,Manchester City,1635006600,Graham Potter,Pep Guardiola,"The American Express Community Stadium, Brighton & Hove",31215
+https://fbref.com/en/matches/70c508ee/West-Ham-United-Tottenham-Hotspur-October-24-2021-Premier-League,West Ham United,Tottenham Hotspur,1635080400,David Moyes,Nuno Espírito Santo,"London Stadium, London",59924
+https://fbref.com/en/matches/b5c25937/Brentford-Leicester-City-October-24-2021-Premier-League,Brentford,Leicester City,1635080400,Thomas Frank,Brendan Rodgers,"Brentford Community Stadium, Brentford",16814
+https://fbref.com/en/matches/b886bec4/North-West-Derby-Manchester-United-Liverpool-October-24-2021-Premier-League,Manchester United,Liverpool,1635089400,Ole Gunnar Solskjær,Jürgen Klopp,"Old Trafford, Manchester",73088
+https://fbref.com/en/matches/719b57c6/Leicester-City-Arsenal-October-30-2021-Premier-League,Leicester City,Arsenal,1635593400,Brendan Rodgers,Mikel Arteta,"King Power Stadium, Leicester",32209
+https://fbref.com/en/matches/49478cd2/Newcastle-United-Chelsea-October-30-2021-Premier-League,Newcastle United,Chelsea,1635602400,Graeme Jones,Thomas Tuchel,"St. James' Park, Newcastle upon Tyne",52208
+https://fbref.com/en/matches/c68998b5/Liverpool-Brighton-and-Hove-Albion-October-30-2021-Premier-League,Liverpool,Brighton & Hove Albion,1635602400,Jürgen Klopp,Graham Potter,"Anfield, Liverpool",52598
+https://fbref.com/en/matches/c8915e9e/Burnley-Brentford-October-30-2021-Premier-League,Burnley,Brentford,1635602400,Sean Dyche,Thomas Frank,"Turf Moor, Burnley",18821
+https://fbref.com/en/matches/e3521093/Watford-Southampton-October-30-2021-Premier-League,Watford,Southampton,1635602400,Claudio Ranieri,Ralph Hasenhüttl,"Vicarage Road Stadium, Watford",20869
+https://fbref.com/en/matches/eb6c294f/Manchester-City-Crystal-Palace-October-30-2021-Premier-League,Manchester City,Crystal Palace,1635602400,Pep Guardiola,Patrick Vieira,"Etihad Stadium, Manchester",53014
+https://fbref.com/en/matches/5a2b8c26/Tottenham-Hotspur-Manchester-United-October-30-2021-Premier-League,Tottenham Hotspur,Manchester United,1635611400,Nuno Espírito Santo,Ole Gunnar Solskjær,"Tottenham Hotspur Stadium, London",60356
+https://fbref.com/en/matches/52daf8d4/Norwich-City-Leeds-United-October-31-2021-Premier-League,Norwich City,Leeds United,1635688800,Daniel Farke,Marcelo Bielsa,"Carrow Road, Norwich",26913
+https://fbref.com/en/matches/a62478a2/Aston-Villa-West-Ham-United-October-31-2021-Premier-League,Aston Villa,West Ham United,1635697800,Dean Smith,David Moyes,"Villa Park, Birmingham",41874
+https://fbref.com/en/matches/c9ad66cc/Wolverhampton-Wanderers-Everton-November-1-2021-Premier-League,Wolverhampton Wanderers,Everton,1635796800,Bruno Lage,Rafael Benítez,"Molineux Stadium, Wolverhampton",30617
+https://fbref.com/en/matches/868bd31f/Southampton-Aston-Villa-November-5-2021-Premier-League,Southampton,Aston Villa,1636142400,Ralph Hasenhüttl,Dean Smith,"St. Mary's Stadium, Southampton",30178
+https://fbref.com/en/matches/5fa5be28/Manchester-Derby-Manchester-United-Manchester-City-November-6-2021-Premier-League,Manchester United,Manchester City,1636201800,Ole Gunnar Solskjær,Pep Guardiola,"Old Trafford, Manchester",73086
+https://fbref.com/en/matches/0f029791/Brentford-Norwich-City-November-6-2021-Premier-League,Brentford,Norwich City,1636210800,Thomas Frank,Daniel Farke,"Brentford Community Stadium, Brentford",16837
+https://fbref.com/en/matches/316c0296/Chelsea-Burnley-November-6-2021-Premier-League,Chelsea,Burnley,1636210800,Thomas Tuchel,Sean Dyche,"Stamford Bridge, London",39798
+https://fbref.com/en/matches/3a2fff4d/Crystal-Palace-Wolverhampton-Wanderers-November-6-2021-Premier-League,Crystal Palace,Wolverhampton Wanderers,1636210800,Patrick Vieira,Bruno Lage,"Selhurst Park, London",24390
+https://fbref.com/en/matches/10d11999/Brighton-and-Hove-Albion-Newcastle-United-November-6-2021-Premier-League,Brighton & Hove Albion,Newcastle United,1636219800,Graham Potter,Graeme Jones,"The American Express Community Stadium, Brighton & Hove",31267
+https://fbref.com/en/matches/224d1c99/Everton-Tottenham-Hotspur-November-7-2021-Premier-League,Everton,Tottenham Hotspur,1636293600,Rafael Benítez,Antonio Conte,"Goodison Park, Liverpool",39059
+https://fbref.com/en/matches/8fd004c6/Leeds-United-Leicester-City-November-7-2021-Premier-League,Leeds United,Leicester City,1636293600,Marcelo Bielsa,Brendan Rodgers,"Elland Road, Leeds",36478
+https://fbref.com/en/matches/e0208fcf/Arsenal-Watford-November-7-2021-Premier-League,Arsenal,Watford,1636293600,Mikel Arteta,Claudio Ranieri,"Emirates Stadium, London",59833
+https://fbref.com/en/matches/63538dc7/West-Ham-United-Liverpool-November-7-2021-Premier-League,West Ham United,Liverpool,1636302600,David Moyes,Jürgen Klopp,"London Stadium, London",59909
+https://fbref.com/en/matches/2fd486d6/Leicester-City-Chelsea-November-20-2021-Premier-League,Leicester City,Chelsea,1637411400,Brendan Rodgers,Thomas Tuchel,"King Power Stadium, Leicester",35497
+https://fbref.com/en/matches/013c4797/Wolverhampton-Wanderers-West-Ham-United-November-20-2021-Premier-League,Wolverhampton Wanderers,West Ham United,1637420400,Bruno Lage,David Moyes,"Molineux Stadium, Wolverhampton",30667
+https://fbref.com/en/matches/31a03035/Watford-Manchester-United-November-20-2021-Premier-League,Watford,Manchester United,1637420400,Claudio Ranieri,Ole Gunnar Solskjær,"Vicarage Road Stadium, Watford",21087
+https://fbref.com/en/matches/4bddaba4/Norwich-City-Southampton-November-20-2021-Premier-League,Norwich City,Southampton,1637420400,Dean Smith,Ralph Hasenhüttl,"Carrow Road, Norwich",26885
+https://fbref.com/en/matches/88f081ac/Aston-Villa-Brighton-and-Hove-Albion-November-20-2021-Premier-League,Aston Villa,Brighton & Hove Albion,1637420400,Steven Gerrard,Graham Potter,"Villa Park, Birmingham",41925
+https://fbref.com/en/matches/adbf56bc/Newcastle-United-Brentford-November-20-2021-Premier-League,Newcastle United,Brentford,1637420400,Eddie Howe,Thomas Frank,"St. James' Park, Newcastle upon Tyne",52131
+https://fbref.com/en/matches/e7ab34c4/Burnley-Crystal-Palace-November-20-2021-Premier-League,Burnley,Crystal Palace,1637420400,Sean Dyche,Patrick Vieira,"Turf Moor, Burnley",18028
+https://fbref.com/en/matches/e9ea66e1/Liverpool-Arsenal-November-20-2021-Premier-League,Liverpool,Arsenal,1637429400,Jürgen Klopp,Mikel Arteta,"Anfield, Liverpool",53092
+https://fbref.com/en/matches/bfbe7402/Manchester-City-Everton-November-21-2021-Premier-League,Manchester City,Everton,1637503200,Pep Guardiola,Rafael Benítez,"Etihad Stadium, Manchester",52571
+https://fbref.com/en/matches/a74a684e/Tottenham-Hotspur-Leeds-United-November-21-2021-Premier-League,Tottenham Hotspur,Leeds United,1637512200,Antonio Conte,Marcelo Bielsa,"Tottenham Hotspur Stadium, London",58989
+https://fbref.com/en/matches/067e0ab9/Arsenal-Newcastle-United-November-27-2021-Premier-League,Arsenal,Newcastle United,1638016200,Mikel Arteta,Eddie Howe,"Emirates Stadium, London",59886
+https://fbref.com/en/matches/4a7a9e3b/Crystal-Palace-Aston-Villa-November-27-2021-Premier-League,Crystal Palace,Aston Villa,1638025200,Patrick Vieira,Steven Gerrard,"Selhurst Park, London",25203
+https://fbref.com/en/matches/aa9b882d/Liverpool-Southampton-November-27-2021-Premier-League,Liverpool,Southampton,1638025200,Jürgen Klopp,Ralph Hasenhüttl,"Anfield, Liverpool",53040
+https://fbref.com/en/matches/ff3bd755/Norwich-City-Wolverhampton-Wanderers-November-27-2021-Premier-League,Norwich City,Wolverhampton Wanderers,1638025200,Dean Smith,Bruno Lage,"Carrow Road, Norwich",26911
+https://fbref.com/en/matches/5d651cd7/Brighton-and-Hove-Albion-Leeds-United-November-27-2021-Premier-League,Brighton & Hove Albion,Leeds United,1638034200,Graham Potter,Marcelo Bielsa,"The American Express Community Stadium, Brighton & Hove",31166
+https://fbref.com/en/matches/286c4c1c/Brentford-Everton-November-28-2021-Premier-League,Brentford,Everton,1638108000,Thomas Frank,Rafael Benítez,"Brentford Community Stadium, Brentford",16957
+https://fbref.com/en/matches/c2e426c8/Leicester-City-Watford-November-28-2021-Premier-League,Leicester City,Watford,1638108000,Brendan Rodgers,Claudio Ranieri,"King Power Stadium, Leicester",32020
+https://fbref.com/en/matches/c37446de/Manchester-City-West-Ham-United-November-28-2021-Premier-League,Manchester City,West Ham United,1638108000,Pep Guardiola,David Moyes,"Etihad Stadium, Manchester",53245
+https://fbref.com/en/matches/08b3c5d8/Chelsea-Manchester-United-November-28-2021-Premier-League,Chelsea,Manchester United,1638117000,Thomas Tuchel,Michael Carrick,"Stamford Bridge, London",40041
+https://fbref.com/en/matches/ce4d873f/Newcastle-United-Norwich-City-November-30-2021-Premier-League,Newcastle United,Norwich City,1638300600,Eddie Howe,Dean Smith,"St. James' Park, Newcastle upon Tyne",50757
+https://fbref.com/en/matches/b0ab4044/Leeds-United-Crystal-Palace-November-30-2021-Premier-League,Leeds United,Crystal Palace,1638303300,Marcelo Bielsa,Patrick Vieira,"Elland Road, Leeds",35558
+https://fbref.com/en/matches/135f5959/Southampton-Leicester-City-December-1-2021-Premier-League,Southampton,Leicester City,1638387000,Ralph Hasenhüttl,Brendan Rodgers,"St. Mary's Stadium, Southampton",26951
+https://fbref.com/en/matches/2049300f/West-Ham-United-Brighton-and-Hove-Albion-December-1-2021-Premier-League,West Ham United,Brighton & Hove Albion,1638387000,David Moyes,Graham Potter,"London Stadium, London",59626
+https://fbref.com/en/matches/a3fc2ddc/Wolverhampton-Wanderers-Burnley-December-1-2021-Premier-League,Wolverhampton Wanderers,Burnley,1638387000,Bruno Lage,Sean Dyche,"Molineux Stadium, Wolverhampton",30328
+https://fbref.com/en/matches/f475576b/Watford-Chelsea-December-1-2021-Premier-League,Watford,Chelsea,1638387000,Claudio Ranieri,Thomas Tuchel,"Vicarage Road Stadium, Watford",20388
+https://fbref.com/en/matches/1993b7ec/Aston-Villa-Manchester-City-December-1-2021-Premier-League,Aston Villa,Manchester City,1638389700,Steven Gerrard,Pep Guardiola,"Villa Park, Birmingham",41400
+https://fbref.com/en/matches/b46554fb/Merseyside-Derby-Everton-Liverpool-December-1-2021-Premier-League,Everton,Liverpool,1638389700,Rafael Benítez,Jürgen Klopp,"Goodison Park, Liverpool",39641
+https://fbref.com/en/matches/a80b3790/Tottenham-Hotspur-Brentford-December-2-2021-Premier-League,Tottenham Hotspur,Brentford,1638473400,Antonio Conte,Thomas Frank,"Tottenham Hotspur Stadium, London",54202
+https://fbref.com/en/matches/4323a38f/Manchester-United-Arsenal-December-2-2021-Premier-League,Manchester United,Arsenal,1638476100,Michael Carrick,Mikel Arteta,"Old Trafford, Manchester",73123
+https://fbref.com/en/matches/776aa8ab/West-Ham-United-Chelsea-December-4-2021-Premier-League,West Ham United,Chelsea,1638621000,David Moyes,Thomas Tuchel,"London Stadium, London",59942
+https://fbref.com/en/matches/11ed382d/Newcastle-United-Burnley-December-4-2021-Premier-League,Newcastle United,Burnley,1638630000,Eddie Howe,Sean Dyche,"St. James' Park, Newcastle upon Tyne",51948
+https://fbref.com/en/matches/27fd5d70/Southampton-Brighton-and-Hove-Albion-December-4-2021-Premier-League,Southampton,Brighton & Hove Albion,1638630000,Ralph Hasenhüttl,Graham Potter,"St. Mary's Stadium, Southampton",28706
+https://fbref.com/en/matches/37d61ff3/Wolverhampton-Wanderers-Liverpool-December-4-2021-Premier-League,Wolverhampton Wanderers,Liverpool,1638630000,Bruno Lage,Jürgen Klopp,"Molineux Stadium, Wolverhampton",30729
+https://fbref.com/en/matches/befb6648/Watford-Manchester-City-December-4-2021-Premier-League,Watford,Manchester City,1638639000,Claudio Ranieri,Pep Guardiola,"Vicarage Road Stadium, Watford",20673
+https://fbref.com/en/matches/175160b7/Leeds-United-Brentford-December-5-2021-Premier-League,Leeds United,Brentford,1638712800,Marcelo Bielsa,Thomas Frank,"Elland Road, Leeds",35639
+https://fbref.com/en/matches/78e62deb/Tottenham-Hotspur-Norwich-City-December-5-2021-Premier-League,Tottenham Hotspur,Norwich City,1638712800,Antonio Conte,Dean Smith,"Tottenham Hotspur Stadium, London",57088
+https://fbref.com/en/matches/8d10c8d4/Manchester-United-Crystal-Palace-December-5-2021-Premier-League,Manchester United,Crystal Palace,1638712800,Ralf Rangnick,Patrick Vieira,"Old Trafford, Manchester",73172
+https://fbref.com/en/matches/49cc65ac/Aston-Villa-Leicester-City-December-5-2021-Premier-League,Aston Villa,Leicester City,1638721800,Steven Gerrard,Brendan Rodgers,"Villa Park, Birmingham",41572
+https://fbref.com/en/matches/5fdb6c19/Everton-Arsenal-December-6-2021-Premier-League,Everton,Arsenal,1638820800,Rafael Benítez,Mikel Arteta,"Goodison Park, Liverpool",38906
+https://fbref.com/en/matches/49a36a4e/Brentford-Watford-December-10-2021-Premier-League,Brentford,Watford,1639166400,Thomas Frank,Claudio Ranieri,"Brentford Community Stadium, Brentford",16861
+https://fbref.com/en/matches/d46b4a18/Manchester-City-Wolverhampton-Wanderers-December-11-2021-Premier-League,Manchester City,Wolverhampton Wanderers,1639225800,Pep Guardiola,Bruno Lage,"Etihad Stadium, Manchester",52613
+https://fbref.com/en/matches/678d7dca/Liverpool-Aston-Villa-December-11-2021-Premier-League,Liverpool,Aston Villa,1639234800,Jürgen Klopp,Steven Gerrard,"Anfield, Liverpool",53093
+https://fbref.com/en/matches/6a35f07c/Arsenal-Southampton-December-11-2021-Premier-League,Arsenal,Southampton,1639234800,Mikel Arteta,Ralph Hasenhüttl,"Emirates Stadium, London",59653
+https://fbref.com/en/matches/6ad3036b/Chelsea-Leeds-United-December-11-2021-Premier-League,Chelsea,Leeds United,1639234800,Thomas Tuchel,Marcelo Bielsa,"Stamford Bridge, London",39959
+https://fbref.com/en/matches/11a67612/Norwich-City-Manchester-United-December-11-2021-Premier-League,Norwich City,Manchester United,1639243800,Dean Smith,Ralf Rangnick,"Carrow Road, Norwich",27606
+https://fbref.com/en/matches/6d236ce6/Burnley-West-Ham-United-December-12-2021-Premier-League,Burnley,West Ham United,1639317600,Sean Dyche,David Moyes,"Turf Moor, Burnley",18065
+https://fbref.com/en/matches/8805978d/Leicester-City-Newcastle-United-December-12-2021-Premier-League,Leicester City,Newcastle United,1639317600,Brendan Rodgers,Eddie Howe,"King Power Stadium, Leicester",31959
+https://fbref.com/en/matches/02abf29a/Crystal-Palace-Everton-December-12-2021-Premier-League,Crystal Palace,Everton,1639326600,Patrick Vieira,Rafael Benítez,"Selhurst Park, London",24066
+https://fbref.com/en/matches/c78a1d7d/Norwich-City-Aston-Villa-December-14-2021-Premier-League,Norwich City,Aston Villa,1639511100,Dean Smith,Steven Gerrard,"Carrow Road, Norwich",26836
+https://fbref.com/en/matches/5730a84c/Manchester-City-Leeds-United-December-14-2021-Premier-League,Manchester City,Leeds United,1639512000,Pep Guardiola,Marcelo Bielsa,"Etihad Stadium, Manchester",52401
+https://fbref.com/en/matches/60178542/Brighton-and-Hove-Albion-Wolverhampton-Wanderers-December-15-2021-Premier-League,Brighton & Hove Albion,Wolverhampton Wanderers,1639596600,Graham Potter,Bruno Lage,"The American Express Community Stadium, Brighton & Hove",30362
+https://fbref.com/en/matches/9ebb60f0/Crystal-Palace-Southampton-December-15-2021-Premier-League,Crystal Palace,Southampton,1639596600,Patrick Vieira,Ralph Hasenhüttl,"Selhurst Park, London",22861
+https://fbref.com/en/matches/3f1ff3a5/Arsenal-West-Ham-United-December-15-2021-Premier-League,Arsenal,West Ham United,1639598400,Mikel Arteta,David Moyes,"Emirates Stadium, London",59777
+https://fbref.com/en/matches/70209eb1/Chelsea-Everton-December-16-2021-Premier-League,Chelsea,Everton,1639683900,Thomas Tuchel,Rafael Benítez,"Stamford Bridge, London",13933
+https://fbref.com/en/matches/5aec4772/Liverpool-Newcastle-United-December-16-2021-Premier-League,Liverpool,Newcastle United,1639684800,Jürgen Klopp,Eddie Howe,"Anfield, Liverpool",52951
+https://fbref.com/en/matches/53b542d8/Leeds-United-Arsenal-December-18-2021-Premier-League,Leeds United,Arsenal,1639848600,Marcelo Bielsa,Mikel Arteta,"Elland Road, Leeds",36166
+https://fbref.com/en/matches/73d478fb/Wolverhampton-Wanderers-Chelsea-December-19-2021-Premier-League,Wolverhampton Wanderers,Chelsea,1639922400,Bruno Lage,Thomas Tuchel,"Molineux Stadium, Wolverhampton",30631
+https://fbref.com/en/matches/4d9bcee9/Newcastle-United-Manchester-City-December-19-2021-Premier-League,Newcastle United,Manchester City,1639923300,Eddie Howe,Pep Guardiola,"St. James' Park, Newcastle upon Tyne",52127
+https://fbref.com/en/matches/4ac8dee4/Tottenham-Hotspur-Liverpool-December-19-2021-Premier-League,Tottenham Hotspur,Liverpool,1639931400,Antonio Conte,Jürgen Klopp,"Tottenham Hotspur Stadium, London",45421
+https://fbref.com/en/matches/36a056cf/West-Ham-United-Southampton-December-26-2021-Premier-League,West Ham United,Southampton,1640530800,David Moyes,Ralph Hasenhüttl,"London Stadium, London",41027
+https://fbref.com/en/matches/49e84e17/Manchester-City-Leicester-City-December-26-2021-Premier-League,Manchester City,Leicester City,1640530800,Pep Guardiola,Brendan Rodgers,"Etihad Stadium, Manchester",53226
+https://fbref.com/en/matches/83ce723b/Norwich-City-Arsenal-December-26-2021-Premier-League,Norwich City,Arsenal,1640530800,Dean Smith,Mikel Arteta,"Carrow Road, Norwich",26940
+https://fbref.com/en/matches/ac4560d6/Tottenham-Hotspur-Crystal-Palace-December-26-2021-Premier-League,Tottenham Hotspur,Crystal Palace,1640530800,Antonio Conte,Patrick Vieira,"Tottenham Hotspur Stadium, London",40539
+https://fbref.com/en/matches/61396bd8/Aston-Villa-Chelsea-December-26-2021-Premier-League,Aston Villa,Chelsea,1640539800,Gary McAllister,Thomas Tuchel,"Villa Park, Birmingham",41907
+https://fbref.com/en/matches/1f64133b/Brighton-and-Hove-Albion-Brentford-December-26-2021-Premier-League,Brighton & Hove Albion,Brentford,1640548800,Graham Potter,Thomas Frank,"The American Express Community Stadium, Brighton & Hove",30141
+https://fbref.com/en/matches/f91fee43/Newcastle-United-Manchester-United-December-27-2021-Premier-League,Newcastle United,Manchester United,1640635200,Eddie Howe,Ralf Rangnick,"St. James' Park, Newcastle upon Tyne",52178
+https://fbref.com/en/matches/08d5ef01/Southampton-Tottenham-Hotspur-December-28-2021-Premier-League,Southampton,Tottenham Hotspur,1640703600,Ralph Hasenhüttl,Antonio Conte,"St. Mary's Stadium, Southampton",31304
+https://fbref.com/en/matches/59ef01ea/Crystal-Palace-Norwich-City-December-28-2021-Premier-League,Crystal Palace,Norwich City,1640703600,Patrick Vieira,Dean Smith,"Selhurst Park, London",24433
+https://fbref.com/en/matches/b56fd899/Watford-West-Ham-United-December-28-2021-Premier-League,Watford,West Ham United,1640703600,Claudio Ranieri,David Moyes,"Vicarage Road Stadium, Watford",20073
+https://fbref.com/en/matches/8ad7b26f/Leicester-City-Liverpool-December-28-2021-Premier-League,Leicester City,Liverpool,1640721600,Brendan Rodgers,Jürgen Klopp,"King Power Stadium, Leicester",32230
+https://fbref.com/en/matches/8fbe2e12/Chelsea-Brighton-and-Hove-Albion-December-29-2021-Premier-League,Chelsea,Brighton & Hove Albion,1640806200,Thomas Tuchel,Graham Potter,"Stamford Bridge, London",40080
+https://fbref.com/en/matches/1a0df937/Brentford-Manchester-City-December-29-2021-Premier-League,Brentford,Manchester City,1640808900,Thomas Frank,Pep Guardiola,"Brentford Community Stadium, Brentford",17009
+https://fbref.com/en/matches/bbfa96c9/Manchester-United-Burnley-December-30-2021-Premier-League,Manchester United,Burnley,1640895300,Ralf Rangnick,Sean Dyche,"Old Trafford, Manchester",73121
+https://fbref.com/en/matches/a9903a63/Arsenal-Manchester-City-January-1-2022-Premier-League,Arsenal,Manchester City,1641040200,Mikel Arteta,Pep Guardiola,"Emirates Stadium, London",59757
+https://fbref.com/en/matches/9c831c07/Watford-Tottenham-Hotspur-January-1-2022-Premier-League,Watford,Tottenham Hotspur,1641049200,Claudio Ranieri,Antonio Conte,"Vicarage Road Stadium, Watford",20391
+https://fbref.com/en/matches/b0b5cba6/Crystal-Palace-West-Ham-United-January-1-2022-Premier-League,Crystal Palace,West Ham United,1641058200,Patrick Vieira,David Moyes,"Selhurst Park, London",24351
+https://fbref.com/en/matches/cff8022b/Leeds-United-Burnley-January-2-2022-Premier-League,Leeds United,Burnley,1641132000,Marcelo Bielsa,Sean Dyche,"Elland Road, Leeds",36083
+https://fbref.com/en/matches/dfaa1817/Brentford-Aston-Villa-January-2-2022-Premier-League,Brentford,Aston Villa,1641132000,Thomas Frank,Steven Gerrard,"Brentford Community Stadium, Brentford",16876
+https://fbref.com/en/matches/e22bb565/Everton-Brighton-and-Hove-Albion-January-2-2022-Premier-League,Everton,Brighton & Hove Albion,1641132000,Rafael Benítez,Graham Potter,"Goodison Park, Liverpool",38203
+https://fbref.com/en/matches/3480cc09/Chelsea-Liverpool-January-2-2022-Premier-League,Chelsea,Liverpool,1641141000,Thomas Tuchel,Jürgen Klopp,"Stamford Bridge, London",40072
+https://fbref.com/en/matches/8e966b52/Manchester-United-Wolverhampton-Wanderers-January-3-2022-Premier-League,Manchester United,Wolverhampton Wanderers,1641231000,Ralf Rangnick,Bruno Lage,"Old Trafford, Manchester",73045
+https://fbref.com/en/matches/0859817d/Southampton-Brentford-January-11-2022-Premier-League,Southampton,Brentford,1641930300,Ralph Hasenhüttl,Thomas Frank,"St. Mary's Stadium, Southampton",27383
+https://fbref.com/en/matches/7d53d1ea/West-Ham-United-Norwich-City-January-12-2022-Premier-League,West Ham United,Norwich City,1642016700,David Moyes,Dean Smith,"London Stadium, London",59775
+https://fbref.com/en/matches/96630936/Brighton-and-Hove-Albion-Crystal-Palace-January-14-2022-Premier-League,Brighton & Hove Albion,Crystal Palace,1642190400,Graham Potter,Patrick Vieira,"The American Express Community Stadium, Brighton & Hove",30675
+https://fbref.com/en/matches/febd7f38/Manchester-City-Chelsea-January-15-2022-Premier-League,Manchester City,Chelsea,1642249800,Pep Guardiola,Thomas Tuchel,"Etihad Stadium, Manchester",53319
+https://fbref.com/en/matches/4574a1a6/Norwich-City-Everton-January-15-2022-Premier-League,Norwich City,Everton,1642258800,Dean Smith,Rafael Benítez,"Carrow Road, Norwich",26629
+https://fbref.com/en/matches/64dd3e3f/Newcastle-United-Watford-January-15-2022-Premier-League,Newcastle United,Watford,1642258800,Eddie Howe,Claudio Ranieri,"St. James' Park, Newcastle upon Tyne",52223
+https://fbref.com/en/matches/dd7b8b8b/Wolverhampton-Wanderers-Southampton-January-15-2022-Premier-League,Wolverhampton Wanderers,Southampton,1642258800,Bruno Lage,Ralph Hasenhüttl,"Molineux Stadium, Wolverhampton",30057
+https://fbref.com/en/matches/745dc664/Aston-Villa-Manchester-United-January-15-2022-Premier-League,Aston Villa,Manchester United,1642267800,Steven Gerrard,Ralf Rangnick,"Villa Park, Birmingham",41968
+https://fbref.com/en/matches/62c16969/West-Ham-United-Leeds-United-January-16-2022-Premier-League,West Ham United,Leeds United,1642341600,David Moyes,Marcelo Bielsa,"London Stadium, London",59951
+https://fbref.com/en/matches/c8c457d6/Liverpool-Brentford-January-16-2022-Premier-League,Liverpool,Brentford,1642341600,Jürgen Klopp,Thomas Frank,"Anfield, Liverpool",52824
+https://fbref.com/en/matches/b4c9c369/Brighton-and-Hove-Albion-Chelsea-January-18-2022-Premier-League,Brighton & Hove Albion,Chelsea,1642536000,Graham Potter,Thomas Tuchel,"The American Express Community Stadium, Brighton & Hove",30880
+https://fbref.com/en/matches/77d28549/Leicester-City-Tottenham-Hotspur-January-19-2022-Premier-League,Leicester City,Tottenham Hotspur,1642620600,Brendan Rodgers,Antonio Conte,"King Power Stadium, Leicester",31986
+https://fbref.com/en/matches/f7c0bd68/Brentford-Manchester-United-January-19-2022-Premier-League,Brentford,Manchester United,1642622400,Thomas Frank,Ralf Rangnick,"Brentford Community Stadium, Brentford",17094
+https://fbref.com/en/matches/5c592680/Watford-Norwich-City-January-21-2022-Premier-League,Watford,Norwich City,1642795200,Claudio Ranieri,Dean Smith,"Vicarage Road Stadium, Watford",20782
+https://fbref.com/en/matches/83bac3da/Everton-Aston-Villa-January-22-2022-Premier-League,Everton,Aston Villa,1642854600,Duncan Ferguson,Steven Gerrard,"Goodison Park, Liverpool",38203
+https://fbref.com/en/matches/07df6328/Leeds-United-Newcastle-United-January-22-2022-Premier-League,Leeds United,Newcastle United,1642863600,Marcelo Bielsa,Eddie Howe,"Elland Road, Leeds",36405
+https://fbref.com/en/matches/7c23f694/Manchester-United-West-Ham-United-January-22-2022-Premier-League,Manchester United,West Ham United,1642863600,Ralf Rangnick,David Moyes,"Old Trafford, Manchester",73130
+https://fbref.com/en/matches/9f91ec9b/Brentford-Wolverhampton-Wanderers-January-22-2022-Premier-League,Brentford,Wolverhampton Wanderers,1642863600,Thomas Frank,Bruno Lage,"Brentford Community Stadium, Brentford",16982
+https://fbref.com/en/matches/9bfa5945/Southampton-Manchester-City-January-22-2022-Premier-League,Southampton,Manchester City,1642872600,Ralph Hasenhüttl,Pep Guardiola,"St. Mary's Stadium, Southampton",31178
+https://fbref.com/en/matches/60ad7e25/Crystal-Palace-Liverpool-January-23-2022-Premier-League,Crystal Palace,Liverpool,1642946400,Patrick Vieira,Jürgen Klopp,"Selhurst Park, London",25002
+https://fbref.com/en/matches/845ec84d/Arsenal-Burnley-January-23-2022-Premier-League,Arsenal,Burnley,1642946400,Mikel Arteta,Sean Dyche,"Emirates Stadium, London",59255
+https://fbref.com/en/matches/a28f6f69/Leicester-City-Brighton-and-Hove-Albion-January-23-2022-Premier-League,Leicester City,Brighton & Hove Albion,1642946400,Brendan Rodgers,Graham Potter,"King Power Stadium, Leicester",31231
+https://fbref.com/en/matches/29e164e3/Chelsea-Tottenham-Hotspur-January-23-2022-Premier-League,Chelsea,Tottenham Hotspur,1642955400,Thomas Tuchel,Antonio Conte,"Stamford Bridge, London",40020
+https://fbref.com/en/matches/5c31d723/Burnley-Watford-February-5-2022-Premier-League,Burnley,Watford,1644084000,Sean Dyche,Roy Hodgson,"Turf Moor, Burnley",19527
+https://fbref.com/en/matches/3778ac3f/West-Ham-United-Watford-February-8-2022-Premier-League,West Ham United,Watford,1644349500,David Moyes,Roy Hodgson,"London Stadium, London",59581
+https://fbref.com/en/matches/fde8d97d/Newcastle-United-Everton-February-8-2022-Premier-League,Newcastle United,Everton,1644349500,Eddie Howe,Frank Lampard,"St. James' Park, Newcastle upon Tyne",52186
+https://fbref.com/en/matches/cb262ab8/Burnley-Manchester-United-February-8-2022-Premier-League,Burnley,Manchester United,1644350400,Sean Dyche,Ralf Rangnick,"Turf Moor, Burnley",21233
+https://fbref.com/en/matches/0613df22/Tottenham-Hotspur-Southampton-February-9-2022-Premier-League,Tottenham Hotspur,Southampton,1644435900,Antonio Conte,Ralph Hasenhüttl,"Tottenham Hotspur Stadium, London",54012
+https://fbref.com/en/matches/22d9fbc9/Norwich-City-Crystal-Palace-February-9-2022-Premier-League,Norwich City,Crystal Palace,1644435900,Dean Smith,Patrick Vieira,"Carrow Road, Norwich",26652
+https://fbref.com/en/matches/3b077554/Manchester-City-Brentford-February-9-2022-Premier-League,Manchester City,Brentford,1644435900,Pep Guardiola,Thomas Frank,"Etihad Stadium, Manchester",51658
+https://fbref.com/en/matches/f1e84229/Aston-Villa-Leeds-United-February-9-2022-Premier-League,Aston Villa,Leeds United,1644436800,Steven Gerrard,Marcelo Bielsa,"Villa Park, Birmingham",41927
+https://fbref.com/en/matches/911fa284/Liverpool-Leicester-City-February-10-2022-Premier-League,Liverpool,Leicester City,1644522300,Jürgen Klopp,Brendan Rodgers,"Anfield, Liverpool",53050
+https://fbref.com/en/matches/bf5f0f9e/Wolverhampton-Wanderers-Arsenal-February-10-2022-Premier-League,Wolverhampton Wanderers,Arsenal,1644522300,Bruno Lage,Mikel Arteta,"Molineux Stadium, Wolverhampton",31523
+https://fbref.com/en/matches/d15dca2c/Manchester-United-Southampton-February-12-2022-Premier-League,Manchester United,Southampton,1644669000,Ralf Rangnick,Ralph Hasenhüttl,"Old Trafford, Manchester",73084
+https://fbref.com/en/matches/0a51943e/Everton-Leeds-United-February-12-2022-Premier-League,Everton,Leeds United,1644678000,Frank Lampard,Marcelo Bielsa,"Goodison Park, Liverpool",39150
+https://fbref.com/en/matches/427597d4/Brentford-Crystal-Palace-February-12-2022-Premier-League,Brentford,Crystal Palace,1644678000,Thomas Frank,Patrick Vieira,"Brentford Community Stadium, Brentford",16958
+https://fbref.com/en/matches/e04d98c4/Watford-Brighton-and-Hove-Albion-February-12-2022-Premier-League,Watford,Brighton & Hove Albion,1644678000,Roy Hodgson,Graham Potter,"Vicarage Road Stadium, Watford",20795
+https://fbref.com/en/matches/522300d0/Norwich-City-Manchester-City-February-12-2022-Premier-League,Norwich City,Manchester City,1644687000,Dean Smith,Pep Guardiola,"Carrow Road, Norwich",27010
+https://fbref.com/en/matches/59b88877/Newcastle-United-Aston-Villa-February-13-2022-Premier-League,Newcastle United,Aston Villa,1644760800,Eddie Howe,Steven Gerrard,"St. James' Park, Newcastle upon Tyne",52207
+https://fbref.com/en/matches/ee0b72dd/Burnley-Liverpool-February-13-2022-Premier-League,Burnley,Liverpool,1644760800,Sean Dyche,Jürgen Klopp,"Turf Moor, Burnley",19563
+https://fbref.com/en/matches/fe93b491/Tottenham-Hotspur-Wolverhampton-Wanderers-February-13-2022-Premier-League,Tottenham Hotspur,Wolverhampton Wanderers,1644760800,Antonio Conte,Bruno Lage,"Tottenham Hotspur Stadium, London",56452
+https://fbref.com/en/matches/c2c20295/Leicester-City-West-Ham-United-February-13-2022-Premier-League,Leicester City,West Ham United,1644769800,Brendan Rodgers,David Moyes,"King Power Stadium, Leicester",32061
+https://fbref.com/en/matches/a1fb5fa2/Manchester-United-Brighton-and-Hove-Albion-February-15-2022-Premier-League,Manchester United,Brighton & Hove Albion,1644956100,Ralf Rangnick,Graham Potter,"Old Trafford, Manchester",73012
+https://fbref.com/en/matches/4e263347/West-Ham-United-Newcastle-United-February-19-2022-Premier-League,West Ham United,Newcastle United,1645273800,David Moyes,Eddie Howe,"London Stadium, London",59949
+https://fbref.com/en/matches/28c4ee0a/Aston-Villa-Watford-February-19-2022-Premier-League,Aston Villa,Watford,1645282800,Steven Gerrard,Roy Hodgson,"Villa Park, Birmingham",41936
+https://fbref.com/en/matches/401c8cc8/Arsenal-Brentford-February-19-2022-Premier-League,Arsenal,Brentford,1645282800,Mikel Arteta,Thomas Frank,"Emirates Stadium, London",59249
+https://fbref.com/en/matches/53cc3dbd/Southampton-Everton-February-19-2022-Premier-League,Southampton,Everton,1645282800,Ralph Hasenhüttl,Frank Lampard,"St. Mary's Stadium, Southampton",31312
+https://fbref.com/en/matches/700c9eaf/Liverpool-Norwich-City-February-19-2022-Premier-League,Liverpool,Norwich City,1645282800,Jürgen Klopp,Dean Smith,"Anfield, Liverpool",53135
+https://fbref.com/en/matches/b1df8cfd/Brighton-and-Hove-Albion-Burnley-February-19-2022-Premier-League,Brighton & Hove Albion,Burnley,1645282800,Graham Potter,Sean Dyche,"The American Express Community Stadium, Brighton & Hove",30361
+https://fbref.com/en/matches/ddd2eed6/Crystal-Palace-Chelsea-February-19-2022-Premier-League,Crystal Palace,Chelsea,1645282800,Patrick Vieira,Thomas Tuchel,"Selhurst Park, London",25109
+https://fbref.com/en/matches/cd797899/Manchester-City-Tottenham-Hotspur-February-19-2022-Premier-League,Manchester City,Tottenham Hotspur,1645291800,Pep Guardiola,Antonio Conte,"Etihad Stadium, Manchester",53201
+https://fbref.com/en/matches/002f0ff0/Leeds-United-Manchester-United-February-20-2022-Premier-League,Leeds United,Manchester United,1645365600,Marcelo Bielsa,Ralf Rangnick,"Elland Road, Leeds",36715
+https://fbref.com/en/matches/63d95af6/Wolverhampton-Wanderers-Leicester-City-February-20-2022-Premier-League,Wolverhampton Wanderers,Leicester City,1645374600,Bruno Lage,Brendan Rodgers,"Molineux Stadium, Wolverhampton",31587
+https://fbref.com/en/matches/f8d646cb/Burnley-Tottenham-Hotspur-February-23-2022-Premier-League,Burnley,Tottenham Hotspur,1645644600,Sean Dyche,Antonio Conte,"Turf Moor, Burnley",19488
+https://fbref.com/en/matches/daa35440/Watford-Crystal-Palace-February-23-2022-Premier-League,Watford,Crystal Palace,1645644600,Roy Hodgson,Patrick Vieira,"Vicarage Road Stadium, Watford",20012
+https://fbref.com/en/matches/6d0f3b48/Liverpool-Leeds-United-February-23-2022-Premier-League,Liverpool,Leeds United,1645645500,Jürgen Klopp,Marcelo Bielsa,"Anfield, Liverpool",53018
+https://fbref.com/en/matches/3c516ed6/Arsenal-Wolverhampton-Wanderers-February-24-2022-Premier-League,Arsenal,Wolverhampton Wanderers,1645731900,Mikel Arteta,Bruno Lage,"Emirates Stadium, London",59888
+https://fbref.com/en/matches/17c79d36/Southampton-Norwich-City-February-25-2022-Premier-League,Southampton,Norwich City,1645819200,Ralph Hasenhüttl,Dean Smith,"St. Mary's Stadium, Southampton",31182
+https://fbref.com/en/matches/05d37de9/Leeds-United-Tottenham-Hotspur-February-26-2022-Premier-League,Leeds United,Tottenham Hotspur,1645878600,Marcelo Bielsa,Antonio Conte,"Elland Road, Leeds",36599
+https://fbref.com/en/matches/086dcb8d/Crystal-Palace-Burnley-February-26-2022-Premier-League,Crystal Palace,Burnley,1645887600,Patrick Vieira,Sean Dyche,"Selhurst Park, London",24203
+https://fbref.com/en/matches/43737c9c/Manchester-United-Watford-February-26-2022-Premier-League,Manchester United,Watford,1645887600,Ralf Rangnick,Roy Hodgson,"Old Trafford, Manchester",73152
+https://fbref.com/en/matches/8cabd787/Brighton-and-Hove-Albion-Aston-Villa-February-26-2022-Premier-League,Brighton & Hove Albion,Aston Villa,1645887600,Graham Potter,Steven Gerrard,"The American Express Community Stadium, Brighton & Hove",31475
+https://fbref.com/en/matches/fd61d442/Brentford-Newcastle-United-February-26-2022-Premier-League,Brentford,Newcastle United,1645887600,Thomas Frank,Eddie Howe,"Brentford Community Stadium, Brentford",17039
+https://fbref.com/en/matches/ab729bd6/Everton-Manchester-City-February-26-2022-Premier-League,Everton,Manchester City,1645896600,Frank Lampard,Pep Guardiola,"Goodison Park, Liverpool",39105
+https://fbref.com/en/matches/b1dcaf8d/West-Ham-United-Wolverhampton-Wanderers-February-27-2022-Premier-League,West Ham United,Wolverhampton Wanderers,1645970400,David Moyes,Bruno Lage,"London Stadium, London",59946
+https://fbref.com/en/matches/a47f5f21/Burnley-Leicester-City-March-1-2022-Premier-League,Burnley,Leicester City,1646163900,Sean Dyche,Brendan Rodgers,"Turf Moor, Burnley",17825
+https://fbref.com/en/matches/1d777dcd/Leicester-City-Leeds-United-March-5-2022-Premier-League,Leicester City,Leeds United,1646483400,Brendan Rodgers,Jesse Marsch,"King Power Stadium, Leicester",32236
+https://fbref.com/en/matches/02337bda/Newcastle-United-Brighton-and-Hove-Albion-March-5-2022-Premier-League,Newcastle United,Brighton & Hove Albion,1646492400,Eddie Howe,Graham Potter,"St. James' Park, Newcastle upon Tyne",52214
+https://fbref.com/en/matches/1aa40463/Aston-Villa-Southampton-March-5-2022-Premier-League,Aston Villa,Southampton,1646492400,Steven Gerrard,Ralph Hasenhüttl,"Villa Park, Birmingham",41855
+https://fbref.com/en/matches/926192f8/Burnley-Chelsea-March-5-2022-Premier-League,Burnley,Chelsea,1646492400,Sean Dyche,Thomas Tuchel,"Turf Moor, Burnley",19439
+https://fbref.com/en/matches/9ccef73f/Wolverhampton-Wanderers-Crystal-Palace-March-5-2022-Premier-League,Wolverhampton Wanderers,Crystal Palace,1646492400,Bruno Lage,Patrick Vieira,"Molineux Stadium, Wolverhampton",31395
+https://fbref.com/en/matches/fcb61cff/Norwich-City-Brentford-March-5-2022-Premier-League,Norwich City,Brentford,1646492400,Dean Smith,Thomas Frank,"Carrow Road, Norwich",26887
+https://fbref.com/en/matches/bc1944c3/Liverpool-West-Ham-United-March-5-2022-Premier-League,Liverpool,West Ham United,1646501400,Jürgen Klopp,David Moyes,"Anfield, Liverpool",59925
+https://fbref.com/en/matches/9d5abf8b/Watford-Arsenal-March-6-2022-Premier-League,Watford,Arsenal,1646575200,Roy Hodgson,Mikel Arteta,"Vicarage Road Stadium, Watford",21142
+https://fbref.com/en/matches/2dc5b8b0/Manchester-Derby-Manchester-City-Manchester-United-March-6-2022-Premier-League,Manchester City,Manchester United,1646584200,Pep Guardiola,Ralf Rangnick,"Etihad Stadium, Manchester",53165
+https://fbref.com/en/matches/6e11eac6/Tottenham-Hotspur-Everton-March-7-2022-Premier-League,Tottenham Hotspur,Everton,1646683200,Antonio Conte,Frank Lampard,"Tottenham Hotspur Stadium, London",59647
+https://fbref.com/en/matches/d0ee0e9a/Wolverhampton-Wanderers-Watford-March-10-2022-Premier-League,Wolverhampton Wanderers,Watford,1646940600,Bruno Lage,Roy Hodgson,"Molineux Stadium, Wolverhampton",29658
+https://fbref.com/en/matches/2d6fb488/Southampton-Newcastle-United-March-10-2022-Premier-League,Southampton,Newcastle United,1646940600,Ralph Hasenhüttl,Eddie Howe,"St. Mary's Stadium, Southampton",30056
+https://fbref.com/en/matches/4371c286/Norwich-City-Chelsea-March-10-2022-Premier-League,Norwich City,Chelsea,1646940600,Dean Smith,Thomas Tuchel,"Carrow Road, Norwich",26684
+https://fbref.com/en/matches/79b8fb6e/Leeds-United-Aston-Villa-March-10-2022-Premier-League,Leeds United,Aston Villa,1646941500,Jesse Marsch,Steven Gerrard,"Elland Road, Leeds",36400
+https://fbref.com/en/matches/4d3331bb/Brighton-and-Hove-Albion-Liverpool-March-12-2022-Premier-League,Brighton & Hove Albion,Liverpool,1647088200,Graham Potter,Jürgen Klopp,"The American Express Community Stadium, Brighton & Hove",31474
+https://fbref.com/en/matches/9718a901/Brentford-Burnley-March-12-2022-Premier-League,Brentford,Burnley,1647097200,Thomas Frank,Sean Dyche,"Brentford Community Stadium, Brentford",17088
+https://fbref.com/en/matches/e5e7becb/Manchester-United-Tottenham-Hotspur-March-12-2022-Premier-League,Manchester United,Tottenham Hotspur,1647106200,Ralf Rangnick,Antonio Conte,"Old Trafford, Manchester",73458
+https://fbref.com/en/matches/0dcf103b/Chelsea-Newcastle-United-March-13-2022-Premier-League,Chelsea,Newcastle United,1647180000,Thomas Tuchel,Eddie Howe,"Stamford Bridge, London",40026
+https://fbref.com/en/matches/2c627dd8/Southampton-Watford-March-13-2022-Premier-League,Southampton,Watford,1647180000,Ralph Hasenhüttl,Roy Hodgson,"St. Mary's Stadium, Southampton",28863
+https://fbref.com/en/matches/81f2f022/West-Ham-United-Aston-Villa-March-13-2022-Premier-League,West Ham United,Aston Villa,1647180000,David Moyes,Steven Gerrard,"London Stadium, London",59957
+https://fbref.com/en/matches/9e5d1f93/Everton-Wolverhampton-Wanderers-March-13-2022-Premier-League,Everton,Wolverhampton Wanderers,1647180000,Frank Lampard,Bruno Lage,"Goodison Park, Liverpool",39112
+https://fbref.com/en/matches/b13fb9b9/Leeds-United-Norwich-City-March-13-2022-Premier-League,Leeds United,Norwich City,1647180000,Jesse Marsch,Dean Smith,"Elland Road, Leeds",36321
+https://fbref.com/en/matches/47ea9ab2/Arsenal-Leicester-City-March-13-2022-Premier-League,Arsenal,Leicester City,1647189000,Mikel Arteta,Brendan Rodgers,"Emirates Stadium, London",60111
+https://fbref.com/en/matches/f5b6f5c5/Crystal-Palace-Manchester-City-March-14-2022-Premier-League,Crystal Palace,Manchester City,1647288000,Patrick Vieira,Pep Guardiola,"Selhurst Park, London",25309
+https://fbref.com/en/matches/59b3ee40/Brighton-and-Hove-Albion-Tottenham-Hotspur-March-16-2022-Premier-League,Brighton & Hove Albion,Tottenham Hotspur,1647459000,Graham Potter,Antonio Conte,"The American Express Community Stadium, Brighton & Hove",31144
+https://fbref.com/en/matches/8ef5cc6b/Arsenal-Liverpool-March-16-2022-Premier-League,Arsenal,Liverpool,1647461700,Mikel Arteta,Jürgen Klopp,"Emirates Stadium, London",59968
+https://fbref.com/en/matches/029e5f94/Everton-Newcastle-United-March-17-2022-Premier-League,Everton,Newcastle United,1647546300,Frank Lampard,Eddie Howe,"Goodison Park, Liverpool",39068
+https://fbref.com/en/matches/1c402923/Wolverhampton-Wanderers-Leeds-United-March-18-2022-Premier-League,Wolverhampton Wanderers,Leeds United,1647633600,Bruno Lage,Jesse Marsch,"Molineux Stadium, Wolverhampton",31842
+https://fbref.com/en/matches/0cb74761/Aston-Villa-Arsenal-March-19-2022-Premier-League,Aston Villa,Arsenal,1647693000,Steven Gerrard,Mikel Arteta,"Villa Park, Birmingham",41956
+https://fbref.com/en/matches/c8c7dd9b/Leicester-City-Brentford-March-20-2022-Premier-League,Leicester City,Brentford,1647784800,Brendan Rodgers,Thomas Frank,"King Power Stadium, Leicester",31830
+https://fbref.com/en/matches/5fb752fa/Tottenham-Hotspur-West-Ham-United-March-20-2022-Premier-League,Tottenham Hotspur,West Ham United,1647793800,Antonio Conte,David Moyes,"Tottenham Hotspur Stadium, London",58685
+https://fbref.com/en/matches/8e05e22c/Liverpool-Watford-April-2-2022-Premier-League,Liverpool,Watford,1648899000,Jürgen Klopp,Roy Hodgson,"Anfield, Liverpool",53104
+https://fbref.com/en/matches/320d3dfe/Wolverhampton-Wanderers-Aston-Villa-April-2-2022-Premier-League,Wolverhampton Wanderers,Aston Villa,1648908000,Bruno Lage,Steven Gerrard,"Molineux Stadium, Wolverhampton",31012
+https://fbref.com/en/matches/abc88be4/Leeds-United-Southampton-April-2-2022-Premier-League,Leeds United,Southampton,1648908000,Jesse Marsch,Ralph Hasenhüttl,"Elland Road, Leeds",36580
+https://fbref.com/en/matches/c0037074/Chelsea-Brentford-April-2-2022-Premier-League,Chelsea,Brentford,1648908000,Thomas Tuchel,Thomas Frank,"Stamford Bridge, London",39061
+https://fbref.com/en/matches/c294f564/Burnley-Manchester-City-April-2-2022-Premier-League,Burnley,Manchester City,1648908000,Sean Dyche,Pep Guardiola,"Turf Moor, Burnley",21249
+https://fbref.com/en/matches/df69a1b2/Brighton-and-Hove-Albion-Norwich-City-April-2-2022-Premier-League,Brighton & Hove Albion,Norwich City,1648908000,Graham Potter,Dean Smith,"The American Express Community Stadium, Brighton & Hove",31245
+https://fbref.com/en/matches/00863ee3/Manchester-United-Leicester-City-April-2-2022-Premier-League,Manchester United,Leicester City,1648917000,Ralf Rangnick,Brendan Rodgers,"Old Trafford, Manchester",73444
+https://fbref.com/en/matches/b22e54c4/West-Ham-United-Everton-April-3-2022-Premier-League,West Ham United,Everton,1648990800,David Moyes,Frank Lampard,"London Stadium, London",59953
+https://fbref.com/en/matches/6f8a2207/Tottenham-Hotspur-Newcastle-United-April-3-2022-Premier-League,Tottenham Hotspur,Newcastle United,1648999800,Antonio Conte,Eddie Howe,"Tottenham Hotspur Stadium, London",57553
+https://fbref.com/en/matches/d96b144a/Crystal-Palace-Arsenal-April-4-2022-Premier-League,Crystal Palace,Arsenal,1649098800,Patrick Vieira,Mikel Arteta,"Selhurst Park, London",25149
+https://fbref.com/en/matches/8ee025e7/Burnley-Everton-April-6-2022-Premier-League,Burnley,Everton,1649269800,Sean Dyche,Frank Lampard,"Turf Moor, Burnley",19830
+https://fbref.com/en/matches/739d8264/Newcastle-United-Wolverhampton-Wanderers-April-8-2022-Premier-League,Newcastle United,Wolverhampton Wanderers,1649444400,Eddie Howe,Bruno Lage,"St. James' Park, Newcastle upon Tyne",52164
+https://fbref.com/en/matches/f976e20a/Everton-Manchester-United-April-9-2022-Premier-League,Everton,Manchester United,1649503800,Frank Lampard,Ralf Rangnick,"Goodison Park, Liverpool",39080
+https://fbref.com/en/matches/37ddcda6/Arsenal-Brighton-and-Hove-Albion-April-9-2022-Premier-League,Arsenal,Brighton & Hove Albion,1649512800,Mikel Arteta,Graham Potter,"Emirates Stadium, London",60112
+https://fbref.com/en/matches/70d15cf0/Southampton-Chelsea-April-9-2022-Premier-League,Southampton,Chelsea,1649512800,Ralph Hasenhüttl,Thomas Tuchel,"St. Mary's Stadium, Southampton",31359
+https://fbref.com/en/matches/b18deecf/Watford-Leeds-United-April-9-2022-Premier-League,Watford,Leeds United,1649512800,Roy Hodgson,Jesse Marsch,"Vicarage Road Stadium, Watford",20957
+https://fbref.com/en/matches/811d471f/Aston-Villa-Tottenham-Hotspur-April-9-2022-Premier-League,Aston Villa,Tottenham Hotspur,1649521800,Steven Gerrard,Antonio Conte,"Villa Park, Birmingham",41949
+https://fbref.com/en/matches/6bb36736/Brentford-West-Ham-United-April-10-2022-Premier-League,Brentford,West Ham United,1649595600,Thomas Frank,David Moyes,"Brentford Community Stadium, Brentford",17032
+https://fbref.com/en/matches/816c435d/Leicester-City-Crystal-Palace-April-10-2022-Premier-League,Leicester City,Crystal Palace,1649595600,Brendan Rodgers,Patrick Vieira,"King Power Stadium, Leicester",31896
+https://fbref.com/en/matches/8574aaf3/Norwich-City-Burnley-April-10-2022-Premier-League,Norwich City,Burnley,1649595600,Dean Smith,Sean Dyche,"Carrow Road, Norwich",26361
+https://fbref.com/en/matches/37e2fe92/Manchester-City-Liverpool-April-10-2022-Premier-League,Manchester City,Liverpool,1649604600,Pep Guardiola,Jürgen Klopp,"Etihad Stadium, Manchester",53197
+https://fbref.com/en/matches/0b266073/Tottenham-Hotspur-Brighton-and-Hove-Albion-April-16-2022-Premier-League,Tottenham Hotspur,Brighton & Hove Albion,1650108600,Antonio Conte,Graham Potter,"Tottenham Hotspur Stadium, London",58685
+https://fbref.com/en/matches/1c3ec7cf/Manchester-United-Norwich-City-April-16-2022-Premier-League,Manchester United,Norwich City,1650117600,Ralf Rangnick,Dean Smith,"Old Trafford, Manchester",73381
+https://fbref.com/en/matches/3b17352d/Watford-Brentford-April-16-2022-Premier-League,Watford,Brentford,1650117600,Roy Hodgson,Thomas Frank,"Vicarage Road Stadium, Watford",21045
+https://fbref.com/en/matches/5ea2687c/Southampton-Arsenal-April-16-2022-Premier-League,Southampton,Arsenal,1650117600,Ralph Hasenhüttl,Mikel Arteta,"St. Mary's Stadium, Southampton",31465
+https://fbref.com/en/matches/89803b3a/Newcastle-United-Leicester-City-April-17-2022-Premier-League,Newcastle United,Leicester City,1650201300,Eddie Howe,Brendan Rodgers,"St. James' Park, Newcastle upon Tyne",52104
+https://fbref.com/en/matches/f3a245c8/West-Ham-United-Burnley-April-17-2022-Premier-League,West Ham United,Burnley,1650201300,David Moyes,Michael Jackson,"London Stadium, London",59958
+https://fbref.com/en/matches/09f1bef7/North-West-Derby-Liverpool-Manchester-United-April-19-2022-Premier-League,Liverpool,Manchester United,1650394800,Jürgen Klopp,Ralf Rangnick,"Anfield, Liverpool",52686
+https://fbref.com/en/matches/46471203/Everton-Leicester-City-April-20-2022-Premier-League,Everton,Leicester City,1650480300,Frank Lampard,Brendan Rodgers,"Goodison Park, Liverpool",39153
+https://fbref.com/en/matches/cf8c0df6/North-West-London-Derby-Chelsea-Arsenal-April-20-2022-Premier-League,Chelsea,Arsenal,1650480300,Thomas Tuchel,Mikel Arteta,"Stamford Bridge, London",32249
+https://fbref.com/en/matches/7a668764/Newcastle-United-Crystal-Palace-April-20-2022-Premier-League,Newcastle United,Crystal Palace,1650480300,Eddie Howe,Patrick Vieira,"St. James' Park, Newcastle upon Tyne",51938
+https://fbref.com/en/matches/34fd93f9/Manchester-City-Brighton-and-Hove-Albion-April-20-2022-Premier-League,Manchester City,Brighton & Hove Albion,1650481200,Pep Guardiola,Graham Potter,"Etihad Stadium, Manchester",52226
+https://fbref.com/en/matches/73ef622b/Burnley-Southampton-April-21-2022-Premier-League,Burnley,Southampton,1650566700,Michael Jackson,Ralph Hasenhüttl,"Turf Moor, Burnley",17384
+https://fbref.com/en/matches/b9f7c065/Arsenal-Manchester-United-April-23-2022-Premier-League,Arsenal,Manchester United,1650713400,Mikel Arteta,Ralf Rangnick,"Emirates Stadium, London",60223
+https://fbref.com/en/matches/17e5cacf/Leicester-City-Aston-Villa-April-23-2022-Premier-League,Leicester City,Aston Villa,1650722400,Brendan Rodgers,Steven Gerrard,"King Power Stadium, Leicester",32185
+https://fbref.com/en/matches/af522ca3/Manchester-City-Watford-April-23-2022-Premier-League,Manchester City,Watford,1650722400,Pep Guardiola,Roy Hodgson,"Etihad Stadium, Manchester",53013
+https://fbref.com/en/matches/f6a877bb/Norwich-City-Newcastle-United-April-23-2022-Premier-League,Norwich City,Newcastle United,1650722400,Dean Smith,Eddie Howe,"Carrow Road, Norwich",26910
+https://fbref.com/en/matches/9c939b7f/Brentford-Tottenham-Hotspur-April-23-2022-Premier-League,Brentford,Tottenham Hotspur,1650731400,Thomas Frank,Antonio Conte,"Brentford Community Stadium, Brentford",17072
+https://fbref.com/en/matches/32a11932/Brighton-and-Hove-Albion-Southampton-April-24-2022-Premier-League,Brighton & Hove Albion,Southampton,1650805200,Graham Potter,Ralph Hasenhüttl,"The American Express Community Stadium, Brighton & Hove",31335
+https://fbref.com/en/matches/99d0fee1/Burnley-Wolverhampton-Wanderers-April-24-2022-Premier-League,Burnley,Wolverhampton Wanderers,1650805200,Michael Jackson,Bruno Lage,"Turf Moor, Burnley",19246
+https://fbref.com/en/matches/cfcd90ed/Chelsea-West-Ham-United-April-24-2022-Premier-League,Chelsea,West Ham United,1650805200,Thomas Tuchel,David Moyes,"Stamford Bridge, London",32231
+https://fbref.com/en/matches/69235d39/Merseyside-Derby-Liverpool-Everton-April-24-2022-Premier-League,Liverpool,Everton,1650814200,Jürgen Klopp,Frank Lampard,"Anfield, Liverpool",53213
+https://fbref.com/en/matches/1a9f4c1e/Crystal-Palace-Leeds-United-April-25-2022-Premier-League,Crystal Palace,Leeds United,1650913200,Patrick Vieira,Jesse Marsch,"Selhurst Park, London",25357
+https://fbref.com/en/matches/39f0deaa/Manchester-United-Chelsea-April-28-2022-Premier-League,Manchester United,Chelsea,1651171500,Ralf Rangnick,Thomas Tuchel,"Old Trafford, Manchester",73564
+https://fbref.com/en/matches/d736eab8/Newcastle-United-Liverpool-April-30-2022-Premier-League,Newcastle United,Liverpool,1651318200,Eddie Howe,Jürgen Klopp,"St. James' Park, Newcastle upon Tyne",52281
+https://fbref.com/en/matches/81ac72d8/Watford-Burnley-April-30-2022-Premier-League,Watford,Burnley,1651327200,Roy Hodgson,Michael Jackson,"Vicarage Road Stadium, Watford",20738
+https://fbref.com/en/matches/b800c4ba/Wolverhampton-Wanderers-Brighton-and-Hove-Albion-April-30-2022-Premier-League,Wolverhampton Wanderers,Brighton & Hove Albion,1651327200,Bruno Lage,Graham Potter,"Molineux Stadium, Wolverhampton",31243
+https://fbref.com/en/matches/bf7873f2/Aston-Villa-Norwich-City-April-30-2022-Premier-League,Aston Villa,Norwich City,1651327200,Steven Gerrard,Dean Smith,"Villa Park, Birmingham",40290
+https://fbref.com/en/matches/d260be24/Southampton-Crystal-Palace-April-30-2022-Premier-League,Southampton,Crystal Palace,1651327200,Ralph Hasenhüttl,Patrick Vieira,"St. Mary's Stadium, Southampton",31359
+https://fbref.com/en/matches/5ce80a04/Leeds-United-Manchester-City-April-30-2022-Premier-League,Leeds United,Manchester City,1651336200,Jesse Marsch,Pep Guardiola,"Elland Road, Leeds",35771
+https://fbref.com/en/matches/26ff83e6/Tottenham-Hotspur-Leicester-City-May-1-2022-Premier-League,Tottenham Hotspur,Leicester City,1651410000,Antonio Conte,Brendan Rodgers,"Tottenham Hotspur Stadium, London",59482
+https://fbref.com/en/matches/4ed4a295/Everton-Chelsea-May-1-2022-Premier-League,Everton,Chelsea,1651410000,Frank Lampard,Thomas Tuchel,"Goodison Park, Liverpool",39256
+https://fbref.com/en/matches/5290c2da/West-Ham-United-Arsenal-May-1-2022-Premier-League,West Ham United,Arsenal,1651419000,David Moyes,Mikel Arteta,"London Stadium, London",59959
+https://fbref.com/en/matches/c9b4c96a/Manchester-United-Brentford-May-2-2022-Premier-League,Manchester United,Brentford,1651518000,Ralf Rangnick,Thomas Frank,"Old Trafford, Manchester",73482
+https://fbref.com/en/matches/1206a1df/Crystal-Palace-Watford-May-7-2022-Premier-League,Crystal Palace,Watford,1651932000,Patrick Vieira,Roy Hodgson,"Selhurst Park, London",24622
+https://fbref.com/en/matches/74a74729/Brentford-Southampton-May-7-2022-Premier-League,Brentford,Southampton,1651932000,Thomas Frank,Ralph Hasenhüttl,"Brentford Community Stadium, Brentford",17051
+https://fbref.com/en/matches/7c8a79d2/Chelsea-Wolverhampton-Wanderers-May-7-2022-Premier-League,Chelsea,Wolverhampton Wanderers,1651932000,Thomas Tuchel,Bruno Lage,"Stamford Bridge, London",32190
+https://fbref.com/en/matches/c1dc9202/Burnley-Aston-Villa-May-7-2022-Premier-League,Burnley,Aston Villa,1651932000,Michael Jackson,Steven Gerrard,"Turf Moor, Burnley",20891
+https://fbref.com/en/matches/efa43305/Brighton-and-Hove-Albion-Manchester-United-May-7-2022-Premier-League,Brighton & Hove Albion,Manchester United,1651941000,Graham Potter,Ralf Rangnick,"The American Express Community Stadium, Brighton & Hove",31637
+https://fbref.com/en/matches/9a93e9b2/Liverpool-Tottenham-Hotspur-May-7-2022-Premier-League,Liverpool,Tottenham Hotspur,1651949100,Jürgen Klopp,Antonio Conte,"Anfield, Liverpool",53177
+https://fbref.com/en/matches/4a972389/Leicester-City-Everton-May-8-2022-Premier-League,Leicester City,Everton,1652014800,Brendan Rodgers,Frank Lampard,"King Power Stadium, Leicester",32001
+https://fbref.com/en/matches/a370b8d5/Norwich-City-West-Ham-United-May-8-2022-Premier-League,Norwich City,West Ham United,1652014800,Dean Smith,David Moyes,"Carrow Road, Norwich",26428
+https://fbref.com/en/matches/ef41dec1/Arsenal-Leeds-United-May-8-2022-Premier-League,Arsenal,Leeds United,1652014800,Mikel Arteta,Jesse Marsch,"Emirates Stadium, London",60108
+https://fbref.com/en/matches/d1bcaf2b/Manchester-City-Newcastle-United-May-8-2022-Premier-League,Manchester City,Newcastle United,1652023800,Pep Guardiola,Eddie Howe,"Etihad Stadium, Manchester",53336
+https://fbref.com/en/matches/1016efad/Aston-Villa-Liverpool-May-10-2022-Premier-League,Aston Villa,Liverpool,1652209200,Steven Gerrard,Jürgen Klopp,"Villa Park, Birmingham",41919
+https://fbref.com/en/matches/6f225dc6/Leeds-United-Chelsea-May-11-2022-Premier-League,Leeds United,Chelsea,1652293800,Jesse Marsch,Thomas Tuchel,"Elland Road, Leeds",36549
+https://fbref.com/en/matches/2ae05ae6/Leicester-City-Norwich-City-May-11-2022-Premier-League,Leicester City,Norwich City,1652294700,Brendan Rodgers,Dean Smith,"King Power Stadium, Leicester",38092
+https://fbref.com/en/matches/948fa2e3/Watford-Everton-May-11-2022-Premier-League,Watford,Everton,1652294700,Roy Hodgson,Frank Lampard,"Vicarage Road Stadium, Watford",20653
+https://fbref.com/en/matches/a93c0c92/Wolverhampton-Wanderers-Manchester-City-May-11-2022-Premier-League,Wolverhampton Wanderers,Manchester City,1652296500,Bruno Lage,Pep Guardiola,"Molineux Stadium, Wolverhampton",32000
+https://fbref.com/en/matches/607d0562/North-London-Derby-Tottenham-Hotspur-Arsenal-May-12-2022-Premier-League,Tottenham Hotspur,Arsenal,1652381100,Antonio Conte,Mikel Arteta,"Tottenham Hotspur Stadium, London",62027
+https://fbref.com/en/matches/1d0f7282/Tottenham-Hotspur-Burnley-May-15-2022-Premier-League,Tottenham Hotspur,Burnley,1652612400,Antonio Conte,Michael Jackson,"Tottenham Hotspur Stadium, London",61729
+https://fbref.com/en/matches/1ca898da/Leeds-United-Brighton-and-Hove-Albion-May-15-2022-Premier-League,Leeds United,Brighton & Hove Albion,1652619600,Jesse Marsch,Graham Potter,"Elland Road, Leeds",36638
+https://fbref.com/en/matches/5a142f6f/Watford-Leicester-City-May-15-2022-Premier-League,Watford,Leicester City,1652619600,Roy Hodgson,Brendan Rodgers,"Vicarage Road Stadium, Watford",20257
+https://fbref.com/en/matches/7f0d5ca8/Wolverhampton-Wanderers-Norwich-City-May-15-2022-Premier-League,Wolverhampton Wanderers,Norwich City,1652619600,Bruno Lage,Dean Smith,"Molineux Stadium, Wolverhampton",31219
+https://fbref.com/en/matches/d2e9e9e3/Aston-Villa-Crystal-Palace-May-15-2022-Premier-League,Aston Villa,Crystal Palace,1652619600,Steven Gerrard,Patrick Vieira,"Villa Park, Birmingham",41136
+https://fbref.com/en/matches/f94c5f85/West-Ham-United-Manchester-City-May-15-2022-Premier-League,West Ham United,Manchester City,1652619600,David Moyes,Pep Guardiola,"London Stadium, London",59972
+https://fbref.com/en/matches/1b07c16e/Everton-Brentford-May-15-2022-Premier-League,Everton,Brentford,1652628600,Frank Lampard,Thomas Frank,"Goodison Park, Liverpool",38819
+https://fbref.com/en/matches/a3b3a0d5/Newcastle-United-Arsenal-May-16-2022-Premier-League,Newcastle United,Arsenal,1652727600,Eddie Howe,Mikel Arteta,"St. James' Park, Newcastle upon Tyne",52274
+https://fbref.com/en/matches/733409b2/Southampton-Liverpool-May-17-2022-Premier-League,Southampton,Liverpool,1652813100,Ralph Hasenhüttl,Jürgen Klopp,"St. Mary's Stadium, Southampton",31588
+https://fbref.com/en/matches/82aa061a/Everton-Crystal-Palace-May-19-2022-Premier-League,Everton,Crystal Palace,1652985900,Frank Lampard,Patrick Vieira,"Goodison Park, Liverpool",38448
+https://fbref.com/en/matches/bc4f902e/Aston-Villa-Burnley-May-19-2022-Premier-League,Aston Villa,Burnley,1652986800,Steven Gerrard,Michael Jackson,"Villa Park, Birmingham",40468
+https://fbref.com/en/matches/75d8f6e0/Chelsea-Leicester-City-May-19-2022-Premier-League,Chelsea,Leicester City,1652986800,Thomas Tuchel,Brendan Rodgers,"Stamford Bridge, London",31478
+https://fbref.com/en/matches/076ca089/Brentford-Leeds-United-May-22-2022-Premier-League,Brentford,Leeds United,1653231600,Thomas Frank,Jesse Marsch,"Brentford Community Stadium, Brentford",16957
+https://fbref.com/en/matches/16e2761e/Leicester-City-Southampton-May-22-2022-Premier-League,Leicester City,Southampton,1653231600,Brendan Rodgers,Ralph Hasenhüttl,"King Power Stadium, Leicester",32003
+https://fbref.com/en/matches/19173099/Crystal-Palace-Manchester-United-May-22-2022-Premier-League,Crystal Palace,Manchester United,1653231600,Patrick Vieira,Ralf Rangnick,"Selhurst Park, London",25434
+https://fbref.com/en/matches/4100d195/Arsenal-Everton-May-22-2022-Premier-League,Arsenal,Everton,1653231600,Mikel Arteta,Frank Lampard,"Emirates Stadium, London",60201
+https://fbref.com/en/matches/70a81794/Brighton-and-Hove-Albion-West-Ham-United-May-22-2022-Premier-League,Brighton & Hove Albion,West Ham United,1653231600,Graham Potter,David Moyes,"The American Express Community Stadium, Brighton & Hove",31604
+https://fbref.com/en/matches/771ecae9/Norwich-City-Tottenham-Hotspur-May-22-2022-Premier-League,Norwich City,Tottenham Hotspur,1653231600,Dean Smith,Antonio Conte,"Carrow Road, Norwich",27022
+https://fbref.com/en/matches/7b4b63d0/Manchester-City-Aston-Villa-May-22-2022-Premier-League,Manchester City,Aston Villa,1653231600,Pep Guardiola,Steven Gerrard,"Etihad Stadium, Manchester",53395
+https://fbref.com/en/matches/8b0f3e28/Liverpool-Wolverhampton-Wanderers-May-22-2022-Premier-League,Liverpool,Wolverhampton Wanderers,1653231600,Jürgen Klopp,Bruno Lage,"Anfield, Liverpool",53097
+https://fbref.com/en/matches/ad4ac82b/Burnley-Newcastle-United-May-22-2022-Premier-League,Burnley,Newcastle United,1653231600,Michael Jackson,Eddie Howe,"Turf Moor, Burnley",21361
+https://fbref.com/en/matches/df85b298/Chelsea-Watford-May-22-2022-Premier-League,Chelsea,Watford,1653231600,Thomas Tuchel,Roy Hodgson,"Stamford Bridge, London",32089

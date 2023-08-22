@@ -1,0 +1,557 @@
+url,home_team,away_team,datetime,home_team_manager,away_team_manager,stadium,attendance
+https://fbref.com/en/matches/2a1207f9/Reading-Derby-County-August-3-2018-Championship,Reading,Derby County,1533322800,Paul Clement,Frank Lampard,"Madejski Stadium, Reading",16923
+https://fbref.com/en/matches/12cf4304/Ipswich-Town-Blackburn-Rovers-August-4-2018-Championship,Ipswich Town,Blackburn Rovers,1533391200,Paul Hurst,Tony Mowbray,"Portman Road Stadium, Ipswich",18940
+https://fbref.com/en/matches/372f77c0/Preston-North-End-Queens-Park-Rangers-August-4-2018-Championship,Preston North End,Queens Park Rangers,1533391200,Alex Neil,Steve McClaren,"Deepdale Stadium, Preston",13418
+https://fbref.com/en/matches/7f24dfb3/West-Bromwich-Albion-Bolton-Wanderers-August-4-2018-Championship,West Bromwich Albion,Bolton Wanderers,1533391200,Darren Moore,Phil Parkinson,"The Hawthorns, West Bromwich",25901
+https://fbref.com/en/matches/8c8ae4f4/Brentford-Rotherham-United-August-4-2018-Championship,Brentford,Rotherham United,1533391200,Dean Smith,Paul Warne,"Griffin Park, Brentford",10297
+https://fbref.com/en/matches/9a55071e/Millwall-Middlesbrough-August-4-2018-Championship,Millwall,Middlesbrough,1533391200,Neil Harris,Tony Pulis,"The Den, London",15056
+https://fbref.com/en/matches/c872938b/Bristol-City-Nottingham-Forest-August-4-2018-Championship,Bristol City,Nottingham Forest,1533391200,Lee Johnson,Karanka,"Ashton Gate Stadium, Bristol",22395
+https://fbref.com/en/matches/ed030990/Wigan-Athletic-Sheffield-Wednesday-August-4-2018-Championship,Wigan Athletic,Sheffield Wednesday,1533391200,Paul Cook,Jos Luhukay,"The DW Stadium, Wigan",14207
+https://fbref.com/en/matches/f142db47/Birmingham-City-Norwich-City-August-4-2018-Championship,Birmingham City,Norwich City,1533391200,Garry Monk,Daniel Farke,"St Andrew's Trillion Trophy Stadium, Birmingham",22677
+https://fbref.com/en/matches/12dcc999/Sheffield-United-Swansea-City-August-4-2018-Championship,Sheffield United,Swansea City,1533400200,Chris Wilder,Graham Potter,"Bramall Lane, Sheffield, Yorkshire",24654
+https://fbref.com/en/matches/bb85a4ca/Leeds-United-Stoke-City-August-5-2018-Championship,Leeds United,Stoke City,1533483000,Marcelo Bielsa,Gary Rowett,"Elland Road, Leeds",34126
+https://fbref.com/en/matches/2a8b7987/Hull-City-Aston-Villa-August-6-2018-Championship,Hull City,Aston Villa,1533581100,Nigel Adkins,Steve Bruce,"Kingston Communications Stadium, Hull",14071
+https://fbref.com/en/matches/30d0c596/Middlesbrough-Sheffield-United-August-7-2018-Championship,Middlesbrough,Sheffield United,1533667500,Tony Pulis,Chris Wilder,"Riverside Stadium, Middlesbrough",22960
+https://fbref.com/en/matches/7b39aa0a/Nottingham-Forest-West-Bromwich-Albion-August-7-2018-Championship,Nottingham Forest,West Bromwich Albion,1533667500,Karanka,Darren Moore,"The City Ground, Nottingham",27850
+https://fbref.com/en/matches/1daa8f27/Middlesbrough-Birmingham-City-August-11-2018-Championship,Middlesbrough,Birmingham City,1533996000,Tony Pulis,Garry Monk,"Riverside Stadium, Middlesbrough",23748
+https://fbref.com/en/matches/23590a4b/Blackburn-Rovers-Millwall-August-11-2018-Championship,Blackburn Rovers,Millwall,1533996000,Tony Mowbray,Neil Harris,"Ewood Park, Blackburn",13239
+https://fbref.com/en/matches/4a4fadad/Queens-Park-Rangers-Sheffield-United-August-11-2018-Championship,Queens Park Rangers,Sheffield United,1533996000,Steve McClaren,Chris Wilder,"Loftus Road Stadium, London",14128
+https://fbref.com/en/matches/680c2f0c/Rotherham-United-Ipswich-Town-August-11-2018-Championship,Rotherham United,Ipswich Town,1533996000,Paul Warne,Paul Hurst,"New York Stadium, Rotherham",9460
+https://fbref.com/en/matches/68a109f8/Stoke-City-Brentford-August-11-2018-Championship,Stoke City,Brentford,1533996000,Gary Rowett,Dean Smith,"Bet365 Stadium, Stoke-on-Trent",24806
+https://fbref.com/en/matches/a312e71d/Bolton-Wanderers-Bristol-City-August-11-2018-Championship,Bolton Wanderers,Bristol City,1533996000,Phil Parkinson,Lee Johnson,"Macron Stadium, Bolton",14112
+https://fbref.com/en/matches/ae32eb06/Swansea-City-Preston-North-End-August-11-2018-Championship,Swansea City,Preston North End,1533996000,Graham Potter,Alex Neil,"Liberty Stadium, Swansea, Glamorgan",19352
+https://fbref.com/en/matches/ba10f8ae/Aston-Villa-Wigan-Athletic-August-11-2018-Championship,Aston Villa,Wigan Athletic,1533996000,Steve Bruce,Paul Cook,"Villa Park, Birmingham",34331
+https://fbref.com/en/matches/bfb9b836/Nottingham-Forest-Reading-August-11-2018-Championship,Nottingham Forest,Reading,1533996000,Karanka,Paul Clement,"Ewood Park, Blackburn",27948
+https://fbref.com/en/matches/c96a100b/Sheffield-Wednesday-Hull-City-August-11-2018-Championship,Sheffield Wednesday,Hull City,1533996000,Jos Luhukay,Nigel Adkins,"Hillsborough Stadium, Sheffield, Yorkshire",23416
+https://fbref.com/en/matches/cf3e295e/Norwich-City-West-Bromwich-Albion-August-11-2018-Championship,Norwich City,West Bromwich Albion,1533996000,Daniel Farke,Darren Moore,"Carrow Road, Norwich",25144
+https://fbref.com/en/matches/752d18b0/Derby-County-Leeds-United-August-11-2018-Championship,Derby County,Leeds United,1534005000,Frank Lampard,Marcelo Bielsa,"iPro Stadium, Derby",27311
+https://fbref.com/en/matches/fb2d174b/Birmingham-City-Swansea-City-August-17-2018-Championship,Birmingham City,Swansea City,1534531500,Garry Monk,Graham Potter,"St Andrew's Trillion Trophy Stadium, Birmingham",20083
+https://fbref.com/en/matches/19a40dbe/Bristol-City-Middlesbrough-August-18-2018-Championship,Bristol City,Middlesbrough,1534600800,Lee Johnson,Tony Pulis,"Ashton Gate Stadium, Bristol",19455
+https://fbref.com/en/matches/334743f3/Reading-Bolton-Wanderers-August-18-2018-Championship,Reading,Bolton Wanderers,1534600800,Paul Clement,Phil Parkinson,"Madejski Stadium, Reading",13318
+https://fbref.com/en/matches/5cd93183/Millwall-Derby-County-August-18-2018-Championship,Millwall,Derby County,1534600800,Neil Harris,Frank Lampard,"The Den, London",13557
+https://fbref.com/en/matches/7223f20c/West-Bromwich-Albion-Queens-Park-Rangers-August-18-2018-Championship,West Bromwich Albion,Queens Park Rangers,1534600800,Darren Moore,Steve McClaren,"The Hawthorns, West Bromwich",22753
+https://fbref.com/en/matches/7224846b/Ipswich-Town-Aston-Villa-August-18-2018-Championship,Ipswich Town,Aston Villa,1534600800,Paul Hurst,Steve Bruce,"Portman Road Stadium, Ipswich",17824
+https://fbref.com/en/matches/7e185c4c/Wigan-Athletic-Nottingham-Forest-August-18-2018-Championship,Wigan Athletic,Nottingham Forest,1534600800,Paul Cook,Karanka,"The DW Stadium, Wigan",11543
+https://fbref.com/en/matches/8af94e33/Leeds-United-Rotherham-United-August-18-2018-Championship,Leeds United,Rotherham United,1534600800,Marcelo Bielsa,Paul Warne,"Elland Road, Leeds",33699
+https://fbref.com/en/matches/ba19b428/Sheffield-United-Norwich-City-August-18-2018-Championship,Sheffield United,Norwich City,1534600800,Chris Wilder,Daniel Farke,"Bramall Lane, Sheffield, Yorkshire",23850
+https://fbref.com/en/matches/e8976d1b/Hull-City-Blackburn-Rovers-August-18-2018-Championship,Hull City,Blackburn Rovers,1534600800,Nigel Adkins,Tony Mowbray,"Kingston Communications Stadium, Hull",12233
+https://fbref.com/en/matches/e00f43af/Preston-North-End-Stoke-City-August-18-2018-Championship,Preston North End,Stoke City,1534609800,Alex Neil,Gary Rowett,"Deepdale Stadium, Preston",13996
+https://fbref.com/en/matches/2f5e4c26/Brentford-Sheffield-Wednesday-August-19-2018-Championship,Brentford,Sheffield Wednesday,1534687200,Dean Smith,Jos Luhukay,"Griffin Park, Brentford",10134
+https://fbref.com/en/matches/2bf17853/Queens-Park-Rangers-Bristol-City-August-21-2018-Championship,Queens Park Rangers,Bristol City,1534877100,Steve McClaren,Lee Johnson,"Loftus Road Stadium, London",11739
+https://fbref.com/en/matches/52ecfa5d/Swansea-City-Leeds-United-August-21-2018-Championship,Swansea City,Leeds United,1534877100,Graham Potter,Marcelo Bielsa,"Liberty Stadium, Swansea, Glamorgan",20860
+https://fbref.com/en/matches/921bbed1/Derby-County-Ipswich-Town-August-21-2018-Championship,Derby County,Ipswich Town,1534877100,Frank Lampard,Paul Hurst,"iPro Stadium, Derby",24362
+https://fbref.com/en/matches/9c07a60a/Rotherham-United-Hull-City-August-21-2018-Championship,Rotherham United,Hull City,1534877100,Paul Warne,Nigel Adkins,"New York Stadium, Rotherham",8962
+https://fbref.com/en/matches/51e1bce3/Sheffield-Wednesday-Millwall-August-22-2018-Championship,Sheffield Wednesday,Millwall,1534963500,Jos Luhukay,Neil Harris,"Hillsborough Stadium, Sheffield, Yorkshire",21349
+https://fbref.com/en/matches/a63b5369/Blackburn-Rovers-Reading-August-22-2018-Championship,Blackburn Rovers,Reading,1534963500,Tony Mowbray,Paul Clement,"Ewood Park, Blackburn",11818
+https://fbref.com/en/matches/b37cb9b5/Norwich-City-Preston-North-End-August-22-2018-Championship,Norwich City,Preston North End,1534963500,Daniel Farke,Alex Neil,"Carrow Road, Norwich",24936
+https://fbref.com/en/matches/db216909/Aston-Villa-Brentford-August-22-2018-Championship,Aston Villa,Brentford,1534963500,Steve Bruce,Dean Smith,"Villa Park, Birmingham",30011
+https://fbref.com/en/matches/3329a776/Bolton-Wanderers-Birmingham-City-August-22-2018-Championship,Bolton Wanderers,Birmingham City,1534964400,Phil Parkinson,Garry Monk,"Macron Stadium, Bolton",13821
+https://fbref.com/en/matches/40b96ce6/Stoke-City-Wigan-Athletic-August-22-2018-Championship,Stoke City,Wigan Athletic,1534964400,Gary Rowett,Paul Cook,"Bet365 Stadium, Stoke-on-Trent",23158
+https://fbref.com/en/matches/8201c3e1/Middlesbrough-West-Bromwich-Albion-August-24-2018-Championship,Middlesbrough,West Bromwich Albion,1535136300,Tony Pulis,Darren Moore,"Riverside Stadium, Middlesbrough",22906
+https://fbref.com/en/matches/0614fe24/Blackburn-Rovers-Brentford-August-25-2018-Championship,Blackburn Rovers,Brentford,1535205600,Tony Mowbray,Dean Smith,"Ewood Park, Blackburn",12094
+https://fbref.com/en/matches/3b6bb2d7/Derby-County-Preston-North-End-August-25-2018-Championship,Derby County,Preston North End,1535205600,Frank Lampard,Alex Neil,"iPro Stadium, Derby",25257
+https://fbref.com/en/matches/530d3429/Swansea-City-Bristol-City-August-25-2018-Championship,Swansea City,Bristol City,1535205600,Graham Potter,Lee Johnson,"Liberty Stadium, Swansea, Glamorgan",20522
+https://fbref.com/en/matches/6f7fe498/Aston-Villa-Reading-August-25-2018-Championship,Aston Villa,Reading,1535205600,Steve Bruce,Paul Clement,"Villa Park, Birmingham",33405
+https://fbref.com/en/matches/81bbb8a1/Stoke-City-Hull-City-August-25-2018-Championship,Stoke City,Hull City,1535205600,Gary Rowett,Nigel Adkins,"Bet365 Stadium, Stoke-on-Trent",23311
+https://fbref.com/en/matches/88a89980/Sheffield-Wednesday-Ipswich-Town-August-25-2018-Championship,Sheffield Wednesday,Ipswich Town,1535205600,Jos Luhukay,Paul Hurst,"Hillsborough Stadium, Sheffield, Yorkshire",22499
+https://fbref.com/en/matches/9fedb650/Norwich-City-Leeds-United-August-25-2018-Championship,Norwich City,Leeds United,1535205600,Daniel Farke,Marcelo Bielsa,"Carrow Road, Norwich",25944
+https://fbref.com/en/matches/b6888bc1/Queens-Park-Rangers-Wigan-Athletic-August-25-2018-Championship,Queens Park Rangers,Wigan Athletic,1535205600,Steve McClaren,Paul Cook,"Loftus Road Stadium, London",11564
+https://fbref.com/en/matches/f9c08748/Bolton-Wanderers-Sheffield-United-August-25-2018-Championship,Bolton Wanderers,Sheffield United,1535205600,Phil Parkinson,Chris Wilder,"Macron Stadium, Bolton",14848
+https://fbref.com/en/matches/82415b71/Nottingham-Forest-Birmingham-City-August-25-2018-Championship,Nottingham Forest,Birmingham City,1535214600,Karanka,Garry Monk,"The City Ground, Nottingham",26799
+https://fbref.com/en/matches/4bb67665/Rotherham-United-Millwall-August-26-2018-Championship,Rotherham United,Millwall,1535283000,Paul Warne,Neil Harris,"New York Stadium, Rotherham",8197
+https://fbref.com/en/matches/5fd078d1/Leeds-United-Middlesbrough-August-31-2018-Championship,Leeds United,Middlesbrough,1535741100,Marcelo Bielsa,Tony Pulis,"Elland Road, Leeds",35417
+https://fbref.com/en/matches/154179d4/Birmingham-City-Queens-Park-Rangers-September-1-2018-Championship,Birmingham City,Queens Park Rangers,1535810400,Garry Monk,Steve McClaren,"St Andrew's Trillion Trophy Stadium, Birmingham",21155
+https://fbref.com/en/matches/1dd7c93e/West-Bromwich-Albion-Stoke-City-September-1-2018-Championship,West Bromwich Albion,Stoke City,1535810400,Darren Moore,Gary Rowett,"The Hawthorns, West Bromwich",25183
+https://fbref.com/en/matches/4918024e/Sheffield-United-Aston-Villa-September-1-2018-Championship,Sheffield United,Aston Villa,1535810400,Chris Wilder,Steve Bruce,"Bramall Lane, Sheffield, Yorkshire",26030
+https://fbref.com/en/matches/7820e194/Hull-City-Derby-County-September-1-2018-Championship,Hull City,Derby County,1535810400,Nigel Adkins,Frank Lampard,"Kingston Communications Stadium, Hull",12285
+https://fbref.com/en/matches/832ede96/Preston-North-End-Bolton-Wanderers-September-1-2018-Championship,Preston North End,Bolton Wanderers,1535810400,Alex Neil,Phil Parkinson,"Deepdale Stadium, Preston",16331
+https://fbref.com/en/matches/97cfc273/Wigan-Athletic-Rotherham-United-September-1-2018-Championship,Wigan Athletic,Rotherham United,1535810400,Paul Cook,Paul Warne,"The DW Stadium, Wigan",9584
+https://fbref.com/en/matches/a66a78ee/Reading-Sheffield-Wednesday-September-1-2018-Championship,Reading,Sheffield Wednesday,1535810400,Paul Clement,Jos Luhukay,"Madejski Stadium, Reading",14352
+https://fbref.com/en/matches/b4cd59c4/Brentford-Nottingham-Forest-September-1-2018-Championship,Brentford,Nottingham Forest,1535810400,Dean Smith,Karanka,"Griffin Park, Brentford",10186
+https://fbref.com/en/matches/1fb62832/Millwall-Swansea-City-September-1-2018-Championship,Millwall,Swansea City,1535819400,Neil Harris,Graham Potter,"The Den, London",12440
+https://fbref.com/en/matches/b6a01f79/Ipswich-Town-Norwich-City-September-2-2018-Championship,Ipswich Town,Norwich City,1535886000,Paul Hurst,Daniel Farke,"Portman Road Stadium, Ipswich",25690
+https://fbref.com/en/matches/e49b9e6e/Bristol-City-Blackburn-Rovers-September-2-2018-Championship,Bristol City,Blackburn Rovers,1535891400,Lee Johnson,Tony Mowbray,"Ashton Gate Stadium, Bristol",19769
+https://fbref.com/en/matches/b9628967/Birmingham-City-West-Bromwich-Albion-September-14-2018-Championship,Birmingham City,West Bromwich Albion,1536950700,Garry Monk,Darren Moore,"St Andrew's Trillion Trophy Stadium, Birmingham",22715
+https://fbref.com/en/matches/1421b5ed/Swansea-City-Nottingham-Forest-September-15-2018-Championship,Swansea City,Nottingham Forest,1537020000,Graham Potter,Karanka,"Liberty Stadium, Swansea, Glamorgan",19522
+https://fbref.com/en/matches/28e227aa/Hull-City-Ipswich-Town-September-15-2018-Championship,Hull City,Ipswich Town,1537020000,Nigel Adkins,Paul Hurst,"Kingston Communications Stadium, Hull",11650
+https://fbref.com/en/matches/8e414857/Rotherham-United-Derby-County-September-15-2018-Championship,Rotherham United,Derby County,1537020000,Paul Warne,Frank Lampard,"New York Stadium, Rotherham",10707
+https://fbref.com/en/matches/9a32c88c/Millwall-Leeds-United-September-15-2018-Championship,Millwall,Leeds United,1537020000,Neil Harris,Marcelo Bielsa,"The Den, London",17195
+https://fbref.com/en/matches/9a4d2334/Norwich-City-Middlesbrough-September-15-2018-Championship,Norwich City,Middlesbrough,1537020000,Daniel Farke,Tony Pulis,"Carrow Road, Norwich",24642
+https://fbref.com/en/matches/a3f20737/Preston-North-End-Reading-September-15-2018-Championship,Preston North End,Reading,1537020000,Alex Neil,Paul Clement,"Deepdale Stadium, Preston",10849
+https://fbref.com/en/matches/b0fd65c1/Brentford-Wigan-Athletic-September-15-2018-Championship,Brentford,Wigan Athletic,1537020000,Dean Smith,Paul Cook,"Griffin Park, Brentford",9951
+https://fbref.com/en/matches/bfc7529b/Bolton-Wanderers-Queens-Park-Rangers-September-15-2018-Championship,Bolton Wanderers,Queens Park Rangers,1537020000,Phil Parkinson,Steve McClaren,"Macron Stadium, Bolton",13581
+https://fbref.com/en/matches/e2670358/Sheffield-Wednesday-Stoke-City-September-15-2018-Championship,Sheffield Wednesday,Stoke City,1537020000,Jos Luhukay,Gary Rowett,"Hillsborough Stadium, Sheffield, Yorkshire",24905
+https://fbref.com/en/matches/fb9c1f8e/Bristol-City-Sheffield-United-September-15-2018-Championship,Bristol City,Sheffield United,1537020000,Lee Johnson,Chris Wilder,"Ashton Gate Stadium, Bristol",20540
+https://fbref.com/en/matches/809c5952/Blackburn-Rovers-Aston-Villa-September-15-2018-Championship,Blackburn Rovers,Aston Villa,1537029000,Tony Mowbray,Steve Bruce,"Ewood Park, Blackburn",15982
+https://fbref.com/en/matches/5a0acc61/Aston-Villa-Rotherham-United-September-18-2018-Championship,Aston Villa,Rotherham United,1537296300,Steve Bruce,Paul Warne,"Villa Park, Birmingham",27991
+https://fbref.com/en/matches/8f76df58/Ipswich-Town-Brentford-September-18-2018-Championship,Ipswich Town,Brentford,1537296300,Paul Hurst,Dean Smith,"Portman Road Stadium, Ipswich",14897
+https://fbref.com/en/matches/90bd45cf/Derby-County-Blackburn-Rovers-September-18-2018-Championship,Derby County,Blackburn Rovers,1537296300,Frank Lampard,Tony Mowbray,"iPro Stadium, Derby",23580
+https://fbref.com/en/matches/c4d9d267/Wigan-Athletic-Hull-City-September-18-2018-Championship,Wigan Athletic,Hull City,1537296300,Paul Cook,Nigel Adkins,"The DW Stadium, Wigan",8848
+https://fbref.com/en/matches/cf7d03cb/Leeds-United-Preston-North-End-September-18-2018-Championship,Leeds United,Preston North End,1537296300,Marcelo Bielsa,Alex Neil,"Elland Road, Leeds",27729
+https://fbref.com/en/matches/283e9699/Stoke-City-Swansea-City-September-18-2018-Championship,Stoke City,Swansea City,1537297200,Gary Rowett,Graham Potter,"Bet365 Stadium, Stoke-on-Trent",22078
+https://fbref.com/en/matches/910c9dac/West-Bromwich-Albion-Bristol-City-September-18-2018-Championship,West Bromwich Albion,Bristol City,1537297200,Darren Moore,Lee Johnson,"The Hawthorns, West Bromwich",22051
+https://fbref.com/en/matches/1992df23/Queens-Park-Rangers-Millwall-September-19-2018-Championship,Queens Park Rangers,Millwall,1537382700,Steve McClaren,Neil Harris,"Loftus Road Stadium, London",12398
+https://fbref.com/en/matches/52a6203e/Middlesbrough-Bolton-Wanderers-September-19-2018-Championship,Middlesbrough,Bolton Wanderers,1537382700,Tony Pulis,Phil Parkinson,"Riverside Stadium, Middlesbrough",21345
+https://fbref.com/en/matches/9ee213c4/Nottingham-Forest-Sheffield-Wednesday-September-19-2018-Championship,Nottingham Forest,Sheffield Wednesday,1537382700,Karanka,Jos Luhukay,"The City Ground, Nottingham",26252
+https://fbref.com/en/matches/ae444007/Sheffield-United-Birmingham-City-September-19-2018-Championship,Sheffield United,Birmingham City,1537382700,Chris Wilder,Garry Monk,"Bramall Lane, Sheffield, Yorkshire",23525
+https://fbref.com/en/matches/bc27fbe0/Reading-Norwich-City-September-19-2018-Championship,Reading,Norwich City,1537383600,Paul Clement,Daniel Farke,"Madejski Stadium, Reading",12822
+https://fbref.com/en/matches/536790d5/Wigan-Athletic-Bristol-City-September-21-2018-Championship,Wigan Athletic,Bristol City,1537555500,Paul Cook,Lee Johnson,"The DW Stadium, Wigan",10192
+https://fbref.com/en/matches/04873d2f/Leeds-United-Birmingham-City-September-22-2018-Championship,Leeds United,Birmingham City,1537624800,Marcelo Bielsa,Garry Monk,"Elland Road, Leeds",34800
+https://fbref.com/en/matches/08f68916/Aston-Villa-Sheffield-Wednesday-September-22-2018-Championship,Aston Villa,Sheffield Wednesday,1537624800,Steve Bruce,Jos Luhukay,"Villa Park, Birmingham",35572
+https://fbref.com/en/matches/0c17aee0/Sheffield-United-Preston-North-End-September-22-2018-Championship,Sheffield United,Preston North End,1537624800,Chris Wilder,Alex Neil,"Bramall Lane, Sheffield, Yorkshire",23857
+https://fbref.com/en/matches/1438b031/Middlesbrough-Swansea-City-September-22-2018-Championship,Middlesbrough,Swansea City,1537624800,Tony Pulis,Graham Potter,"Riverside Stadium, Middlesbrough",22881
+https://fbref.com/en/matches/371f4cd7/West-Bromwich-Albion-Millwall-September-22-2018-Championship,West Bromwich Albion,Millwall,1537624800,Darren Moore,Neil Harris,"The Hawthorns, West Bromwich",23563
+https://fbref.com/en/matches/5d78c982/Nottingham-Forest-Rotherham-United-September-22-2018-Championship,Nottingham Forest,Rotherham United,1537624800,Karanka,Paul Warne,"The City Ground, Nottingham",27479
+https://fbref.com/en/matches/6f14ec92/Ipswich-Town-Bolton-Wanderers-September-22-2018-Championship,Ipswich Town,Bolton Wanderers,1537624800,Paul Hurst,Phil Parkinson,"Portman Road Stadium, Ipswich",14755
+https://fbref.com/en/matches/8d9a9a87/Reading-Hull-City-September-22-2018-Championship,Reading,Hull City,1537624800,Paul Clement,Nigel Adkins,"Madejski Stadium, Reading",12409
+https://fbref.com/en/matches/bbd32a75/Derby-County-Brentford-September-22-2018-Championship,Derby County,Brentford,1537624800,Frank Lampard,Dean Smith,"iPro Stadium, Derby",25110
+https://fbref.com/en/matches/ee0f0c12/Stoke-City-Blackburn-Rovers-September-22-2018-Championship,Stoke City,Blackburn Rovers,1537624800,Gary Rowett,Tony Mowbray,"Bet365 Stadium, Stoke-on-Trent",25673
+https://fbref.com/en/matches/6c2058b3/Queens-Park-Rangers-Norwich-City-September-22-2018-Championship,Queens Park Rangers,Norwich City,1537633800,Steve McClaren,Daniel Farke,"Loftus Road Stadium, London",12843
+https://fbref.com/en/matches/fadb6eb1/Sheffield-Wednesday-Leeds-United-September-28-2018-Championship,Sheffield Wednesday,Leeds United,1538160300,Jos Luhukay,Marcelo Bielsa,"Hillsborough Stadium, Sheffield, Yorkshire",26717
+https://fbref.com/en/matches/81527bb4/Bristol-City-Aston-Villa-September-28-2018-Championship,Bristol City,Aston Villa,1538161200,Lee Johnson,Steve Bruce,"Ashton Gate Stadium, Bristol",24224
+https://fbref.com/en/matches/45be02e5/Swansea-City-Queens-Park-Rangers-September-29-2018-Championship,Swansea City,Queens Park Rangers,1538229600,Graham Potter,Steve McClaren,"Liberty Stadium, Swansea, Glamorgan",18633
+https://fbref.com/en/matches/463f25c9/Norwich-City-Wigan-Athletic-September-29-2018-Championship,Norwich City,Wigan Athletic,1538229600,Daniel Farke,Paul Cook,"Carrow Road, Norwich",25034
+https://fbref.com/en/matches/4ba2e421/Brentford-Reading-September-29-2018-Championship,Brentford,Reading,1538229600,Dean Smith,Paul Clement,"Griffin Park, Brentford",10045
+https://fbref.com/en/matches/763f34bd/Millwall-Sheffield-United-September-29-2018-Championship,Millwall,Sheffield United,1538229600,Neil Harris,Chris Wilder,"The Den, London",13145
+https://fbref.com/en/matches/7a87d7a4/Blackburn-Rovers-Nottingham-Forest-September-29-2018-Championship,Blackburn Rovers,Nottingham Forest,1538229600,Tony Mowbray,Karanka,"Ewood Park, Blackburn",14440
+https://fbref.com/en/matches/a00575eb/Hull-City-Middlesbrough-September-29-2018-Championship,Hull City,Middlesbrough,1538229600,Nigel Adkins,Tony Pulis,"Kingston Communications Stadium, Hull",13185
+https://fbref.com/en/matches/a4752953/Bolton-Wanderers-Derby-County-September-29-2018-Championship,Bolton Wanderers,Derby County,1538229600,Phil Parkinson,Frank Lampard,"Macron Stadium, Bolton",14096
+https://fbref.com/en/matches/c7274913/Birmingham-City-Ipswich-Town-September-29-2018-Championship,Birmingham City,Ipswich Town,1538229600,Garry Monk,Paul Hurst,"St Andrew's Trillion Trophy Stadium, Birmingham",21612
+https://fbref.com/en/matches/d56e884d/Preston-North-End-West-Bromwich-Albion-September-29-2018-Championship,Preston North End,West Bromwich Albion,1538229600,Alex Neil,Darren Moore,"Deepdale Stadium, Preston",14099
+https://fbref.com/en/matches/00c72f0f/Rotherham-United-Stoke-City-September-29-2018-Championship,Rotherham United,Stoke City,1538238600,Paul Warne,Gary Rowett,"New York Stadium, Rotherham",9706
+https://fbref.com/en/matches/39684c5c/Aston-Villa-Preston-North-End-October-2-2018-Championship,Aston Villa,Preston North End,1538505900,Steve Bruce,Alex Neil,"Villa Park, Birmingham",27331
+https://fbref.com/en/matches/726721d3/Brentford-Birmingham-City-October-2-2018-Championship,Brentford,Birmingham City,1538505900,Dean Smith,Garry Monk,"Griffin Park, Brentford",9715
+https://fbref.com/en/matches/bcadf6b9/Ipswich-Town-Middlesbrough-October-2-2018-Championship,Ipswich Town,Middlesbrough,1538505900,Paul Hurst,Tony Pulis,"Portman Road Stadium, Ipswich",13612
+https://fbref.com/en/matches/be1149a0/Wigan-Athletic-Swansea-City-October-2-2018-Championship,Wigan Athletic,Swansea City,1538505900,Paul Cook,Graham Potter,"The DW Stadium, Wigan",8964
+https://fbref.com/en/matches/cc27b9c5/Hull-City-Leeds-United-October-2-2018-Championship,Hull City,Leeds United,1538505900,Nigel Adkins,Marcelo Bielsa,"Kingston Communications Stadium, Hull",13798
+https://fbref.com/en/matches/60f52f7c/Reading-Queens-Park-Rangers-October-2-2018-Championship,Reading,Queens Park Rangers,1538506800,Paul Clement,Steve McClaren,"Madejski Stadium, Reading",13568
+https://fbref.com/en/matches/9923d6a8/Stoke-City-Bolton-Wanderers-October-2-2018-Championship,Stoke City,Bolton Wanderers,1538506800,Gary Rowett,Phil Parkinson,"Bet365 Stadium, Stoke-on-Trent",22116
+https://fbref.com/en/matches/2401f022/Derby-County-Norwich-City-October-3-2018-Championship,Derby County,Norwich City,1538592300,Frank Lampard,Daniel Farke,"iPro Stadium, Derby",24236
+https://fbref.com/en/matches/24d813fc/Sheffield-Wednesday-West-Bromwich-Albion-October-3-2018-Championship,Sheffield Wednesday,West Bromwich Albion,1538592300,Jos Luhukay,Darren Moore,"Hillsborough Stadium, Sheffield, Yorkshire",22150
+https://fbref.com/en/matches/8eb9cfe6/Nottingham-Forest-Millwall-October-3-2018-Championship,Nottingham Forest,Millwall,1538592300,Karanka,Neil Harris,"The City Ground, Nottingham",25753
+https://fbref.com/en/matches/9006b9f3/Rotherham-United-Bristol-City-October-3-2018-Championship,Rotherham United,Bristol City,1538592300,Paul Warne,Lee Johnson,"New York Stadium, Rotherham",8187
+https://fbref.com/en/matches/c561a82a/Blackburn-Rovers-Sheffield-United-October-3-2018-Championship,Blackburn Rovers,Sheffield United,1538592300,Tony Mowbray,Chris Wilder,"Ewood Park, Blackburn",14440
+https://fbref.com/en/matches/9ceded80/Leeds-United-Brentford-October-6-2018-Championship,Leeds United,Brentford,1538825400,Marcelo Bielsa,Dean Smith,"Elland Road, Leeds",31880
+https://fbref.com/en/matches/11abe3aa/Millwall-Aston-Villa-October-6-2018-Championship,Millwall,Aston Villa,1538834400,Neil Harris,Steve Bruce,"The Den, London",14491
+https://fbref.com/en/matches/42d81219/Norwich-City-Stoke-City-October-6-2018-Championship,Norwich City,Stoke City,1538834400,Daniel Farke,Gary Rowett,"Carrow Road, Norwich",24992
+https://fbref.com/en/matches/4ae7fb63/Preston-North-End-Wigan-Athletic-October-6-2018-Championship,Preston North End,Wigan Athletic,1538834400,Alex Neil,Paul Cook,"Deepdale Stadium, Preston",15280
+https://fbref.com/en/matches/8868af45/Swansea-City-Ipswich-Town-October-6-2018-Championship,Swansea City,Ipswich Town,1538834400,Graham Potter,Paul Hurst,"Liberty Stadium, Swansea, Glamorgan",18810
+https://fbref.com/en/matches/8b8ff343/West-Bromwich-Albion-Reading-October-6-2018-Championship,West Bromwich Albion,Reading,1538834400,Darren Moore,Paul Clement,"The Hawthorns, West Bromwich",22865
+https://fbref.com/en/matches/ae463bcd/Middlesbrough-Nottingham-Forest-October-6-2018-Championship,Middlesbrough,Nottingham Forest,1538834400,Tony Pulis,Karanka,"Riverside Stadium, Middlesbrough",24299
+https://fbref.com/en/matches/e62cac7f/Birmingham-City-Rotherham-United-October-6-2018-Championship,Birmingham City,Rotherham United,1538834400,Garry Monk,Paul Warne,"St Andrew's Trillion Trophy Stadium, Birmingham",19795
+https://fbref.com/en/matches/ed8a84f1/Sheffield-United-Hull-City-October-6-2018-Championship,Sheffield United,Hull City,1538834400,Chris Wilder,Nigel Adkins,"Bramall Lane, Sheffield, Yorkshire",25360
+https://fbref.com/en/matches/f8450538/Queens-Park-Rangers-Derby-County-October-6-2018-Championship,Queens Park Rangers,Derby County,1538834400,Steve McClaren,Frank Lampard,"Loftus Road Stadium, London",14727
+https://fbref.com/en/matches/e91a0eab/Bolton-Wanderers-Blackburn-Rovers-October-6-2018-Championship,Bolton Wanderers,Blackburn Rovers,1538843400,Phil Parkinson,Tony Mowbray,"Macron Stadium, Bolton",15461
+https://fbref.com/en/matches/81dd9066/Bristol-City-Sheffield-Wednesday-October-7-2018-Championship,Bristol City,Sheffield Wednesday,1538915400,Lee Johnson,Jos Luhukay,"Ashton Gate Stadium, Bristol",20102
+https://fbref.com/en/matches/6e6acfa7/Sheffield-Wednesday-Middlesbrough-October-19-2018-Championship,Sheffield Wednesday,Middlesbrough,1539974700,Jos Luhukay,Tony Pulis,"Hillsborough Stadium, Sheffield, Yorkshire",23284
+https://fbref.com/en/matches/0831f1eb/Blackburn-Rovers-Leeds-United-October-20-2018-Championship,Blackburn Rovers,Leeds United,1540033200,Tony Mowbray,Marcelo Bielsa,"Ewood Park, Blackburn",20929
+https://fbref.com/en/matches/1f6391d9/Ipswich-Town-Queens-Park-Rangers-October-20-2018-Championship,Ipswich Town,Queens Park Rangers,1540044000,Paul Hurst,Steve McClaren,"Portman Road Stadium, Ipswich",18345
+https://fbref.com/en/matches/2a285bff/Nottingham-Forest-Norwich-City-October-20-2018-Championship,Nottingham Forest,Norwich City,1540044000,Karanka,Daniel Farke,"The City Ground, Nottingham",29427
+https://fbref.com/en/matches/42fca907/Brentford-Bristol-City-October-20-2018-Championship,Brentford,Bristol City,1540044000,Thomas Frank,Lee Johnson,"Griffin Park, Brentford",11182
+https://fbref.com/en/matches/59693dc9/Reading-Millwall-October-20-2018-Championship,Reading,Millwall,1540044000,Paul Clement,Neil Harris,"Madejski Stadium, Reading",14532
+https://fbref.com/en/matches/5c1ef974/Wigan-Athletic-West-Bromwich-Albion-October-20-2018-Championship,Wigan Athletic,West Bromwich Albion,1540044000,Paul Cook,Darren Moore,"The DW Stadium, Wigan",12739
+https://fbref.com/en/matches/6a70308c/Stoke-City-Birmingham-City-October-20-2018-Championship,Stoke City,Birmingham City,1540044000,Gary Rowett,Garry Monk,"Bet365 Stadium, Stoke-on-Trent",28160
+https://fbref.com/en/matches/910ffee1/Rotherham-United-Bolton-Wanderers-October-20-2018-Championship,Rotherham United,Bolton Wanderers,1540044000,Paul Warne,Phil Parkinson,"New York Stadium, Rotherham",10011
+https://fbref.com/en/matches/b4a1903a/Aston-Villa-Swansea-City-October-20-2018-Championship,Aston Villa,Swansea City,1540044000,Dean Smith,Graham Potter,"Villa Park, Birmingham",41326
+https://fbref.com/en/matches/e4c17302/Hull-City-Preston-North-End-October-20-2018-Championship,Hull City,Preston North End,1540044000,Nigel Adkins,Alex Neil,"Kingston Communications Stadium, Hull",12066
+https://fbref.com/en/matches/e3d0bbd1/Derby-County-Sheffield-United-October-20-2018-Championship,Derby County,Sheffield United,1540053000,Frank Lampard,Chris Wilder,"iPro Stadium, Derby",27927
+https://fbref.com/en/matches/51fc121f/Birmingham-City-Reading-October-23-2018-Championship,Birmingham City,Reading,1540320300,Garry Monk,Paul Clement,"St Andrew's Trillion Trophy Stadium, Birmingham",22126
+https://fbref.com/en/matches/76e586f8/Queens-Park-Rangers-Sheffield-Wednesday-October-23-2018-Championship,Queens Park Rangers,Sheffield Wednesday,1540320300,Steve McClaren,Jos Luhukay,"Loftus Road Stadium, London",12534
+https://fbref.com/en/matches/ac1c3f73/Middlesbrough-Rotherham-United-October-23-2018-Championship,Middlesbrough,Rotherham United,1540320300,Tony Pulis,Paul Warne,"Riverside Stadium, Middlesbrough",21235
+https://fbref.com/en/matches/b2ba809e/Sheffield-United-Stoke-City-October-23-2018-Championship,Sheffield United,Stoke City,1540320300,Chris Wilder,Gary Rowett,"Bramall Lane, Sheffield, Yorkshire",24463
+https://fbref.com/en/matches/b708a9c5/Swansea-City-Blackburn-Rovers-October-23-2018-Championship,Swansea City,Blackburn Rovers,1540320300,Graham Potter,Tony Mowbray,"Liberty Stadium, Swansea, Glamorgan",18035
+https://fbref.com/en/matches/bb5a7a9f/Millwall-Wigan-Athletic-October-23-2018-Championship,Millwall,Wigan Athletic,1540320300,Neil Harris,Paul Cook,"The Den, London",11190
+https://fbref.com/en/matches/c5848b72/Norwich-City-Aston-Villa-October-23-2018-Championship,Norwich City,Aston Villa,1540320300,Daniel Farke,Dean Smith,"Carrow Road, Norwich",24977
+https://fbref.com/en/matches/00b2b597/Bristol-City-Hull-City-October-24-2018-Championship,Bristol City,Hull City,1540406700,Lee Johnson,Nigel Adkins,"Ashton Gate Stadium, Bristol",19149
+https://fbref.com/en/matches/2e932022/Leeds-United-Ipswich-Town-October-24-2018-Championship,Leeds United,Ipswich Town,1540406700,Marcelo Bielsa,Paul Hurst,"Elland Road, Leeds",29082
+https://fbref.com/en/matches/d393e95a/Preston-North-End-Brentford-October-24-2018-Championship,Preston North End,Brentford,1540406700,Alex Neil,Thomas Frank,"Deepdale Stadium, Preston",10882
+https://fbref.com/en/matches/1e179d1b/West-Bromwich-Albion-Derby-County-October-24-2018-Championship,West Bromwich Albion,Derby County,1540407600,Darren Moore,Frank Lampard,"The Hawthorns, West Bromwich",22848
+https://fbref.com/en/matches/55ca6d61/Bolton-Wanderers-Nottingham-Forest-October-24-2018-Championship,Bolton Wanderers,Nottingham Forest,1540407600,Phil Parkinson,Karanka,"Macron Stadium, Bolton",13195
+https://fbref.com/en/matches/5060a878/Queens-Park-Rangers-Aston-Villa-October-26-2018-Championship,Queens Park Rangers,Aston Villa,1540579500,Steve McClaren,Dean Smith,"Loftus Road Stadium, London",16036
+https://fbref.com/en/matches/e12a6e8a/Middlesbrough-Derby-County-October-27-2018-Championship,Middlesbrough,Derby County,1540639800,Tony Pulis,Frank Lampard,"Riverside Stadium, Middlesbrough",22907
+https://fbref.com/en/matches/07ab9aed/Preston-North-End-Rotherham-United-October-27-2018-Championship,Preston North End,Rotherham United,1540648800,Alex Neil,Paul Warne,"Deepdale Stadium, Preston",11780
+https://fbref.com/en/matches/5257f673/Swansea-City-Reading-October-27-2018-Championship,Swansea City,Reading,1540648800,Graham Potter,Paul Clement,"Liberty Stadium, Swansea, Glamorgan",18785
+https://fbref.com/en/matches/81ed9115/Sheffield-United-Wigan-Athletic-October-27-2018-Championship,Sheffield United,Wigan Athletic,1540648800,Chris Wilder,Paul Cook,"Bramall Lane, Sheffield, Yorkshire",24429
+https://fbref.com/en/matches/8899a0e8/Bolton-Wanderers-Hull-City-October-27-2018-Championship,Bolton Wanderers,Hull City,1540648800,Phil Parkinson,Nigel Adkins,"Macron Stadium, Bolton",13108
+https://fbref.com/en/matches/938bbda6/Bristol-City-Stoke-City-October-27-2018-Championship,Bristol City,Stoke City,1540648800,Lee Johnson,Gary Rowett,"Ashton Gate Stadium, Bristol",22456
+https://fbref.com/en/matches/c6a07a45/Birmingham-City-Sheffield-Wednesday-October-27-2018-Championship,Birmingham City,Sheffield Wednesday,1540648800,Garry Monk,Jos Luhukay,"St Andrew's Trillion Trophy Stadium, Birmingham",23659
+https://fbref.com/en/matches/cc31fd10/West-Bromwich-Albion-Blackburn-Rovers-October-27-2018-Championship,West Bromwich Albion,Blackburn Rovers,1540648800,Darren Moore,Tony Mowbray,"The Hawthorns, West Bromwich",23820
+https://fbref.com/en/matches/e65dcc5b/Norwich-City-Brentford-October-27-2018-Championship,Norwich City,Brentford,1540648800,Daniel Farke,Thomas Frank,"Carrow Road, Norwich",25443
+https://fbref.com/en/matches/f3610b93/Millwall-Ipswich-Town-October-27-2018-Championship,Millwall,Ipswich Town,1540648800,Neil Harris,Bryan Klug,"The Den, London",15386
+https://fbref.com/en/matches/f9ddac04/Leeds-United-Nottingham-Forest-October-27-2018-Championship,Leeds United,Nottingham Forest,1540657800,Marcelo Bielsa,Karanka,"Elland Road, Leeds",34308
+https://fbref.com/en/matches/e1cac696/Aston-Villa-Bolton-Wanderers-November-2-2018-Championship,Aston Villa,Bolton Wanderers,1541187900,Dean Smith,Phil Parkinson,"Villa Park, Birmingham",30802
+https://fbref.com/en/matches/03485b32/Hull-City-West-Bromwich-Albion-November-3-2018-Championship,Hull City,West Bromwich Albion,1541257200,Nigel Adkins,Darren Moore,"iPro Stadium, Derby",11916
+https://fbref.com/en/matches/523ad3dc/Brentford-Millwall-November-3-2018-Championship,Brentford,Millwall,1541257200,Thomas Frank,Neil Harris,"Griffin Park, Brentford",9476
+https://fbref.com/en/matches/5b5c5c67/Rotherham-United-Swansea-City-November-3-2018-Championship,Rotherham United,Swansea City,1541257200,Paul Warne,Graham Potter,"New York Stadium, Rotherham",9006
+https://fbref.com/en/matches/62c90120/Derby-County-Birmingham-City-November-3-2018-Championship,Derby County,Birmingham City,1541257200,Frank Lampard,Garry Monk,"iPro Stadium, Derby",28114
+https://fbref.com/en/matches/6d41b9f7/Sheffield-Wednesday-Norwich-City-November-3-2018-Championship,Sheffield Wednesday,Norwich City,1541257200,Jos Luhukay,Daniel Farke,"Hillsborough Stadium, Sheffield, Yorkshire",23425
+https://fbref.com/en/matches/700bac16/Reading-Bristol-City-November-3-2018-Championship,Reading,Bristol City,1541257200,Paul Clement,Lee Johnson,"Madejski Stadium, Reading",14455
+https://fbref.com/en/matches/c5ef6e34/Nottingham-Forest-Sheffield-United-November-3-2018-Championship,Nottingham Forest,Sheffield United,1541257200,Karanka,Chris Wilder,"The City Ground, Nottingham",28757
+https://fbref.com/en/matches/d4a7a3de/Ipswich-Town-Preston-North-End-November-3-2018-Championship,Ipswich Town,Preston North End,1541257200,Paul Lambert,Alex Neil,"Portman Road Stadium, Ipswich",15129
+https://fbref.com/en/matches/d927b366/Blackburn-Rovers-Queens-Park-Rangers-November-3-2018-Championship,Blackburn Rovers,Queens Park Rangers,1541257200,Tony Mowbray,Steve McClaren,"Ewood Park, Blackburn",13294
+https://fbref.com/en/matches/74741db3/Stoke-City-Middlesbrough-November-3-2018-Championship,Stoke City,Middlesbrough,1541266200,Gary Rowett,Tony Pulis,"Bet365 Stadium, Stoke-on-Trent",24553
+https://fbref.com/en/matches/27c8b7ec/Wigan-Athletic-Leeds-United-November-4-2018-Championship,Wigan Athletic,Leeds United,1541338200,Paul Cook,Marcelo Bielsa,"The DW Stadium, Wigan",14799
+https://fbref.com/en/matches/70faf54d/Sheffield-United-Sheffield-Wednesday-November-9-2018-Championship,Sheffield United,Sheffield Wednesday,1541792700,Chris Wilder,Jos Luhukay,"Bramall Lane, Sheffield, Yorkshire",30261
+https://fbref.com/en/matches/0eba0121/Derby-County-Aston-Villa-November-10-2018-Championship,Derby County,Aston Villa,1541862000,Frank Lampard,Dean Smith,"iPro Stadium, Derby",30400
+https://fbref.com/en/matches/28e91e1e/Birmingham-City-Hull-City-November-10-2018-Championship,Birmingham City,Hull City,1541862000,Garry Monk,Nigel Adkins,"St Andrew's Trillion Trophy Stadium, Birmingham",21468
+https://fbref.com/en/matches/6ba44448/Bolton-Wanderers-Swansea-City-November-10-2018-Championship,Bolton Wanderers,Swansea City,1541862000,Phil Parkinson,Graham Potter,"Macron Stadium, Bolton",14090
+https://fbref.com/en/matches/9ee8ed41/Reading-Ipswich-Town-November-10-2018-Championship,Reading,Ipswich Town,1541862000,Paul Clement,Paul Lambert,"Madejski Stadium, Reading",14952
+https://fbref.com/en/matches/aed9c945/Queens-Park-Rangers-Brentford-November-10-2018-Championship,Queens Park Rangers,Brentford,1541862000,Steve McClaren,Thomas Frank,"Loftus Road Stadium, London",17609
+https://fbref.com/en/matches/b88a593b/Nottingham-Forest-Stoke-City-November-10-2018-Championship,Nottingham Forest,Stoke City,1541862000,Karanka,Gary Rowett,"The City Ground, Nottingham",28556
+https://fbref.com/en/matches/d20d8600/Middlesbrough-Wigan-Athletic-November-10-2018-Championship,Middlesbrough,Wigan Athletic,1541862000,Tony Pulis,Paul Cook,"Riverside Stadium, Middlesbrough",22207
+https://fbref.com/en/matches/d9bae84c/Bristol-City-Preston-North-End-November-10-2018-Championship,Bristol City,Preston North End,1541862000,Lee Johnson,Alex Neil,"Ashton Gate Stadium, Bristol",19797
+https://fbref.com/en/matches/df119e88/Norwich-City-Millwall-November-10-2018-Championship,Norwich City,Millwall,1541862000,Daniel Farke,Neil Harris,"Carrow Road, Norwich",26289
+https://fbref.com/en/matches/fc0f3c1b/Blackburn-Rovers-Rotherham-United-November-10-2018-Championship,Blackburn Rovers,Rotherham United,1541862000,Tony Mowbray,Paul Warne,"Ewood Park, Blackburn",12847
+https://fbref.com/en/matches/505144a6/West-Bromwich-Albion-Leeds-United-November-10-2018-Championship,West Bromwich Albion,Leeds United,1541871000,Darren Moore,Marcelo Bielsa,"The Hawthorns, West Bromwich",25661
+https://fbref.com/en/matches/cfeb4a0b/Ipswich-Town-West-Bromwich-Albion-November-23-2018-Championship,Ipswich Town,West Bromwich Albion,1543002300,Paul Lambert,Darren Moore,"Portman Road Stadium, Ipswich",22995
+https://fbref.com/en/matches/a0c3916e/Rotherham-United-Sheffield-United-November-24-2018-Championship,Rotherham United,Sheffield United,1543062600,Paul Warne,Chris Wilder,"New York Stadium, Rotherham",11607
+https://fbref.com/en/matches/02b22392/Millwall-Bolton-Wanderers-November-24-2018-Championship,Millwall,Bolton Wanderers,1543071600,Neil Harris,Phil Parkinson,"The Den, London",12554
+https://fbref.com/en/matches/0c615e84/Leeds-United-Bristol-City-November-24-2018-Championship,Leeds United,Bristol City,1543071600,Marcelo Bielsa,Lee Johnson,"Elland Road, Leeds",34333
+https://fbref.com/en/matches/3aba9dcc/Stoke-City-Queens-Park-Rangers-November-24-2018-Championship,Stoke City,Queens Park Rangers,1543071600,Gary Rowett,Steve McClaren,"Bet365 Stadium, Stoke-on-Trent",24291
+https://fbref.com/en/matches/45162e99/Swansea-City-Norwich-City-November-24-2018-Championship,Swansea City,Norwich City,1543071600,Graham Potter,Daniel Farke,"Liberty Stadium, Swansea, Glamorgan",18780
+https://fbref.com/en/matches/7955f134/Sheffield-Wednesday-Derby-County-November-24-2018-Championship,Sheffield Wednesday,Derby County,1543071600,Jos Luhukay,Frank Lampard,"Hillsborough Stadium, Sheffield, Yorkshire",25204
+https://fbref.com/en/matches/a7dac9b9/Preston-North-End-Blackburn-Rovers-November-24-2018-Championship,Preston North End,Blackburn Rovers,1543071600,Alex Neil,Tony Mowbray,"Deepdale Stadium, Preston",19912
+https://fbref.com/en/matches/ad7bbc4d/Hull-City-Nottingham-Forest-November-24-2018-Championship,Hull City,Nottingham Forest,1543071600,Nigel Adkins,Karanka,"Kingston Communications Stadium, Hull",3364
+https://fbref.com/en/matches/bdddc41c/Wigan-Athletic-Reading-November-24-2018-Championship,Wigan Athletic,Reading,1543071600,Paul Cook,Paul Clement,"The DW Stadium, Wigan",9211
+https://fbref.com/en/matches/a0ba9a79/Brentford-Middlesbrough-November-24-2018-Championship,Brentford,Middlesbrough,1543080600,Thomas Frank,Tony Pulis,"Griffin Park, Brentford",9430
+https://fbref.com/en/matches/c9d9faea/Aston-Villa-Birmingham-City-November-25-2018-Championship,Aston Villa,Birmingham City,1543147200,Dean Smith,Garry Monk,"Villa Park, Birmingham",41200
+https://fbref.com/en/matches/411a0447/Sheffield-Wednesday-Bolton-Wanderers-November-27-2018-Championship,Sheffield Wednesday,Bolton Wanderers,1543347900,Jos Luhukay,Phil Parkinson,"Hillsborough Stadium, Sheffield, Yorkshire",20861
+https://fbref.com/en/matches/7f178aa0/Rotherham-United-Queens-Park-Rangers-November-27-2018-Championship,Rotherham United,Queens Park Rangers,1543347900,Paul Warne,Steve McClaren,"New York Stadium, Rotherham",8018
+https://fbref.com/en/matches/7fdb3fc0/Preston-North-End-Middlesbrough-November-27-2018-Championship,Preston North End,Middlesbrough,1543347900,Alex Neil,Tony Pulis,"Deepdale Stadium, Preston",10990
+https://fbref.com/en/matches/9b1de576/Brentford-Sheffield-United-November-27-2018-Championship,Brentford,Sheffield United,1543347900,Thomas Frank,Chris Wilder,"Griffin Park, Brentford",8903
+https://fbref.com/en/matches/9ec69d69/Hull-City-Norwich-City-November-27-2018-Championship,Hull City,Norwich City,1543347900,Nigel Adkins,Daniel Farke,"Kingston Communications Stadium, Hull",11420
+https://fbref.com/en/matches/e0854cd7/Leeds-United-Reading-November-27-2018-Championship,Leeds United,Reading,1543347900,Marcelo Bielsa,Paul Clement,"Elland Road, Leeds",27806
+https://fbref.com/en/matches/18c096fb/Aston-Villa-Nottingham-Forest-November-28-2018-Championship,Aston Villa,Nottingham Forest,1543434300,Dean Smith,Karanka,"Villa Park, Birmingham",32868
+https://fbref.com/en/matches/6d8b3343/Swansea-City-West-Bromwich-Albion-November-28-2018-Championship,Swansea City,West Bromwich Albion,1543434300,Graham Potter,Darren Moore,"Liberty Stadium, Swansea, Glamorgan",17865
+https://fbref.com/en/matches/6fa9224e/Wigan-Athletic-Blackburn-Rovers-November-28-2018-Championship,Wigan Athletic,Blackburn Rovers,1543434300,Paul Cook,Tony Mowbray,"The DW Stadium, Wigan",10777
+https://fbref.com/en/matches/a68272bc/Millwall-Birmingham-City-November-28-2018-Championship,Millwall,Birmingham City,1543434300,Neil Harris,Garry Monk,"The Den, London",11644
+https://fbref.com/en/matches/eb7aa594/Ipswich-Town-Bristol-City-November-28-2018-Championship,Ipswich Town,Bristol City,1543434300,Paul Lambert,Lee Johnson,"Portman Road Stadium, Ipswich",13726
+https://fbref.com/en/matches/a13b7174/Stoke-City-Derby-County-November-28-2018-Championship,Stoke City,Derby County,1543435200,Gary Rowett,Frank Lampard,"Bet365 Stadium, Stoke-on-Trent",25147
+https://fbref.com/en/matches/fa4281f6/Sheffield-United-Leeds-United-December-1-2018-Championship,Sheffield United,Leeds United,1543667400,Chris Wilder,Marcelo Bielsa,"Bramall Lane, Sheffield, Yorkshire",25794
+https://fbref.com/en/matches/0fca566c/Blackburn-Rovers-Sheffield-Wednesday-December-1-2018-Championship,Blackburn Rovers,Sheffield Wednesday,1543676400,Tony Mowbray,Jos Luhukay,"Ewood Park, Blackburn",15154
+https://fbref.com/en/matches/18c05aec/Derby-County-Swansea-City-December-1-2018-Championship,Derby County,Swansea City,1543676400,Frank Lampard,Graham Potter,"iPro Stadium, Derby",26167
+https://fbref.com/en/matches/52045deb/Reading-Stoke-City-December-1-2018-Championship,Reading,Stoke City,1543676400,Paul Clement,Gary Rowett,"Madejski Stadium, Reading",14414
+https://fbref.com/en/matches/7b7f9ee7/Bolton-Wanderers-Wigan-Athletic-December-1-2018-Championship,Bolton Wanderers,Wigan Athletic,1543676400,Phil Parkinson,Paul Cook,"Macron Stadium, Bolton",15237
+https://fbref.com/en/matches/844b26e1/Queens-Park-Rangers-Hull-City-December-1-2018-Championship,Queens Park Rangers,Hull City,1543676400,Steve McClaren,Nigel Adkins,"Loftus Road Stadium, London",13824
+https://fbref.com/en/matches/8c583f49/Birmingham-City-Preston-North-End-December-1-2018-Championship,Birmingham City,Preston North End,1543676400,Garry Monk,Alex Neil,"St Andrew's Trillion Trophy Stadium, Birmingham",20523
+https://fbref.com/en/matches/8ec85fcf/Nottingham-Forest-Ipswich-Town-December-1-2018-Championship,Nottingham Forest,Ipswich Town,1543676400,Karanka,Paul Lambert,"The City Ground, Nottingham",27873
+https://fbref.com/en/matches/dcc936f1/Norwich-City-Rotherham-United-December-1-2018-Championship,Norwich City,Rotherham United,1543676400,Daniel Farke,Paul Warne,"Carrow Road, Norwich",25858
+https://fbref.com/en/matches/b27ec89c/Middlesbrough-Aston-Villa-December-1-2018-Championship,Middlesbrough,Aston Villa,1543685400,Tony Pulis,Dean Smith,"Riverside Stadium, Middlesbrough",23424
+https://fbref.com/en/matches/63154600/Bristol-City-Millwall-December-2-2018-Championship,Bristol City,Millwall,1543757400,Lee Johnson,Neil Harris,"Ashton Gate Stadium, Bristol",18814
+https://fbref.com/en/matches/90fc1be4/West-Bromwich-Albion-Brentford-December-3-2018-Championship,West Bromwich Albion,Brentford,1543867200,Darren Moore,Thomas Frank,"The Hawthorns, West Bromwich",20949
+https://fbref.com/en/matches/7ddc26fe/West-Bromwich-Albion-Aston-Villa-December-7-2018-Championship,West Bromwich Albion,Aston Villa,1544212800,Darren Moore,Dean Smith,"The Hawthorns, West Bromwich",26513
+https://fbref.com/en/matches/03c8baa0/Millwall-Hull-City-December-8-2018-Championship,Millwall,Hull City,1544281200,Neil Harris,Nigel Adkins,"The Den, London",12004
+https://fbref.com/en/matches/1cae7b22/Nottingham-Forest-Preston-North-End-December-8-2018-Championship,Nottingham Forest,Preston North End,1544281200,Karanka,Alex Neil,"The City Ground, Nottingham",27777
+https://fbref.com/en/matches/229a7735/Stoke-City-Ipswich-Town-December-8-2018-Championship,Stoke City,Ipswich Town,1544281200,Gary Rowett,Paul Lambert,"Bet365 Stadium, Stoke-on-Trent",24694
+https://fbref.com/en/matches/2bdd2608/Norwich-City-Bolton-Wanderers-December-8-2018-Championship,Norwich City,Bolton Wanderers,1544281200,Daniel Farke,Phil Parkinson,"Carrow Road, Norwich",25811
+https://fbref.com/en/matches/4fce56b9/Wigan-Athletic-Derby-County-December-8-2018-Championship,Wigan Athletic,Derby County,1544281200,Paul Cook,Frank Lampard,"The DW Stadium, Wigan",10768
+https://fbref.com/en/matches/6a565f37/Sheffield-Wednesday-Rotherham-United-December-8-2018-Championship,Sheffield Wednesday,Rotherham United,1544281200,Jos Luhukay,Paul Warne,"Hillsborough Stadium, Sheffield, Yorkshire",24725
+https://fbref.com/en/matches/8f9fdf97/Brentford-Swansea-City-December-8-2018-Championship,Brentford,Swansea City,1544281200,Thomas Frank,Graham Potter,"Griffin Park, Brentford",9442
+https://fbref.com/en/matches/9001a8f7/Birmingham-City-Bristol-City-December-8-2018-Championship,Birmingham City,Bristol City,1544281200,Garry Monk,Lee Johnson,"St Andrew's Trillion Trophy Stadium, Birmingham",20961
+https://fbref.com/en/matches/d7046d0f/Middlesbrough-Blackburn-Rovers-December-8-2018-Championship,Middlesbrough,Blackburn Rovers,1544281200,Tony Pulis,Tony Mowbray,"Riverside Stadium, Middlesbrough",21985
+https://fbref.com/en/matches/e4a7bcd9/Leeds-United-Queens-Park-Rangers-December-8-2018-Championship,Leeds United,Queens Park Rangers,1544281200,Marcelo Bielsa,Steve McClaren,"Elland Road, Leeds",33781
+https://fbref.com/en/matches/00136ce8/Reading-Sheffield-United-December-8-2018-Championship,Reading,Sheffield United,1544290200,Scott Marshall,Chris Wilder,"Madejski Stadium, Reading",12066
+https://fbref.com/en/matches/81619f60/Sheffield-United-West-Bromwich-Albion-December-14-2018-Championship,Sheffield United,West Bromwich Albion,1544816700,Chris Wilder,Darren Moore,"Bramall Lane, Sheffield, Yorkshire",23400
+https://fbref.com/en/matches/0b8aeec1/Bolton-Wanderers-Leeds-United-December-15-2018-Championship,Bolton Wanderers,Leeds United,1544886000,Phil Parkinson,Marcelo Bielsa,"Macron Stadium, Bolton",17484
+https://fbref.com/en/matches/1035296d/Queens-Park-Rangers-Middlesbrough-December-15-2018-Championship,Queens Park Rangers,Middlesbrough,1544886000,Steve McClaren,Tony Pulis,"Loftus Road Stadium, London",14088
+https://fbref.com/en/matches/1fbc8ab7/Blackburn-Rovers-Birmingham-City-December-15-2018-Championship,Blackburn Rovers,Birmingham City,1544886000,Tony Mowbray,Garry Monk,"Ewood Park, Blackburn",13622
+https://fbref.com/en/matches/213bab50/Aston-Villa-Stoke-City-December-15-2018-Championship,Aston Villa,Stoke City,1544886000,Dean Smith,Gary Rowett,"Villa Park, Birmingham",36999
+https://fbref.com/en/matches/5d0f0e1b/Rotherham-United-Reading-December-15-2018-Championship,Rotherham United,Reading,1544886000,Paul Warne,Scott Marshall,"New York Stadium, Rotherham",8775
+https://fbref.com/en/matches/acf532ea/Swansea-City-Sheffield-Wednesday-December-15-2018-Championship,Swansea City,Sheffield Wednesday,1544886000,Graham Potter,Jos Luhukay,"Liberty Stadium, Swansea, Glamorgan",18692
+https://fbref.com/en/matches/b99e5597/Ipswich-Town-Wigan-Athletic-December-15-2018-Championship,Ipswich Town,Wigan Athletic,1544886000,Paul Lambert,Paul Cook,"Portman Road Stadium, Ipswich",14640
+https://fbref.com/en/matches/c64e65f4/Preston-North-End-Millwall-December-15-2018-Championship,Preston North End,Millwall,1544886000,Alex Neil,Neil Harris,"Deepdale Stadium, Preston",10924
+https://fbref.com/en/matches/c749d872/Hull-City-Brentford-December-15-2018-Championship,Hull City,Brentford,1544886000,Nigel Adkins,Thomas Frank,"Kingston Communications Stadium, Hull",10530
+https://fbref.com/en/matches/9f1e8645/Bristol-City-Norwich-City-December-15-2018-Championship,Bristol City,Norwich City,1544895000,Lee Johnson,Daniel Farke,"Ashton Gate Stadium, Bristol",19851
+https://fbref.com/en/matches/81555a05/Derby-County-Nottingham-Forest-December-17-2018-Championship,Derby County,Nottingham Forest,1545075900,Frank Lampard,Karanka,"iPro Stadium, Derby",31160
+https://fbref.com/en/matches/0922dfec/Sheffield-Wednesday-Preston-North-End-December-22-2018-Championship,Sheffield Wednesday,Preston North End,1545490800,Lee Bullen,Alex Neil,"Hillsborough Stadium, Sheffield, Yorkshire",22366
+https://fbref.com/en/matches/202d4bf8/Brentford-Bolton-Wanderers-December-22-2018-Championship,Brentford,Bolton Wanderers,1545490800,Thomas Frank,Phil Parkinson,"Griffin Park, Brentford",10512
+https://fbref.com/en/matches/24db782c/Wigan-Athletic-Birmingham-City-December-22-2018-Championship,Wigan Athletic,Birmingham City,1545490800,Paul Cook,Garry Monk,"The DW Stadium, Wigan",13774
+https://fbref.com/en/matches/29ba6106/Ipswich-Town-Sheffield-United-December-22-2018-Championship,Ipswich Town,Sheffield United,1545490800,Paul Lambert,Chris Wilder,"Portman Road Stadium, Ipswich",17942
+https://fbref.com/en/matches/5a79dd13/Derby-County-Bristol-City-December-22-2018-Championship,Derby County,Bristol City,1545490800,Frank Lampard,Lee Johnson,"iPro Stadium, Derby",26719
+https://fbref.com/en/matches/6cfe84cf/Rotherham-United-West-Bromwich-Albion-December-22-2018-Championship,Rotherham United,West Bromwich Albion,1545490800,Paul Warne,Darren Moore,"New York Stadium, Rotherham",10593
+https://fbref.com/en/matches/97829839/Stoke-City-Millwall-December-22-2018-Championship,Stoke City,Millwall,1545490800,Gary Rowett,Neil Harris,"Bet365 Stadium, Stoke-on-Trent",25351
+https://fbref.com/en/matches/a28ef54d/Blackburn-Rovers-Norwich-City-December-22-2018-Championship,Blackburn Rovers,Norwich City,1545490800,Tony Mowbray,Daniel Farke,"Ewood Park, Blackburn",14202
+https://fbref.com/en/matches/dfb1d150/Nottingham-Forest-Queens-Park-Rangers-December-22-2018-Championship,Nottingham Forest,Queens Park Rangers,1545490800,Karanka,Steve McClaren,"The City Ground, Nottingham",28177
+https://fbref.com/en/matches/f4c62f01/Reading-Middlesbrough-December-22-2018-Championship,Reading,Middlesbrough,1545490800,Scott Marshall,Tony Pulis,"Madejski Stadium, Reading",14943
+https://fbref.com/en/matches/286770c2/Hull-City-Swansea-City-December-22-2018-Championship,Hull City,Swansea City,1545499800,Nigel Adkins,Graham Potter,"Kingston Communications Stadium, Hull",10848
+https://fbref.com/en/matches/39c2f26f/Aston-Villa-Leeds-United-December-23-2018-Championship,Aston Villa,Leeds United,1545571800,Dean Smith,Marcelo Bielsa,"Villa Park, Birmingham",41411
+https://fbref.com/en/matches/055d34b3/Bristol-City-Brentford-December-26-2018-Championship,Bristol City,Brentford,1545836400,Lee Johnson,Thomas Frank,"Ashton Gate Stadium, Bristol",21207
+https://fbref.com/en/matches/2d188e2b/Millwall-Reading-December-26-2018-Championship,Millwall,Reading,1545836400,Neil Harris,José Manuel Gomes,"The Den, London",12202
+https://fbref.com/en/matches/31f944c3/Preston-North-End-Hull-City-December-26-2018-Championship,Preston North End,Hull City,1545836400,Alex Neil,Nigel Adkins,"Deepdale Stadium, Preston",14026
+https://fbref.com/en/matches/51579a6a/Middlesbrough-Sheffield-Wednesday-December-26-2018-Championship,Middlesbrough,Sheffield Wednesday,1545836400,Tony Pulis,Lee Bullen,"Riverside Stadium, Middlesbrough",30341
+https://fbref.com/en/matches/6839928b/Leeds-United-Blackburn-Rovers-December-26-2018-Championship,Leeds United,Blackburn Rovers,1545836400,Marcelo Bielsa,Tony Mowbray,"Elland Road, Leeds",34863
+https://fbref.com/en/matches/c764db72/Sheffield-United-Derby-County-December-26-2018-Championship,Sheffield United,Derby County,1545836400,Chris Wilder,Frank Lampard,"Bramall Lane, Sheffield, Yorkshire",28974
+https://fbref.com/en/matches/cbe55ee1/Queens-Park-Rangers-Ipswich-Town-December-26-2018-Championship,Queens Park Rangers,Ipswich Town,1545836400,Steve McClaren,Paul Lambert,"Loftus Road Stadium, London",14584
+https://fbref.com/en/matches/cd2901ea/Norwich-City-Nottingham-Forest-December-26-2018-Championship,Norwich City,Nottingham Forest,1545836400,Daniel Farke,Karanka,"Carrow Road, Norwich",26933
+https://fbref.com/en/matches/dc998736/West-Bromwich-Albion-Wigan-Athletic-December-26-2018-Championship,West Bromwich Albion,Wigan Athletic,1545836400,Darren Moore,Paul Cook,"The Hawthorns, West Bromwich",25555
+https://fbref.com/en/matches/f4f0ae5e/Swansea-City-Aston-Villa-December-26-2018-Championship,Swansea City,Aston Villa,1545836400,Graham Potter,Dean Smith,"Liberty Stadium, Swansea, Glamorgan",20775
+https://fbref.com/en/matches/fdacc716/Birmingham-City-Stoke-City-December-26-2018-Championship,Birmingham City,Stoke City,1545836400,Garry Monk,Gary Rowett,"St Andrew's Trillion Trophy Stadium, Birmingham",26344
+https://fbref.com/en/matches/ff94f085/Bolton-Wanderers-Rotherham-United-December-26-2018-Championship,Bolton Wanderers,Rotherham United,1545836400,Phil Parkinson,Paul Warne,"Macron Stadium, Bolton",15255
+https://fbref.com/en/matches/03e3bf58/Bolton-Wanderers-Stoke-City-December-29-2018-Championship,Bolton Wanderers,Stoke City,1546095600,Phil Parkinson,Gary Rowett,"Macron Stadium, Bolton",15309
+https://fbref.com/en/matches/1028b34d/Sheffield-United-Blackburn-Rovers-December-29-2018-Championship,Sheffield United,Blackburn Rovers,1546095600,Chris Wilder,Tony Mowbray,"Bramall Lane, Sheffield, Yorkshire",27384
+https://fbref.com/en/matches/3ea481dc/Millwall-Nottingham-Forest-December-29-2018-Championship,Millwall,Nottingham Forest,1546095600,Neil Harris,Karanka,"The Den, London",15273
+https://fbref.com/en/matches/76b6d1e7/Preston-North-End-Aston-Villa-December-29-2018-Championship,Preston North End,Aston Villa,1546095600,Alex Neil,Dean Smith,"Deepdale Stadium, Preston",19126
+https://fbref.com/en/matches/78ba4b71/West-Bromwich-Albion-Sheffield-Wednesday-December-29-2018-Championship,West Bromwich Albion,Sheffield Wednesday,1546095600,Darren Moore,Jos Luhukay,"The Hawthorns, West Bromwich",26548
+https://fbref.com/en/matches/a355df4b/Middlesbrough-Ipswich-Town-December-29-2018-Championship,Middlesbrough,Ipswich Town,1546095600,Tony Pulis,Paul Lambert,"Riverside Stadium, Middlesbrough",23334
+https://fbref.com/en/matches/a385f866/Queens-Park-Rangers-Reading-December-29-2018-Championship,Queens Park Rangers,Reading,1546095600,Steve McClaren,José Manuel Gomes,"Loftus Road Stadium, London",15721
+https://fbref.com/en/matches/d3f2ab30/Birmingham-City-Brentford-December-29-2018-Championship,Birmingham City,Brentford,1546095600,Garry Monk,Thomas Frank,"St Andrew's Trillion Trophy Stadium, Birmingham",23909
+https://fbref.com/en/matches/d5d10d71/Swansea-City-Wigan-Athletic-December-29-2018-Championship,Swansea City,Wigan Athletic,1546095600,Graham Potter,Paul Cook,"Liberty Stadium, Swansea, Glamorgan",18591
+https://fbref.com/en/matches/e35081b6/Bristol-City-Rotherham-United-December-29-2018-Championship,Bristol City,Rotherham United,1546095600,Lee Johnson,Paul Warne,"Ashton Gate Stadium, Bristol",21207
+https://fbref.com/en/matches/e9d38646/Leeds-United-Hull-City-December-29-2018-Championship,Leeds United,Hull City,1546095600,Marcelo Bielsa,Nigel Adkins,"Elland Road, Leeds",35754
+https://fbref.com/en/matches/ebfbb916/Norwich-City-Derby-County-December-29-2018-Championship,Norwich City,Derby County,1546095600,Daniel Farke,Frank Lampard,"Carrow Road, Norwich",26866
+https://fbref.com/en/matches/04e0fef6/Rotherham-United-Preston-North-End-January-1-2019-Championship,Rotherham United,Preston North End,1546354800,Paul Warne,Alex Neil,"New York Stadium, Rotherham",9077
+https://fbref.com/en/matches/05a274f4/Aston-Villa-Queens-Park-Rangers-January-1-2019-Championship,Aston Villa,Queens Park Rangers,1546354800,Dean Smith,Steve McClaren,"Villa Park, Birmingham",37760
+https://fbref.com/en/matches/1d0a5875/Sheffield-Wednesday-Birmingham-City-January-1-2019-Championship,Sheffield Wednesday,Birmingham City,1546354800,Lee Bullen,Garry Monk,"Hillsborough Stadium, Sheffield, Yorkshire",29462
+https://fbref.com/en/matches/1e8ed37e/Wigan-Athletic-Sheffield-United-January-1-2019-Championship,Wigan Athletic,Sheffield United,1546354800,Paul Cook,Chris Wilder,"The DW Stadium, Wigan",13054
+https://fbref.com/en/matches/43ffe722/Reading-Swansea-City-January-1-2019-Championship,Reading,Swansea City,1546354800,José Manuel Gomes,Graham Potter,"Madejski Stadium, Reading",15644
+https://fbref.com/en/matches/5f4192f4/Ipswich-Town-Millwall-January-1-2019-Championship,Ipswich Town,Millwall,1546354800,Paul Lambert,Neil Harris,"Portman Road Stadium, Ipswich",16957
+https://fbref.com/en/matches/7fb83bc5/Stoke-City-Bristol-City-January-1-2019-Championship,Stoke City,Bristol City,1546354800,Gary Rowett,Lee Johnson,"Bet365 Stadium, Stoke-on-Trent",23912
+https://fbref.com/en/matches/823d4361/Derby-County-Middlesbrough-January-1-2019-Championship,Derby County,Middlesbrough,1546354800,Frank Lampard,Tony Pulis,"iPro Stadium, Derby",28123
+https://fbref.com/en/matches/9dbe0b73/Nottingham-Forest-Leeds-United-January-1-2019-Championship,Nottingham Forest,Leeds United,1546354800,Karanka,Marcelo Bielsa,"The City Ground, Nottingham",29530
+https://fbref.com/en/matches/a1b13443/Hull-City-Bolton-Wanderers-January-1-2019-Championship,Hull City,Bolton Wanderers,1546354800,Nigel Adkins,Phil Parkinson,"Kingston Communications Stadium, Hull",12418
+https://fbref.com/en/matches/b8e1d783/Blackburn-Rovers-West-Bromwich-Albion-January-1-2019-Championship,Blackburn Rovers,West Bromwich Albion,1546354800,Tony Mowbray,Darren Moore,"Ewood Park, Blackburn",14258
+https://fbref.com/en/matches/fb583c44/Brentford-Norwich-City-January-1-2019-Championship,Brentford,Norwich City,1546354800,Thomas Frank,Daniel Farke,"Griffin Park, Brentford",9524
+https://fbref.com/en/matches/c9da7b0d/Leeds-United-Derby-County-January-11-2019-Championship,Leeds United,Derby County,1547235900,Marcelo Bielsa,Frank Lampard,"Elland Road, Leeds",34668
+https://fbref.com/en/matches/044302c9/Birmingham-City-Middlesbrough-January-12-2019-Championship,Birmingham City,Middlesbrough,1547305200,Garry Monk,Tony Pulis,"St Andrew's Trillion Trophy Stadium, Birmingham",21420
+https://fbref.com/en/matches/20b45a69/Reading-Nottingham-Forest-January-12-2019-Championship,Reading,Nottingham Forest,1547305200,José Manuel Gomes,Simon Piers Ireland,"Madejski Stadium, Reading",15034
+https://fbref.com/en/matches/2639dea0/Wigan-Athletic-Aston-Villa-January-12-2019-Championship,Wigan Athletic,Aston Villa,1547305200,Paul Cook,Dean Smith,"The DW Stadium, Wigan",13882
+https://fbref.com/en/matches/7bf348ff/Preston-North-End-Swansea-City-January-12-2019-Championship,Preston North End,Swansea City,1547305200,Alex Neil,Graham Potter,"Deepdale Stadium, Preston",11604
+https://fbref.com/en/matches/7c5c4247/Hull-City-Sheffield-Wednesday-January-12-2019-Championship,Hull City,Sheffield Wednesday,1547305200,Nigel Adkins,Steve Agnew,"Kingston Communications Stadium, Hull",14102
+https://fbref.com/en/matches/99a1b25b/Bristol-City-Bolton-Wanderers-January-12-2019-Championship,Bristol City,Bolton Wanderers,1547305200,Lee Johnson,Phil Parkinson,"Ashton Gate Stadium, Bristol",19730
+https://fbref.com/en/matches/ab297f62/Sheffield-United-Queens-Park-Rangers-January-12-2019-Championship,Sheffield United,Queens Park Rangers,1547305200,Chris Wilder,Steve McClaren,"Bramall Lane, Sheffield, Yorkshire",25501
+https://fbref.com/en/matches/ada2172e/Ipswich-Town-Rotherham-United-January-12-2019-Championship,Ipswich Town,Rotherham United,1547305200,Paul Lambert,Paul Warne,"Portman Road Stadium, Ipswich",20893
+https://fbref.com/en/matches/ce7e6856/West-Bromwich-Albion-Norwich-City-January-12-2019-Championship,West Bromwich Albion,Norwich City,1547305200,Darren Moore,Daniel Farke,"The Hawthorns, West Bromwich",26544
+https://fbref.com/en/matches/e94bd9b5/Brentford-Stoke-City-January-12-2019-Championship,Brentford,Stoke City,1547305200,Thomas Frank,Nathan Jones,"Griffin Park, Brentford",9439
+https://fbref.com/en/matches/034c5190/Millwall-Blackburn-Rovers-January-12-2019-Championship,Millwall,Blackburn Rovers,1547314200,Neil Harris,Tony Mowbray,"The Den, London",13862
+https://fbref.com/en/matches/0b1730bc/Norwich-City-Birmingham-City-January-18-2019-Championship,Norwich City,Birmingham City,1547840700,Daniel Farke,Garry Monk,"Carrow Road, Norwich",25932
+https://fbref.com/en/matches/1c266ff4/Stoke-City-Leeds-United-January-19-2019-Championship,Stoke City,Leeds United,1547910000,Nathan Jones,Marcelo Bielsa,"Bet365 Stadium, Stoke-on-Trent",28586
+https://fbref.com/en/matches/3e636d8f/Middlesbrough-Millwall-January-19-2019-Championship,Middlesbrough,Millwall,1547910000,Tony Pulis,Neil Harris,"Riverside Stadium, Middlesbrough",21915
+https://fbref.com/en/matches/44fb2de7/Rotherham-United-Brentford-January-19-2019-Championship,Rotherham United,Brentford,1547910000,Paul Warne,Thomas Frank,"New York Stadium, Rotherham",8319
+https://fbref.com/en/matches/45e4004b/Aston-Villa-Hull-City-January-19-2019-Championship,Aston Villa,Hull City,1547910000,Dean Smith,Nigel Adkins,"Villa Park, Birmingham",33619
+https://fbref.com/en/matches/72178c79/Sheffield-Wednesday-Wigan-Athletic-January-19-2019-Championship,Sheffield Wednesday,Wigan Athletic,1547910000,Steve Agnew,Paul Cook,"Hillsborough Stadium, Sheffield, Yorkshire",22323
+https://fbref.com/en/matches/870b66d5/Queens-Park-Rangers-Preston-North-End-January-19-2019-Championship,Queens Park Rangers,Preston North End,1547910000,Steve McClaren,Alex Neil,"Loftus Road Stadium, London",13736
+https://fbref.com/en/matches/cab9b95a/Blackburn-Rovers-Ipswich-Town-January-19-2019-Championship,Blackburn Rovers,Ipswich Town,1547910000,Tony Mowbray,Paul Lambert,"Ewood Park, Blackburn",12762
+https://fbref.com/en/matches/ea318896/Derby-County-Reading-January-19-2019-Championship,Derby County,Reading,1547910000,Frank Lampard,José Manuel Gomes,"iPro Stadium, Derby",26404
+https://fbref.com/en/matches/f8ab4f3c/Nottingham-Forest-Bristol-City-January-19-2019-Championship,Nottingham Forest,Bristol City,1547910000,Martin O'Neill,Lee Johnson,"The City Ground, Nottingham",28922
+https://fbref.com/en/matches/a0d3284e/Swansea-City-Sheffield-United-January-19-2019-Championship,Swansea City,Sheffield United,1547919000,Graham Potter,Chris Wilder,"Liberty Stadium, Swansea, Glamorgan",18673
+https://fbref.com/en/matches/d059e555/Bolton-Wanderers-West-Bromwich-Albion-January-21-2019-Championship,Bolton Wanderers,West Bromwich Albion,1548100800,Phil Parkinson,Darren Moore,"Macron Stadium, Bolton",14750
+https://fbref.com/en/matches/4f8e5a5a/Rotherham-United-Leeds-United-January-26-2019-Championship,Rotherham United,Leeds United,1548514800,Paul Warne,Marcelo Bielsa,"New York Stadium, Rotherham",11259
+https://fbref.com/en/matches/6e96de6a/Aston-Villa-Ipswich-Town-January-26-2019-Championship,Aston Villa,Ipswich Town,1548514800,Dean Smith,Paul Lambert,"Villa Park, Birmingham",33653
+https://fbref.com/en/matches/b2055a50/Blackburn-Rovers-Hull-City-January-26-2019-Championship,Blackburn Rovers,Hull City,1548514800,Tony Mowbray,Nigel Adkins,"Ewood Park, Blackburn",13589
+https://fbref.com/en/matches/cdf5e5cf/Stoke-City-Preston-North-End-January-26-2019-Championship,Stoke City,Preston North End,1548514800,Nathan Jones,Alex Neil,"Bet365 Stadium, Stoke-on-Trent",25053
+https://fbref.com/en/matches/f45a5693/Norwich-City-Sheffield-United-January-26-2019-Championship,Norwich City,Sheffield United,1548514800,Daniel Farke,Chris Wilder,"Carrow Road, Norwich",26844
+https://fbref.com/en/matches/fc5d8289/Nottingham-Forest-Wigan-Athletic-January-26-2019-Championship,Nottingham Forest,Wigan Athletic,1548514800,Martin O'Neill,Paul Cook,"The City Ground, Nottingham",28848
+https://fbref.com/en/matches/f92df15e/Swansea-City-Birmingham-City-January-29-2019-Championship,Swansea City,Birmingham City,1548791100,Graham Potter,Garry Monk,"Liberty Stadium, Swansea, Glamorgan",18194
+https://fbref.com/en/matches/310f39b0/Bolton-Wanderers-Reading-January-29-2019-Championship,Bolton Wanderers,Reading,1548792000,Phil Parkinson,José Manuel Gomes,"Macron Stadium, Bolton",12195
+https://fbref.com/en/matches/4be215d4/Preston-North-End-Derby-County-February-1-2019-Championship,Preston North End,Derby County,1549050300,Alex Neil,Frank Lampard,"Deepdale Stadium, Preston",12124
+https://fbref.com/en/matches/0c6650b0/Sheffield-United-Bolton-Wanderers-February-2-2019-Championship,Sheffield United,Bolton Wanderers,1549119600,Chris Wilder,Phil Parkinson,"Bramall Lane, Sheffield, Yorkshire",26131
+https://fbref.com/en/matches/201f8e0a/Brentford-Blackburn-Rovers-February-2-2019-Championship,Brentford,Blackburn Rovers,1549119600,Thomas Frank,Tony Mowbray,"Griffin Park, Brentford",9972
+https://fbref.com/en/matches/3e03a6dc/Bristol-City-Swansea-City-February-2-2019-Championship,Bristol City,Swansea City,1549119600,Lee Johnson,Graham Potter,"Ashton Gate Stadium, Bristol",23560
+https://fbref.com/en/matches/56ae075f/Hull-City-Stoke-City-February-2-2019-Championship,Hull City,Stoke City,1549119600,Nigel Adkins,Nathan Jones,"Kingston Communications Stadium, Hull",12776
+https://fbref.com/en/matches/5eb0f7b2/Ipswich-Town-Sheffield-Wednesday-February-2-2019-Championship,Ipswich Town,Sheffield Wednesday,1549119600,Paul Lambert,Steve Bruce,"Portman Road Stadium, Ipswich",16888
+https://fbref.com/en/matches/75ef4d4e/West-Bromwich-Albion-Middlesbrough-February-2-2019-Championship,West Bromwich Albion,Middlesbrough,1549119600,Darren Moore,Tony Pulis,"The Hawthorns, West Bromwich",24863
+https://fbref.com/en/matches/997f41cb/Millwall-Rotherham-United-February-2-2019-Championship,Millwall,Rotherham United,1549119600,Neil Harris,Paul Warne,"The Den, London",12084
+https://fbref.com/en/matches/9c10e973/Birmingham-City-Nottingham-Forest-February-2-2019-Championship,Birmingham City,Nottingham Forest,1549119600,Garry Monk,Martin O'Neill,"St Andrew's Trillion Trophy Stadium, Birmingham",24235
+https://fbref.com/en/matches/cc011495/Wigan-Athletic-Queens-Park-Rangers-February-2-2019-Championship,Wigan Athletic,Queens Park Rangers,1549119600,Paul Cook,Steve McClaren,"The DW Stadium, Wigan",9799
+https://fbref.com/en/matches/f185fe09/Reading-Aston-Villa-February-2-2019-Championship,Reading,Aston Villa,1549119600,José Manuel Gomes,Dean Smith,"Madejski Stadium, Reading",17458
+https://fbref.com/en/matches/f30b8a1c/Leeds-United-Norwich-City-February-2-2019-Championship,Leeds United,Norwich City,1549128600,Marcelo Bielsa,Daniel Farke,"Elland Road, Leeds",36524
+https://fbref.com/en/matches/b33af0fa/Aston-Villa-Sheffield-United-February-8-2019-Championship,Aston Villa,Sheffield United,1549655100,Dean Smith,Chris Wilder,"Villa Park, Birmingham",34892
+https://fbref.com/en/matches/ecdf7267/Middlesbrough-Leeds-United-February-9-2019-Championship,Middlesbrough,Leeds United,1549717200,Tony Pulis,Marcelo Bielsa,"Riverside Stadium, Middlesbrough",30881
+https://fbref.com/en/matches/18e216f1/Nottingham-Forest-Brentford-February-9-2019-Championship,Nottingham Forest,Brentford,1549724400,Martin O'Neill,Thomas Frank,"The City Ground, Nottingham",27829
+https://fbref.com/en/matches/50def28f/Bolton-Wanderers-Preston-North-End-February-9-2019-Championship,Bolton Wanderers,Preston North End,1549724400,Phil Parkinson,Alex Neil,"Macron Stadium, Bolton",17381
+https://fbref.com/en/matches/50fa4616/Sheffield-Wednesday-Reading-February-9-2019-Championship,Sheffield Wednesday,Reading,1549724400,Steve Bruce,José Manuel Gomes,"Hillsborough Stadium, Sheffield, Yorkshire",23412
+https://fbref.com/en/matches/645786aa/Swansea-City-Millwall-February-9-2019-Championship,Swansea City,Millwall,1549724400,Graham Potter,Neil Harris,"Liberty Stadium, Swansea, Glamorgan",18650
+https://fbref.com/en/matches/73390b4b/Derby-County-Hull-City-February-9-2019-Championship,Derby County,Hull City,1549724400,Frank Lampard,Nigel Adkins,"iPro Stadium, Derby",28211
+https://fbref.com/en/matches/99e7ac4c/Queens-Park-Rangers-Birmingham-City-February-9-2019-Championship,Queens Park Rangers,Birmingham City,1549724400,Steve McClaren,Garry Monk,"Loftus Road Stadium, London",14234
+https://fbref.com/en/matches/b03b8c5c/Blackburn-Rovers-Bristol-City-February-9-2019-Championship,Blackburn Rovers,Bristol City,1549724400,Tony Mowbray,Lee Johnson,"Ewood Park, Blackburn",13593
+https://fbref.com/en/matches/e2a4bb1e/Rotherham-United-Wigan-Athletic-February-9-2019-Championship,Rotherham United,Wigan Athletic,1549724400,Paul Warne,Paul Cook,"New York Stadium, Rotherham",9611
+https://fbref.com/en/matches/5284430f/Stoke-City-West-Bromwich-Albion-February-9-2019-Championship,Stoke City,West Bromwich Albion,1549733400,Nathan Jones,Darren Moore,"Bet365 Stadium, Stoke-on-Trent",26828
+https://fbref.com/en/matches/41e45230/Norwich-City-Ipswich-Town-February-10-2019-Championship,Norwich City,Ipswich Town,1549800000,Daniel Farke,Paul Lambert,"Carrow Road, Norwich",27040
+https://fbref.com/en/matches/976cf5d1/Birmingham-City-Bolton-Wanderers-February-12-2019-Championship,Birmingham City,Bolton Wanderers,1550000700,Garry Monk,Phil Parkinson,"St Andrew's Trillion Trophy Stadium, Birmingham",21682
+https://fbref.com/en/matches/da003193/Hull-City-Rotherham-United-February-12-2019-Championship,Hull City,Rotherham United,1550000700,Nigel Adkins,Paul Warne,"Kingston Communications Stadium, Hull",10785
+https://fbref.com/en/matches/e7074827/Bristol-City-Queens-Park-Rangers-February-12-2019-Championship,Bristol City,Queens Park Rangers,1550000700,Lee Johnson,Steve McClaren,"Ashton Gate Stadium, Bristol",19183
+https://fbref.com/en/matches/f663b774/Millwall-Sheffield-Wednesday-February-12-2019-Championship,Millwall,Sheffield Wednesday,1550000700,Neil Harris,Steve Bruce,"The Den, London",11828
+https://fbref.com/en/matches/41304fbe/West-Bromwich-Albion-Nottingham-Forest-February-12-2019-Championship,West Bromwich Albion,Nottingham Forest,1550001600,Darren Moore,Martin O'Neill,"The Hawthorns, West Bromwich",22691
+https://fbref.com/en/matches/00c0fb19/Ipswich-Town-Derby-County-February-13-2019-Championship,Ipswich Town,Derby County,1550087100,Paul Lambert,Frank Lampard,"Portman Road Stadium, Ipswich",18604
+https://fbref.com/en/matches/373dcb03/Wigan-Athletic-Stoke-City-February-13-2019-Championship,Wigan Athletic,Stoke City,1550087100,Paul Cook,Nathan Jones,"The DW Stadium, Wigan",9914
+https://fbref.com/en/matches/53a0e174/Brentford-Aston-Villa-February-13-2019-Championship,Brentford,Aston Villa,1550087100,Thomas Frank,Dean Smith,"Griffin Park, Brentford",9636
+https://fbref.com/en/matches/6140ef50/Leeds-United-Swansea-City-February-13-2019-Championship,Leeds United,Swansea City,1550087100,Marcelo Bielsa,Graham Potter,"Elland Road, Leeds",34044
+https://fbref.com/en/matches/727537bf/Sheffield-United-Middlesbrough-February-13-2019-Championship,Sheffield United,Middlesbrough,1550087100,Chris Wilder,Tony Pulis,"Bramall Lane, Sheffield, Yorkshire",24805
+https://fbref.com/en/matches/a9269921/Preston-North-End-Norwich-City-February-13-2019-Championship,Preston North End,Norwich City,1550087100,Alex Neil,Daniel Farke,"Deepdale Stadium, Preston",11280
+https://fbref.com/en/matches/48402cb7/Reading-Blackburn-Rovers-February-13-2019-Championship,Reading,Blackburn Rovers,1550088000,José Manuel Gomes,Tony Mowbray,"Madejski Stadium, Reading",11271
+https://fbref.com/en/matches/1c219eca/Rotherham-United-Sheffield-Wednesday-February-16-2019-Championship,Rotherham United,Sheffield Wednesday,1550322000,Paul Warne,Steve Bruce,"New York Stadium, Rotherham",11736
+https://fbref.com/en/matches/215437d0/Aston-Villa-West-Bromwich-Albion-February-16-2019-Championship,Aston Villa,West Bromwich Albion,1550329200,Dean Smith,Darren Moore,"Villa Park, Birmingham",39263
+https://fbref.com/en/matches/2357b4ec/Ipswich-Town-Stoke-City-February-16-2019-Championship,Ipswich Town,Stoke City,1550329200,Paul Lambert,Nathan Jones,"Portman Road Stadium, Ipswich",15924
+https://fbref.com/en/matches/380052a3/Sheffield-United-Reading-February-16-2019-Championship,Sheffield United,Reading,1550329200,Chris Wilder,José Manuel Gomes,"Bramall Lane, Sheffield, Yorkshire",26513
+https://fbref.com/en/matches/877e2df5/Bolton-Wanderers-Norwich-City-February-16-2019-Championship,Bolton Wanderers,Norwich City,1550329200,Phil Parkinson,Daniel Farke,"Macron Stadium, Bolton",14006
+https://fbref.com/en/matches/d83a6aad/Preston-North-End-Nottingham-Forest-February-16-2019-Championship,Preston North End,Nottingham Forest,1550329200,Alex Neil,Martin O'Neill,"Deepdale Stadium, Preston",13904
+https://fbref.com/en/matches/f70da811/Blackburn-Rovers-Middlesbrough-February-17-2019-Championship,Blackburn Rovers,Middlesbrough,1550408400,Tony Mowbray,Tony Pulis,"Ewood Park, Blackburn",13249
+https://fbref.com/en/matches/9c7555bd/Queens-Park-Rangers-West-Bromwich-Albion-February-19-2019-Championship,Queens Park Rangers,West Bromwich Albion,1550605500,Steve McClaren,Darren Moore,"Loftus Road Stadium, London",12257
+https://fbref.com/en/matches/d69a4746/Derby-County-Millwall-February-20-2019-Championship,Derby County,Millwall,1550691900,Frank Lampard,Neil Harris,"iPro Stadium, Derby",24907
+https://fbref.com/en/matches/01b74c48/Wigan-Athletic-Ipswich-Town-February-23-2019-Championship,Wigan Athletic,Ipswich Town,1550934000,Paul Cook,Paul Lambert,"The DW Stadium, Wigan",10835
+https://fbref.com/en/matches/2a5fb05d/Millwall-Preston-North-End-February-23-2019-Championship,Millwall,Preston North End,1550934000,Neil Harris,Alex Neil,"The Den, London",13265
+https://fbref.com/en/matches/32c42cbd/Norwich-City-Bristol-City-February-23-2019-Championship,Norwich City,Bristol City,1550934000,Daniel Farke,Lee Johnson,"Carrow Road, Norwich",26338
+https://fbref.com/en/matches/48e28cb4/Stoke-City-Aston-Villa-February-23-2019-Championship,Stoke City,Aston Villa,1550934000,Nathan Jones,Dean Smith,"Bet365 Stadium, Stoke-on-Trent",27975
+https://fbref.com/en/matches/795213cb/Sheffield-Wednesday-Swansea-City-February-23-2019-Championship,Sheffield Wednesday,Swansea City,1550934000,Steve Bruce,Graham Potter,"Hillsborough Stadium, Sheffield, Yorkshire",22935
+https://fbref.com/en/matches/8b502dd5/Birmingham-City-Blackburn-Rovers-February-23-2019-Championship,Birmingham City,Blackburn Rovers,1550934000,Garry Monk,Tony Mowbray,"St Andrew's Trillion Trophy Stadium, Birmingham",21869
+https://fbref.com/en/matches/904237e8/Reading-Rotherham-United-February-23-2019-Championship,Reading,Rotherham United,1550934000,José Manuel Gomes,Paul Warne,"Madejski Stadium, Reading",15958
+https://fbref.com/en/matches/b8550035/Leeds-United-Bolton-Wanderers-February-23-2019-Championship,Leeds United,Bolton Wanderers,1550934000,Marcelo Bielsa,Phil Parkinson,"Elland Road, Leeds",34144
+https://fbref.com/en/matches/c3be6bea/Brentford-Hull-City-February-23-2019-Championship,Brentford,Hull City,1550934000,Thomas Frank,Nigel Adkins,"Griffin Park, Brentford",9675
+https://fbref.com/en/matches/c41a8ff3/Middlesbrough-Queens-Park-Rangers-February-23-2019-Championship,Middlesbrough,Queens Park Rangers,1550934000,Tony Pulis,Steve McClaren,"Riverside Stadium, Middlesbrough",22338
+https://fbref.com/en/matches/f324197a/West-Bromwich-Albion-Sheffield-United-February-23-2019-Championship,West Bromwich Albion,Sheffield United,1550943000,Darren Moore,Chris Wilder,"The Hawthorns, West Bromwich",24928
+https://fbref.com/en/matches/69580c14/Nottingham-Forest-Derby-County-February-25-2019-Championship,Nottingham Forest,Derby County,1551123900,Martin O'Neill,Frank Lampard,"The City Ground, Nottingham",29421
+https://fbref.com/en/matches/cb713665/Sheffield-Wednesday-Brentford-February-26-2019-Championship,Sheffield Wednesday,Brentford,1551210300,Steve Bruce,Thomas Frank,"Hillsborough Stadium, Sheffield, Yorkshire",23094
+https://fbref.com/en/matches/1c09a40e/Bristol-City-Birmingham-City-February-26-2019-Championship,Bristol City,Birmingham City,1551210300,Lee Johnson,Garry Monk,"Ashton Gate Stadium, Bristol",19777
+https://fbref.com/en/matches/9cabfd80/Queens-Park-Rangers-Leeds-United-February-26-2019-Championship,Queens Park Rangers,Leeds United,1551210300,Steve McClaren,Marcelo Bielsa,"Loftus Road Stadium, London",14763
+https://fbref.com/en/matches/e9bc6d41/Hull-City-Millwall-February-26-2019-Championship,Hull City,Millwall,1551210300,Nigel Adkins,Neil Harris,"Kingston Communications Stadium, Hull",10191
+https://fbref.com/en/matches/798ac583/Leeds-United-West-Bromwich-Albion-March-1-2019-Championship,Leeds United,West Bromwich Albion,1551469500,Marcelo Bielsa,Darren Moore,"Elland Road, Leeds",35888
+https://fbref.com/en/matches/14bb2b55/Rotherham-United-Blackburn-Rovers-March-2-2019-Championship,Rotherham United,Blackburn Rovers,1551538800,Paul Warne,Tony Mowbray,"New York Stadium, Rotherham",9663
+https://fbref.com/en/matches/18626ff1/Ipswich-Town-Reading-March-2-2019-Championship,Ipswich Town,Reading,1551538800,Paul Lambert,José Manuel Gomes,"Portman Road Stadium, Ipswich",23009
+https://fbref.com/en/matches/21c45951/Wigan-Athletic-Middlesbrough-March-2-2019-Championship,Wigan Athletic,Middlesbrough,1551538800,Paul Cook,Tony Pulis,"The DW Stadium, Wigan",12726
+https://fbref.com/en/matches/944e0640/Brentford-Queens-Park-Rangers-March-2-2019-Championship,Brentford,Queens Park Rangers,1551538800,Thomas Frank,Steve McClaren,"Griffin Park, Brentford",11771
+https://fbref.com/en/matches/9e0b64b3/Swansea-City-Bolton-Wanderers-March-2-2019-Championship,Swansea City,Bolton Wanderers,1551538800,Graham Potter,Phil Parkinson,"Liberty Stadium, Swansea, Glamorgan",17880
+https://fbref.com/en/matches/a43793f2/Millwall-Norwich-City-March-2-2019-Championship,Millwall,Norwich City,1551538800,Neil Harris,Daniel Farke,"The Den, London",16748
+https://fbref.com/en/matches/b36e4c4f/Preston-North-End-Bristol-City-March-2-2019-Championship,Preston North End,Bristol City,1551538800,Alex Neil,Lee Johnson,"Deepdale Stadium, Preston",12863
+https://fbref.com/en/matches/e87f5ea7/Hull-City-Birmingham-City-March-2-2019-Championship,Hull City,Birmingham City,1551538800,Nigel Adkins,Garry Monk,"Kingston Communications Stadium, Hull",12551
+https://fbref.com/en/matches/f9de8e3a/Aston-Villa-Derby-County-March-2-2019-Championship,Aston Villa,Derby County,1551538800,Dean Smith,Frank Lampard,"Villa Park, Birmingham",37273
+https://fbref.com/en/matches/fa61cd45/Stoke-City-Nottingham-Forest-March-2-2019-Championship,Stoke City,Nottingham Forest,1551538800,Nathan Jones,Martin O'Neill,"Bet365 Stadium, Stoke-on-Trent",26736
+https://fbref.com/en/matches/afaba52a/Sheffield-Wednesday-Sheffield-United-March-4-2019-Championship,Sheffield Wednesday,Sheffield United,1551728700,Steve Bruce,Chris Wilder,"Hillsborough Stadium, Sheffield, Yorkshire",31630
+https://fbref.com/en/matches/90d39e62/Derby-County-Wigan-Athletic-March-5-2019-Championship,Derby County,Wigan Athletic,1551815100,Frank Lampard,Paul Cook,"iPro Stadium, Derby",23655
+https://fbref.com/en/matches/e6f96319/Norwich-City-Swansea-City-March-8-2019-Championship,Norwich City,Swansea City,1552074300,Daniel Farke,Graham Potter,"Carrow Road, Norwich",26360
+https://fbref.com/en/matches/ee17fd59/Blackburn-Rovers-Preston-North-End-March-9-2019-Championship,Blackburn Rovers,Preston North End,1552132800,Tony Mowbray,Alex Neil,"Ewood Park, Blackburn",21577
+https://fbref.com/en/matches/d7323c12/Sheffield-United-Rotherham-United-March-9-2019-Championship,Sheffield United,Rotherham United,1552133700,Chris Wilder,Paul Warne,"Bramall Lane, Sheffield, Yorkshire",27402
+https://fbref.com/en/matches/09922cf9/Derby-County-Sheffield-Wednesday-March-9-2019-Championship,Derby County,Sheffield Wednesday,1552143600,Frank Lampard,Steve Bruce,"iPro Stadium, Derby",28574
+https://fbref.com/en/matches/1406f6e6/Middlesbrough-Brentford-March-9-2019-Championship,Middlesbrough,Brentford,1552143600,Tony Pulis,Thomas Frank,"Riverside Stadium, Middlesbrough",22069
+https://fbref.com/en/matches/2834620b/Queens-Park-Rangers-Stoke-City-March-9-2019-Championship,Queens Park Rangers,Stoke City,1552143600,Steve McClaren,Nathan Jones,"Loftus Road Stadium, London",14954
+https://fbref.com/en/matches/847e6d66/Nottingham-Forest-Hull-City-March-9-2019-Championship,Nottingham Forest,Hull City,1552143600,Martin O'Neill,Nigel Adkins,"The City Ground, Nottingham",29397
+https://fbref.com/en/matches/a0aaeeb2/Reading-Wigan-Athletic-March-9-2019-Championship,Reading,Wigan Athletic,1552143600,José Manuel Gomes,Paul Cook,"Madejski Stadium, Reading",15401
+https://fbref.com/en/matches/ad9e3e30/Bristol-City-Leeds-United-March-9-2019-Championship,Bristol City,Leeds United,1552143600,Lee Johnson,Marcelo Bielsa,"Ashton Gate Stadium, Bristol",24832
+https://fbref.com/en/matches/bb1982dc/Bolton-Wanderers-Millwall-March-9-2019-Championship,Bolton Wanderers,Millwall,1552143600,Phil Parkinson,Neil Harris,"Macron Stadium, Bolton",13035
+https://fbref.com/en/matches/e7227bce/West-Bromwich-Albion-Ipswich-Town-March-9-2019-Championship,West Bromwich Albion,Ipswich Town,1552143600,Darren Moore,Paul Lambert,"The Hawthorns, West Bromwich",23973
+https://fbref.com/en/matches/2119bcc5/Birmingham-City-Aston-Villa-March-10-2019-Championship,Birmingham City,Aston Villa,1552219200,Garry Monk,Dean Smith,"St Andrew's Trillion Trophy Stadium, Birmingham",26631
+https://fbref.com/en/matches/488c9ff3/Blackburn-Rovers-Wigan-Athletic-March-12-2019-Championship,Blackburn Rovers,Wigan Athletic,1552419900,Tony Mowbray,Paul Cook,"Ewood Park, Blackburn",12763
+https://fbref.com/en/matches/92f4e783/Sheffield-United-Brentford-March-12-2019-Championship,Sheffield United,Brentford,1552419900,Chris Wilder,Thomas Frank,"Bramall Lane, Sheffield, Yorkshire",24463
+https://fbref.com/en/matches/cf9f1f29/Bristol-City-Ipswich-Town-March-12-2019-Championship,Bristol City,Ipswich Town,1552419900,Lee Johnson,Paul Lambert,"Ashton Gate Stadium, Bristol",18411
+https://fbref.com/en/matches/7e848ce5/Bolton-Wanderers-Sheffield-Wednesday-March-12-2019-Championship,Bolton Wanderers,Sheffield Wednesday,1552420800,Phil Parkinson,Steve Bruce,"Macron Stadium, Bolton",13624
+https://fbref.com/en/matches/cbfef559/Reading-Leeds-United-March-12-2019-Championship,Reading,Leeds United,1552420800,José Manuel Gomes,Marcelo Bielsa,"Madejski Stadium, Reading",17101
+https://fbref.com/en/matches/25cbd52b/Birmingham-City-Millwall-March-13-2019-Championship,Birmingham City,Millwall,1552506300,Garry Monk,Neil Harris,"St Andrew's Trillion Trophy Stadium, Birmingham",20151
+https://fbref.com/en/matches/67f06fb2/Middlesbrough-Preston-North-End-March-13-2019-Championship,Middlesbrough,Preston North End,1552506300,Tony Pulis,Alex Neil,"Riverside Stadium, Middlesbrough",21088
+https://fbref.com/en/matches/6d29992a/Derby-County-Stoke-City-March-13-2019-Championship,Derby County,Stoke City,1552506300,Frank Lampard,Nathan Jones,"iPro Stadium, Derby",25685
+https://fbref.com/en/matches/96d850f1/Norwich-City-Hull-City-March-13-2019-Championship,Norwich City,Hull City,1552506300,Daniel Farke,Nigel Adkins,"Carrow Road, Norwich",25879
+https://fbref.com/en/matches/9f52c140/Nottingham-Forest-Aston-Villa-March-13-2019-Championship,Nottingham Forest,Aston Villa,1552506300,Martin O'Neill,Dean Smith,"The City Ground, Nottingham",29224
+https://fbref.com/en/matches/d179ff03/Queens-Park-Rangers-Rotherham-United-March-13-2019-Championship,Queens Park Rangers,Rotherham United,1552506300,Steve McClaren,Paul Warne,"Loftus Road Stadium, London",10854
+https://fbref.com/en/matches/9d7497bd/West-Bromwich-Albion-Swansea-City-March-13-2019-Championship,West Bromwich Albion,Swansea City,1552507200,James Shan,Graham Potter,"The Hawthorns, West Bromwich",20282
+https://fbref.com/en/matches/f655ea55/Leeds-United-Sheffield-United-March-16-2019-Championship,Leeds United,Sheffield United,1552739400,Marcelo Bielsa,Chris Wilder,"Elland Road, Leeds",37004
+https://fbref.com/en/matches/10f19453/Brentford-West-Bromwich-Albion-March-16-2019-Championship,Brentford,West Bromwich Albion,1552748400,Thomas Frank,James Shan,"Griffin Park, Brentford",11488
+https://fbref.com/en/matches/1fafef17/Aston-Villa-Middlesbrough-March-16-2019-Championship,Aston Villa,Middlesbrough,1552748400,Dean Smith,Tony Pulis,"Villa Park, Birmingham",36263
+https://fbref.com/en/matches/50f0833c/Sheffield-Wednesday-Blackburn-Rovers-March-16-2019-Championship,Sheffield Wednesday,Blackburn Rovers,1552748400,Steve Bruce,Tony Mowbray,"Hillsborough Stadium, Sheffield, Yorkshire",24608
+https://fbref.com/en/matches/5ff81f5b/Preston-North-End-Birmingham-City-March-16-2019-Championship,Preston North End,Birmingham City,1552748400,Alex Neil,Garry Monk,"Deepdale Stadium, Preston",17509
+https://fbref.com/en/matches/7dcf7b37/Wigan-Athletic-Bolton-Wanderers-March-16-2019-Championship,Wigan Athletic,Bolton Wanderers,1552748400,Paul Cook,Phil Parkinson,"The DW Stadium, Wigan",13664
+https://fbref.com/en/matches/bc7e8cde/Stoke-City-Reading-March-16-2019-Championship,Stoke City,Reading,1552748400,Nathan Jones,José Manuel Gomes,"Bet365 Stadium, Stoke-on-Trent",24368
+https://fbref.com/en/matches/e83b7230/Hull-City-Queens-Park-Rangers-March-16-2019-Championship,Hull City,Queens Park Rangers,1552748400,Nigel Adkins,Steve McClaren,"Kingston Communications Stadium, Hull",11227
+https://fbref.com/en/matches/efd56ae4/Rotherham-United-Norwich-City-March-16-2019-Championship,Rotherham United,Norwich City,1552748400,Paul Warne,Daniel Farke,"New York Stadium, Rotherham",11026
+https://fbref.com/en/matches/f6ffdb2f/Ipswich-Town-Nottingham-Forest-March-16-2019-Championship,Ipswich Town,Nottingham Forest,1552748400,Paul Lambert,Martin O'Neill,"Portman Road Stadium, Ipswich",16709
+https://fbref.com/en/matches/6eab6b5e/West-Bromwich-Albion-Birmingham-City-March-29-2019-Championship,West Bromwich Albion,Birmingham City,1553889600,James Shan,Garry Monk,"The Hawthorns, West Bromwich",24789
+https://fbref.com/en/matches/43dba411/Aston-Villa-Blackburn-Rovers-March-30-2019-Championship,Aston Villa,Blackburn Rovers,1553958000,Dean Smith,Tony Mowbray,"Villa Park, Birmingham",39687
+https://fbref.com/en/matches/47343c52/Nottingham-Forest-Swansea-City-March-30-2019-Championship,Nottingham Forest,Swansea City,1553958000,Martin O'Neill,Graham Potter,"The City Ground, Nottingham",28469
+https://fbref.com/en/matches/4bc008d7/Wigan-Athletic-Brentford-March-30-2019-Championship,Wigan Athletic,Brentford,1553958000,Paul Cook,Thomas Frank,"The DW Stadium, Wigan",9953
+https://fbref.com/en/matches/4c946e81/Reading-Preston-North-End-March-30-2019-Championship,Reading,Preston North End,1553958000,José Manuel Gomes,Alex Neil,"Madejski Stadium, Reading",16771
+https://fbref.com/en/matches/4fa39c2b/Derby-County-Rotherham-United-March-30-2019-Championship,Derby County,Rotherham United,1553958000,Frank Lampard,Paul Warne,"iPro Stadium, Derby",27003
+https://fbref.com/en/matches/a3ff0c55/Queens-Park-Rangers-Bolton-Wanderers-March-30-2019-Championship,Queens Park Rangers,Bolton Wanderers,1553958000,Steve McClaren,Phil Parkinson,"Loftus Road Stadium, London",13603
+https://fbref.com/en/matches/a68fadb4/Leeds-United-Millwall-March-30-2019-Championship,Leeds United,Millwall,1553958000,Marcelo Bielsa,Neil Harris,"Elland Road, Leeds",34910
+https://fbref.com/en/matches/dc955b7e/Stoke-City-Sheffield-Wednesday-March-30-2019-Championship,Stoke City,Sheffield Wednesday,1553958000,Nathan Jones,Steve Bruce,"Bet365 Stadium, Stoke-on-Trent",26398
+https://fbref.com/en/matches/f52df0c9/Sheffield-United-Bristol-City-March-30-2019-Championship,Sheffield United,Bristol City,1553958000,Chris Wilder,Lee Johnson,"Bramall Lane, Sheffield, Yorkshire",30030
+https://fbref.com/en/matches/f6b9547c/Ipswich-Town-Hull-City-March-30-2019-Championship,Ipswich Town,Hull City,1553958000,Paul Lambert,Nigel Adkins,"Portman Road Stadium, Ipswich",15720
+https://fbref.com/en/matches/6324ef16/Middlesbrough-Norwich-City-March-30-2019-Championship,Middlesbrough,Norwich City,1553967000,Tony Pulis,Daniel Farke,"Riverside Stadium, Middlesbrough",23795
+https://fbref.com/en/matches/d258651c/Middlesbrough-Bristol-City-April-2-2019-Championship,Middlesbrough,Bristol City,1554230700,Tony Pulis,Lee Johnson,"Riverside Stadium, Middlesbrough",21016
+https://fbref.com/en/matches/430c9186/Swansea-City-Brentford-April-2-2019-Championship,Swansea City,Brentford,1554230700,Graham Potter,Thomas Frank,"Liberty Stadium, Swansea, Glamorgan",17197
+https://fbref.com/en/matches/61b0dcf8/Norwich-City-Queens-Park-Rangers-April-6-2019-Championship,Norwich City,Queens Park Rangers,1554550200,Daniel Farke,John Eustace,"Carrow Road, Norwich",26796
+https://fbref.com/en/matches/13625e7c/Preston-North-End-Sheffield-United-April-6-2019-Championship,Preston North End,Sheffield United,1554559200,Alex Neil,Chris Wilder,"Deepdale Stadium, Preston",18339
+https://fbref.com/en/matches/3c1dbcc6/Blackburn-Rovers-Stoke-City-April-6-2019-Championship,Blackburn Rovers,Stoke City,1554559200,Tony Mowbray,Nathan Jones,"Ewood Park, Blackburn",17478
+https://fbref.com/en/matches/3f4eed3a/Bristol-City-Wigan-Athletic-April-6-2019-Championship,Bristol City,Wigan Athletic,1554559200,Lee Johnson,Paul Cook,"Ashton Gate Stadium, Bristol",20931
+https://fbref.com/en/matches/5ebc0d00/Sheffield-Wednesday-Aston-Villa-April-6-2019-Championship,Sheffield Wednesday,Aston Villa,1554559200,Steve Bruce,Dean Smith,"Hillsborough Stadium, Sheffield, Yorkshire",29458
+https://fbref.com/en/matches/813c9e02/Bolton-Wanderers-Ipswich-Town-April-6-2019-Championship,Bolton Wanderers,Ipswich Town,1554559200,Phil Parkinson,Paul Lambert,"Macron Stadium, Bolton",17811
+https://fbref.com/en/matches/a483a7c0/Rotherham-United-Nottingham-Forest-April-6-2019-Championship,Rotherham United,Nottingham Forest,1554559200,Paul Warne,Martin O'Neill,"New York Stadium, Rotherham",11012
+https://fbref.com/en/matches/bd9911a1/Hull-City-Reading-April-6-2019-Championship,Hull City,Reading,1554559200,Nigel Adkins,José Manuel Gomes,"Kingston Communications Stadium, Hull",11268
+https://fbref.com/en/matches/c122d8c4/Birmingham-City-Leeds-United-April-6-2019-Championship,Birmingham City,Leeds United,1554559200,Garry Monk,Marcelo Bielsa,"St Andrew's Trillion Trophy Stadium, Birmingham",24197
+https://fbref.com/en/matches/e435ce79/Millwall-West-Bromwich-Albion-April-6-2019-Championship,Millwall,West Bromwich Albion,1554559200,Neil Harris,James Shan,"The Den, London",15303
+https://fbref.com/en/matches/f02c76a7/Brentford-Derby-County-April-6-2019-Championship,Brentford,Derby County,1554559200,Thomas Frank,Frank Lampard,"Griffin Park, Brentford",12225
+https://fbref.com/en/matches/f0683aa3/Swansea-City-Middlesbrough-April-6-2019-Championship,Swansea City,Middlesbrough,1554559200,Graham Potter,Tony Pulis,"Liberty Stadium, Swansea, Glamorgan",18171
+https://fbref.com/en/matches/464102d7/Preston-North-End-Leeds-United-April-9-2019-Championship,Preston North End,Leeds United,1554835500,Alex Neil,Marcelo Bielsa,"Deepdale Stadium, Preston",18019
+https://fbref.com/en/matches/964a4e30/Blackburn-Rovers-Derby-County-April-9-2019-Championship,Blackburn Rovers,Derby County,1554835500,Tony Mowbray,Frank Lampard,"Ewood Park, Blackburn",12590
+https://fbref.com/en/matches/b209c488/Bristol-City-West-Bromwich-Albion-April-9-2019-Championship,Bristol City,West Bromwich Albion,1554835500,Lee Johnson,James Shan,"Ashton Gate Stadium, Bristol",20581
+https://fbref.com/en/matches/c12668da/Swansea-City-Stoke-City-April-9-2019-Championship,Swansea City,Stoke City,1554835500,Graham Potter,Nathan Jones,"Liberty Stadium, Swansea, Glamorgan",17804
+https://fbref.com/en/matches/e28068f7/Sheffield-Wednesday-Nottingham-Forest-April-9-2019-Championship,Sheffield Wednesday,Nottingham Forest,1554835500,Steve Bruce,Martin O'Neill,"Hillsborough Stadium, Sheffield, Yorkshire",23931
+https://fbref.com/en/matches/25f1337b/Bolton-Wanderers-Middlesbrough-April-9-2019-Championship,Bolton Wanderers,Middlesbrough,1554836400,Phil Parkinson,Tony Pulis,"Macron Stadium, Bolton",12259
+https://fbref.com/en/matches/4b2dcbe3/Hull-City-Wigan-Athletic-April-10-2019-Championship,Hull City,Wigan Athletic,1554921900,Nigel Adkins,Paul Cook,"Kingston Communications Stadium, Hull",10827
+https://fbref.com/en/matches/5d357141/Norwich-City-Reading-April-10-2019-Championship,Norwich City,Reading,1554921900,Daniel Farke,José Manuel Gomes,"Carrow Road, Norwich",26662
+https://fbref.com/en/matches/67c9b0bc/Rotherham-United-Aston-Villa-April-10-2019-Championship,Rotherham United,Aston Villa,1554921900,Paul Warne,Dean Smith,"New York Stadium, Rotherham",10558
+https://fbref.com/en/matches/852edc87/Millwall-Queens-Park-Rangers-April-10-2019-Championship,Millwall,Queens Park Rangers,1554921900,Neil Harris,John Eustace,"The Den, London",13132
+https://fbref.com/en/matches/c4926830/Brentford-Ipswich-Town-April-10-2019-Championship,Brentford,Ipswich Town,1554921900,Thomas Frank,Paul Lambert,"Griffin Park, Brentford",10039
+https://fbref.com/en/matches/c85d7f14/Birmingham-City-Sheffield-United-April-10-2019-Championship,Birmingham City,Sheffield United,1554921900,Garry Monk,Chris Wilder,"St Andrew's Trillion Trophy Stadium, Birmingham",22351
+https://fbref.com/en/matches/044e2c68/Sheffield-United-Millwall-April-13-2019-Championship,Sheffield United,Millwall,1555164000,Chris Wilder,Neil Harris,"Bramall Lane, Sheffield, Yorkshire",26703
+https://fbref.com/en/matches/2c0367d7/Middlesbrough-Hull-City-April-13-2019-Championship,Middlesbrough,Hull City,1555164000,Tony Pulis,Nigel Adkins,"Riverside Stadium, Middlesbrough",22427
+https://fbref.com/en/matches/5631ede5/Derby-County-Bolton-Wanderers-April-13-2019-Championship,Derby County,Bolton Wanderers,1555164000,Frank Lampard,Phil Parkinson,"iPro Stadium, Derby",26602
+https://fbref.com/en/matches/810826f7/Ipswich-Town-Birmingham-City-April-13-2019-Championship,Ipswich Town,Birmingham City,1555164000,Paul Lambert,Garry Monk,"Portman Road Stadium, Ipswich",17248
+https://fbref.com/en/matches/8c32f8e3/Nottingham-Forest-Blackburn-Rovers-April-13-2019-Championship,Nottingham Forest,Blackburn Rovers,1555164000,Martin O'Neill,Tony Mowbray,"The City Ground, Nottingham",27786
+https://fbref.com/en/matches/ab26ec7a/Stoke-City-Rotherham-United-April-13-2019-Championship,Stoke City,Rotherham United,1555164000,Nathan Jones,Paul Warne,"Bet365 Stadium, Stoke-on-Trent",24250
+https://fbref.com/en/matches/b2fc6606/Reading-Brentford-April-13-2019-Championship,Reading,Brentford,1555164000,José Manuel Gomes,Thomas Frank,"Madejski Stadium, Reading",16892
+https://fbref.com/en/matches/bf30bc7a/Aston-Villa-Bristol-City-April-13-2019-Championship,Aston Villa,Bristol City,1555164000,Dean Smith,Lee Johnson,"Villa Park, Birmingham",41418
+https://fbref.com/en/matches/c31b974b/West-Bromwich-Albion-Preston-North-End-April-13-2019-Championship,West Bromwich Albion,Preston North End,1555164000,James Shan,Alex Neil,"The Hawthorns, West Bromwich",25088
+https://fbref.com/en/matches/dc733525/Queens-Park-Rangers-Swansea-City-April-13-2019-Championship,Queens Park Rangers,Swansea City,1555164000,John Eustace,Graham Potter,"Loftus Road Stadium, London",13872
+https://fbref.com/en/matches/acc3b236/Leeds-United-Sheffield-Wednesday-April-13-2019-Championship,Leeds United,Sheffield Wednesday,1555173000,Marcelo Bielsa,Steve Bruce,"Elland Road, Leeds",36461
+https://fbref.com/en/matches/fb27b729/Wigan-Athletic-Norwich-City-April-14-2019-Championship,Wigan Athletic,Norwich City,1555239600,Paul Cook,Daniel Farke,"The DW Stadium, Wigan",15655
+https://fbref.com/en/matches/e834b817/Bristol-City-Reading-April-19-2019-Championship,Bristol City,Reading,1555671600,Lee Johnson,José Manuel Gomes,"Ashton Gate Stadium, Bristol",23309
+https://fbref.com/en/matches/c5aaf8e9/Sheffield-United-Nottingham-Forest-April-19-2019-Championship,Sheffield United,Nottingham Forest,1555673400,Chris Wilder,Martin O'Neill,"Bramall Lane, Sheffield, Yorkshire",28403
+https://fbref.com/en/matches/09f9645f/Millwall-Brentford-April-19-2019-Championship,Millwall,Brentford,1555675200,Neil Harris,Thomas Frank,"The Den, London",14530
+https://fbref.com/en/matches/319ff2ad/Middlesbrough-Stoke-City-April-19-2019-Championship,Middlesbrough,Stoke City,1555682400,Tony Pulis,Nathan Jones,"Riverside Stadium, Middlesbrough",22890
+https://fbref.com/en/matches/3da00674/Swansea-City-Rotherham-United-April-19-2019-Championship,Swansea City,Rotherham United,1555682400,Graham Potter,Paul Warne,"Liberty Stadium, Swansea, Glamorgan",18527
+https://fbref.com/en/matches/50c07619/Birmingham-City-Derby-County-April-19-2019-Championship,Birmingham City,Derby County,1555682400,Garry Monk,Frank Lampard,"St Andrew's Trillion Trophy Stadium, Birmingham",23902
+https://fbref.com/en/matches/a519ff17/Leeds-United-Wigan-Athletic-April-19-2019-Championship,Leeds United,Wigan Athletic,1555682400,Marcelo Bielsa,Paul Cook,"Elland Road, Leeds",34758
+https://fbref.com/en/matches/bf024392/West-Bromwich-Albion-Hull-City-April-19-2019-Championship,West Bromwich Albion,Hull City,1555682400,James Shan,Nigel Adkins,"The Hawthorns, West Bromwich",23501
+https://fbref.com/en/matches/bfe4a1c3/Bolton-Wanderers-Aston-Villa-April-19-2019-Championship,Bolton Wanderers,Aston Villa,1555682400,Phil Parkinson,Dean Smith,"Macron Stadium, Bolton",17344
+https://fbref.com/en/matches/c28aca7f/Preston-North-End-Ipswich-Town-April-19-2019-Championship,Preston North End,Ipswich Town,1555682400,Alex Neil,Paul Lambert,"Deepdale Stadium, Preston",12546
+https://fbref.com/en/matches/c4333d53/Queens-Park-Rangers-Blackburn-Rovers-April-19-2019-Championship,Queens Park Rangers,Blackburn Rovers,1555682400,John Eustace,Tony Mowbray,"Loftus Road Stadium, London",13632
+https://fbref.com/en/matches/afa52d64/Norwich-City-Sheffield-Wednesday-April-19-2019-Championship,Norwich City,Sheffield Wednesday,1555699500,Daniel Farke,Steve Bruce,"Carrow Road, Norwich",26744
+https://fbref.com/en/matches/26577f8e/Aston-Villa-Millwall-April-22-2019-Championship,Aston Villa,Millwall,1555934400,Dean Smith,Neil Harris,"Villa Park, Birmingham",39839
+https://fbref.com/en/matches/138f41c4/Reading-West-Bromwich-Albion-April-22-2019-Championship,Reading,West Bromwich Albion,1555941600,José Manuel Gomes,James Shan,"Madejski Stadium, Reading",17255
+https://fbref.com/en/matches/1e62115c/Nottingham-Forest-Middlesbrough-April-22-2019-Championship,Nottingham Forest,Middlesbrough,1555941600,Martin O'Neill,Tony Pulis,"The City Ground, Nottingham",27653
+https://fbref.com/en/matches/2bf6681c/Rotherham-United-Birmingham-City-April-22-2019-Championship,Rotherham United,Birmingham City,1555941600,Paul Warne,Garry Monk,"New York Stadium, Rotherham",10703
+https://fbref.com/en/matches/35eec4bf/Sheffield-Wednesday-Bristol-City-April-22-2019-Championship,Sheffield Wednesday,Bristol City,1555941600,Steve Bruce,Lee Johnson,"Hillsborough Stadium, Sheffield, Yorkshire",23998
+https://fbref.com/en/matches/700bfd02/Derby-County-Queens-Park-Rangers-April-22-2019-Championship,Derby County,Queens Park Rangers,1555941600,Frank Lampard,John Eustace,"iPro Stadium, Derby",25986
+https://fbref.com/en/matches/7566685c/Ipswich-Town-Swansea-City-April-22-2019-Championship,Ipswich Town,Swansea City,1555941600,Paul Lambert,Graham Potter,"Portman Road Stadium, Ipswich",17247
+https://fbref.com/en/matches/7f515ca9/Stoke-City-Norwich-City-April-22-2019-Championship,Stoke City,Norwich City,1555941600,Nathan Jones,Daniel Farke,"Bet365 Stadium, Stoke-on-Trent",25487
+https://fbref.com/en/matches/9801d1e6/Blackburn-Rovers-Bolton-Wanderers-April-22-2019-Championship,Blackburn Rovers,Bolton Wanderers,1555941600,Tony Mowbray,Phil Parkinson,"Ewood Park, Blackburn",14495
+https://fbref.com/en/matches/a8bafb4a/Wigan-Athletic-Preston-North-End-April-22-2019-Championship,Wigan Athletic,Preston North End,1555941600,Paul Cook,Alex Neil,"The DW Stadium, Wigan",12496
+https://fbref.com/en/matches/fca22f67/Hull-City-Sheffield-United-April-22-2019-Championship,Hull City,Sheffield United,1555941600,Nigel Adkins,Chris Wilder,"Kingston Communications Stadium, Hull",14116
+https://fbref.com/en/matches/96c08f86/Brentford-Leeds-United-April-22-2019-Championship,Brentford,Leeds United,1555949700,Thomas Frank,Marcelo Bielsa,"Griffin Park, Brentford",11580
+https://fbref.com/en/matches/4f9ab4f2/Millwall-Stoke-City-April-27-2019-Championship,Millwall,Stoke City,1556368200,Neil Harris,Nathan Jones,"The Den, London",14472
+https://fbref.com/en/matches/0304da36/Birmingham-City-Wigan-Athletic-April-27-2019-Championship,Birmingham City,Wigan Athletic,1556373600,Garry Monk,Paul Cook,"St Andrew's Trillion Trophy Stadium, Birmingham",23645
+https://fbref.com/en/matches/13a2d525/Bristol-City-Derby-County-April-27-2019-Championship,Bristol City,Derby County,1556373600,Lee Johnson,Frank Lampard,"Ashton Gate Stadium, Bristol",25556
+https://fbref.com/en/matches/624146b1/Middlesbrough-Reading-April-27-2019-Championship,Middlesbrough,Reading,1556373600,Tony Pulis,José Manuel Gomes,"Riverside Stadium, Middlesbrough",22003
+https://fbref.com/en/matches/8c419c5a/Queens-Park-Rangers-Nottingham-Forest-April-27-2019-Championship,Queens Park Rangers,Nottingham Forest,1556373600,John Eustace,Martin O'Neill,"Loftus Road Stadium, London",15212
+https://fbref.com/en/matches/a156f89a/West-Bromwich-Albion-Rotherham-United-April-27-2019-Championship,West Bromwich Albion,Rotherham United,1556373600,James Shan,Paul Warne,"The Hawthorns, West Bromwich",24534
+https://fbref.com/en/matches/a8f460c9/Swansea-City-Hull-City-April-27-2019-Championship,Swansea City,Hull City,1556373600,Graham Potter,Nigel Adkins,"Liberty Stadium, Swansea, Glamorgan",18192
+https://fbref.com/en/matches/b94f1cff/Preston-North-End-Sheffield-Wednesday-April-27-2019-Championship,Preston North End,Sheffield Wednesday,1556373600,Alex Neil,Steve Bruce,"Deepdale Stadium, Preston",15873
+https://fbref.com/en/matches/53ba90aa/Sheffield-United-Ipswich-Town-April-27-2019-Championship,Sheffield United,Ipswich Town,1556381700,Chris Wilder,Paul Lambert,"Bramall Lane, Sheffield, Yorkshire",30140
+https://fbref.com/en/matches/69be1d2b/Norwich-City-Blackburn-Rovers-April-27-2019-Championship,Norwich City,Blackburn Rovers,1556389800,Daniel Farke,Tony Mowbray,"Carrow Road, Norwich",26848
+https://fbref.com/en/matches/6d510356/Leeds-United-Aston-Villa-April-28-2019-Championship,Leeds United,Aston Villa,1556449200,Marcelo Bielsa,Dean Smith,"Elland Road, Leeds",36786
+https://fbref.com/en/matches/a27410bb/Millwall-Bristol-City-April-30-2019-Championship,Millwall,Bristol City,1556649900,Neil Harris,Lee Johnson,"The Den, London",12261
+https://fbref.com/en/matches/e0fcf021/Swansea-City-Derby-County-May-1-2019-Championship,Swansea City,Derby County,1556736300,Graham Potter,Frank Lampard,"Liberty Stadium, Swansea, Glamorgan",18434
+https://fbref.com/en/matches/16f3e7c5/Sheffield-Wednesday-Queens-Park-Rangers-May-5-2019-Championship,Sheffield Wednesday,Queens Park Rangers,1557055800,Steve Bruce,John Eustace,"Hillsborough Stadium, Sheffield, Yorkshire",26111
+https://fbref.com/en/matches/1ae5e5b3/Nottingham-Forest-Bolton-Wanderers-May-5-2019-Championship,Nottingham Forest,Bolton Wanderers,1557055800,Martin O'Neill,Phil Parkinson,"The City Ground, Nottingham",27578
+https://fbref.com/en/matches/270fec93/Wigan-Athletic-Millwall-May-5-2019-Championship,Wigan Athletic,Millwall,1557055800,Paul Cook,Neil Harris,"The DW Stadium, Wigan",10859
+https://fbref.com/en/matches/34274878/Derby-County-West-Bromwich-Albion-May-5-2019-Championship,Derby County,West Bromwich Albion,1557055800,Frank Lampard,James Shan,"iPro Stadium, Derby",32055
+https://fbref.com/en/matches/426ea518/Ipswich-Town-Leeds-United-May-5-2019-Championship,Ipswich Town,Leeds United,1557055800,Paul Lambert,Marcelo Bielsa,"Portman Road Stadium, Ipswich",20895
+https://fbref.com/en/matches/68cdacdb/Reading-Birmingham-City-May-5-2019-Championship,Reading,Birmingham City,1557055800,José Manuel Gomes,Garry Monk,"Madejski Stadium, Reading",17247
+https://fbref.com/en/matches/9071cafc/Brentford-Preston-North-End-May-5-2019-Championship,Brentford,Preston North End,1557055800,Thomas Frank,Alex Neil,"Griffin Park, Brentford",11289
+https://fbref.com/en/matches/b09f381a/Aston-Villa-Norwich-City-May-5-2019-Championship,Aston Villa,Norwich City,1557055800,Dean Smith,Daniel Farke,"Villa Park, Birmingham",41696
+https://fbref.com/en/matches/c5e0f8e2/Hull-City-Bristol-City-May-5-2019-Championship,Hull City,Bristol City,1557055800,Nigel Adkins,Lee Johnson,"Kingston Communications Stadium, Hull",12165
+https://fbref.com/en/matches/c7f396d7/Stoke-City-Sheffield-United-May-5-2019-Championship,Stoke City,Sheffield United,1557055800,Nathan Jones,Chris Wilder,"Bet365 Stadium, Stoke-on-Trent",26665
+https://fbref.com/en/matches/e7ad2fb4/Rotherham-United-Middlesbrough-May-5-2019-Championship,Rotherham United,Middlesbrough,1557055800,Paul Warne,Tony Pulis,"New York Stadium, Rotherham",11051
+https://fbref.com/en/matches/fb047e4e/Blackburn-Rovers-Swansea-City-May-5-2019-Championship,Blackburn Rovers,Swansea City,1557055800,Tony Mowbray,Graham Potter,"Ewood Park, Blackburn",16227
+https://fbref.com/en/matches/c0aae848/Aston-Villa-West-Bromwich-Albion-May-11-2019-Championship,Aston Villa,West Bromwich Albion,1557574200,Dean Smith,James Shan,"Villa Park, Birmingham",40754
+https://fbref.com/en/matches/e5872a90/Derby-County-Leeds-United-May-11-2019-Championship,Derby County,Leeds United,1557591300,Frank Lampard,Marcelo Bielsa,"iPro Stadium, Derby",31723
+https://fbref.com/en/matches/c87b8cba/West-Bromwich-Albion-Aston-Villa-May-14-2019-Championship,West Bromwich Albion,Aston Villa,1557860400,James Shan,Dean Smith,"The Hawthorns, West Bromwich",25702
+https://fbref.com/en/matches/7178f01e/Leeds-United-Derby-County-May-15-2019-Championship,Leeds United,Derby County,1557945900,Marcelo Bielsa,Frank Lampard,"Elland Road, Leeds",36326
+https://fbref.com/en/matches/c29027e4/Aston-Villa-Derby-County-May-27-2019-Championship,Aston Villa,Derby County,1558965600,Dean Smith,Frank Lampard,"Wembley Stadium, London",85826

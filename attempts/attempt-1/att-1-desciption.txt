@@ -1,0 +1,16 @@
+home advantage coef - season level
+player coef
+opposition team coef
+position coef - player level
+championship coef
+
+downweight samples - frac_90
+
+min Delta = ln(0.01) - position
+
+Priors
+------
+Generic priors per position at start of sample
+Missing players - prior being player who usually plays for that team in that position
+Transferred players - weighted average of prev player and that player
+Championship teams - prior that they are a bad team

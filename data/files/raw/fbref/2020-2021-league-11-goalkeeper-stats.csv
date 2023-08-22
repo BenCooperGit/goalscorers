@@ -1,0 +1,772 @@
+home_team,away_team,datetime,nationality,age,minutes,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct,gk_psxg,gk_passes_completed_launched,gk_passes_launched,gk_passes_pct_launched,gk_passes,gk_passes_throws,gk_pct_passes_launched,gk_passes_length_avg,gk_goal_kicks,gk_pct_goal_kicks_launched,gk_goal_kick_length_avg,gk_crosses,gk_crosses_stopped,gk_crosses_stopped_pct,gk_def_actions_outside_pen_area,gk_avg_distance_def_actions,player_id,player,squad,start
+Fiorentina,Torino,1600531200,pl POL,23-031,90,3,0,3,100.0,0.7,1,5,20.0,21,7,19.0,32.3,3,33.3,34.7,5,0,0.0,0,10.5,085e71a7,Bartłomiej Drągowski,Fiorentina,True
+Parma,Napoli,1600597800,it ITA,29-135,90,6,2,4,66.7,1.7,10,12,83.3,26,4,38.5,32.4,12,16.7,21.4,11,2,18.2,0,5.4,343f753a,Luigi Sepe,Parma,True
+Genoa,Crotone,1600606800,it ITA,27-315,90,3,1,2,66.7,1.2,5,17,29.4,30,3,43.3,35.8,7,57.1,47.0,13,0,0.0,0,4.0,4c62d0c8,Mattia Perin,Genoa,True
+Sassuolo,Cagliari,1600617600,it ITA,33-237,90,4,1,3,75.0,1.3,1,2,50.0,20,4,5.0,19.8,5,20.0,26.2,7,0,0.0,0,,8cabdc1e,Andrea Consigli,Sassuolo,True
+Juventus,Sampdoria,1600627500,pl POL,30-155,90,1,0,1,100.0,0.0,4,6,66.7,39,4,15.4,27.8,8,0.0,18.1,16,0,0.0,1,17.0,01b8a2b2,Wojciech Szczęsny,Juventus,True
+Milan,Bologna,1600713900,it ITA,21-209,90,4,0,4,100.0,1.0,4,8,50.0,32,4,21.9,27.2,2,50.0,36.5,11,1,9.1,1,18.3,08f5afaa,Gianluigi Donnarumma,Milan,True
+Torino,Atalanta,1601125200,it ITA,33-258,90,7,4,3,42.9,2.1,2,15,13.3,39,5,33.3,32.2,10,20.0,29.0,25,0,0.0,3,19.2,10dc46f0,Salvatore Sirigu,Torino,True
+Sampdoria,Benevento,1601136000,it ITA,23-252,90,5,3,2,40.0,1.2,5,17,29.4,22,4,40.9,35.9,10,80.0,54.1,15,0,0.0,1,16.0,649b01d8,Emil Audero,Sampdoria,True
+Cagliari,Lazio,1601136000,it ITA,26-090,90,6,2,4,66.7,2.7,2,2,100.0,22,7,9.1,21.1,5,0.0,18.2,14,2,14.3,2,17.0,f554e29b,Alessio Cragno,Cagliari,True
+Internazionale,Fiorentina,1601145900,si SVN,36-074,90,4,3,1,25.0,2.6,3,3,100.0,22,1,9.1,21.8,4,25.0,24.8,5,0,0.0,0,16.0,74419746,Samir Handanović,Internazionale,True
+Spezia,Sassuolo,1601202600,nl NED,29-265,90,6,4,2,50.0,1.6,4,10,40.0,26,9,34.6,32.8,5,20.0,22.8,14,0,0.0,0,4.0,cc1a0c57,Jeroen Zoet,Spezia,True
+Hellas Verona,Udinese,1601211600,it ITA,29-209,90,5,0,5,100.0,0.5,11,25,44.0,21,1,61.9,40.2,12,100.0,61.5,24,0,0.0,0,10.6,0d422df7,Marco Silvestri,Hellas Verona,True
+Crotone,Milan,1601222400,it ITA,37-270,90,6,2,4,83.3,2.7,4,12,33.3,28,5,35.7,32.8,8,25.0,28.8,8,0,0.0,4,23.8,e66ebabb,Alex Cordaz,Crotone,True
+Napoli,Genoa,1601222400,it ITA,23-189,90,0,0,0,,0.0,0,1,0.0,23,2,4.3,25.0,3,0.0,16.3,9,0,0.0,0,10.5,9413b19f,Alex Meret,Napoli,True
+Roma,Juventus,1601232300,it ITA,37-081,90,3,2,1,66.7,1.9,6,10,60.0,22,3,36.4,35.4,5,40.0,40.2,14,0,0.0,0,,30223b33,Antonio Mirante,Roma,True
+Bologna,Parma,1601318700,pl POL,29-146,90,3,1,2,66.7,1.1,4,9,44.4,33,4,27.3,31.3,7,0.0,18.4,14,0,0.0,1,12.7,ab4449d6,Łukasz Skorupski,Bologna,True
+Benevento,Internazionale,1601481600,it ITA,24-223,90,8,5,3,37.5,3.4,8,17,47.1,31,5,41.9,38.4,8,50.0,35.4,7,0,0.0,0,10.0,c1d95617,Lorenzo Montipò,Benevento,True
+Udinese,Spezia,1601481600,ar ARG,26-147,90,2,2,0,0.0,1.0,0,4,0.0,20,1,20.0,26.2,4,0.0,13.5,4,0,0.0,0,,a111cf41,Juan Musso,Udinese,True
+Lazio,Atalanta,1601491500,al ALB,25-195,90,6,4,2,33.3,3.1,3,10,30.0,53,5,18.9,23.7,3,0.0,13.7,9,0,0.0,0,16.5,339fe0e8,Thomas Strakosha,Lazio,True
+Fiorentina,Sampdoria,1601664300,pl POL,23-044,90,8,2,6,87.5,1.8,3,6,50.0,26,9,23.1,30.3,6,0.0,22.3,9,0,0.0,2,23.0,085e71a7,Bartłomiej Drągowski,Fiorentina,True
+Sassuolo,Crotone,1601730000,it ITA,33-250,90,6,1,5,100.0,2.1,5,26,19.2,43,8,51.2,37.5,5,80.0,54.0,9,0,0.0,1,20.5,8cabdc1e,Andrea Consigli,Sassuolo,True
+Udinese,Roma,1601750700,ar ARG,26-150,90,3,1,2,66.7,0.6,3,15,20.0,31,7,38.7,33.5,7,42.9,28.0,13,0,0.0,1,32.0,a111cf41,Juan Musso,Udinese,True
+Atalanta,Cagliari,1601807400,it ITA,28-147,90,3,2,1,33.3,1.4,2,4,50.0,21,4,14.3,27.8,9,11.1,20.3,15,0,0.0,1,20.0,ac4003af,Marco Sportiello,Atalanta,True
+Benevento,Bologna,1601816400,it ITA,24-227,90,7,0,7,100.0,1.8,6,23,26.1,24,4,54.2,37.9,10,100.0,63.6,17,0,0.0,0,12.5,c1d95617,Lorenzo Montipò,Benevento,True
+Parma,Hellas Verona,1601816400,it ITA,29-149,90,2,0,2,100.0,0.3,12,28,42.9,32,2,68.8,43.9,8,75.0,46.5,21,1,4.8,0,3.2,343f753a,Luigi Sepe,Parma,True
+Lazio,Internazionale,1601816400,al ALB,25-199,90,3,1,2,66.7,0.6,7,19,36.8,41,8,41.5,32.8,9,22.2,33.6,22,1,4.5,0,5.0,339fe0e8,Thomas Strakosha,Lazio,True
+Milan,Spezia,1601827200,it ITA,21-222,90,2,0,2,100.0,0.4,6,13,46.2,42,1,28.6,28.1,1,100.0,58.0,9,1,11.1,2,12.9,08f5afaa,Gianluigi Donnarumma,Milan,True
+Napoli,Atalanta,1602939600,co COL,32-047,90,4,1,3,75.0,0.8,6,13,46.2,37,3,35.1,35.2,5,0.0,19.4,7,1,14.3,0,12.5,82b1198a,David Ospina,Napoli,True
+Sampdoria,Lazio,1602950400,it ITA,23-273,90,0,0,0,,0.0,7,14,50.0,35,4,31.4,31.8,9,33.3,38.6,13,0,0.0,0,12.0,649b01d8,Emil Audero,Sampdoria,True
+Internazionale,Milan,1602950400,si SVN,36-095,90,4,2,1,50.0,1.5,6,9,66.7,31,6,22.6,29.4,5,40.0,35.2,11,1,9.1,1,14.5,74419746,Samir Handanović,Internazionale,True
+Crotone,Juventus,1602960300,it ITA,37-290,90,2,1,1,50.0,1.5,0,6,0.0,29,3,20.7,26.0,6,0.0,17.2,14,0,0.0,0,7.0,e66ebabb,Alex Cordaz,Crotone,True
+Bologna,Sassuolo,1603017000,pl POL,29-166,90,12,4,9,66.7,3.8,8,17,47.1,25,5,44.0,34.8,11,54.5,38.0,16,0,0.0,0,6.0,ab4449d6,Łukasz Skorupski,Bologna,True
+Torino,Cagliari,1603026000,it ITA,33-280,90,5,3,2,40.0,2.0,2,4,50.0,20,3,10.0,20.8,5,40.0,26.0,10,0,0.0,1,10.3,10dc46f0,Salvatore Sirigu,Torino,True
+Spezia,Fiorentina,1603026000,it ITA,26-215,90,3,2,1,33.3,0.4,4,12,33.3,36,4,30.6,33.2,6,16.7,32.0,12,0,0.0,5,24.1,277da414,Ivan Provedel,Spezia,True
+Udinese,Parma,1603036800,br BRA,32-189,90,3,2,1,33.3,1.5,6,9,66.7,15,3,40.0,32.9,6,50.0,38.5,13,0,0.0,0,11.0,326d09ef,Nícolas Andrade,Udinese,True
+Roma,Benevento,1603046700,it ITA,37-102,90,4,2,1,50.0,1.3,4,7,57.1,19,5,21.1,25.8,6,50.0,37.5,8,0,0.0,2,17.7,30223b33,Antonio Mirante,Roma,True
+Hellas Verona,Genoa,1603133100,it ITA,29-231,90,2,0,2,100.0,0.1,0,7,0.0,13,2,15.4,26.8,5,100.0,62.0,9,0,0.0,0,13.3,0d422df7,Marco Silvestri,Hellas Verona,True
+Sassuolo,Torino,1603478700,it ITA,33-270,90,10,3,7,70.0,2.2,4,6,66.7,30,4,16.7,23.1,4,25.0,34.0,17,0,0.0,2,20.0,8cabdc1e,Andrea Consigli,Sassuolo,True
+Atalanta,Sampdoria,1603544400,it ITA,28-167,90,4,3,0,25.0,2.5,2,4,50.0,21,2,14.3,26.9,1,100.0,72.0,6,0,0.0,2,23.3,ac4003af,Marco Sportiello,Atalanta,True
+Genoa,Internazionale,1603555200,it ITA,27-349,90,4,2,2,50.0,2.0,7,18,38.9,46,7,32.6,34.5,9,33.3,34.3,22,0,0.0,2,23.3,4c62d0c8,Mattia Perin,Genoa,True
+Lazio,Bologna,1603565100,es ESP,38-054,90,5,1,4,80.0,1.7,7,21,33.3,43,0,46.5,35.1,4,25.0,34.8,21,1,4.8,0,5.5,e358587b,Pepe Reina,Lazio,True
+Cagliari,Crotone,1603625400,it ITA,26-119,90,6,2,4,66.7,1.5,4,5,80.0,15,2,33.3,30.1,6,0.0,8.5,10,0,0.0,1,16.0,f554e29b,Alessio Cragno,Cagliari,True
+Parma,Spezia,1603634400,it ITA,29-170,90,6,2,4,66.7,1.3,0,8,0.0,19,5,36.8,33.5,9,11.1,18.9,10,0,0.0,0,,343f753a,Luigi Sepe,Parma,True
+Benevento,Napoli,1603634400,it ITA,24-248,90,5,2,3,60.0,1.7,13,28,46.4,32,6,56.3,40.4,11,90.9,54.5,19,1,5.3,0,8.5,c1d95617,Lorenzo Montipò,Benevento,True
+Fiorentina,Udinese,1603645200,pl POL,23-067,90,6,2,4,66.7,2.5,5,13,38.5,23,7,47.8,42.1,9,22.2,32.3,25,2,8.0,0,4.3,085e71a7,Bartłomiej Drągowski,Fiorentina,True
+Juventus,Hellas Verona,1603655100,pl POL,30-190,90,2,1,1,50.0,0.8,3,6,50.0,29,4,20.7,26.3,4,0.0,17.3,12,0,0.0,2,12.0,01b8a2b2,Wojciech Szczęsny,Juventus,True
+Milan,Roma,1603741500,ro ROU,34-260,90,7,3,4,71.4,2.4,1,3,33.3,22,8,9.1,19.7,4,25.0,30.3,12,0,0.0,0,8.0,b056e3da,Ciprian Tătărușanu,Milan,True
+Crotone,Atalanta,1604152800,it ITA,37-304,90,6,2,4,66.7,2.8,8,13,61.5,43,2,25.6,26.8,18,11.1,23.4,15,0,0.0,1,18.5,e66ebabb,Alex Cordaz,Crotone,True
+Internazionale,Parma,1604163600,si SVN,36-109,90,3,2,1,33.3,1.7,1,1,100.0,12,5,8.3,22.0,1,0.0,12.0,5,0,0.0,2,22.7,74419746,Samir Handanović,Internazionale,True
+Bologna,Cagliari,1604173500,pl POL,29-179,90,3,2,1,33.3,1.3,0,4,0.0,24,5,12.5,22.7,7,14.3,16.6,14,1,7.1,0,5.8,ab4449d6,Łukasz Skorupski,Bologna,True
+Udinese,Milan,1604230200,ar ARG,26-179,90,4,2,2,50.0,1.3,9,17,52.9,23,4,52.2,40.2,9,55.6,45.6,9,0,0.0,1,15.0,a111cf41,Juan Musso,Udinese,True
+Torino,Lazio,1604239200,it ITA,33-294,90,4,4,0,25.0,2.3,2,6,33.3,18,5,22.2,26.2,10,20.0,24.0,15,0,0.0,0,8.0,10dc46f0,Salvatore Sirigu,Torino,True
+Spezia,Juventus,1604239200,it ITA,26-229,90,4,4,0,25.0,3.4,6,14,42.9,40,6,27.5,32.8,7,42.9,39.6,3,0,0.0,1,14.3,277da414,Ivan Provedel,Spezia,True
+Napoli,Sassuolo,1604250000,co COL,32-062,90,4,2,2,75.0,2.2,2,5,40.0,20,3,25.0,30.4,1,0.0,16.0,3,0,0.0,0,4.0,82b1198a,David Ospina,Napoli,True
+Roma,Fiorentina,1604250000,it ITA,37-116,90,1,0,1,100.0,0.1,10,16,62.5,26,3,46.2,37.0,4,100.0,49.0,9,0,0.0,3,24.0,30223b33,Antonio Mirante,Roma,True
+Sampdoria,Genoa,1604259900,it ITA,23-288,90,4,1,3,75.0,0.8,1,4,25.0,24,6,8.3,25.3,5,40.0,30.8,8,0,0.0,0,12.5,649b01d8,Emil Audero,Sampdoria,True
+Hellas Verona,Benevento,1604346300,it ITA,29-245,90,5,1,4,80.0,1.3,2,17,11.8,17,3,52.9,46.6,8,100.0,59.4,16,1,6.3,0,6.3,0d422df7,Marco Silvestri,Hellas Verona,True
+Genoa,Torino,1604505600,it ITA,27-360,90,1,2,0,-100.0,0.2,3,7,42.9,25,3,28.0,29.5,11,0.0,21.5,9,1,11.1,0,3.0,4c62d0c8,Mattia Perin,Genoa,True
+Sassuolo,Udinese,1604691900,it ITA,33-284,90,0,0,0,,0.0,1,4,25.0,24,4,16.7,27.6,2,0.0,22.0,18,3,16.7,0,6.7,8cabdc1e,Andrea Consigli,Sassuolo,True
+Cagliari,Sampdoria,1604757600,it ITA,26-132,90,1,0,1,100.0,0.2,3,7,42.9,27,3,25.9,28.8,2,0.0,7.5,15,0,0.0,1,14.7,f554e29b,Alessio Cragno,Cagliari,True
+Benevento,Spezia,1604768400,it ITA,24-261,90,6,3,3,50.0,1.9,5,15,33.3,35,6,40.0,32.6,8,12.5,28.4,12,0,0.0,0,8.0,c1d95617,Lorenzo Montipò,Benevento,True
+Parma,Fiorentina,1604778300,it ITA,29-183,90,4,0,4,100.0,0.3,4,5,80.0,15,5,20.0,30.9,4,50.0,36.5,15,0,0.0,0,5.0,343f753a,Luigi Sepe,Parma,True
+Lazio,Juventus,1604835000,es ESP,38-069,90,5,1,4,80.0,2.0,7,8,87.5,27,3,25.9,29.2,7,14.3,20.7,4,0,0.0,0,5.0,e358587b,Pepe Reina,Lazio,True
+Torino,Crotone,1604844000,it ITA,33-301,90,2,0,2,100.0,0.2,8,13,61.5,22,3,31.8,26.9,9,66.7,41.4,6,0,0.0,0,8.0,10dc46f0,Salvatore Sirigu,Torino,True
+Genoa,Roma,1604844000,it ITA,27-364,90,9,3,6,66.7,2.5,9,17,52.9,27,4,55.6,36.5,6,33.3,28.0,15,0,0.0,1,22.0,4c62d0c8,Mattia Perin,Genoa,True
+Atalanta,Internazionale,1604844000,it ITA,28-182,90,3,1,2,66.7,1.1,3,8,37.5,14,4,14.3,30.6,8,75.0,50.9,9,1,11.1,2,12.8,ac4003af,Marco Sportiello,Atalanta,True
+Bologna,Napoli,1604854800,pl POL,29-187,90,4,1,3,75.0,1.0,2,5,40.0,26,7,15.4,25.8,10,10.0,13.8,14,1,7.1,0,9.2,ab4449d6,Łukasz Skorupski,Bologna,True
+Milan,Hellas Verona,1604864700,it ITA,21-257,90,2,2,1,0.0,1.0,5,14,35.7,29,1,48.3,34.6,5,0.0,11.2,6,0,0.0,1,29.0,08f5afaa,Gianluigi Donnarumma,Milan,True
+Crotone,Lazio,1605967200,it ITA,37-325,90,9,2,7,77.8,2.0,3,12,25.0,19,4,47.4,37.2,6,50.0,36.8,17,0,0.0,3,24.3,e66ebabb,Alex Cordaz,Crotone,True
+Spezia,Atalanta,1605978000,it ITA,26-249,90,4,0,4,100.0,1.3,7,24,29.2,62,6,35.5,36.3,8,25.0,35.9,11,0,0.0,2,14.2,277da414,Ivan Provedel,Spezia,True
+Juventus,Cagliari,1605987900,it ITA,42-298,90,0,0,0,,0.0,1,2,50.0,25,2,8.0,21.6,8,0.0,18.3,5,0,0.0,0,12.5,e40d028b,Gianluigi Buffon,Juventus,True
+Fiorentina,Benevento,1606044600,pl POL,23-095,90,4,1,3,75.0,1.1,2,5,40.0,27,4,14.8,27.8,10,10.0,17.3,14,1,7.1,1,15.5,085e71a7,Bartłomiej Drągowski,Fiorentina,True
+Internazionale,Torino,1606053600,si SVN,36-131,90,6,2,4,83.3,2.7,1,1,100.0,17,6,5.9,27.9,6,0.0,19.3,7,0,0.0,1,20.0,74419746,Samir Handanović,Internazionale,True
+Roma,Parma,1606053600,it ITA,37-137,90,1,0,1,100.0,0.1,1,2,50.0,25,6,8.0,22.0,3,0.0,22.0,8,0,0.0,2,29.5,30223b33,Antonio Mirante,Roma,True
+Hellas Verona,Sassuolo,1606053600,it ITA,29-265,90,4,2,2,50.0,0.8,6,19,31.6,23,3,60.9,43.3,6,83.3,52.5,2,0,0.0,1,20.5,0d422df7,Marco Silvestri,Hellas Verona,True
+Sampdoria,Bologna,1606053600,it ITA,23-309,90,3,2,2,33.3,1.3,8,19,42.1,27,1,59.3,38.2,3,100.0,62.0,18,0,0.0,0,9.5,649b01d8,Emil Audero,Sampdoria,True
+Udinese,Genoa,1606064400,ar ARG,26-200,90,1,0,1,100.0,0.1,7,17,41.2,28,5,46.4,39.4,7,57.1,42.0,20,0,0.0,0,15.0,a111cf41,Juan Musso,Udinese,True
+Napoli,Milan,1606074300,it ITA,23-245,90,7,3,4,57.1,2.8,0,2,0.0,46,8,4.3,19.0,5,0.0,12.2,12,0,0.0,2,20.5,9413b19f,Alex Meret,Napoli,True
+Sassuolo,Internazionale,1606572000,it ITA,33-306,90,4,3,2,25.0,2.3,3,5,60.0,14,2,21.4,27.4,5,40.0,30.4,6,1,16.7,2,22.7,8cabdc1e,Andrea Consigli,Sassuolo,True
+Benevento,Juventus,1606582800,it ITA,24-282,90,5,1,4,80.0,1.2,7,21,33.3,30,4,56.7,40.1,7,57.1,42.4,18,0,0.0,0,9.5,c1d95617,Lorenzo Montipò,Benevento,True
+Atalanta,Hellas Verona,1606592700,it ITA,25-255,65,1,1,,100.0,1.0,,11,,30,5,26.7,34.5,4,75.0,59.0,9,2,22.2,2,12.5,f0f7f62f,Pierluigi Gollini,Atalanta,True
+Atalanta,Hellas Verona,1606592700,it ITA,28-202,25,1,1,0,0.0,0.7,4,5,80.0,17,5,29.4,29.9,3,0.0,19.0,0,0,,3,27.3,ac4003af,Marco Sportiello,Atalanta,True
+Lazio,Udinese,1606649400,al ALB,25-255,90,4,3,1,25.0,1.9,2,6,33.3,25,5,24.0,27.3,5,0.0,23.4,9,0,0.0,0,16.0,339fe0e8,Thomas Strakosha,Lazio,True
+Bologna,Crotone,1606658400,pl POL,29-208,90,1,0,1,100.0,0.2,9,17,52.9,28,4,46.4,36.0,9,44.4,28.7,14,3,21.4,0,10.7,ab4449d6,Łukasz Skorupski,Bologna,True
+Milan,Fiorentina,1606658400,it ITA,21-278,90,3,0,3,100.0,0.8,5,14,35.7,25,5,48.0,39.5,4,50.0,32.3,22,2,9.1,0,9.0,08f5afaa,Gianluigi Donnarumma,Milan,True
+Cagliari,Spezia,1606669200,it ITA,26-154,90,5,2,3,80.0,2.1,8,20,40.0,29,3,41.4,36.6,14,57.1,41.9,13,0,0.0,2,19.7,f554e29b,Alessio Cragno,Cagliari,True
+Napoli,Roma,1606679100,it ITA,23-252,90,1,0,1,100.0,0.1,1,2,50.0,26,4,7.7,21.3,4,0.0,19.8,8,1,12.5,1,12.6,9413b19f,Alex Meret,Napoli,True
+Torino,Sampdoria,1606757400,it ITA,33-323,90,2,2,0,0.0,1.3,4,5,80.0,28,5,17.9,22.9,6,0.0,17.7,16,2,12.5,0,5.0,10dc46f0,Salvatore Sirigu,Torino,True
+Genoa,Parma,1606765500,it ITA,28-093,90,3,2,1,33.3,0.7,5,12,41.7,27,5,44.4,35.9,6,0.0,11.5,6,0,0.0,2,26.5,94a3606c,Alberto Paleari,Genoa,True
+Spezia,Lazio,1607176800,it ITA,26-263,90,2,2,0,0.0,0.4,3,4,75.0,39,2,10.3,24.1,2,0.0,17.5,4,0,0.0,2,34.0,277da414,Ivan Provedel,Spezia,True
+Juventus,Torino,1607187600,pl POL,30-231,90,2,1,1,50.0,1.7,0,0,,17,2,0.0,26.1,4,0.0,14.0,6,0,0.0,1,14.3,01b8a2b2,Wojciech Szczęsny,Juventus,True
+Internazionale,Bologna,1607197500,si SVN,36-144,90,7,1,6,85.7,1.3,3,14,21.4,26,5,42.3,37.5,4,75.0,53.5,13,0,0.0,1,26.0,74419746,Samir Handanović,Internazionale,True
+Hellas Verona,Cagliari,1607254200,it ITA,29-279,90,3,1,2,66.7,0.9,12,21,57.1,22,4,54.5,39.8,10,90.0,55.5,17,0,0.0,0,11.5,0d422df7,Marco Silvestri,Hellas Verona,True
+Parma,Benevento,1607263200,it ITA,29-212,90,2,0,2,100.0,0.2,1,2,50.0,22,5,9.1,23.2,5,0.0,21.8,16,0,0.0,0,,343f753a,Luigi Sepe,Parma,True
+Roma,Sassuolo,1607263200,it ITA,37-151,90,1,0,1,100.0,0.2,2,6,33.3,27,9,14.8,26.6,7,28.6,25.7,10,0,0.0,1,19.3,30223b33,Antonio Mirante,Roma,True
+Crotone,Napoli,1607274000,it ITA,37-340,90,6,4,2,33.3,3.1,2,6,33.3,31,4,16.1,25.5,5,20.0,25.6,5,0,0.0,2,25.0,e66ebabb,Alex Cordaz,Crotone,True
+Sampdoria,Milan,1607283900,it ITA,23-323,90,5,2,3,80.0,1.9,5,18,27.8,22,4,54.5,41.7,6,100.0,63.2,10,0,0.0,1,18.5,649b01d8,Emil Audero,Sampdoria,True
+Fiorentina,Genoa,1607370300,pl POL,23-110,90,3,1,2,66.7,1.4,0,4,0.0,16,6,25.0,30.6,1,0.0,23.0,14,0,0.0,0,11.0,085e71a7,Bartłomiej Drągowski,Fiorentina,True
+Sassuolo,Benevento,1607715900,it ITA,33-319,90,4,0,4,100.0,0.9,5,12,41.7,17,2,35.3,33.5,16,37.5,31.2,26,0,0.0,0,5.0,8cabdc1e,Andrea Consigli,Sassuolo,True
+Crotone,Spezia,1607781600,it ITA,37-346,90,5,1,4,80.0,0.8,7,27,25.9,51,5,45.1,34.4,9,44.4,37.7,14,0,0.0,1,23.0,e66ebabb,Alex Cordaz,Crotone,True
+Torino,Udinese,1607792400,it ITA,33-335,90,3,3,0,0.0,2.1,2,9,22.2,26,5,34.6,30.4,3,0.0,20.7,9,0,0.0,0,,10dc46f0,Salvatore Sirigu,Torino,True
+Lazio,Hellas Verona,1607802300,es ESP,38-103,90,4,2,3,50.0,0.5,7,22,31.8,66,8,33.3,32.9,1,0.0,22.0,9,0,0.0,1,15.7,e358587b,Pepe Reina,Lazio,True
+Cagliari,Internazionale,1607859900,it ITA,26-168,90,11,3,8,72.7,3.6,3,7,42.9,20,4,25.0,31.0,8,25.0,33.1,23,0,0.0,1,19.8,f554e29b,Alessio Cragno,Cagliari,True
+Napoli,Sampdoria,1607868000,it ITA,23-266,90,3,1,2,66.7,1.7,1,2,50.0,25,4,8.0,22.0,2,0.0,15.5,13,1,7.7,1,13.0,9413b19f,Alex Meret,Napoli,True
+Bologna,Roma,1607868000,it ITA,21-032,90,7,5,3,28.6,3.2,2,2,100.0,25,2,0.0,19.6,6,33.3,21.2,9,0,0.0,5,31.6,6662d731,Federico Ravaglia,Bologna,True
+Atalanta,Fiorentina,1607868000,it ITA,25-270,90,2,0,2,100.0,0.1,4,4,100.0,22,4,13.6,29.8,7,14.3,27.4,21,1,4.8,2,14.2,f0f7f62f,Pierluigi Gollini,Atalanta,True
+Genoa,Juventus,1607878800,it ITA,28-033,90,10,3,7,90.0,3.8,7,21,33.3,24,1,66.7,43.7,10,50.0,34.3,24,1,4.2,0,10.3,4c62d0c8,Mattia Perin,Genoa,True
+Milan,Parma,1607888700,it ITA,21-292,90,2,2,0,0.0,0.7,1,2,50.0,16,3,12.5,23.1,2,0.0,18.0,4,0,0.0,1,19.0,08f5afaa,Gianluigi Donnarumma,Milan,True
+Udinese,Crotone,1608053400,ar ARG,26-223,90,2,0,2,100.0,0.4,3,8,37.5,20,2,30.0,30.2,6,33.3,27.0,3,0,0.0,2,19.3,a111cf41,Juan Musso,Udinese,True
+Benevento,Lazio,1608061500,it ITA,24-299,90,2,1,1,50.0,0.1,5,12,41.7,31,7,25.8,29.0,9,44.4,36.0,24,0,0.0,0,4.0,c1d95617,Lorenzo Montipò,Benevento,True
+Juventus,Atalanta,1608139800,pl POL,30-242,90,6,1,5,83.3,0.9,3,6,50.0,27,4,11.1,25.1,10,30.0,26.6,11,0,0.0,2,22.7,01b8a2b2,Wojciech Szczęsny,Juventus,True
+Parma,Cagliari,1608147900,it ITA,29-222,90,4,0,4,100.0,0.6,8,11,72.7,27,5,40.7,35.3,6,0.0,18.0,14,0,0.0,0,,343f753a,Luigi Sepe,Parma,True
+Genoa,Milan,1608147900,it ITA,28-036,90,4,2,2,50.0,1.9,12,22,54.5,27,3,70.4,42.0,5,60.0,43.2,21,0,0.0,0,16.0,4c62d0c8,Mattia Perin,Genoa,True
+Hellas Verona,Sampdoria,1608147900,it ITA,29-289,90,3,2,1,33.3,1.4,7,13,53.8,15,0,60.0,41.2,6,66.7,45.2,14,0,0.0,0,13.5,0d422df7,Marco Silvestri,Hellas Verona,True
+Internazionale,Napoli,1608147900,si SVN,36-155,90,3,0,3,100.0,1.4,0,4,0.0,22,6,13.6,24.8,6,16.7,32.3,15,1,6.7,1,16.3,74419746,Samir Handanović,Internazionale,True
+Fiorentina,Sassuolo,1608147900,pl POL,23-119,90,5,1,4,80.0,1.6,13,30,43.3,34,5,67.6,46.5,10,70.0,46.5,9,1,11.1,0,7.7,085e71a7,Bartłomiej Drągowski,Fiorentina,True
+Spezia,Bologna,1608147900,it ITA,26-274,90,6,2,3,66.7,1.4,11,33,33.3,52,5,51.9,40.3,9,66.7,49.2,13,1,7.7,5,22.3,277da414,Ivan Provedel,Spezia,True
+Roma,Torino,1608234300,es ESP,26-004,90,6,1,5,83.3,1.1,1,4,25.0,15,6,13.3,24.3,5,40.0,43.4,10,0,0.0,1,12.7,20b9f052,Pau López,Roma,True
+Fiorentina,Hellas Verona,1608386400,pl POL,23-122,90,3,1,2,100.0,1.5,10,34,29.4,35,1,82.9,47.8,5,100.0,67.8,13,1,7.7,0,10.0,085e71a7,Bartłomiej Drągowski,Fiorentina,True
+Sampdoria,Crotone,1608397200,it ITA,23-336,90,2,1,1,100.0,1.1,12,19,63.2,25,6,48.0,37.4,7,100.0,58.4,8,0,0.0,3,20.0,649b01d8,Emil Audero,Sampdoria,True
+Parma,Juventus,1608407100,it ITA,29-225,90,7,4,3,42.9,3.0,4,9,44.4,30,7,30.0,32.6,8,0.0,17.0,26,1,3.8,0,9.0,343f753a,Luigi Sepe,Parma,True
+Torino,Bologna,1608463800,rs SRB,23-304,90,6,1,5,83.3,1.1,2,8,25.0,28,6,14.3,25.9,5,80.0,58.0,16,0,0.0,3,24.8,9fa26bc2,Vanja Milinković-Savić,Torino,True
+Internazionale,Spezia,1608472800,si SVN,36-159,90,1,1,0,0.0,0.9,2,8,25.0,34,4,20.6,28.7,3,33.3,34.7,5,0,0.0,0,10.0,74419746,Samir Handanović,Internazionale,True
+Benevento,Genoa,1608472800,it ITA,24-304,90,2,0,2,100.0,0.4,4,12,33.3,26,4,38.5,38.6,2,100.0,50.0,20,1,5.0,0,3.3,c1d95617,Lorenzo Montipò,Benevento,True
+Cagliari,Udinese,1608472800,it ITA,26-175,90,4,1,3,75.0,0.8,4,9,44.4,27,7,22.2,29.9,11,27.3,32.3,18,1,5.6,1,16.0,f554e29b,Alessio Cragno,Cagliari,True
+Sassuolo,Milan,1608472800,it ITA,33-328,90,5,2,3,60.0,1.3,2,4,50.0,31,5,9.7,21.1,5,20.0,24.6,6,0,0.0,1,11.5,8cabdc1e,Andrea Consigli,Sassuolo,True
+Atalanta,Roma,1608483600,it ITA,25-277,90,3,1,2,66.7,0.9,1,2,50.0,17,1,11.8,23.2,4,0.0,25.8,6,0,0.0,4,25.8,f0f7f62f,Pierluigi Gollini,Atalanta,True
+Lazio,Napoli,1608493500,es ESP,38-111,90,6,0,6,100.0,0.9,4,11,36.4,35,5,28.6,33.4,7,14.3,17.6,17,0,0.0,3,22.0,e358587b,Pepe Reina,Lazio,True
+Crotone,Parma,1608658200,it ITA,37-356,90,7,1,6,85.7,1.5,0,6,0.0,36,8,13.9,26.0,8,12.5,19.6,16,1,6.3,0,6.3,e66ebabb,Alex Cordaz,Crotone,True
+Juventus,Fiorentina,1608666300,pl POL,30-248,90,5,3,3,40.0,2.5,0,0,,25,7,0.0,23.4,4,0.0,17.3,20,0,0.0,1,20.0,01b8a2b2,Wojciech Szczęsny,Juventus,True
+Hellas Verona,Internazionale,1608744600,it ITA,29-296,90,5,2,3,60.0,0.7,5,30,16.7,30,2,76.7,49.9,8,87.5,58.9,22,0,0.0,1,14.5,0d422df7,Marco Silvestri,Hellas Verona,True
+Sampdoria,Sassuolo,1608752700,it ITA,23-340,90,8,3,5,62.5,2.2,7,15,46.7,26,5,38.5,35.8,6,83.3,56.3,9,0,0.0,2,19.0,649b01d8,Emil Audero,Sampdoria,True
+Spezia,Genoa,1608752700,it ITA,26-281,90,5,2,3,80.0,1.5,8,21,38.1,54,5,35.2,35.5,2,100.0,76.5,4,0,0.0,1,22.0,277da414,Ivan Provedel,Spezia,True
+Roma,Cagliari,1608752700,it ITA,37-168,73,1,1,,0.0,0.4,1,5,20.0,22,2,,31.0,5,,13.2,7,,,5,25.2,30223b33,Antonio Mirante,Roma,True
+Roma,Cagliari,1608752700,es ESP,26-010,17,1,1,0,100.0,1.0,1,2,50.0,10,1,20.0,29.6,0,,,1,0,0.0,0,,20b9f052,Pau López,Roma,True
+Bologna,Atalanta,1608752700,br BRA,37-041,90,6,2,4,83.3,1.8,2,7,28.6,54,8,11.1,26.4,6,16.7,21.3,12,0,0.0,0,3.3,18736214,Angelo da Costa Júnior,Bologna,True
+Napoli,Torino,1608752700,it ITA,23-276,90,3,1,2,66.7,0.8,2,3,66.7,19,8,15.8,24.0,4,0.0,11.8,10,0,0.0,0,10.0,9413b19f,Alex Meret,Napoli,True
+Udinese,Benevento,1608752700,ar ARG,26-231,90,4,2,2,50.0,1.5,3,3,100.0,20,5,15.0,21.5,1,0.0,9.0,4,0,0.0,2,31.5,a111cf41,Juan Musso,Udinese,True
+Milan,Lazio,1608752700,it ITA,21-302,90,7,2,4,71.4,1.9,4,9,44.4,17,6,41.2,34.8,5,40.0,33.8,25,1,4.0,2,11.4,08f5afaa,Gianluigi Donnarumma,Milan,True
+Internazionale,Crotone,1609673400,si SVN,36-173,90,3,2,1,66.7,1.9,1,5,20.0,29,5,17.2,28.2,2,0.0,31.0,7,2,28.6,2,15.2,74419746,Samir Handanović,Internazionale,True
+Atalanta,Sassuolo,1609682400,it ITA,25-291,90,4,1,3,75.0,0.8,9,21,42.9,26,2,46.2,38.2,9,100.0,62.6,11,0,0.0,1,17.0,f0f7f62f,Pierluigi Gollini,Atalanta,True
+Roma,Sampdoria,1609682400,es ESP,26-021,90,2,0,2,100.0,0.4,3,6,50.0,29,8,20.7,28.8,1,0.0,11.0,7,0,0.0,3,34.7,20b9f052,Pau López,Roma,True
+Fiorentina,Bologna,1609682400,pl POL,23-137,90,3,0,3,100.0,0.7,4,7,57.1,18,3,22.2,28.7,4,75.0,52.8,11,0,0.0,1,13.7,085e71a7,Bartłomiej Drągowski,Fiorentina,True
+Genoa,Lazio,1609682400,it ITA,28-054,90,3,1,2,100.0,1.2,3,14,21.4,16,0,81.3,48.1,8,12.5,27.8,28,0,0.0,0,2.5,4c62d0c8,Mattia Perin,Genoa,True
+Cagliari,Napoli,1609682400,it ITA,26-189,90,11,4,7,72.7,4.2,1,4,25.0,18,10,22.2,23.9,12,0.0,14.2,17,0,0.0,0,11.0,f554e29b,Alessio Cragno,Cagliari,True
+Spezia,Hellas Verona,1609682400,it ITA,26-292,90,3,1,2,66.7,1.0,12,39,30.8,51,2,68.6,47.8,5,80.0,58.4,15,1,6.7,4,16.9,277da414,Ivan Provedel,Spezia,True
+Parma,Torino,1609682400,it ITA,29-240,90,5,3,2,40.0,2.2,2,2,100.0,25,5,4.0,18.5,7,14.3,20.0,7,0,0.0,5,24.1,343f753a,Luigi Sepe,Parma,True
+Benevento,Milan,1609693200,it ITA,24-318,90,2,2,0,50.0,1.5,2,4,50.0,18,4,22.2,30.6,7,0.0,20.0,8,0,0.0,0,,c1d95617,Lorenzo Montipò,Benevento,True
+Juventus,Udinese,1609703100,pl POL,30-260,90,3,1,2,66.7,1.0,1,2,50.0,24,6,8.3,25.1,6,0.0,10.7,11,0,0.0,1,14.0,01b8a2b2,Wojciech Szczęsny,Juventus,True
+Cagliari,Benevento,1609932600,it ITA,26-192,90,4,2,2,50.0,1.2,2,4,50.0,15,5,13.3,19.9,7,28.6,21.3,14,0,0.0,1,16.2,f554e29b,Alessio Cragno,Cagliari,True
+Atalanta,Parma,1609941600,it ITA,25-294,90,0,0,0,,0.0,2,2,100.0,14,1,14.3,29.2,2,0.0,28.5,8,0,0.0,1,13.0,f0f7f62f,Pierluigi Gollini,Atalanta,True
+Sassuolo,Genoa,1609941600,it ITA,33-345,90,2,1,1,50.0,0.7,2,8,25.0,28,5,28.6,33.1,5,0.0,13.8,9,1,11.1,3,23.5,8cabdc1e,Andrea Consigli,Sassuolo,True
+Crotone,Roma,1609941600,it ITA,38-005,90,4,3,1,50.0,2.5,5,8,62.5,37,9,18.9,25.7,4,25.0,22.0,7,0,0.0,0,16.0,e66ebabb,Alex Cordaz,Crotone,True
+Bologna,Udinese,1609941600,br BRA,37-055,90,6,2,4,66.7,2.2,9,20,45.0,27,3,51.9,43.0,8,75.0,47.4,24,4,16.7,0,7.9,18736214,Angelo da Costa Júnior,Bologna,True
+Sampdoria,Internazionale,1609941600,it ITA,23-354,90,7,1,5,85.7,2.1,9,27,33.3,28,4,53.6,40.1,15,80.0,46.3,25,0,0.0,0,,649b01d8,Emil Audero,Sampdoria,True
+Torino,Hellas Verona,1609941600,it ITA,33-360,90,2,1,1,50.0,0.9,8,16,50.0,23,1,56.5,40.5,7,42.9,36.7,9,0,0.0,0,12.7,10dc46f0,Salvatore Sirigu,Torino,True
+Lazio,Fiorentina,1609941600,al ALB,25-293,90,5,1,4,100.0,1.6,11,12,91.7,42,7,28.6,31.7,1,0.0,29.0,26,1,3.8,2,16.4,339fe0e8,Thomas Strakosha,Lazio,True
+Napoli,Spezia,1609952400,co COL,32-128,90,3,2,1,66.7,2.0,3,5,60.0,47,6,10.6,22.7,5,0.0,16.6,3,0,0.0,0,,82b1198a,David Ospina,Napoli,True
+Milan,Juventus,1609962300,it ITA,21-316,90,6,3,3,50.0,3.0,1,5,20.0,27,7,18.5,26.0,2,0.0,13.0,12,1,8.3,0,10.0,08f5afaa,Gianluigi Donnarumma,Milan,True
+Benevento,Atalanta,1610200800,it ITA,24-324,90,12,4,8,66.7,3.4,6,18,33.3,30,5,36.7,35.6,11,63.6,45.3,16,0,0.0,0,9.0,c1d95617,Lorenzo Montipò,Benevento,True
+Genoa,Bologna,1610211600,it ITA,28-060,90,3,0,3,100.0,0.4,5,21,23.8,24,2,62.5,43.0,9,66.7,43.3,18,1,5.6,1,15.5,4c62d0c8,Mattia Perin,Genoa,True
+Milan,Torino,1610221500,it ITA,21-319,90,1,0,1,100.0,0.0,2,4,50.0,27,5,14.8,23.7,2,0.0,11.5,14,2,14.3,0,8.0,08f5afaa,Gianluigi Donnarumma,Milan,True
+Roma,Internazionale,1610278200,es ESP,26-028,90,6,2,4,66.7,2.0,3,10,30.0,25,4,24.0,30.0,8,50.0,39.5,15,0,0.0,2,16.3,20b9f052,Pau López,Roma,True
+Udinese,Napoli,1610287200,ar ARG,26-249,90,6,2,4,83.3,2.1,0,5,0.0,10,5,20.0,30.9,11,27.3,26.3,18,2,11.1,1,60.0,a111cf41,Juan Musso,Udinese,True
+Hellas Verona,Crotone,1610287200,it ITA,29-314,90,2,1,1,50.0,1.1,3,22,13.6,22,1,81.8,51.0,4,100.0,60.5,7,0,0.0,0,,0d422df7,Marco Silvestri,Hellas Verona,True
+Parma,Lazio,1610287200,it ITA,29-247,90,5,2,3,60.0,2.0,8,14,57.1,42,4,23.8,28.3,12,33.3,35.8,20,1,5.0,3,18.1,343f753a,Luigi Sepe,Parma,True
+Fiorentina,Cagliari,1610298000,pl POL,23-144,90,2,0,1,100.0,1.0,3,7,42.9,11,2,27.3,26.8,9,44.4,34.2,18,0,0.0,0,,085e71a7,Bartłomiej Drągowski,Fiorentina,True
+Juventus,Sassuolo,1610307900,pl POL,30-267,90,2,1,1,50.0,0.3,1,3,33.3,35,5,8.6,21.5,7,0.0,22.7,8,0,0.0,2,18.6,01b8a2b2,Wojciech Szczęsny,Juventus,True
+Spezia,Sampdoria,1610394300,it ITA,26-300,90,3,1,2,66.7,0.2,7,19,36.8,49,3,32.7,33.6,3,100.0,62.0,17,1,5.9,0,9.0,277da414,Ivan Provedel,Spezia,True
+Lazio,Roma,1610739900,es ESP,38-137,90,1,0,1,100.0,0.8,8,22,36.4,46,4,45.7,36.0,5,20.0,18.4,16,1,6.3,0,6.5,e358587b,Pepe Reina,Lazio,True
+Bologna,Hellas Verona,1610805600,pl POL,29-256,90,1,0,1,100.0,0.4,2,7,28.6,14,6,21.4,30.9,12,33.3,25.9,14,2,14.3,1,13.5,ab4449d6,Łukasz Skorupski,Bologna,True
+Torino,Spezia,1610816400,it ITA,34-004,90,3,0,3,100.0,0.2,1,1,100.0,21,1,0.0,21.5,3,33.3,33.3,6,0,0.0,3,26.0,10dc46f0,Salvatore Sirigu,Torino,True
+Sampdoria,Udinese,1610826300,it ITA,23-364,90,4,1,3,75.0,1.2,1,6,16.7,16,2,25.0,31.8,6,33.3,35.3,18,0,0.0,0,13.0,649b01d8,Emil Audero,Sampdoria,True
+Napoli,Fiorentina,1610883000,co COL,32-139,90,1,0,1,100.0,0.7,6,11,54.5,44,5,25.0,30.5,3,0.0,22.0,11,1,9.1,0,7.5,82b1198a,David Ospina,Napoli,True
+Sassuolo,Parma,1610892000,it ITA,33-356,90,2,1,1,50.0,0.2,0,0,,15,4,0.0,20.1,7,0.0,17.6,12,0,0.0,3,24.2,8cabdc1e,Andrea Consigli,Sassuolo,True
+Crotone,Benevento,1610892000,it ITA,38-016,90,5,1,4,80.0,1.1,2,9,22.2,25,6,32.0,31.8,7,14.3,18.7,32,1,3.1,0,3.5,e66ebabb,Alex Cordaz,Crotone,True
+Atalanta,Genoa,1610902800,it ITA,25-305,90,3,0,3,100.0,0.4,5,6,83.3,22,4,22.7,31.1,3,33.3,36.3,4,0,0.0,0,,f0f7f62f,Pierluigi Gollini,Atalanta,True
+Internazionale,Juventus,1610912700,si SVN,36-187,90,4,0,4,100.0,0.5,2,7,28.6,31,4,22.6,31.4,2,0.0,11.5,22,0,0.0,0,,74419746,Samir Handanović,Internazionale,True
+Cagliari,Milan,1610999100,it ITA,26-204,90,6,2,4,83.3,2.5,4,6,66.7,26,5,23.1,26.3,2,0.0,17.5,7,0,0.0,1,15.0,f554e29b,Alessio Cragno,Cagliari,True
+Udinese,Atalanta,1611151200,ar ARG,26-259,90,4,1,3,75.0,1.0,8,24,33.3,21,3,76.2,45.1,10,80.0,52.8,19,0,0.0,2,18.7,a111cf41,Juan Musso,Udinese,True
+Benevento,Torino,1611344700,it ITA,24-337,90,5,2,3,60.0,1.6,3,16,18.8,27,5,40.7,37.7,9,55.6,35.3,27,0,0.0,0,4.0,c1d95617,Lorenzo Montipò,Benevento,True
+Roma,Spezia,1611410400,es ESP,26-041,90,3,3,0,0.0,2.0,2,8,25.0,31,6,25.8,28.1,5,0.0,13.4,4,0,0.0,3,18.4,20b9f052,Pau López,Roma,True
+Udinese,Internazionale,1611421200,ar ARG,26-262,90,4,0,4,100.0,0.6,4,19,21.1,26,4,50.0,40.0,9,66.7,44.4,7,1,14.3,0,6.7,a111cf41,Juan Musso,Udinese,True
+Milan,Atalanta,1611421200,it ITA,21-333,90,7,3,4,71.4,1.9,8,15,53.3,31,5,41.9,30.6,9,22.2,25.9,11,1,9.1,3,18.6,08f5afaa,Gianluigi Donnarumma,Milan,True
+Fiorentina,Crotone,1611431100,pl POL,23-157,90,3,1,2,66.7,0.6,6,12,50.0,22,8,40.9,38.0,5,60.0,42.2,18,1,5.6,0,6.5,085e71a7,Bartłomiej Drągowski,Fiorentina,True
+Juventus,Bologna,1611487800,pl POL,30-281,90,2,0,2,100.0,0.5,3,10,30.0,41,5,22.0,30.7,3,33.3,30.3,15,1,6.7,0,4.0,01b8a2b2,Wojciech Szczęsny,Juventus,True
+Hellas Verona,Napoli,1611496800,it ITA,29-328,90,2,1,1,50.0,0.4,9,21,42.9,12,1,58.3,47.5,14,100.0,57.9,10,0,0.0,0,9.0,0d422df7,Marco Silvestri,Hellas Verona,True
+Genoa,Cagliari,1611496800,it ITA,28-075,90,4,0,4,100.0,0.4,5,18,27.8,23,4,43.5,36.2,15,53.3,37.1,27,3,11.1,0,7.0,4c62d0c8,Mattia Perin,Genoa,True
+Lazio,Sassuolo,1611507600,es ESP,38-146,90,1,1,0,0.0,0.7,7,12,58.3,43,7,25.6,29.4,6,16.7,31.0,9,0,0.0,0,,e358587b,Pepe Reina,Lazio,True
+Parma,Sampdoria,1611517500,it ITA,29-261,90,3,2,1,33.3,1.8,6,9,66.7,25,7,36.0,35.7,6,0.0,15.8,18,0,0.0,0,2.5,343f753a,Luigi Sepe,Parma,True
+Torino,Fiorentina,1611949500,it ITA,34-017,90,1,1,0,0.0,0.9,2,7,28.6,11,1,54.5,34.5,7,14.3,25.7,12,1,8.3,1,16.3,10dc46f0,Salvatore Sirigu,Torino,True
+Bologna,Milan,1612015200,pl POL,29-270,90,10,2,7,90.0,3.4,1,3,33.3,25,6,12.0,22.0,4,0.0,11.0,10,1,10.0,1,11.4,ab4449d6,Łukasz Skorupski,Bologna,True
+Sampdoria,Juventus,1612026000,it ITA,24-012,90,3,2,1,33.3,1.6,3,11,27.3,26,10,26.9,31.4,5,80.0,51.6,12,0,0.0,1,19.3,649b01d8,Emil Audero,Sampdoria,True
+Internazionale,Benevento,1612035900,si SVN,36-200,90,0,0,0,,0.0,1,2,50.0,22,2,9.1,21.6,4,0.0,18.5,5,0,0.0,1,20.5,74419746,Samir Handanović,Internazionale,True
+Spezia,Udinese,1612092600,it ITA,26-320,90,3,1,2,100.0,1.0,3,9,33.3,39,6,20.5,32.2,5,20.0,31.8,4,0,0.0,1,22.0,277da414,Ivan Provedel,Spezia,True
+Cagliari,Sassuolo,1612101600,it ITA,26-217,90,4,1,3,75.0,1.5,5,14,35.7,13,3,53.8,38.6,7,100.0,60.0,27,0,0.0,1,12.0,f554e29b,Alessio Cragno,Cagliari,True
+Atalanta,Lazio,1612101600,it ITA,25-319,90,7,3,4,57.1,2.7,2,6,33.3,26,7,19.2,28.8,3,33.3,43.0,3,0,0.0,4,24.0,f0f7f62f,Pierluigi Gollini,Atalanta,True
+Crotone,Genoa,1612101600,it ITA,38-030,90,4,3,1,25.0,1.7,9,15,60.0,37,5,35.1,28.6,11,18.2,21.8,22,1,4.5,4,21.6,e66ebabb,Alex Cordaz,Crotone,True
+Napoli,Parma,1612112400,co COL,32-153,90,1,0,1,100.0,0.1,2,8,25.0,30,2,26.7,32.1,1,0.0,38.0,17,1,5.9,1,13.5,82b1198a,David Ospina,Napoli,True
+Roma,Hellas Verona,1612122300,es ESP,26-049,90,1,1,0,0.0,0.1,5,21,23.8,42,3,42.9,40.1,3,100.0,71.0,12,0,0.0,2,20.7,20b9f052,Pau López,Roma,True
+Fiorentina,Internazionale,1612554300,pl POL,23-170,90,6,2,4,66.7,2.6,2,4,50.0,13,6,7.7,28.8,8,37.5,41.1,11,1,9.1,3,22.3,085e71a7,Bartłomiej Drągowski,Fiorentina,True
+Atalanta,Torino,1612620000,it ITA,25-325,90,5,3,1,40.0,2.2,8,13,61.5,20,4,35.0,33.0,8,75.0,53.5,16,0,0.0,3,15.2,f0f7f62f,Pierluigi Gollini,Atalanta,True
+Sassuolo,Spezia,1612620000,it ITA,34-010,90,5,2,3,60.0,1.5,5,19,26.3,56,1,32.1,30.8,3,33.3,29.7,11,0,0.0,0,,8cabdc1e,Andrea Consigli,Sassuolo,True
+Juventus,Roma,1612630800,pl POL,30-294,90,3,0,3,100.0,0.2,2,6,33.3,42,7,7.1,24.8,13,23.1,28.0,22,2,9.1,0,7.2,01b8a2b2,Wojciech Szczęsny,Juventus,True
+Genoa,Napoli,1612640700,it ITA,28-088,90,9,1,8,88.9,2.4,11,24,45.8,26,3,61.5,42.4,11,72.7,48.9,21,0,0.0,2,20.5,4c62d0c8,Mattia Perin,Genoa,True
+Benevento,Sampdoria,1612697400,it ITA,24-353,90,5,1,4,80.0,1.3,8,23,34.8,29,7,69.0,50.2,6,50.0,39.3,34,0,0.0,2,12.6,c1d95617,Lorenzo Montipò,Benevento,True
+Milan,Crotone,1612706400,it ITA,21-348,90,2,0,2,100.0,0.2,3,6,50.0,24,2,25.0,27.2,5,0.0,19.2,15,1,6.7,1,17.5,08f5afaa,Gianluigi Donnarumma,Milan,True
+Udinese,Hellas Verona,1612706400,ar ARG,26-277,90,0,0,0,,0.0,12,23,52.2,23,1,69.6,45.5,9,77.8,54.6,15,0,0.0,0,7.5,a111cf41,Juan Musso,Udinese,True
+Parma,Bologna,1612717200,it ITA,29-275,90,5,3,2,40.0,1.8,6,11,54.5,36,10,30.6,29.2,5,0.0,20.8,6,0,0.0,0,10.0,343f753a,Luigi Sepe,Parma,True
+Lazio,Cagliari,1612727100,es ESP,38-160,90,2,0,2,100.0,0.5,2,9,22.2,30,4,26.7,31.5,4,25.0,32.5,10,0,0.0,4,23.6,e358587b,Pepe Reina,Lazio,True
+Bologna,Benevento,1613159100,pl POL,29-283,90,6,1,5,83.3,1.4,4,7,57.1,30,8,16.7,23.5,5,40.0,25.6,9,2,22.2,0,13.0,ab4449d6,Łukasz Skorupski,Bologna,True
+Torino,Genoa,1613224800,it ITA,34-032,90,2,0,2,100.0,0.0,7,12,58.3,24,7,37.5,34.5,3,100.0,51.3,14,2,14.3,0,10.7,10dc46f0,Salvatore Sirigu,Torino,True
+Napoli,Juventus,1613235600,it ITA,23-328,90,6,0,6,100.0,1.1,1,9,11.1,30,4,23.3,31.3,8,25.0,24.8,26,1,3.8,0,2.0,9413b19f,Alex Meret,Napoli,True
+Spezia,Milan,1613245500,it ITA,26-333,90,0,0,0,,0.0,6,19,31.6,29,1,55.2,41.5,6,50.0,39.7,10,0,0.0,0,,277da414,Ivan Provedel,Spezia,True
+Roma,Udinese,1613302200,es ESP,26-063,90,1,0,1,100.0,0.1,2,6,33.3,16,1,25.0,29.8,8,25.0,27.6,15,1,6.7,0,11.3,20b9f052,Pau López,Roma,True
+Sampdoria,Fiorentina,1613311200,it ITA,24-027,90,6,1,5,83.3,0.6,6,15,40.0,33,6,36.4,36.5,5,60.0,43.2,22,1,4.5,0,12.6,649b01d8,Emil Audero,Sampdoria,True
+Cagliari,Atalanta,1613311200,it ITA,26-231,90,2,1,1,50.0,0.2,8,27,29.6,25,1,72.0,47.0,9,100.0,53.7,15,1,6.7,0,7.5,f554e29b,Alessio Cragno,Cagliari,True
+Crotone,Sassuolo,1613322000,it ITA,38-044,90,4,2,2,75.0,1.3,6,14,42.9,31,3,35.5,32.9,8,37.5,29.8,14,0,0.0,0,8.0,e66ebabb,Alex Cordaz,Crotone,True
+Internazionale,Lazio,1613331900,si SVN,36-215,90,6,1,5,83.3,0.8,5,13,38.5,30,11,26.7,31.0,7,71.4,49.4,25,0,0.0,2,20.0,74419746,Samir Handanović,Internazionale,True
+Hellas Verona,Parma,1613418300,it ITA,29-350,90,2,1,1,100.0,1.1,4,21,19.0,22,1,72.7,43.1,5,100.0,60.6,10,0,0.0,1,13.5,0d422df7,Marco Silvestri,Hellas Verona,True
+Fiorentina,Spezia,1613755800,pl POL,23-184,90,2,0,2,100.0,0.9,12,25,48.0,23,4,60.9,39.7,11,100.0,62.1,13,0,0.0,2,18.3,085e71a7,Bartłomiej Drągowski,Fiorentina,True
+Cagliari,Torino,1613763900,it ITA,26-236,90,5,1,4,80.0,1.6,2,15,13.3,16,2,50.0,36.6,7,100.0,62.1,13,1,7.7,0,10.8,f554e29b,Alessio Cragno,Cagliari,True
+Lazio,Sampdoria,1613829600,es ESP,38-173,90,0,0,0,,0.0,5,12,41.7,39,4,30.8,32.4,5,0.0,13.0,24,0,0.0,2,17.3,e358587b,Pepe Reina,Lazio,True
+Genoa,Hellas Verona,1613840400,it ITA,28-102,90,3,2,1,33.3,0.9,11,28,39.3,49,1,46.9,36.8,11,45.5,36.5,10,0,0.0,3,17.3,4c62d0c8,Mattia Perin,Genoa,True
+Sassuolo,Bologna,1613850300,it ITA,34-024,90,2,1,1,50.0,0.5,2,3,66.7,19,3,10.5,21.1,5,20.0,25.8,8,0,0.0,1,15.3,8cabdc1e,Andrea Consigli,Sassuolo,True
+Parma,Udinese,1613907000,it ITA,29-289,90,3,2,1,33.3,1.2,8,16,50.0,24,3,54.2,40.9,12,25.0,32.8,22,1,4.5,0,5.0,343f753a,Luigi Sepe,Parma,True
+Milan,Internazionale,1613916000,it ITA,21-362,90,6,3,3,50.0,2.2,0,2,0.0,11,5,9.1,22.4,6,16.7,30.2,11,0,0.0,0,5.0,08f5afaa,Gianluigi Donnarumma,Milan,True
+Atalanta,Napoli,1613926800,it ITA,25-340,90,2,2,1,0.0,1.2,7,17,41.2,25,3,48.0,36.8,6,83.3,51.0,9,0,0.0,6,20.9,f0f7f62f,Pierluigi Gollini,Atalanta,True
+Benevento,Roma,1613936700,it ITA,25-001,90,3,0,3,100.0,0.3,6,18,33.3,26,4,50.0,42.7,8,62.5,39.4,30,2,6.7,0,9.0,c1d95617,Lorenzo Montipò,Benevento,True
+Juventus,Crotone,1614023100,it ITA,43-025,90,2,0,2,100.0,0.0,2,8,25.0,36,8,19.4,24.9,5,20.0,18.8,15,1,6.7,0,12.3,e40d028b,Gianluigi Buffon,Juventus,True
+Spezia,Parma,1614434400,it ITA,26-347,90,5,2,3,60.0,1.7,5,12,41.7,33,9,24.2,26.3,5,80.0,54.2,8,0,0.0,3,16.7,277da414,Ivan Provedel,Spezia,True
+Bologna,Lazio,1614445200,pl POL,29-298,90,7,0,6,100.0,2.4,3,14,21.4,31,8,41.9,36.6,10,10.0,12.7,30,0,0.0,2,21.3,ab4449d6,Łukasz Skorupski,Bologna,True
+Hellas Verona,Juventus,1614455100,it ITA,29-362,90,5,1,4,80.0,1.2,6,15,40.0,18,4,55.6,42.3,5,100.0,58.4,9,0,0.0,1,15.7,0d422df7,Marco Silvestri,Hellas Verona,True
+Sampdoria,Atalanta,1614511800,it ITA,24-041,90,8,2,6,75.0,2.3,10,21,47.6,42,4,40.5,35.6,5,80.0,50.2,13,0,0.0,0,11.0,649b01d8,Emil Audero,Sampdoria,True
+Crotone,Cagliari,1614520800,it ITA,38-058,90,4,2,2,75.0,1.7,4,7,57.1,18,3,22.2,24.5,7,42.9,31.1,12,0,0.0,1,21.0,e66ebabb,Alex Cordaz,Crotone,True
+Internazionale,Genoa,1614520800,si SVN,36-229,90,2,0,2,100.0,0.1,4,4,100.0,29,5,13.8,26.3,3,0.0,13.7,11,1,9.1,0,8.0,74419746,Samir Handanović,Internazionale,True
+Udinese,Fiorentina,1614520800,ar ARG,26-298,90,2,0,2,100.0,0.1,5,10,50.0,18,4,33.3,32.6,8,50.0,34.8,22,1,4.5,0,7.0,a111cf41,Juan Musso,Udinese,True
+Napoli,Benevento,1614531600,it ITA,23-343,90,3,0,3,100.0,0.5,1,4,25.0,20,3,15.0,26.8,2,50.0,34.0,5,0,0.0,0,11.0,9413b19f,Alex Meret,Napoli,True
+Roma,Milan,1614541500,es ESP,26-077,90,9,2,7,88.9,3.3,4,5,80.0,25,4,16.0,26.1,6,16.7,25.8,10,0,0.0,0,9.2,20b9f052,Pau López,Roma,True
+Juventus,Spezia,1614714300,pl POL,30-318,90,1,0,0,100.0,1.0,1,3,33.3,26,2,11.5,24.5,5,0.0,23.2,14,1,7.1,5,22.3,01b8a2b2,Wojciech Szczęsny,Juventus,True
+Sassuolo,Napoli,1614792600,it ITA,34-035,90,5,3,2,60.0,2.7,5,12,41.7,37,4,32.4,29.9,3,0.0,12.0,8,0,0.0,1,28.0,8cabdc1e,Andrea Consigli,Sassuolo,True
+Atalanta,Crotone,1614800700,it ITA,28-297,90,2,1,1,50.0,0.9,1,1,100.0,26,4,3.8,23.6,1,0.0,16.0,9,0,0.0,1,10.4,ac4003af,Marco Sportiello,Atalanta,True
+Benevento,Hellas Verona,1614800700,it ITA,25-011,90,4,3,2,25.0,0.9,5,18,27.8,36,6,44.4,40.0,4,50.0,43.8,14,0,0.0,0,4.5,c1d95617,Lorenzo Montipò,Benevento,True
+Genoa,Sampdoria,1614800700,it ITA,28-113,90,4,1,3,75.0,0.7,4,14,28.6,30,7,43.3,32.0,5,20.0,24.2,18,0,0.0,1,16.0,4c62d0c8,Mattia Perin,Genoa,True
+Fiorentina,Roma,1614800700,pl POL,23-196,90,6,2,4,66.7,2.0,8,16,50.0,28,7,46.4,40.3,8,37.5,34.1,15,1,6.7,2,16.0,085e71a7,Bartłomiej Drągowski,Fiorentina,True
+Milan,Udinese,1614800700,it ITA,22-006,90,1,1,0,0.0,0.0,1,1,100.0,12,0,8.3,23.1,5,0.0,17.2,4,0,0.0,0,9.0,08f5afaa,Gianluigi Donnarumma,Milan,True
+Cagliari,Bologna,1614800700,it ITA,26-248,90,5,0,5,100.0,0.4,7,27,25.9,14,0,100.0,57.2,13,100.0,61.5,13,2,15.4,0,10.0,f554e29b,Alessio Cragno,Cagliari,True
+Parma,Internazionale,1614887100,it ITA,29-300,90,6,2,4,66.7,2.6,9,14,64.3,43,4,27.9,29.5,6,33.3,28.8,9,0,0.0,0,8.7,343f753a,Luigi Sepe,Parma,True
+Spezia,Benevento,1615039200,nl NED,30-059,90,2,1,1,50.0,0.4,2,3,66.7,33,9,9.1,24.8,7,0.0,14.6,9,1,11.1,4,22.4,cc1a0c57,Jeroen Zoet,Spezia,True
+Udinese,Sassuolo,1615050000,ar ARG,26-304,90,2,0,2,100.0,1.0,8,14,57.1,20,4,60.0,39.7,5,40.0,28.6,17,4,23.5,0,5.6,a111cf41,Juan Musso,Udinese,True
+Juventus,Lazio,1615059900,pl POL,30-322,90,4,1,3,75.0,0.8,3,5,60.0,21,6,14.3,28.4,10,20.0,29.4,10,1,10.0,1,15.7,01b8a2b2,Wojciech Szczęsny,Juventus,True
+Roma,Genoa,1615116600,es ESP,26-084,90,2,0,2,100.0,0.2,5,14,35.7,40,10,22.5,33.4,6,83.3,54.2,10,0,0.0,1,25.5,20b9f052,Pau López,Roma,True
+Fiorentina,Parma,1615125600,pl POL,23-200,90,5,3,2,60.0,3.3,7,20,35.0,15,3,66.7,41.3,10,100.0,63.4,12,0,0.0,0,,085e71a7,Bartłomiej Drągowski,Fiorentina,True
+Crotone,Torino,1615125600,it ITA,38-065,90,4,2,2,50.0,1.8,12,21,57.1,30,4,50.0,40.6,11,54.5,39.7,23,1,4.3,1,15.3,e66ebabb,Alex Cordaz,Crotone,True
+Hellas Verona,Milan,1615125600,it ITA,30-005,90,3,2,1,33.3,1.3,5,24,20.8,27,5,55.6,37.6,11,81.8,54.6,6,0,0.0,3,23.3,0d422df7,Marco Silvestri,Hellas Verona,True
+Sampdoria,Cagliari,1615136400,it ITA,24-048,90,4,2,2,50.0,0.9,3,11,27.3,37,5,24.3,29.8,5,40.0,37.0,17,1,5.9,2,15.0,649b01d8,Emil Audero,Sampdoria,True
+Napoli,Bologna,1615146300,co COL,32-188,90,4,1,3,75.0,0.7,4,12,33.3,28,6,35.7,33.5,5,40.0,28.2,21,1,4.8,0,8.0,82b1198a,David Ospina,Napoli,True
+Internazionale,Atalanta,1615232700,si SVN,36-237,90,2,0,2,100.0,0.2,9,17,52.9,39,6,35.9,31.2,8,37.5,34.5,20,0,0.0,0,15.0,74419746,Samir Handanović,Internazionale,True
+Lazio,Crotone,1615557600,es ESP,38-193,90,3,2,1,66.7,2.2,1,4,25.0,17,1,23.5,28.8,3,0.0,10.3,8,0,0.0,0,14.0,e358587b,Pepe Reina,Lazio,True
+Atalanta,Spezia,1615578300,it ITA,28-306,90,3,1,2,66.7,1.4,5,8,62.5,28,4,21.4,26.4,2,100.0,58.5,9,0,0.0,7,25.1,ac4003af,Marco Sportiello,Atalanta,True
+Sassuolo,Hellas Verona,1615644000,it ITA,34-045,90,5,2,3,60.0,1.0,5,11,45.5,34,6,32.4,36.0,2,0.0,8.5,19,2,10.5,0,10.0,8cabdc1e,Andrea Consigli,Sassuolo,True
+Benevento,Fiorentina,1615654800,it ITA,25-021,90,5,4,1,20.0,2.1,3,8,37.5,20,5,40.0,37.4,3,0.0,29.0,13,0,0.0,0,,c1d95617,Lorenzo Montipò,Benevento,True
+Genoa,Udinese,1615664700,it ITA,28-123,90,3,1,2,100.0,1.6,3,12,25.0,26,5,46.2,34.3,12,0.0,15.8,11,0,0.0,0,16.5,4c62d0c8,Mattia Perin,Genoa,True
+Bologna,Sampdoria,1615721400,pl POL,29-313,90,4,1,3,75.0,1.0,7,16,43.8,35,10,45.7,35.5,11,0.0,10.1,25,1,4.0,0,10.0,ab4449d6,Łukasz Skorupski,Bologna,True
+Torino,Internazionale,1615730400,it ITA,34-061,90,3,2,1,66.7,1.7,8,26,30.8,21,2,61.9,44.5,15,86.7,56.4,21,0,0.0,0,12.0,10dc46f0,Salvatore Sirigu,Torino,True
+Parma,Roma,1615730400,it ITA,29-310,90,6,0,6,100.0,0.8,9,27,33.3,41,3,48.8,39.7,11,63.6,45.3,27,0,0.0,0,,343f753a,Luigi Sepe,Parma,True
+Cagliari,Juventus,1615741200,it ITA,26-259,90,6,3,3,66.7,2.3,2,5,40.0,20,7,15.0,22.3,6,33.3,28.3,9,1,11.1,1,22.5,f554e29b,Alessio Cragno,Cagliari,True
+Milan,Napoli,1615751100,it ITA,22-017,90,4,1,3,75.0,1.2,3,7,42.9,49,7,14.3,24.0,2,0.0,13.5,6,0,0.0,3,17.5,08f5afaa,Gianluigi Donnarumma,Milan,True
+Torino,Sassuolo,1615989600,it ITA,34-064,90,3,2,1,33.3,0.6,3,8,37.5,16,5,31.3,31.8,8,37.5,32.9,6,0,0.0,0,9.0,10dc46f0,Salvatore Sirigu,Torino,True
+Parma,Genoa,1616183100,it ITA,29-315,90,2,2,0,0.0,1.1,8,12,66.7,38,5,31.6,31.1,1,0.0,19.0,18,1,5.6,3,20.0,343f753a,Luigi Sepe,Parma,True
+Crotone,Bologna,1616248800,it ITA,38-078,90,9,3,6,66.7,3.0,10,22,45.5,31,3,61.3,40.0,8,37.5,35.1,17,0,0.0,0,18.0,e66ebabb,Alex Cordaz,Crotone,True
+Spezia,Cagliari,1616259600,nl NED,30-073,90,6,1,5,83.3,3.0,12,26,46.2,53,7,45.3,38.8,3,66.7,49.7,12,1,8.3,0,9.0,cc1a0c57,Jeroen Zoet,Spezia,True
+Hellas Verona,Atalanta,1616326200,it ITA,30-019,90,6,2,4,83.3,2.0,10,37,27.0,37,4,75.7,46.2,9,100.0,62.7,14,0,0.0,1,13.2,0d422df7,Marco Silvestri,Hellas Verona,True
+Juventus,Benevento,1616335200,pl POL,30-337,90,1,1,0,0.0,0.2,4,5,80.0,20,4,15.0,23.5,5,40.0,41.2,6,1,16.7,2,29.5,01b8a2b2,Wojciech Szczęsny,Juventus,True
+Udinese,Lazio,1616335200,ar ARG,26-319,90,6,1,5,83.3,1.3,1,3,33.3,18,5,11.1,23.9,5,20.0,24.0,21,0,0.0,0,2.0,a111cf41,Juan Musso,Udinese,True
+Sampdoria,Torino,1616335200,it ITA,24-062,90,0,0,0,,0.0,5,21,23.8,22,4,59.1,42.8,11,72.7,50.7,29,2,6.9,3,16.6,649b01d8,Emil Audero,Sampdoria,True
+Fiorentina,Milan,1616346000,pl POL,23-214,43,1,1,,0.0,0.7,5,11,45.5,8,,87.5,56.5,4,100.0,67.5,8,,,,,085e71a7,Bartłomiej Drągowski,Fiorentina,True
+Fiorentina,Milan,1616346000,it ITA,31-013,47,2,2,0,0.0,0.9,7,14,50.0,12,2,75.0,44.3,6,83.3,50.2,8,1,12.5,1,10.3,e1b0a70d,Pietro Terracciano,Fiorentina,True
+Roma,Napoli,1616355900,es ESP,26-098,90,5,2,3,60.0,0.7,2,3,66.7,33,9,9.1,25.4,5,0.0,23.2,8,0,0.0,0,,20b9f052,Pau López,Roma,True
+Milan,Sampdoria,1617445800,it ITA,22-037,90,4,1,3,75.0,0.8,2,4,50.0,34,4,11.8,25.6,2,0.0,11.5,17,2,11.8,2,16.6,08f5afaa,Gianluigi Donnarumma,Milan,True
+Napoli,Crotone,1617454800,it ITA,24-012,90,4,3,1,25.0,1.2,3,5,60.0,22,3,18.2,25.6,3,33.3,33.7,9,1,11.1,0,11.5,9413b19f,Alex Meret,Napoli,True
+Cagliari,Hellas Verona,1617454800,it ITA,26-279,90,5,2,3,60.0,1.6,8,18,44.4,21,1,76.2,44.3,4,50.0,42.8,10,0,0.0,1,38.0,f554e29b,Alessio Cragno,Cagliari,True
+Atalanta,Udinese,1617454800,it ITA,26-016,90,3,2,1,33.3,1.1,2,11,18.2,17,3,52.9,40.3,5,40.0,41.0,9,0,0.0,0,8.0,f0f7f62f,Pierluigi Gollini,Atalanta,True
+Sassuolo,Roma,1617454800,it ITA,34-066,90,8,2,6,87.5,3.0,0,3,0.0,23,6,13.0,22.5,3,0.0,15.7,10,0,0.0,0,18.0,8cabdc1e,Andrea Consigli,Sassuolo,True
+Genoa,Fiorentina,1617454800,it ITA,28-144,90,3,1,2,66.7,0.7,2,7,28.6,24,7,20.8,25.8,7,28.6,31.1,15,2,13.3,0,8.0,4c62d0c8,Mattia Perin,Genoa,True
+Lazio,Spezia,1617454800,es ESP,38-215,90,3,1,2,66.7,0.7,3,8,37.5,39,4,20.5,28.5,4,0.0,20.5,9,1,11.1,0,4.0,e358587b,Pepe Reina,Lazio,True
+Benevento,Parma,1617454800,it ITA,25-042,90,6,2,4,66.7,1.4,5,21,23.8,11,1,90.9,53.6,11,100.0,66.1,19,1,5.3,0,5.5,c1d95617,Lorenzo Montipò,Benevento,True
+Torino,Juventus,1617465600,it ITA,34-081,90,8,2,6,75.0,3.2,6,15,40.0,14,0,50.0,42.9,12,66.7,47.5,27,1,3.7,0,9.0,10dc46f0,Salvatore Sirigu,Torino,True
+Bologna,Internazionale,1617475500,it ITA,21-143,90,3,1,2,66.7,1.0,2,10,20.0,35,2,25.7,28.3,6,16.7,18.7,6,0,0.0,1,14.3,6662d731,Federico Ravaglia,Bologna,True
+Juventus,Napoli,1617813900,it ITA,43-069,90,4,1,3,100.0,1.2,6,11,54.5,35,6,25.7,29.1,8,25.0,30.5,19,0,0.0,0,6.0,e40d028b,Gianluigi Buffon,Juventus,True
+Internazionale,Sassuolo,1617813900,si SVN,36-267,90,3,1,2,66.7,0.6,3,6,50.0,22,4,27.3,30.6,8,0.0,19.5,21,0,0.0,0,,74419746,Samir Handanović,Internazionale,True
+Spezia,Crotone,1618059600,it ITA,27-024,90,5,2,3,60.0,1.5,5,11,45.5,33,5,27.3,33.5,2,100.0,75.0,10,1,10.0,1,13.8,277da414,Ivan Provedel,Spezia,True
+Parma,Milan,1618070400,it ITA,29-337,90,5,3,2,40.0,2.0,5,8,62.5,35,8,20.0,25.9,3,33.3,30.0,8,0,0.0,0,21.0,343f753a,Luigi Sepe,Parma,True
+Udinese,Torino,1618080300,ar ARG,26-339,90,1,1,0,100.0,1.0,0,1,0.0,20,2,5.0,25.2,10,0.0,22.6,10,0,0.0,2,19.8,a111cf41,Juan Musso,Udinese,True
+Internazionale,Cagliari,1618137000,si SVN,36-271,90,1,0,1,100.0,0.1,1,2,50.0,17,2,5.9,23.1,2,50.0,38.0,11,1,9.1,3,20.5,74419746,Samir Handanović,Internazionale,True
+Sampdoria,Napoli,1618146000,it ITA,24-083,90,8,2,6,75.0,1.8,10,27,37.0,35,4,54.3,40.6,9,88.9,59.3,15,0,0.0,1,17.5,649b01d8,Emil Audero,Sampdoria,True
+Hellas Verona,Lazio,1618146000,it ITA,30-040,90,1,1,0,0.0,0.3,10,28,35.7,26,4,65.4,41.4,11,100.0,60.8,15,2,13.3,0,8.4,0d422df7,Marco Silvestri,Hellas Verona,True
+Juventus,Genoa,1618146000,pl POL,30-358,90,3,1,2,66.7,0.9,1,1,100.0,24,5,4.2,19.7,6,0.0,18.3,14,0,0.0,0,10.0,01b8a2b2,Wojciech Szczęsny,Juventus,True
+Roma,Bologna,1618156800,it ITA,37-277,90,4,0,4,100.0,1.2,5,20,25.0,36,4,44.4,34.5,10,40.0,28.0,14,0,0.0,4,29.4,30223b33,Antonio Mirante,Roma,True
+Fiorentina,Atalanta,1618166700,pl POL,23-235,90,8,3,5,75.0,3.3,5,19,26.3,28,3,46.4,35.2,8,75.0,53.9,10,0,0.0,2,14.4,085e71a7,Bartłomiej Drągowski,Fiorentina,True
+Benevento,Sassuolo,1618253100,it ITA,25-051,90,5,1,5,80.0,0.6,2,18,11.1,24,6,54.2,39.3,10,50.0,41.1,13,0,0.0,0,17.0,c1d95617,Lorenzo Montipò,Benevento,True
+Sampdoria,Hellas Verona,1618664400,it ITA,24-089,90,4,1,3,75.0,1.1,7,16,43.8,21,4,52.4,41.2,9,55.6,40.1,19,0,0.0,0,16.0,649b01d8,Emil Audero,Sampdoria,True
+Crotone,Udinese,1618664400,it ITA,38-106,90,5,2,3,60.0,1.0,4,13,30.8,33,7,33.3,31.2,5,40.0,39.4,11,2,18.2,0,6.3,e66ebabb,Alex Cordaz,Crotone,True
+Sassuolo,Fiorentina,1618675200,it ITA,34-080,90,5,1,4,80.0,1.4,2,5,40.0,24,5,20.8,26.0,7,0.0,13.6,10,0,0.0,1,24.5,8cabdc1e,Andrea Consigli,Sassuolo,True
+Cagliari,Parma,1618685100,it ITA,24-192,90,5,3,2,40.0,1.2,4,6,66.7,18,7,11.1,22.9,5,80.0,48.6,13,0,0.0,0,5.0,77d6fd4d,Guglielmo Vicario,Cagliari,True
+Milan,Genoa,1618741800,it ITA,22-052,90,2,1,1,50.0,0.1,2,5,40.0,23,4,17.4,29.1,5,20.0,27.0,13,1,7.7,0,7.8,08f5afaa,Gianluigi Donnarumma,Milan,True
+Atalanta,Juventus,1618750800,it ITA,26-031,90,1,0,1,100.0,0.1,3,10,30.0,25,4,24.0,27.8,5,80.0,57.6,18,0,0.0,4,17.0,f0f7f62f,Pierluigi Gollini,Atalanta,True
+Bologna,Spezia,1618750800,pl POL,29-348,90,4,1,3,75.0,1.3,4,9,44.4,34,9,20.6,29.4,8,25.0,23.5,17,0,0.0,1,21.0,ab4449d6,Łukasz Skorupski,Bologna,True
+Lazio,Benevento,1618750800,es ESP,38-230,90,6,3,3,66.7,2.4,5,5,100.0,35,8,11.4,26.4,10,10.0,18.7,20,0,0.0,0,14.0,e358587b,Pepe Reina,Lazio,True
+Torino,Roma,1618761600,rs SRB,24-057,90,4,1,3,75.0,1.0,6,21,28.6,33,4,51.5,42.8,5,80.0,62.6,7,0,0.0,3,20.5,9fa26bc2,Vanja Milinković-Savić,Torino,True
+Napoli,Internazionale,1618771500,it ITA,24-027,90,2,1,1,50.0,0.5,3,3,100.0,18,1,11.1,29.9,6,16.7,22.8,8,0,0.0,2,19.8,9413b19f,Alex Meret,Napoli,True
+Hellas Verona,Fiorentina,1618944300,it ITA,30-049,90,4,2,2,75.0,1.6,0,5,0.0,14,3,21.4,32.0,6,33.3,38.2,9,0,0.0,0,3.0,0d422df7,Marco Silvestri,Hellas Verona,True
+Milan,Sassuolo,1619022600,it ITA,22-055,90,5,2,3,60.0,1.3,3,7,42.9,32,2,18.8,26.3,2,50.0,33.5,9,0,0.0,4,28.8,08f5afaa,Gianluigi Donnarumma,Milan,True
+Bologna,Torino,1619030700,pl POL,29-351,90,3,1,2,66.7,2.1,4,11,36.4,16,1,18.8,27.5,16,50.0,33.4,20,0,0.0,0,14.5,ab4449d6,Łukasz Skorupski,Bologna,True
+Crotone,Sampdoria,1619030700,it ITA,38-110,90,5,1,4,80.0,1.4,7,29,24.1,39,5,53.8,37.4,10,80.0,51.8,13,2,15.4,1,13.7,e66ebabb,Alex Cordaz,Crotone,True
+Genoa,Benevento,1619030700,it ITA,28-162,90,2,2,0,50.0,1.3,0,4,0.0,16,3,18.8,26.9,5,20.0,32.0,5,0,0.0,0,,4c62d0c8,Mattia Perin,Genoa,True
+Spezia,Internazionale,1619030700,it ITA,27-035,90,5,1,4,80.0,2.3,9,24,37.5,56,8,32.1,35.8,11,54.5,44.5,17,0,0.0,0,10.7,277da414,Ivan Provedel,Spezia,True
+Udinese,Cagliari,1619030700,ar ARG,26-350,90,4,1,3,100.0,1.1,1,4,25.0,16,4,18.8,23.9,9,11.1,16.6,15,1,6.7,2,18.0,a111cf41,Juan Musso,Udinese,True
+Juventus,Parma,1619030700,it ITA,43-083,90,2,1,1,50.0,0.9,3,9,33.3,42,6,16.7,27.3,5,40.0,37.2,20,0,0.0,0,15.0,e40d028b,Gianluigi Buffon,Juventus,True
+Roma,Atalanta,1619109000,es ESP,26-130,90,8,1,7,87.5,1.2,4,15,26.7,43,6,20.9,28.5,14,42.9,38.1,10,0,0.0,0,,20b9f052,Pau López,Roma,True
+Napoli,Lazio,1619117100,it ITA,24-031,90,3,2,1,33.3,1.5,1,2,50.0,17,4,5.9,25.0,8,12.5,23.4,13,0,0.0,0,7.7,9413b19f,Alex Meret,Napoli,True
+Genoa,Spezia,1619269200,it ITA,28-165,90,1,0,1,100.0,0.1,10,24,41.7,29,3,58.6,43.6,10,70.0,42.0,12,1,8.3,1,15.0,4c62d0c8,Mattia Perin,Genoa,True
+Parma,Crotone,1619280000,it ITA,29-297,90,4,4,0,25.0,2.9,5,10,50.0,16,4,31.3,27.7,6,83.3,57.8,9,0,0.0,0,4.0,72be9309,Simone Colombi,Parma,True
+Sassuolo,Sampdoria,1619289900,it ITA,34-087,90,2,0,2,100.0,0.2,3,7,42.9,38,4,18.4,26.9,8,0.0,14.9,8,0,0.0,0,,8cabdc1e,Andrea Consigli,Sassuolo,True
+Benevento,Udinese,1619346600,it ITA,25-064,90,5,4,1,20.0,2.0,2,6,33.3,24,8,25.0,26.5,4,0.0,26.0,7,0,0.0,3,24.0,c1d95617,Lorenzo Montipò,Benevento,True
+Internazionale,Hellas Verona,1619355600,si SVN,36-285,90,1,0,1,100.0,0.1,5,10,50.0,33,3,21.2,25.2,9,33.3,34.0,17,0,0.0,0,,74419746,Samir Handanović,Internazionale,True
+Fiorentina,Juventus,1619355600,pl POL,23-249,90,1,1,0,0.0,0.6,8,27,29.6,24,6,62.5,43.5,12,100.0,63.2,13,2,15.4,0,8.7,085e71a7,Bartłomiej Drągowski,Fiorentina,True
+Cagliari,Roma,1619366400,it ITA,24-200,90,7,2,5,71.4,1.7,6,17,35.3,21,4,57.1,44.2,5,100.0,62.0,17,0,0.0,0,,77d6fd4d,Guglielmo Vicario,Cagliari,True
+Atalanta,Bologna,1619376300,it ITA,26-038,90,3,0,3,100.0,1.3,0,6,0.0,14,1,28.6,32.4,6,33.3,40.7,5,0,0.0,2,23.5,f0f7f62f,Pierluigi Gollini,Atalanta,True
+Torino,Napoli,1619454600,it ITA,34-104,90,7,2,5,71.4,2.2,2,4,50.0,20,2,15.0,29.3,11,9.1,22.5,19,0,0.0,0,6.7,10dc46f0,Salvatore Sirigu,Torino,True
+Lazio,Milan,1619462700,es ESP,38-238,90,5,0,5,100.0,1.4,8,22,36.4,37,6,43.2,37.2,8,75.0,46.5,22,1,4.5,0,11.0,e358587b,Pepe Reina,Lazio,True
+Hellas Verona,Spezia,1619874000,it ITA,30-060,90,2,1,1,50.0,0.8,5,20,25.0,22,3,63.6,43.7,8,75.0,55.9,15,2,13.3,0,5.6,0d422df7,Marco Silvestri,Hellas Verona,True
+Crotone,Internazionale,1619884800,it ITA,38-120,90,5,2,3,60.0,1.9,7,16,43.8,22,3,45.5,36.8,9,66.7,45.6,24,0,0.0,1,18.3,e66ebabb,Alex Cordaz,Crotone,True
+Milan,Benevento,1619894700,it ITA,22-065,90,1,0,1,100.0,0.3,2,2,100.0,21,6,9.5,25.7,11,0.0,15.5,24,1,4.2,0,7.3,08f5afaa,Gianluigi Donnarumma,Milan,True
+Lazio,Genoa,1619951400,es ESP,38-244,90,5,3,3,60.0,1.5,5,7,71.4,31,6,22.6,32.9,5,0.0,19.4,19,0,0.0,0,,e358587b,Pepe Reina,Lazio,True
+Napoli,Cagliari,1619960400,it ITA,24-041,90,4,1,3,75.0,1.9,0,3,0.0,17,2,17.6,24.0,1,0.0,27.0,12,0,0.0,1,15.4,9413b19f,Alex Meret,Napoli,True
+Bologna,Fiorentina,1619960400,pl POL,29-362,90,3,3,0,33.3,2.8,0,2,0.0,11,4,18.2,32.3,6,0.0,17.8,18,0,0.0,0,7.5,ab4449d6,Łukasz Skorupski,Bologna,True
+Sassuolo,Atalanta,1619960400,it ITA,34-095,90,7,1,5,85.7,2.6,2,9,22.2,41,5,22.0,25.5,2,0.0,22.0,7,1,14.3,2,13.8,8cabdc1e,Andrea Consigli,Sassuolo,True
+Udinese,Juventus,1619971200,it ITA,24-336,90,4,2,2,75.0,1.7,8,17,47.1,19,5,52.6,39.1,9,77.8,48.6,26,0,0.0,0,5.7,41bd99ea,Simone Scuffet,Udinese,True
+Sampdoria,Roma,1619981100,it ITA,24-104,90,3,0,2,100.0,1.1,6,16,37.5,27,1,40.7,35.9,5,100.0,60.6,13,0,0.0,0,10.0,649b01d8,Emil Audero,Sampdoria,True
+Torino,Parma,1620067500,it ITA,34-111,90,1,0,1,100.0,0.0,9,18,50.0,19,1,57.9,38.2,9,77.8,48.0,10,0,0.0,2,29.5,10dc46f0,Salvatore Sirigu,Torino,True
+Udinese,Bologna,1620478800,ar ARG,27-002,90,4,1,3,100.0,2.1,6,15,40.0,14,1,71.4,41.6,14,35.7,34.8,11,1,9.1,0,5.0,a111cf41,Juan Musso,Udinese,True
+Spezia,Napoli,1620478800,it ITA,27-052,90,6,4,2,33.3,2.4,4,16,25.0,54,6,24.1,27.7,5,60.0,43.4,8,0,0.0,4,24.0,277da414,Ivan Provedel,Spezia,True
+Internazionale,Sampdoria,1620489600,si SVN,36-298,45,2,1,1,50.0,0.9,,,,23,2,,18.8,1,,14.0,10,,,,1.0,74419746,Samir Handanović,Internazionale,True
+Internazionale,Sampdoria,1620489600,ro ROU,23-345,45,1,0,1,100.0,0.0,0,1,0.0,18,3,5.6,19.2,2,0.0,14.0,9,0,0.0,2,15.5,67f649be,Ionuț Radu,Internazionale,True
+Fiorentina,Lazio,1620499500,pl POL,23-262,90,3,0,3,100.0,0.6,12,29,41.4,28,6,71.4,50.5,9,100.0,67.7,22,1,4.5,0,5.7,085e71a7,Bartłomiej Drągowski,Fiorentina,True
+Genoa,Sassuolo,1620556200,it ITA,28-180,90,6,2,4,66.7,1.8,3,8,37.5,25,5,28.0,31.0,5,20.0,27.6,6,0,0.0,1,22.0,4c62d0c8,Mattia Perin,Genoa,True
+Hellas Verona,Torino,1620565200,hr CRO,21-045,90,3,1,2,66.7,1.0,1,11,9.1,22,3,40.9,33.0,2,100.0,61.5,17,2,11.8,0,8.8,457cb02f,Ivor Pandur,Hellas Verona,True
+Parma,Atalanta,1620565200,it ITA,30-001,90,12,5,7,58.3,4.6,10,24,41.7,43,5,51.2,38.8,6,33.3,29.2,10,0,0.0,0,,343f753a,Luigi Sepe,Parma,True
+Benevento,Cagliari,1620565200,it ITA,25-078,90,3,3,0,0.0,2.0,3,8,37.5,18,3,38.9,33.1,3,33.3,36.0,12,3,25.0,1,9.5,c1d95617,Lorenzo Montipò,Benevento,True
+Roma,Crotone,1620576000,br BRA,23-309,90,2,0,2,100.0,0.1,0,8,0.0,17,3,35.3,35.7,5,40.0,43.2,5,0,0.0,0,11.0,82328faf,Daniel Fuzato,Roma,True
+Juventus,Milan,1620585900,pl POL,31-021,90,5,3,1,40.0,2.4,3,4,75.0,37,4,8.1,23.0,3,33.3,29.7,8,0,0.0,3,17.9,01b8a2b2,Wojciech Szczęsny,Juventus,True
+Napoli,Udinese,1620758700,it ITA,24-050,90,1,1,0,0.0,0.4,1,1,100.0,13,1,7.7,23.2,3,0.0,17.3,9,1,11.1,1,13.5,9413b19f,Alex Meret,Napoli,True
+Cagliari,Fiorentina,1620837000,it ITA,26-318,90,0,0,0,,0.0,1,4,25.0,5,1,0.0,21.2,6,66.7,50.2,11,0,0.0,0,4.0,f554e29b,Alessio Cragno,Cagliari,True
+Atalanta,Benevento,1620845100,it ITA,26-055,90,0,0,0,,0.0,2,5,40.0,21,4,14.3,30.6,3,66.7,45.0,10,1,10.0,0,7.0,f0f7f62f,Pierluigi Gollini,Atalanta,True
+Sampdoria,Spezia,1620845100,it ITA,24-114,90,6,2,4,66.7,1.3,2,9,22.2,38,2,15.8,24.0,7,42.9,35.6,10,0,0.0,0,13.3,649b01d8,Emil Audero,Sampdoria,True
+Internazionale,Roma,1620845100,ro ROU,23-349,90,5,1,4,80.0,0.4,0,1,0.0,29,9,3.4,22.2,7,0.0,13.9,19,0,0.0,1,11.7,67f649be,Ionuț Radu,Internazionale,True
+Sassuolo,Juventus,1620845100,it ITA,34-105,90,7,3,4,57.1,1.7,3,7,42.9,27,4,18.5,25.7,6,33.3,27.3,12,2,16.7,0,8.3,8cabdc1e,Andrea Consigli,Sassuolo,True
+Torino,Milan,1620845100,it ITA,34-120,90,8,7,1,25.0,5.2,2,7,28.6,14,4,28.6,26.5,4,75.0,53.0,7,0,0.0,0,12.0,10dc46f0,Salvatore Sirigu,Torino,True
+Bologna,Genoa,1620845100,it ITA,21-182,90,7,2,5,85.7,2.0,0,0,,23,8,0.0,14.9,6,0.0,22.0,8,0,0.0,1,30.0,6662d731,Federico Ravaglia,Bologna,True
+Lazio,Parma,1620845100,al ALB,26-054,90,4,0,4,100.0,0.8,2,5,40.0,16,4,25.0,25.8,12,8.3,21.0,12,0,0.0,0,20.0,339fe0e8,Thomas Strakosha,Lazio,True
+Crotone,Hellas Verona,1620931500,it ITA,38-132,90,3,1,3,66.7,0.2,6,25,24.0,25,4,60.0,44.2,11,90.9,51.6,23,1,4.3,0,6.0,e66ebabb,Alex Cordaz,Crotone,True
+Spezia,Torino,1621083600,nl NED,30-129,90,3,1,2,100.0,1.6,6,21,28.6,36,9,47.2,37.6,4,100.0,71.0,22,3,13.6,2,15.7,cc1a0c57,Jeroen Zoet,Spezia,True
+Genoa,Atalanta,1621083600,it ITA,38-097,90,6,4,2,33.3,3.3,0,7,0.0,36,6,8.3,20.3,9,44.4,29.0,9,0,0.0,3,21.8,f794b426,Federico Marchetti,Genoa,True
+Juventus,Internazionale,1621094400,pl POL,31-027,90,3,2,2,66.7,1.6,8,13,61.5,33,3,33.3,33.5,7,28.6,37.3,10,0,0.0,3,26.7,01b8a2b2,Wojciech Szczęsny,Juventus,True
+Roma,Lazio,1621104300,br BRA,23-315,90,4,0,4,100.0,0.6,5,10,50.0,23,8,34.8,36.0,5,40.0,43.6,11,1,9.1,0,2.0,82328faf,Daniel Fuzato,Roma,True
+Fiorentina,Napoli,1621161000,it ITA,31-069,90,6,2,4,66.7,1.3,8,22,36.4,18,4,61.1,47.7,11,100.0,66.7,17,0,0.0,0,15.5,e1b0a70d,Pietro Terracciano,Fiorentina,True
+Benevento,Crotone,1621170000,it ITA,25-085,90,2,1,1,50.0,1.0,3,7,42.9,23,7,26.1,29.5,3,33.3,36.3,10,1,10.0,2,13.5,c1d95617,Lorenzo Montipò,Benevento,True
+Udinese,Sampdoria,1621170000,ar ARG,27-010,90,6,1,5,100.0,1.2,4,10,40.0,23,9,39.1,31.5,8,12.5,23.8,8,1,12.5,0,4.0,a111cf41,Juan Musso,Udinese,True
+Parma,Sassuolo,1621180800,it ITA,30-008,90,9,3,6,77.8,2.7,11,17,64.7,35,7,45.7,36.4,5,20.0,30.8,16,0,0.0,0,14.7,343f753a,Luigi Sepe,Parma,True
+Milan,Cagliari,1621190700,it ITA,22-080,90,2,0,2,100.0,0.4,1,6,16.7,25,3,24.0,26.7,6,0.0,19.8,18,1,5.6,3,26.8,08f5afaa,Gianluigi Donnarumma,Milan,True
+Hellas Verona,Bologna,1621277100,hr CRO,21-053,90,5,2,3,60.0,2.3,10,27,37.0,27,2,70.4,42.5,8,100.0,61.5,12,1,8.3,2,19.0,457cb02f,Ivor Pandur,Hellas Verona,True
+Lazio,Torino,1621362600,al ALB,26-060,90,3,0,3,100.0,0.2,5,5,100.0,22,5,18.2,27.3,7,14.3,26.7,5,0,0.0,2,18.5,339fe0e8,Thomas Strakosha,Lazio,True
+Cagliari,Genoa,1621709100,it ITA,26-328,90,5,1,4,80.0,1.9,2,6,33.3,18,3,16.7,24.7,5,60.0,51.2,9,0,0.0,1,20.5,f554e29b,Alessio Cragno,Cagliari,True
+Crotone,Fiorentina,1621709100,it ITA,19-328,90,1,0,1,100.0,0.4,7,11,63.6,29,4,27.6,26.3,11,27.3,28.0,14,0,0.0,1,18.7,4dea2f2c,Gian Crespi,Crotone,True
+Sampdoria,Parma,1621709100,hr CRO,24-100,90,1,0,1,100.0,0.2,1,5,20.0,29,7,13.8,25.6,5,20.0,33.6,17,0,0.0,1,11.0,4a6914ff,Karlo Letica,Sampdoria,True
+Internazionale,Udinese,1621774800,si SVN,36-313,45,,,,,0.0,1,3,33.3,16,,,30.6,1,,34.0,4,,,,,74419746,Samir Handanović,Internazionale,True
+Internazionale,Udinese,1621774800,it ITA,35-210,45,2,1,1,100.0,1.3,0,0,,9,1,0.0,17.9,4,0.0,14.5,5,0,0.0,1,20.0,cf1c23d8,Daniele Padelli,Internazionale,True
+Napoli,Hellas Verona,1621795500,it ITA,24-062,90,3,1,2,66.7,0.5,1,2,50.0,20,8,10.0,26.7,5,0.0,17.6,10,1,10.0,0,10.5,9413b19f,Alex Meret,Napoli,True
+Torino,Benevento,1621795500,xk KVX,32-322,90,3,1,2,66.7,0.3,2,5,40.0,20,5,25.0,30.9,6,0.0,26.0,19,0,0.0,0,11.5,96640846,Samir Ujkani,Torino,True
+Bologna,Juventus,1621795500,pl POL,30-018,90,9,4,5,55.6,3.7,8,11,72.7,28,4,35.7,31.3,9,11.1,19.6,6,0,0.0,1,10.3,ab4449d6,Łukasz Skorupski,Bologna,True
+Spezia,Roma,1621795500,br BRA,39-081,90,10,2,8,80.0,2.8,4,14,28.6,44,3,29.5,30.5,6,16.7,28.7,12,0,0.0,2,21.5,dd06d56c,Rafael,Spezia,True
+Atalanta,Milan,1621795500,it ITA,26-066,90,2,2,0,100.0,2.0,0,1,0.0,26,5,3.8,25.3,3,0.0,19.3,4,0,0.0,1,22.5,f0f7f62f,Pierluigi Gollini,Atalanta,True
+Sassuolo,Lazio,1621795500,it ITA,34-116,90,2,0,2,100.0,0.2,1,5,20.0,36,6,13.9,23.3,11,0.0,13.6,18,2,11.1,0,10.0,8cabdc1e,Andrea Consigli,Sassuolo,True
+Fiorentina,Torino,1600531200,it ITA,33-251,90,5,1,4,80.0,1.8,4,8,50.0,32,7,15.6,26.1,7,42.9,28.6,15,0,0.0,0,6.5,10dc46f0,Salvatore Sirigu,,True
+Parma,Napoli,1600597800,co COL,32-020,90,2,0,2,100.0,0.1,2,5,40.0,26,5,15.4,28.2,3,33.3,27.0,9,2,22.2,1,13.7,82b1198a,David Ospina,,True
+Genoa,Crotone,1600606800,it ITA,37-263,90,6,4,2,33.3,3.0,2,5,40.0,20,3,15.0,23.2,6,33.3,25.7,9,0,0.0,3,32.0,e66ebabb,Alex Cordaz,,True
+Sassuolo,Cagliari,1600617600,it ITA,26-084,90,9,1,8,88.9,1.6,7,15,46.7,17,7,35.3,31.2,16,56.3,41.2,18,0,0.0,0,,f554e29b,Alessio Cragno,,True
+Juventus,Sampdoria,1600627500,it ITA,23-246,90,8,3,5,62.5,2.6,4,10,40.0,24,6,37.5,34.0,8,12.5,29.9,12,0,0.0,1,9.3,649b01d8,Emil Audero,,True
+Milan,Bologna,1600713900,pl POL,29-139,90,5,2,3,80.0,1.4,6,15,40.0,32,3,40.6,35.1,10,20.0,30.0,19,0,0.0,0,11.7,ab4449d6,Łukasz Skorupski,,True
+Torino,Atalanta,1601125200,it ITA,28-139,90,4,2,2,50.0,1.5,5,9,55.6,20,5,25.0,27.5,4,100.0,57.3,12,1,8.3,1,17.0,ac4003af,Marco Sportiello,,True
+Sampdoria,Benevento,1601136000,it ITA,24-219,90,3,2,1,33.3,1.1,8,17,47.1,39,9,35.9,34.2,6,50.0,41.2,20,1,5.0,0,6.5,c1d95617,Lorenzo Montipò,,True
+Cagliari,Lazio,1601136000,al ALB,25-191,90,2,0,2,100.0,0.4,6,15,40.0,27,5,51.9,39.3,10,10.0,23.1,10,1,10.0,0,2.0,339fe0e8,Thomas Strakosha,,True
+Internazionale,Fiorentina,1601145900,pl POL,23-038,90,8,4,5,50.0,1.9,5,22,22.7,32,6,59.4,44.6,11,27.3,29.3,18,0,0.0,1,14.0,085e71a7,Bartłomiej Drągowski,,True
+Spezia,Sassuolo,1601202600,it ITA,33-244,90,5,1,4,80.0,1.2,7,9,77.8,33,5,24.2,26.6,4,25.0,18.0,10,0,0.0,2,26.5,8cabdc1e,Andrea Consigli,,True
+Hellas Verona,Udinese,1601211600,ar ARG,26-144,90,2,1,1,50.0,0.8,6,13,46.2,25,4,40.0,32.6,10,30.0,31.3,9,2,22.2,1,14.6,a111cf41,Juan Musso,,True
+Crotone,Milan,1601222400,it ITA,21-215,90,0,0,0,,0.0,5,18,27.8,25,4,48.0,36.0,9,66.7,43.6,17,1,5.9,1,11.8,08f5afaa,Gianluigi Donnarumma,,True
+Napoli,Genoa,1601222400,it ITA,37-233,90,9,6,3,33.3,4.3,3,10,30.0,22,5,31.8,32.0,7,42.9,34.1,11,0,0.0,0,6.5,f794b426,Federico Marchetti,,True
+Roma,Juventus,1601232300,pl POL,30-162,90,5,2,3,80.0,2.9,3,3,100.0,43,6,7.0,22.6,4,0.0,16.5,10,0,0.0,2,28.0,01b8a2b2,Wojciech Szczęsny,,True
+Bologna,Parma,1601318700,it ITA,29-143,90,8,4,4,50.0,2.4,1,6,16.7,23,6,8.7,25.2,6,66.7,46.8,13,1,7.7,0,4.0,343f753a,Luigi Sepe,,True
+Benevento,Internazionale,1601481600,si SVN,36-078,90,5,2,3,60.0,1.6,0,2,0.0,27,4,3.7,23.9,6,16.7,26.3,14,0,0.0,3,18.2,74419746,Samir Handanović,,True
+Udinese,Spezia,1601481600,nl NED,29-268,63,,,,,0.0,1,6,16.7,26,2,19.2,30.2,3,33.3,38.0,5,1,20.0,,5.5,cc1a0c57,Jeroen Zoet,,True
+Udinese,Spezia,1601481600,br BRA,38-211,27,3,0,3,100.0,0.6,3,5,60.0,10,2,40.0,29.3,4,25.0,24.5,7,1,14.3,0,7.5,dd06d56c,Rafael,,True
+Lazio,Atalanta,1601491500,it ITA,28-143,90,5,1,4,80.0,1.8,2,10,20.0,24,6,25.0,33.0,4,100.0,62.5,16,1,6.3,1,8.9,ac4003af,Marco Sportiello,,True
+Fiorentina,Sampdoria,1601664300,it ITA,23-258,90,5,1,4,80.0,1.2,8,20,40.0,26,6,38.5,37.8,15,66.7,44.9,23,0,0.0,1,28.0,649b01d8,Emil Audero,,True
+Sassuolo,Crotone,1601730000,it ITA,37-276,90,4,4,0,25.0,2.4,3,7,42.9,21,5,33.3,30.6,4,0.0,18.0,6,0,0.0,1,18.0,e66ebabb,Alex Cordaz,,True
+Udinese,Roma,1601750700,it ITA,37-087,90,4,0,4,100.0,0.6,5,9,55.6,29,6,24.1,33.0,8,25.0,31.1,18,0,0.0,3,20.8,30223b33,Antonio Mirante,,True
+Atalanta,Cagliari,1601807400,it ITA,26-098,90,12,5,7,58.3,4.8,3,16,18.8,34,5,41.2,33.1,7,28.6,29.7,6,1,16.7,0,15.0,f554e29b,Alessio Cragno,,True
+Benevento,Bologna,1601816400,pl POL,29-152,90,2,1,1,50.0,1.0,2,6,33.3,21,2,28.6,27.1,5,0.0,19.0,6,0,0.0,2,15.5,ab4449d6,Łukasz Skorupski,,True
+Parma,Hellas Verona,1601816400,it ITA,29-216,90,4,1,3,75.0,1.3,2,3,66.7,22,5,13.6,22.0,7,0.0,22.0,6,0,0.0,1,18.0,0d422df7,Marco Silvestri,,True
+Lazio,Internazionale,1601816400,si SVN,36-082,90,4,1,3,75.0,0.8,1,1,100.0,13,3,7.7,22.8,8,0.0,24.4,12,0,0.0,0,17.0,74419746,Samir Handanović,,True
+Milan,Spezia,1601827200,br BRA,38-215,90,5,3,2,40.0,2.4,5,16,31.3,37,5,37.8,35.5,6,33.3,29.2,18,0,0.0,0,5.0,dd06d56c,Rafael,,True
+Napoli,Atalanta,1602939600,it ITA,28-160,90,11,4,7,63.6,2.5,4,8,50.0,23,13,13.0,25.0,5,100.0,65.2,13,1,7.7,0,3.5,ac4003af,Marco Sportiello,,True
+Sampdoria,Lazio,1602950400,al ALB,25-212,90,7,3,4,57.1,2.4,8,9,88.9,32,5,28.1,26.5,4,0.0,23.3,20,0,0.0,1,11.0,339fe0e8,Thomas Strakosha,,True
+Internazionale,Milan,1602950400,it ITA,21-235,90,5,1,4,80.0,1.3,5,15,33.3,23,4,39.1,35.3,7,85.7,54.4,14,0,0.0,0,7.7,08f5afaa,Gianluigi Donnarumma,,True
+Crotone,Juventus,1602960300,it ITA,42-263,90,3,1,2,100.0,1.1,6,10,60.0,27,7,29.6,32.9,8,25.0,29.3,16,0,0.0,6,21.4,e40d028b,Gianluigi Buffon,,True
+Bologna,Sassuolo,1603017000,it ITA,33-265,90,6,3,3,50.0,2.1,7,17,41.2,32,5,46.9,38.4,7,28.6,30.1,18,1,5.6,2,18.4,8cabdc1e,Andrea Consigli,,True
+Torino,Cagliari,1603026000,it ITA,26-112,90,6,2,4,83.3,1.6,3,11,27.3,21,5,33.3,35.2,5,80.0,49.8,15,1,6.7,0,5.5,f554e29b,Alessio Cragno,,True
+Spezia,Fiorentina,1603026000,pl POL,23-060,90,2,2,0,0.0,0.9,5,14,35.7,29,3,44.8,36.7,4,25.0,37.5,9,0,0.0,0,7.0,085e71a7,Bartłomiej Drągowski,,True
+Udinese,Parma,1603036800,it ITA,29-163,90,4,3,2,25.0,1.1,2,8,25.0,28,6,25.0,35.4,7,14.3,30.9,31,2,6.5,0,5.0,343f753a,Luigi Sepe,,True
+Roma,Benevento,1603046700,it ITA,24-241,90,7,5,2,42.9,4.5,9,15,60.0,27,3,33.3,31.7,6,100.0,53.7,14,0,0.0,0,7.0,c1d95617,Lorenzo Montipò,,True
+Hellas Verona,Genoa,1603133100,it ITA,27-344,90,10,0,10,100.0,1.7,8,20,40.0,29,8,44.8,33.8,11,63.6,45.1,40,1,2.5,0,4.0,4c62d0c8,Mattia Perin,,True
+Sassuolo,Torino,1603478700,it ITA,33-285,90,6,3,3,50.0,2.4,1,8,12.5,14,4,35.7,33.2,9,33.3,33.8,12,0,0.0,0,5.0,10dc46f0,Salvatore Sirigu,,True
+Atalanta,Sampdoria,1603544400,it ITA,23-280,90,5,1,4,100.0,1.7,8,15,53.3,22,6,50.0,38.9,9,44.4,33.1,19,0,0.0,0,10.0,649b01d8,Emil Audero,,True
+Genoa,Internazionale,1603555200,si SVN,36-102,90,0,0,0,,0.0,2,5,40.0,25,0,20.0,28.2,1,0.0,24.0,5,0,0.0,0,9.5,74419746,Samir Handanović,,True
+Lazio,Bologna,1603565100,pl POL,29-172,90,3,2,1,33.3,1.1,0,4,0.0,20,6,20.0,27.8,3,0.0,19.0,16,1,6.3,2,12.2,ab4449d6,Łukasz Skorupski,,True
+Cagliari,Crotone,1603625400,it ITA,37-298,90,8,4,4,50.0,2.5,1,6,16.7,51,4,9.8,23.3,9,11.1,20.2,9,0,0.0,1,24.0,e66ebabb,Alex Cordaz,,True
+Parma,Spezia,1603634400,it ITA,26-222,90,6,2,4,83.3,3.7,11,17,64.7,34,5,38.2,31.6,9,44.4,42.7,20,0,0.0,0,10.6,277da414,Ivan Provedel,,True
+Benevento,Napoli,1603634400,it ITA,23-217,90,3,1,2,66.7,0.9,3,5,60.0,19,5,15.8,25.7,6,33.3,35.5,10,0,0.0,1,14.0,9413b19f,Alex Meret,,True
+Fiorentina,Udinese,1603645200,br BRA,32-196,90,3,3,0,0.0,2.2,1,4,25.0,16,3,12.5,26.0,3,66.7,52.3,10,0,0.0,0,,326d09ef,Nícolas Andrade,,True
+Juventus,Hellas Verona,1603655100,it ITA,29-237,90,6,1,5,83.3,1.4,7,27,25.9,19,1,84.2,50.8,12,91.7,62.0,11,0,0.0,0,8.3,0d422df7,Marco Silvestri,,True
+Milan,Roma,1603741500,it ITA,37-110,90,8,3,5,75.0,2.7,4,13,30.8,27,4,37.0,35.7,4,75.0,52.5,15,0,0.0,0,8.0,30223b33,Antonio Mirante,,True
+Crotone,Atalanta,1604152800,it ITA,28-174,90,1,1,0,0.0,0.2,3,7,42.9,22,5,27.3,31.7,3,33.3,36.7,4,1,25.0,1,14.0,ac4003af,Marco Sportiello,,True
+Internazionale,Parma,1604163600,it ITA,29-176,90,9,2,7,77.8,1.4,13,22,59.1,28,6,46.4,37.8,16,56.3,42.6,36,1,2.8,0,7.7,343f753a,Luigi Sepe,,True
+Bologna,Cagliari,1604173500,it ITA,26-125,90,9,3,6,66.7,2.4,5,7,71.4,13,6,15.4,26.2,8,62.5,35.5,10,1,10.0,0,3.0,f554e29b,Alessio Cragno,,True
+Udinese,Milan,1604230200,it ITA,21-250,90,2,1,1,100.0,1.0,2,5,40.0,17,6,29.4,28.4,6,0.0,18.3,14,0,0.0,2,24.0,08f5afaa,Gianluigi Donnarumma,,True
+Torino,Lazio,1604239200,es ESP,38-062,90,4,3,1,50.0,2.4,1,2,50.0,18,4,5.6,23.5,5,20.0,22.6,10,0,0.0,1,22.0,e358587b,Pepe Reina,,True
+Spezia,Juventus,1604239200,it ITA,42-278,90,3,1,2,66.7,0.3,0,5,0.0,31,5,16.1,25.5,11,0.0,14.4,14,0,0.0,2,18.3,e40d028b,Gianluigi Buffon,,True
+Napoli,Sassuolo,1604250000,it ITA,33-279,90,6,0,6,100.0,1.0,6,9,66.7,38,13,13.2,24.8,13,30.8,24.8,24,4,16.7,1,11.4,8cabdc1e,Andrea Consigli,,True
+Roma,Fiorentina,1604250000,pl POL,23-074,90,6,2,4,66.7,2.3,2,7,28.6,23,6,30.4,29.3,8,0.0,15.6,15,2,13.3,1,11.4,085e71a7,Bartłomiej Drągowski,,True
+Sampdoria,Genoa,1604259900,it ITA,27-357,90,3,1,2,66.7,0.7,4,15,26.7,31,6,32.3,31.4,8,62.5,44.4,18,0,0.0,3,21.8,4c62d0c8,Mattia Perin,,True
+Hellas Verona,Benevento,1604346300,it ITA,24-256,90,6,3,3,50.0,3.1,7,19,36.8,34,7,50.0,37.6,6,33.3,25.5,11,1,9.1,2,15.2,c1d95617,Lorenzo Montipò,,True
+Genoa,Torino,1604505600,it ITA,33-297,90,2,1,1,50.0,0.3,5,11,45.5,29,4,24.1,26.7,7,57.1,35.0,27,1,3.7,0,10.0,10dc46f0,Salvatore Sirigu,,True
+Sassuolo,Udinese,1604691900,ar ARG,26-184,90,1,0,1,100.0,0.1,3,8,37.5,19,6,21.1,30.1,5,80.0,41.2,14,1,7.1,0,4.0,a111cf41,Juan Musso,,True
+Cagliari,Sampdoria,1604757600,it ITA,23-294,90,5,2,3,80.0,2.0,4,11,36.4,35,6,31.4,30.0,4,0.0,27.8,8,1,12.5,1,14.0,649b01d8,Emil Audero,,True
+Benevento,Spezia,1604768400,it ITA,26-235,90,1,0,1,100.0,0.2,6,14,42.9,41,4,31.7,34.3,1,100.0,61.0,9,0,0.0,4,23.8,277da414,Ivan Provedel,,True
+Parma,Fiorentina,1604778300,pl POL,23-080,90,0,0,0,,0.0,0,0,,15,5,0.0,24.0,7,0.0,19.0,8,0,0.0,0,3.5,085e71a7,Bartłomiej Drągowski,,True
+Lazio,Juventus,1604835000,pl POL,30-204,90,4,1,3,75.0,1.1,3,4,75.0,22,5,18.2,27.0,11,0.0,17.5,18,0,0.0,0,,01b8a2b2,Wojciech Szczęsny,,True
+Torino,Crotone,1604844000,it ITA,37-312,90,0,0,0,,0.0,2,5,40.0,30,4,10.0,24.9,7,28.6,34.3,16,0,0.0,3,22.3,e66ebabb,Alex Cordaz,,True
+Genoa,Roma,1604844000,es ESP,25-331,90,5,1,4,80.0,1.1,4,12,33.3,39,5,28.2,30.2,3,33.3,28.3,7,1,14.3,3,21.3,20b9f052,Pau López,,True
+Atalanta,Internazionale,1604844000,si SVN,36-117,90,2,1,1,50.0,0.6,1,4,25.0,23,3,13.0,22.6,4,25.0,26.0,9,0,0.0,0,1.0,74419746,Samir Handanović,,True
+Bologna,Napoli,1604854800,co COL,32-069,90,3,0,3,100.0,0.3,4,14,28.6,32,3,37.5,31.7,2,100.0,66.0,15,3,20.0,1,10.6,82b1198a,David Ospina,,True
+Milan,Hellas Verona,1604864700,it ITA,29-251,90,8,2,7,75.0,2.6,6,31,19.4,19,0,78.9,53.2,16,100.0,66.1,32,0,0.0,0,5.0,0d422df7,Marco Silvestri,,True
+Crotone,Lazio,1605967200,es ESP,38-082,90,4,0,4,100.0,0.2,8,16,50.0,18,3,50.0,41.2,11,63.6,35.6,17,0,0.0,0,5.0,e358587b,Pepe Reina,,True
+Spezia,Atalanta,1605978000,it ITA,25-248,90,2,0,2,100.0,0.2,6,20,30.0,28,3,60.7,40.5,4,75.0,47.8,7,0,0.0,1,25.0,f0f7f62f,Pierluigi Gollini,,True
+Juventus,Cagliari,1605987900,it ITA,26-146,90,6,2,4,66.7,2.1,0,2,0.0,22,4,9.1,22.4,9,0.0,26.8,17,0,0.0,1,16.5,f554e29b,Alessio Cragno,,True
+Fiorentina,Benevento,1606044600,it ITA,24-276,90,2,0,2,100.0,0.6,6,13,46.2,28,6,32.1,32.8,6,66.7,47.8,13,0,0.0,2,18.0,c1d95617,Lorenzo Montipò,,True
+Internazionale,Torino,1606053600,it ITA,33-315,90,4,4,0,25.0,3.1,4,6,66.7,27,4,18.5,29.1,11,9.1,19.6,13,0,0.0,0,,10dc46f0,Salvatore Sirigu,,True
+Roma,Parma,1606053600,it ITA,29-198,90,7,3,4,57.1,2.6,3,6,50.0,29,9,20.7,27.8,7,0.0,25.0,11,0,0.0,2,25.0,343f753a,Luigi Sepe,,True
+Hellas Verona,Sassuolo,1606053600,it ITA,33-300,90,3,0,3,100.0,0.3,7,17,41.2,31,1,38.7,37.6,10,50.0,30.6,24,1,4.2,0,8.5,8cabdc1e,Andrea Consigli,,True
+Sampdoria,Bologna,1606053600,pl POL,29-201,90,4,1,3,75.0,0.4,0,8,0.0,31,4,19.4,28.7,8,25.0,25.3,19,3,15.8,0,7.5,ab4449d6,Łukasz Skorupski,,True
+Udinese,Genoa,1606064400,it ITA,28-012,89,2,1,1,50.0,0.3,6,17,35.3,27,5,51.9,38.0,10,30.0,28.2,12,,,,9.5,4c62d0c8,Mattia Perin,,True
+Udinese,Genoa,1606064400,it ITA,27-020,1,0,0,0,,0.0,0,0,,0,0,,,0,,,0,0,,0,,4b029b31,Edoardo Goldaniga,,True
+Napoli,Milan,1606074300,it ITA,21-271,90,7,1,6,85.7,1.5,5,13,38.5,23,4,30.4,34.4,7,85.7,54.7,18,0,0.0,0,18.0,08f5afaa,Gianluigi Donnarumma,,True
+Sassuolo,Internazionale,1606572000,si SVN,36-137,90,3,0,3,100.0,0.4,8,13,61.5,28,6,32.1,29.4,5,80.0,48.0,16,1,6.3,0,6.0,74419746,Samir Handanović,,True
+Benevento,Juventus,1606582800,pl POL,30-224,90,3,1,2,66.7,0.9,2,3,66.7,12,3,25.0,30.1,4,0.0,18.3,17,0,0.0,2,13.8,01b8a2b2,Wojciech Szczęsny,,True
+Atalanta,Hellas Verona,1606592700,it ITA,29-271,90,5,0,5,100.0,0.5,12,33,36.4,27,2,85.2,48.1,11,90.9,52.6,14,0,0.0,1,12.4,0d422df7,Marco Silvestri,,True
+Lazio,Udinese,1606649400,ar ARG,26-207,90,6,1,5,100.0,2.0,8,12,66.7,25,8,44.0,38.4,4,25.0,39.0,20,1,5.0,0,11.0,a111cf41,Juan Musso,,True
+Bologna,Crotone,1606658400,it ITA,37-333,90,7,1,6,85.7,1.6,3,11,27.3,21,4,52.4,36.6,6,0.0,20.0,23,0,0.0,0,,e66ebabb,Alex Cordaz,,True
+Milan,Fiorentina,1606658400,pl POL,23-102,90,4,2,1,75.0,2.4,4,8,50.0,23,7,21.7,28.6,9,33.3,32.7,15,0,0.0,0,4.5,085e71a7,Bartłomiej Drągowski,,True
+Cagliari,Spezia,1606669200,it ITA,26-257,90,5,2,3,60.0,1.1,7,15,46.7,46,2,28.3,31.6,8,25.0,30.9,14,1,7.1,0,8.3,277da414,Ivan Provedel,,True
+Napoli,Roma,1606679100,it ITA,37-144,90,8,4,4,50.0,2.5,1,3,33.3,25,7,12.0,26.1,11,0.0,18.6,17,1,5.9,3,17.4,30223b33,Antonio Mirante,,True
+Torino,Sampdoria,1606757400,it ITA,23-317,90,7,2,5,71.4,2.4,2,4,50.0,18,7,11.1,28.7,6,33.3,30.0,25,1,4.0,0,7.5,649b01d8,Emil Audero,,True
+Genoa,Parma,1606765500,it ITA,29-206,90,5,1,4,80.0,1.0,20,33,60.6,36,6,61.1,43.9,13,84.6,57.8,20,0,0.0,1,15.3,343f753a,Luigi Sepe,,True
+Spezia,Lazio,1607176800,es ESP,38-096,90,4,1,3,75.0,1.5,5,15,33.3,41,4,31.7,31.5,7,28.6,28.7,15,0,0.0,1,27.0,e358587b,Pepe Reina,,True
+Juventus,Torino,1607187600,it ITA,33-328,90,4,2,2,50.0,0.2,10,22,45.5,41,4,41.5,37.1,9,55.6,39.4,31,0,0.0,0,6.0,10dc46f0,Salvatore Sirigu,,True
+Internazionale,Bologna,1607197500,pl POL,29-214,90,7,3,4,57.1,2.4,1,3,33.3,26,9,3.8,23.7,4,50.0,31.0,18,3,16.7,1,10.9,ab4449d6,Łukasz Skorupski,,True
+Hellas Verona,Cagliari,1607254200,it ITA,26-161,90,3,1,2,66.7,0.8,12,21,57.1,22,4,59.1,39.9,9,88.9,50.4,19,0,0.0,0,4.0,f554e29b,Alessio Cragno,,True
+Parma,Benevento,1607263200,it ITA,24-290,90,0,0,0,,0.0,4,9,44.4,22,2,36.4,32.3,11,9.1,21.3,18,1,5.6,0,10.8,c1d95617,Lorenzo Montipò,,True
+Roma,Sassuolo,1607263200,it ITA,39-256,90,1,0,1,100.0,0.1,0,1,0.0,14,2,7.1,19.1,8,0.0,14.0,15,1,6.7,1,15.3,f058ed1f,Gianluca Pegolo,,True
+Crotone,Napoli,1607274000,co COL,32-097,90,1,0,1,100.0,0.0,6,7,85.7,34,2,17.6,26.4,1,100.0,71.0,12,2,16.7,3,15.3,82b1198a,David Ospina,,True
+Sampdoria,Milan,1607283900,it ITA,21-285,90,3,1,2,66.7,0.7,2,12,16.7,33,4,27.3,27.1,5,60.0,36.2,23,0,0.0,4,16.6,08f5afaa,Gianluigi Donnarumma,,True
+Fiorentina,Genoa,1607370300,it ITA,37-304,64,1,,1,,0.3,8,11,72.7,17,2,29.4,30.5,8,75.0,50.5,19,,,,9.2,f794b426,Federico Marchetti,,True
+Fiorentina,Genoa,1607370300,it ITA,28-100,26,5,1,4,80.0,1.4,1,10,10.0,8,0,87.5,48.6,3,100.0,72.0,5,0,0.0,0,,94a3606c,Alberto Paleari,,True
+Sassuolo,Benevento,1607715900,it ITA,24-295,90,2,1,1,100.0,1.0,2,3,66.7,26,8,11.5,25.6,2,0.0,26.0,6,3,50.0,2,17.2,c1d95617,Lorenzo Montipò,,True
+Crotone,Spezia,1607781600,it ITA,26-270,90,7,4,3,42.9,2.6,5,14,35.7,41,4,29.3,32.3,6,33.3,39.3,6,1,16.7,3,21.0,277da414,Ivan Provedel,,True
+Torino,Udinese,1607792400,ar ARG,26-220,90,3,2,1,33.3,1.1,1,12,8.3,28,7,35.7,33.3,4,50.0,41.0,13,1,7.7,0,9.8,a111cf41,Juan Musso,,True
+Lazio,Hellas Verona,1607802300,it ITA,29-285,90,4,1,3,75.0,0.7,7,19,36.8,18,1,72.2,51.3,6,100.0,64.0,20,1,5.0,0,9.1,0d422df7,Marco Silvestri,,True
+Cagliari,Internazionale,1607859900,si SVN,36-152,90,3,1,2,66.7,0.5,2,3,66.7,26,7,7.7,22.6,5,20.0,27.8,15,0,0.0,0,,74419746,Samir Handanović,,True
+Napoli,Sampdoria,1607868000,it ITA,23-330,90,7,2,5,71.4,2.2,5,11,45.5,22,6,36.4,35.6,11,27.3,27.5,24,1,4.2,2,21.3,649b01d8,Emil Audero,,True
+Bologna,Roma,1607868000,es ESP,26-000,90,1,1,1,0.0,0.1,5,12,41.7,18,4,44.4,36.4,5,80.0,50.8,7,0,0.0,0,5.0,20b9f052,Pau López,,True
+Atalanta,Fiorentina,1607868000,pl POL,23-116,90,7,3,4,57.1,2.0,0,9,0.0,28,5,32.1,35.1,7,0.0,13.6,20,1,5.0,0,5.0,085e71a7,Bartłomiej Drągowski,,True
+Genoa,Juventus,1607878800,pl POL,30-239,90,2,1,1,50.0,0.3,2,2,100.0,27,4,7.4,22.9,1,0.0,9.0,3,0,0.0,2,20.5,01b8a2b2,Wojciech Szczęsny,,True
+Milan,Parma,1607888700,it ITA,29-219,90,6,2,4,66.7,1.3,8,18,44.4,20,5,50.0,42.3,12,66.7,43.7,30,0,0.0,1,16.5,343f753a,Luigi Sepe,,True
+Udinese,Crotone,1608053400,it ITA,37-349,90,6,0,6,100.0,1.2,3,9,33.3,37,8,21.6,28.8,9,11.1,21.4,18,1,5.6,0,1.0,e66ebabb,Alex Cordaz,,True
+Benevento,Lazio,1608061500,es ESP,38-106,90,6,1,5,83.3,1.3,0,1,0.0,19,3,5.3,23.4,3,0.0,20.0,10,0,0.0,0,,e358587b,Pepe Reina,,True
+Juventus,Atalanta,1608139800,it ITA,25-273,90,7,1,5,85.7,2.6,7,13,53.8,18,1,50.0,39.7,6,66.7,45.0,12,0,0.0,0,12.8,f0f7f62f,Pierluigi Gollini,,True
+Parma,Cagliari,1608147900,it ITA,26-171,90,2,0,2,100.0,0.1,3,7,42.9,18,4,38.9,32.3,7,0.0,15.3,20,1,5.0,0,4.0,f554e29b,Alessio Cragno,,True
+Genoa,Milan,1608147900,it ITA,21-295,90,4,2,2,50.0,1.5,2,7,28.6,24,2,25.0,27.8,3,33.3,28.3,9,0,0.0,1,15.5,08f5afaa,Gianluigi Donnarumma,,True
+Hellas Verona,Sampdoria,1608147900,it ITA,23-333,90,3,1,2,100.0,1.8,8,20,40.0,24,1,70.8,47.0,4,75.0,49.8,17,2,11.8,0,6.0,649b01d8,Emil Audero,,True
+Internazionale,Napoli,1608147900,co COL,32-107,90,2,1,1,100.0,1.3,6,8,75.0,28,1,28.6,32.1,4,0.0,17.0,11,1,9.1,0,11.7,82b1198a,David Ospina,,True
+Fiorentina,Sassuolo,1608147900,it ITA,33-324,90,4,1,3,100.0,1.8,1,3,33.3,33,4,9.1,19.5,7,0.0,15.3,13,1,7.7,1,11.2,8cabdc1e,Andrea Consigli,,True
+Spezia,Bologna,1608147900,br BRA,37-034,90,4,2,2,50.0,1.8,10,14,71.4,51,3,25.5,26.0,8,12.5,24.5,11,0,0.0,4,19.7,18736214,Angelo da Costa Júnior,,True
+Roma,Torino,1608234300,rs SRB,23-301,90,5,3,2,60.0,2.4,2,9,22.2,27,2,29.6,32.1,2,50.0,38.5,8,0,0.0,0,4.0,9fa26bc2,Vanja Milinković-Savić,,True
+Fiorentina,Hellas Verona,1608386400,it ITA,29-292,90,1,1,0,100.0,1.0,4,20,20.0,17,1,82.4,44.6,6,100.0,66.0,18,0,0.0,1,12.8,0d422df7,Marco Silvestri,,True
+Sampdoria,Crotone,1608397200,it ITA,37-353,90,4,3,1,25.0,2.3,3,10,30.0,36,3,27.8,31.4,4,0.0,19.0,8,0,0.0,1,17.5,e66ebabb,Alex Cordaz,,True
+Parma,Juventus,1608407100,it ITA,42-326,90,4,0,4,100.0,0.5,0,1,0.0,22,5,4.5,20.2,5,0.0,16.8,19,0,0.0,1,8.0,e40d028b,Gianluigi Buffon,,True
+Torino,Bologna,1608463800,br BRA,37-038,90,4,1,3,75.0,0.8,3,4,75.0,30,4,10.0,26.9,6,16.7,24.3,10,0,0.0,1,13.0,18736214,Angelo da Costa Júnior,,True
+Internazionale,Spezia,1608472800,it ITA,26-278,90,4,2,2,75.0,1.8,8,14,57.1,47,5,29.8,34.5,5,0.0,27.6,10,0,0.0,1,12.3,277da414,Ivan Provedel,,True
+Benevento,Genoa,1608472800,it ITA,28-040,90,3,2,1,66.7,2.0,4,10,40.0,16,3,37.5,33.8,10,40.0,26.6,16,2,12.5,0,4.5,4c62d0c8,Mattia Perin,,True
+Cagliari,Udinese,1608472800,ar ARG,26-228,90,3,1,2,66.7,0.8,3,6,50.0,18,2,27.8,30.6,6,16.7,28.7,14,0,0.0,0,7.0,a111cf41,Juan Musso,,True
+Sassuolo,Milan,1608472800,it ITA,21-299,90,5,1,4,80.0,0.8,6,12,50.0,29,2,34.5,30.7,7,28.6,23.3,16,1,6.3,0,14.5,08f5afaa,Gianluigi Donnarumma,,True
+Atalanta,Roma,1608483600,it ITA,37-165,90,7,4,3,42.9,2.1,5,11,45.5,28,9,35.7,32.4,5,20.0,28.0,13,0,0.0,0,11.0,30223b33,Antonio Mirante,,True
+Lazio,Napoli,1608493500,co COL,32-111,90,2,2,0,0.0,1.1,0,0,,19,1,0.0,21.9,7,0.0,16.7,10,0,0.0,1,13.5,82b1198a,David Ospina,,True
+Crotone,Parma,1608658200,it ITA,29-228,90,6,2,4,66.7,1.1,10,22,45.5,32,6,56.3,38.5,4,100.0,58.8,10,0,0.0,3,24.2,343f753a,Luigi Sepe,,True
+Juventus,Fiorentina,1608666300,pl POL,23-125,90,3,0,3,100.0,0.2,8,13,61.5,23,6,39.1,36.7,6,66.7,47.7,10,0,0.0,1,11.0,085e71a7,Bartłomiej Drągowski,,True
+Hellas Verona,Internazionale,1608744600,si SVN,36-162,90,2,1,1,50.0,1.7,6,11,54.5,32,2,31.3,29.3,3,33.3,33.0,8,1,12.5,0,1.0,74419746,Samir Handanović,,True
+Sampdoria,Sassuolo,1608752700,it ITA,33-331,90,6,2,4,66.7,0.9,0,6,0.0,17,4,23.5,29.9,13,15.4,25.2,28,0,0.0,2,15.0,8cabdc1e,Andrea Consigli,,True
+Spezia,Genoa,1608752700,it ITA,28-043,90,4,1,3,75.0,0.4,13,32,40.6,35,5,77.1,45.8,6,83.3,50.5,11,0,0.0,1,19.5,4c62d0c8,Mattia Perin,,True
+Roma,Cagliari,1608752700,it ITA,26-178,90,8,3,5,62.5,2.8,3,5,60.0,10,3,10.0,28.8,7,57.1,43.7,15,0,0.0,0,3.0,f554e29b,Alessio Cragno,,True
+Bologna,Atalanta,1608752700,it ITA,25-280,90,3,2,1,33.3,1.6,6,16,37.5,31,7,38.7,34.9,4,100.0,63.8,4,0,0.0,0,13.0,f0f7f62f,Pierluigi Gollini,,True
+Napoli,Torino,1608752700,it ITA,33-346,90,6,1,5,83.3,1.1,12,27,44.4,35,3,54.3,42.9,11,72.7,47.3,23,1,4.3,1,20.3,10dc46f0,Salvatore Sirigu,,True
+Udinese,Benevento,1608752700,it ITA,24-307,90,3,0,3,100.0,1.0,12,18,66.7,26,4,50.0,39.7,10,50.0,34.7,23,0,0.0,0,17.0,c1d95617,Lorenzo Montipò,,True
+Milan,Lazio,1608752700,es ESP,38-114,90,5,3,2,60.0,1.8,5,6,83.3,37,6,13.5,26.0,6,16.7,23.7,9,0,0.0,0,4.0,e358587b,Pepe Reina,,True
+Internazionale,Crotone,1609673400,it ITA,38-002,90,8,6,3,25.0,3.4,1,4,25.0,39,9,10.3,23.7,7,0.0,15.3,9,1,11.1,0,10.0,e66ebabb,Alex Cordaz,,True
+Atalanta,Sassuolo,1609682400,it ITA,33-342,90,7,5,2,28.6,2.9,4,13,30.8,37,2,21.6,26.8,18,27.8,25.8,17,0,0.0,1,23.0,8cabdc1e,Andrea Consigli,,True
+Roma,Sampdoria,1609682400,it ITA,23-351,90,6,1,5,83.3,1.9,10,26,38.5,21,1,81.0,48.8,9,100.0,56.6,23,0,0.0,0,4.0,649b01d8,Emil Audero,,True
+Fiorentina,Bologna,1609682400,br BRA,37-052,90,0,0,0,,0.0,2,6,33.3,39,3,12.8,23.8,12,8.3,18.6,24,1,4.2,2,20.0,18736214,Angelo da Costa Júnior,,True
+Genoa,Lazio,1609682400,es ESP,38-125,90,3,1,2,66.7,0.9,5,8,62.5,40,2,20.0,31.9,3,0.0,17.0,13,1,7.7,0,10.0,e358587b,Pepe Reina,,True
+Cagliari,Napoli,1609682400,co COL,32-125,90,1,1,0,0.0,0.8,1,2,50.0,25,0,4.0,18.6,6,16.7,22.0,11,0,0.0,2,25.0,82b1198a,David Ospina,,True
+Spezia,Hellas Verona,1609682400,it ITA,29-307,90,1,0,1,100.0,0.0,4,25,16.0,32,1,59.4,41.9,6,100.0,62.2,13,0,0.0,4,20.8,0d422df7,Marco Silvestri,,True
+Parma,Torino,1609682400,it ITA,33-357,90,4,0,4,100.0,0.3,4,13,30.8,24,5,37.5,29.8,13,30.8,25.2,20,0,0.0,1,15.0,10dc46f0,Salvatore Sirigu,,True
+Benevento,Milan,1609693200,it ITA,21-313,90,5,0,5,100.0,0.3,4,21,19.0,28,6,39.3,36.3,11,90.9,51.0,34,3,8.8,0,8.7,08f5afaa,Gianluigi Donnarumma,,True
+Juventus,Udinese,1609703100,ar ARG,26-242,90,10,4,6,60.0,4.3,8,12,66.7,24,3,45.8,33.2,5,20.0,23.2,9,0,0.0,0,8.0,a111cf41,Juan Musso,,True
+Cagliari,Benevento,1609932600,it ITA,24-321,90,5,1,4,80.0,1.6,6,19,31.6,25,1,44.0,38.8,13,61.5,45.5,27,0,0.0,0,7.5,c1d95617,Lorenzo Montipò,,True
+Atalanta,Parma,1609941600,it ITA,29-243,90,6,3,3,50.0,2.5,10,18,55.6,60,3,30.0,31.9,8,0.0,19.4,24,1,4.2,3,19.8,343f753a,Luigi Sepe,,True
+Sassuolo,Genoa,1609941600,it ITA,28-057,90,3,2,1,33.3,1.4,7,21,33.3,26,5,65.4,40.7,6,66.7,46.3,16,1,6.3,0,4.5,4c62d0c8,Mattia Perin,,True
+Crotone,Roma,1609941600,es ESP,26-024,90,4,1,3,75.0,0.7,4,21,19.0,34,4,35.3,33.4,13,69.2,47.8,10,0,0.0,1,18.0,20b9f052,Pau López,,True
+Bologna,Udinese,1609941600,ar ARG,26-245,90,6,2,4,66.7,1.3,2,6,33.3,15,3,33.3,27.9,5,20.0,21.0,7,0,0.0,0,13.5,a111cf41,Juan Musso,,True
+Sampdoria,Internazionale,1609941600,si SVN,36-176,90,3,2,1,66.7,1.5,2,2,100.0,24,5,8.3,22.7,1,0.0,35.0,8,0,0.0,2,40.5,74419746,Samir Handanović,,True
+Torino,Hellas Verona,1609941600,it ITA,29-310,90,2,1,1,50.0,1.3,5,18,27.8,20,6,60.0,39.7,6,100.0,61.5,18,0,0.0,0,7.0,0d422df7,Marco Silvestri,,True
+Lazio,Fiorentina,1609941600,pl POL,23-140,90,3,2,1,33.3,1.7,2,4,50.0,18,4,22.2,30.9,5,0.0,24.2,8,1,12.5,1,12.8,085e71a7,Bartłomiej Drągowski,,True
+Napoli,Spezia,1609952400,it ITA,26-295,90,9,1,8,88.9,2.5,9,26,34.6,54,8,37.0,34.6,10,60.0,48.6,20,1,5.0,0,8.7,277da414,Ivan Provedel,,True
+Milan,Juventus,1609962300,pl POL,30-263,90,8,1,7,87.5,1.5,3,9,33.3,32,7,25.0,28.5,14,7.1,16.7,16,0,0.0,0,12.0,01b8a2b2,Wojciech Szczęsny,,True
+Benevento,Atalanta,1610200800,it ITA,25-297,90,2,1,1,50.0,1.0,1,5,20.0,21,3,23.8,27.5,1,0.0,38.0,6,0,0.0,2,19.3,f0f7f62f,Pierluigi Gollini,,True
+Genoa,Bologna,1610211600,br BRA,37-058,90,7,2,5,71.4,2.0,1,2,50.0,39,3,5.1,25.1,3,0.0,19.3,5,0,0.0,3,32.0,18736214,Angelo da Costa Júnior,,True
+Milan,Torino,1610221500,it ITA,33-363,90,4,2,2,75.0,2.0,3,7,42.9,28,2,21.4,29.6,5,20.0,19.4,12,0,0.0,1,31.0,10dc46f0,Salvatore Sirigu,,True
+Roma,Internazionale,1610278200,si SVN,36-180,90,8,2,6,75.0,1.5,0,2,0.0,40,11,5.0,21.9,4,0.0,13.3,12,1,8.3,1,13.5,74419746,Samir Handanović,,True
+Udinese,Napoli,1610287200,it ITA,23-294,90,8,1,7,87.5,1.5,1,1,100.0,16,5,0.0,20.3,8,12.5,21.4,6,0,0.0,0,16.5,9413b19f,Alex Meret,,True
+Hellas Verona,Crotone,1610287200,it ITA,38-009,90,6,2,4,66.7,1.0,6,7,85.7,39,7,12.8,25.7,9,22.2,22.1,18,1,5.6,2,18.7,e66ebabb,Alex Cordaz,,True
+Parma,Lazio,1610287200,es ESP,38-132,90,3,0,3,100.0,0.4,2,6,33.3,36,5,13.9,23.6,4,25.0,22.3,9,0,0.0,1,19.0,e358587b,Pepe Reina,,True
+Fiorentina,Cagliari,1610298000,it ITA,26-196,90,4,1,3,75.0,1.8,8,17,47.1,19,3,52.6,35.5,11,63.6,42.4,28,1,3.6,1,11.3,f554e29b,Alessio Cragno,,True
+Juventus,Sassuolo,1610307900,it ITA,33-349,90,8,3,5,62.5,1.9,6,13,46.2,24,2,33.3,32.8,11,45.5,31.5,15,0,0.0,0,9.0,8cabdc1e,Andrea Consigli,,True
+Spezia,Sampdoria,1610394300,it ITA,23-359,90,4,2,2,75.0,1.3,3,17,17.6,30,5,46.7,37.2,4,75.0,48.0,13,1,7.7,1,15.5,649b01d8,Emil Audero,,True
+Lazio,Roma,1610739900,es ESP,26-033,90,8,3,5,62.5,2.9,2,3,66.7,33,8,9.1,25.7,0,,,5,1,20.0,0,5.0,20b9f052,Pau López,,True
+Bologna,Hellas Verona,1610805600,it ITA,29-320,90,5,1,4,100.0,1.7,4,18,22.2,23,5,47.8,37.1,9,77.8,50.3,12,0,0.0,1,18.0,0d422df7,Marco Silvestri,,True
+Torino,Spezia,1610816400,it ITA,26-305,90,1,0,1,100.0,0.0,6,14,42.9,34,4,29.4,33.5,6,66.7,47.0,14,0,0.0,1,21.0,277da414,Ivan Provedel,,True
+Sampdoria,Udinese,1610826300,ar ARG,26-255,90,6,2,4,83.3,2.0,3,5,60.0,19,4,26.3,29.9,4,0.0,18.0,24,1,4.2,1,13.8,a111cf41,Juan Musso,,True
+Napoli,Fiorentina,1610883000,pl POL,23-151,90,7,6,1,28.6,4.1,2,4,50.0,18,1,22.2,25.9,3,0.0,22.7,4,0,0.0,2,35.5,085e71a7,Bartłomiej Drągowski,,True
+Sassuolo,Parma,1610892000,it ITA,29-254,90,4,1,3,100.0,1.4,18,32,56.3,33,4,72.7,48.1,9,88.9,58.9,16,0,0.0,0,,343f753a,Luigi Sepe,,True
+Crotone,Benevento,1610892000,it ITA,24-332,90,3,4,0,-33.3,1.7,1,6,16.7,16,1,37.5,32.8,7,0.0,19.0,6,0,0.0,0,,c1d95617,Lorenzo Montipò,,True
+Atalanta,Genoa,1610902800,it ITA,28-068,90,2,0,2,100.0,0.7,7,38,18.4,37,4,67.6,43.1,13,100.0,63.5,22,1,4.5,0,10.3,4c62d0c8,Mattia Perin,,True
+Internazionale,Juventus,1610912700,pl POL,30-274,90,5,2,3,60.0,1.4,2,3,66.7,21,4,14.3,23.3,8,0.0,19.0,9,1,11.1,1,11.0,01b8a2b2,Wojciech Szczęsny,,True
+Cagliari,Milan,1610999100,it ITA,21-328,90,2,0,2,100.0,0.5,9,13,69.2,33,6,27.3,27.9,12,33.3,32.8,23,2,8.7,1,13.8,08f5afaa,Gianluigi Donnarumma,,True
+Udinese,Atalanta,1611151200,it ITA,25-308,90,1,1,0,0.0,0.1,2,4,50.0,15,2,20.0,29.0,4,25.0,34.8,12,0,0.0,1,20.5,f0f7f62f,Pierluigi Gollini,,True
+Benevento,Torino,1611344700,it ITA,34-010,90,3,2,1,66.7,1.8,1,4,25.0,10,2,30.0,27.9,6,16.7,23.8,11,1,9.1,1,18.5,10dc46f0,Salvatore Sirigu,,True
+Roma,Spezia,1611410400,it ITA,26-312,90,7,4,3,42.9,2.6,1,9,11.1,48,3,18.8,28.3,6,0.0,18.2,9,0,0.0,1,20.5,277da414,Ivan Provedel,,True
+Udinese,Internazionale,1611421200,si SVN,36-193,90,1,0,1,100.0,0.1,1,2,50.0,18,2,5.6,24.9,4,25.0,32.5,4,0,0.0,0,17.0,74419746,Samir Handanović,,True
+Milan,Atalanta,1611421200,it ITA,25-311,90,2,0,2,100.0,0.7,5,9,55.6,22,7,31.8,36.3,3,66.7,55.0,19,1,5.3,0,10.0,f0f7f62f,Pierluigi Gollini,,True
+Fiorentina,Crotone,1611431100,it ITA,38-022,90,6,2,4,66.7,1.9,3,7,42.9,32,7,15.6,25.6,6,33.3,30.3,17,1,5.9,2,16.7,e66ebabb,Alex Cordaz,,True
+Juventus,Bologna,1611487800,pl POL,29-264,90,11,2,9,81.8,2.7,0,2,0.0,17,5,11.8,26.4,10,0.0,12.7,15,0,0.0,0,7.0,ab4449d6,Łukasz Skorupski,,True
+Hellas Verona,Napoli,1611496800,it ITA,23-308,90,7,3,4,57.1,2.2,6,11,54.5,26,6,34.6,34.2,4,50.0,25.5,14,0,0.0,1,20.5,9413b19f,Alex Meret,,True
+Genoa,Cagliari,1611496800,it ITA,26-210,90,5,1,4,80.0,0.9,2,6,33.3,17,4,17.6,24.6,6,50.0,35.8,8,0,0.0,1,26.0,f554e29b,Alessio Cragno,,True
+Lazio,Sassuolo,1611507600,it ITA,33-363,90,6,2,4,66.7,2.0,3,12,25.0,35,7,28.6,30.3,5,40.0,34.0,19,0,0.0,2,19.7,8cabdc1e,Andrea Consigli,,True
+Parma,Sampdoria,1611517500,it ITA,24-006,90,5,0,5,100.0,0.6,8,11,72.7,18,9,22.2,32.7,9,77.8,44.3,16,0,0.0,2,17.3,649b01d8,Emil Audero,,True
+Torino,Fiorentina,1611949500,pl POL,23-163,90,3,1,2,66.7,1.9,8,19,42.1,18,4,55.6,44.2,15,60.0,49.8,30,4,13.3,0,9.0,085e71a7,Bartłomiej Drągowski,,True
+Bologna,Milan,1612015200,it ITA,21-340,90,5,1,4,80.0,2.7,11,21,52.4,37,3,43.2,30.8,5,100.0,59.4,16,0,0.0,1,11.8,08f5afaa,Gianluigi Donnarumma,,True
+Sampdoria,Juventus,1612026000,pl POL,30-287,90,1,0,1,100.0,0.0,4,5,80.0,26,2,19.2,28.1,4,0.0,17.5,22,0,0.0,0,7.3,01b8a2b2,Wojciech Szczęsny,,True
+Internazionale,Benevento,1612035900,it ITA,24-345,90,6,4,3,33.3,2.1,2,8,25.0,30,4,26.7,30.3,3,0.0,16.0,24,0,0.0,0,4.0,c1d95617,Lorenzo Montipò,,True
+Spezia,Udinese,1612092600,ar ARG,26-270,90,5,0,5,100.0,1.5,6,20,30.0,28,7,57.1,37.5,5,80.0,58.0,19,1,5.3,0,8.0,a111cf41,Juan Musso,,True
+Cagliari,Sassuolo,1612101600,it ITA,34-004,90,4,1,3,75.0,1.0,1,3,33.3,35,4,8.6,20.3,2,0.0,11.5,12,0,0.0,1,17.0,8cabdc1e,Andrea Consigli,,True
+Atalanta,Lazio,1612101600,es ESP,38-153,90,3,1,2,66.7,1.2,15,30,50.0,51,2,54.9,40.7,5,40.0,29.0,12,0,0.0,0,8.0,e358587b,Pepe Reina,,True
+Crotone,Genoa,1612101600,it ITA,28-082,90,4,0,4,100.0,0.4,2,15,13.3,27,7,33.3,33.9,7,85.7,51.1,15,1,6.7,0,10.0,4c62d0c8,Mattia Perin,,True
+Napoli,Parma,1612112400,it ITA,29-268,90,3,2,1,33.3,0.9,12,16,75.0,39,4,38.5,33.3,4,25.0,29.0,13,0,0.0,1,19.0,343f753a,Luigi Sepe,,True
+Roma,Hellas Verona,1612122300,it ITA,29-335,90,6,3,3,50.0,2.3,5,19,26.3,22,2,54.5,36.5,7,100.0,58.1,8,0,0.0,0,12.0,0d422df7,Marco Silvestri,,True
+Fiorentina,Internazionale,1612554300,si SVN,36-206,90,3,0,3,100.0,0.2,3,8,37.5,22,3,18.2,26.0,13,30.8,33.4,24,0,0.0,1,23.0,74419746,Samir Handanović,,True
+Atalanta,Torino,1612620000,it ITA,34-025,90,4,3,1,25.0,1.7,7,18,38.9,20,1,65.0,42.4,6,83.3,52.8,7,0,0.0,0,8.0,10dc46f0,Salvatore Sirigu,,True
+Sassuolo,Spezia,1612620000,it ITA,26-326,90,4,1,3,75.0,1.8,7,17,41.2,37,2,40.5,35.6,4,50.0,36.3,7,0,0.0,2,22.0,277da414,Ivan Provedel,,True
+Juventus,Roma,1612630800,es ESP,26-055,90,2,2,1,0.0,0.6,1,1,100.0,18,3,5.6,22.1,1,0.0,18.0,3,0,0.0,2,36.5,20b9f052,Pau López,,True
+Genoa,Napoli,1612640700,co COL,32-159,90,2,2,0,0.0,1.8,2,6,33.3,30,2,20.0,27.1,0,,,6,0,0.0,1,18.5,82b1198a,David Ospina,,True
+Benevento,Sampdoria,1612697400,it ITA,24-020,90,3,1,2,66.7,0.5,7,9,77.8,25,7,28.0,30.6,4,50.0,48.3,10,0,0.0,0,16.5,649b01d8,Emil Audero,,True
+Milan,Crotone,1612706400,it ITA,38-037,90,10,4,6,60.0,3.3,8,17,47.1,27,2,55.6,37.3,8,25.0,24.4,19,0,0.0,0,11.3,e66ebabb,Alex Cordaz,,True
+Udinese,Hellas Verona,1612706400,it ITA,29-342,90,7,2,6,71.4,2.6,7,20,35.0,14,0,78.6,47.8,10,90.0,55.5,15,0,0.0,0,3.0,0d422df7,Marco Silvestri,,True
+Parma,Bologna,1612717200,pl POL,29-278,90,5,0,5,100.0,1.5,0,10,0.0,23,8,39.1,33.9,8,12.5,18.4,15,0,0.0,0,10.0,ab4449d6,Łukasz Skorupski,,True
+Lazio,Cagliari,1612727100,it ITA,26-224,90,6,1,5,83.3,1.4,9,24,37.5,21,5,61.9,43.3,11,100.0,63.5,36,1,2.8,1,9.3,f554e29b,Alessio Cragno,,True
+Bologna,Benevento,1613159100,it ITA,24-358,90,2,1,1,50.0,1.7,4,10,40.0,25,5,24.0,30.2,6,66.7,39.7,18,1,5.6,1,11.3,c1d95617,Lorenzo Montipò,,True
+Torino,Genoa,1613224800,it ITA,28-095,90,2,0,2,100.0,0.1,9,21,42.9,34,3,44.1,37.9,10,60.0,45.2,19,1,5.3,0,14.3,4c62d0c8,Mattia Perin,,True
+Napoli,Juventus,1613235600,pl POL,30-301,90,2,1,1,100.0,1.2,2,3,66.7,26,2,11.5,24.3,5,0.0,14.8,9,0,0.0,2,23.0,01b8a2b2,Wojciech Szczęsny,,True
+Spezia,Milan,1613245500,it ITA,21-354,90,4,2,2,50.0,1.8,4,10,40.0,40,4,22.5,26.4,7,14.3,17.6,16,0,0.0,2,14.4,08f5afaa,Gianluigi Donnarumma,,True
+Roma,Udinese,1613302200,ar ARG,26-284,90,5,3,2,60.0,2.9,6,8,75.0,25,8,24.0,29.1,7,28.6,28.7,15,0,0.0,1,25.5,a111cf41,Juan Musso,,True
+Sampdoria,Fiorentina,1613311200,pl POL,23-179,90,3,2,1,33.3,0.7,4,18,22.2,25,4,56.0,38.3,5,80.0,52.4,10,0,0.0,2,28.0,085e71a7,Bartłomiej Drągowski,,True
+Cagliari,Atalanta,1613311200,it ITA,28-280,90,1,0,1,100.0,0.0,1,4,25.0,23,5,13.0,25.7,2,50.0,43.0,12,0,0.0,0,9.3,ac4003af,Marco Sportiello,,True
+Crotone,Sassuolo,1613322000,it ITA,34-018,90,4,1,3,75.0,1.3,5,17,29.4,42,6,38.1,30.9,2,50.0,35.0,11,1,9.1,0,7.7,8cabdc1e,Andrea Consigli,,True
+Internazionale,Lazio,1613331900,es ESP,38-167,90,7,3,4,71.4,2.3,0,3,0.0,28,6,7.1,25.5,3,33.3,40.0,5,0,0.0,1,15.0,e358587b,Pepe Reina,,True
+Hellas Verona,Parma,1613418300,it ITA,29-283,90,4,2,3,50.0,0.9,12,30,40.0,59,3,49.2,38.4,4,25.0,23.3,21,0,0.0,0,16.0,343f753a,Luigi Sepe,,True
+Fiorentina,Spezia,1613755800,it ITA,26-339,90,5,3,2,40.0,1.9,7,13,53.8,41,5,26.8,32.2,3,66.7,47.7,6,1,16.7,1,15.8,277da414,Ivan Provedel,,True
+Cagliari,Torino,1613763900,it ITA,34-038,90,1,0,1,100.0,0.1,8,27,29.6,19,2,78.9,44.6,15,80.0,49.1,18,0,0.0,1,14.0,10dc46f0,Salvatore Sirigu,,True
+Lazio,Sampdoria,1613829600,it ITA,24-033,90,6,1,5,83.3,1.3,2,9,22.2,18,10,27.8,30.3,5,80.0,54.2,8,0,0.0,0,10.0,649b01d8,Emil Audero,,True
+Genoa,Hellas Verona,1613840400,it ITA,29-355,90,3,2,1,33.3,1.3,8,29,27.6,30,1,76.7,49.2,6,100.0,66.7,13,0,0.0,0,10.0,0d422df7,Marco Silvestri,,True
+Sassuolo,Bologna,1613850300,pl POL,29-291,90,8,1,7,87.5,1.9,8,27,29.6,26,4,61.5,43.4,14,78.6,49.9,32,0,0.0,0,9.8,ab4449d6,Łukasz Skorupski,,True
+Parma,Udinese,1613907000,ar ARG,26-291,90,5,2,3,80.0,2.5,0,3,0.0,22,7,4.5,24.5,9,22.2,28.3,12,2,16.7,1,11.8,a111cf41,Juan Musso,,True
+Milan,Internazionale,1613916000,si SVN,36-222,90,8,0,8,100.0,1.8,4,10,40.0,27,9,22.2,29.2,10,40.0,37.4,27,1,3.7,0,8.7,74419746,Samir Handanović,,True
+Atalanta,Napoli,1613926800,it ITA,23-336,90,5,4,1,20.0,2.3,1,6,16.7,30,7,20.0,30.5,4,0.0,13.3,13,1,7.7,0,6.5,9413b19f,Alex Meret,,True
+Benevento,Roma,1613936700,es ESP,26-070,90,3,0,3,100.0,0.5,2,2,100.0,19,8,10.5,19.8,3,0.0,21.3,4,0,0.0,3,31.3,20b9f052,Pau López,,True
+Juventus,Crotone,1614023100,it ITA,38-052,90,8,3,5,62.5,2.4,12,17,70.6,25,1,40.0,34.0,14,50.0,34.9,19,0,0.0,1,14.0,e66ebabb,Alex Cordaz,,True
+Spezia,Parma,1614434400,it ITA,29-295,90,4,2,2,50.0,1.8,11,23,47.8,43,3,48.8,39.0,5,40.0,39.4,19,1,5.3,0,5.0,343f753a,Luigi Sepe,,True
+Bologna,Lazio,1614445200,es ESP,38-180,90,6,2,4,66.7,2.0,0,5,0.0,31,7,12.9,23.7,3,33.3,34.0,10,0,0.0,0,,e358587b,Pepe Reina,,True
+Hellas Verona,Juventus,1614455100,pl POL,30-315,90,4,1,3,75.0,1.0,2,11,18.2,36,6,25.0,28.1,7,28.6,29.0,22,1,4.5,1,12.8,01b8a2b2,Wojciech Szczęsny,,True
+Sampdoria,Atalanta,1614511800,it ITA,28-294,90,2,0,2,100.0,0.6,3,7,42.9,33,5,9.1,26.5,4,100.0,49.3,15,1,6.7,2,15.7,ac4003af,Marco Sportiello,,True
+Crotone,Cagliari,1614520800,it ITA,26-245,90,2,0,2,100.0,0.7,5,19,26.3,27,5,37.0,33.4,10,90.0,51.8,18,0,0.0,0,3.0,f554e29b,Alessio Cragno,,True
+Internazionale,Genoa,1614520800,it ITA,28-110,90,12,3,9,75.0,4.1,3,11,27.3,31,5,25.8,29.5,7,42.9,31.0,20,1,5.0,1,9.3,4c62d0c8,Mattia Perin,,True
+Udinese,Fiorentina,1614520800,pl POL,23-193,90,3,1,2,66.7,1.2,0,2,0.0,18,4,11.1,29.4,8,0.0,21.1,13,1,7.7,1,13.3,085e71a7,Bartłomiej Drągowski,,True
+Napoli,Benevento,1614531600,it ITA,25-008,90,5,2,3,60.0,2.5,5,17,29.4,35,9,31.4,31.8,12,50.0,38.4,17,1,5.9,0,5.8,c1d95617,Lorenzo Montipò,,True
+Roma,Milan,1614541500,it ITA,22-003,90,8,1,7,87.5,1.2,4,8,50.0,36,7,19.4,25.5,7,14.3,19.6,14,2,14.3,1,14.3,08f5afaa,Gianluigi Donnarumma,,True
+Juventus,Spezia,1614714300,it ITA,26-350,90,7,3,4,57.1,3.0,8,17,47.1,29,4,48.3,37.4,6,50.0,40.7,8,0,0.0,0,8.0,277da414,Ivan Provedel,,True
+Sassuolo,Napoli,1614792600,it ITA,23-346,90,5,3,3,80.0,2.4,2,3,66.7,32,5,9.4,23.2,0,,,10,1,10.0,1,10.0,9413b19f,Alex Meret,,True
+Atalanta,Crotone,1614800700,it ITA,38-061,90,11,5,6,54.5,4.6,13,34,38.2,37,3,73.0,45.9,11,63.6,42.1,10,0,0.0,2,20.4,e66ebabb,Alex Cordaz,,True
+Benevento,Hellas Verona,1614800700,it ITA,30-001,90,1,0,1,100.0,0.1,3,11,27.3,12,1,75.0,47.0,2,100.0,59.5,10,1,10.0,0,5.5,0d422df7,Marco Silvestri,,True
+Genoa,Sampdoria,1614800700,it ITA,24-044,90,1,1,0,0.0,0.2,5,12,41.7,24,5,25.0,32.1,8,75.0,52.1,12,2,16.7,0,9.3,649b01d8,Emil Audero,,True
+Fiorentina,Roma,1614800700,es ESP,26-080,90,2,1,2,50.0,0.3,4,8,50.0,27,8,25.9,29.5,3,33.3,28.0,14,4,28.6,7,19.6,20b9f052,Pau López,,True
+Milan,Udinese,1614800700,ar ARG,26-301,90,7,1,6,100.0,1.7,13,18,72.2,19,4,57.9,40.3,11,63.6,42.4,19,1,5.3,0,8.0,a111cf41,Juan Musso,,True
+Cagliari,Bologna,1614800700,pl POL,29-302,90,3,1,2,66.7,0.9,2,3,66.7,22,9,13.6,22.5,4,0.0,12.5,23,0,0.0,0,10.5,ab4449d6,Łukasz Skorupski,,True
+Parma,Internazionale,1614887100,si SVN,36-233,90,2,1,1,50.0,0.3,1,4,25.0,21,3,19.0,28.4,2,0.0,20.0,10,1,10.0,0,8.0,74419746,Samir Handanović,,True
+Spezia,Benevento,1615039200,it ITA,25-014,90,3,1,2,66.7,1.1,4,26,15.4,21,1,76.2,54.1,10,100.0,64.4,24,1,4.2,1,13.0,c1d95617,Lorenzo Montipò,,True
+Udinese,Sassuolo,1615050000,it ITA,34-038,90,7,2,5,71.4,2.9,2,3,66.7,24,2,8.3,18.8,2,50.0,34.0,10,0,0.0,2,23.0,8cabdc1e,Andrea Consigli,,True
+Juventus,Lazio,1615059900,es ESP,38-187,90,5,3,2,60.0,2.6,5,8,62.5,28,4,28.6,29.4,2,0.0,19.0,13,0,0.0,0,,e358587b,Pepe Reina,,True
+Roma,Genoa,1615116600,it ITA,38-028,90,2,1,1,50.0,0.8,0,2,0.0,28,4,7.1,20.0,10,0.0,12.9,9,1,11.1,3,15.5,f794b426,Federico Marchetti,,True
+Fiorentina,Parma,1615125600,it ITA,29-303,90,2,3,0,-50.0,1.2,4,7,57.1,34,5,20.6,27.1,4,0.0,23.0,11,0,0.0,0,8.3,343f753a,Luigi Sepe,,True
+Crotone,Torino,1615125600,it ITA,34-054,90,7,4,3,57.1,3.1,6,9,66.7,13,2,30.8,30.5,9,55.6,36.8,13,0,0.0,1,21.0,10dc46f0,Salvatore Sirigu,,True
+Hellas Verona,Milan,1615125600,it ITA,22-010,90,0,0,0,,0.0,3,13,23.1,27,6,33.3,30.4,4,100.0,54.5,16,1,6.3,0,10.0,08f5afaa,Gianluigi Donnarumma,,True
+Sampdoria,Cagliari,1615136400,it ITA,26-252,90,5,2,3,60.0,0.8,7,16,43.8,19,2,57.9,40.2,5,100.0,60.8,19,1,5.3,3,22.3,f554e29b,Alessio Cragno,,True
+Napoli,Bologna,1615146300,pl POL,29-306,90,7,3,4,57.1,1.9,2,8,25.0,22,7,36.4,29.5,8,0.0,9.4,7,1,14.3,3,22.8,ab4449d6,Łukasz Skorupski,,True
+Internazionale,Atalanta,1615232700,it ITA,28-302,90,1,1,0,0.0,0.5,2,3,66.7,14,4,14.3,27.3,1,100.0,45.0,8,1,12.5,1,15.0,ac4003af,Marco Sportiello,,True
+Lazio,Crotone,1615557600,it ITA,38-070,90,6,3,3,50.0,2.6,9,23,39.1,27,2,55.6,41.9,13,61.5,43.8,18,0,0.0,0,7.3,e66ebabb,Alex Cordaz,,True
+Atalanta,Spezia,1615578300,nl NED,30-065,90,7,3,4,57.1,1.8,5,19,26.3,67,5,26.9,29.4,4,25.0,31.5,5,0,0.0,2,18.0,cc1a0c57,Jeroen Zoet,,True
+Sassuolo,Hellas Verona,1615644000,it ITA,30-011,90,7,3,4,57.1,1.3,4,8,50.0,19,5,31.6,30.9,4,50.0,44.0,9,0,0.0,2,16.8,0d422df7,Marco Silvestri,,True
+Benevento,Fiorentina,1615654800,pl POL,23-206,90,4,1,3,75.0,1.4,5,21,23.8,17,1,70.6,48.8,9,100.0,64.9,23,1,4.3,1,12.6,085e71a7,Bartłomiej Drągowski,,True
+Genoa,Udinese,1615664700,ar ARG,26-311,90,2,1,1,50.0,1.0,8,14,57.1,29,8,24.1,31.0,10,70.0,45.9,22,0,0.0,0,19.0,a111cf41,Juan Musso,,True
+Bologna,Sampdoria,1615721400,it ITA,24-055,90,6,3,3,50.0,2.6,10,16,62.5,28,5,42.9,33.7,5,80.0,49.4,8,0,0.0,1,22.0,649b01d8,Emil Audero,,True
+Torino,Internazionale,1615730400,si SVN,36-243,90,3,1,2,66.7,0.5,2,3,66.7,15,3,13.3,26.8,5,20.0,27.2,10,0,0.0,0,,74419746,Samir Handanović,,True
+Parma,Roma,1615730400,es ESP,26-091,90,4,2,2,75.0,2.1,0,1,0.0,19,4,5.3,19.4,2,0.0,8.0,4,0,0.0,1,38.0,20b9f052,Pau López,,True
+Cagliari,Juventus,1615741200,pl POL,30-330,90,4,1,3,75.0,1.0,3,10,30.0,34,5,29.4,30.5,6,0.0,17.2,32,1,3.1,0,7.5,01b8a2b2,Wojciech Szczęsny,,True
+Milan,Napoli,1615751100,co COL,32-195,90,5,0,5,100.0,0.9,6,8,75.0,25,4,28.0,30.3,5,20.0,19.8,19,1,5.3,1,14.5,82b1198a,David Ospina,,True
+Torino,Sassuolo,1615989600,it ITA,34-049,90,11,3,8,72.7,3.8,3,9,33.3,38,9,23.7,26.5,10,0.0,10.6,31,1,3.2,1,15.3,8cabdc1e,Andrea Consigli,,True
+Parma,Genoa,1616183100,it ITA,28-129,90,8,1,7,87.5,2.9,3,18,16.7,30,7,50.0,39.3,7,42.9,37.6,11,0,0.0,0,5.0,4c62d0c8,Mattia Perin,,True
+Crotone,Bologna,1616248800,pl POL,29-319,90,4,2,2,75.0,1.7,2,7,28.6,24,7,20.8,32.2,7,28.6,21.3,23,3,13.0,1,11.5,ab4449d6,Łukasz Skorupski,,True
+Spezia,Cagliari,1616259600,it ITA,26-265,90,5,2,3,60.0,1.7,10,25,40.0,41,6,53.7,37.9,5,60.0,43.6,12,0,0.0,1,19.3,f554e29b,Alessio Cragno,,True
+Hellas Verona,Atalanta,1616326200,it ITA,26-003,90,1,0,1,100.0,1.0,7,15,46.7,23,3,43.5,40.5,5,100.0,62.0,9,0,0.0,1,20.5,f0f7f62f,Pierluigi Gollini,,True
+Juventus,Benevento,1616335200,it ITA,25-029,90,7,0,7,100.0,1.2,6,27,22.2,18,1,83.3,51.1,12,100.0,63.2,25,0,0.0,0,13.7,c1d95617,Lorenzo Montipò,,True
+Udinese,Lazio,1616335200,es ESP,38-202,90,3,0,3,100.0,0.4,3,7,42.9,29,3,13.8,24.9,7,42.9,36.7,22,2,9.1,0,7.2,e358587b,Pepe Reina,,True
+Sampdoria,Torino,1616335200,it ITA,34-068,90,2,1,1,50.0,1.6,2,7,28.6,28,7,17.9,26.9,8,25.0,28.8,7,0,0.0,2,32.0,10dc46f0,Salvatore Sirigu,,True
+Fiorentina,Milan,1616346000,it ITA,22-024,90,2,2,0,0.0,0.4,5,8,62.5,32,4,21.9,29.6,4,25.0,30.5,18,1,5.6,1,18.2,08f5afaa,Gianluigi Donnarumma,,True
+Roma,Napoli,1616355900,co COL,32-202,90,3,0,3,100.0,0.5,2,5,40.0,29,7,17.2,25.1,5,0.0,16.8,17,1,5.9,0,10.8,82b1198a,David Ospina,,True
+Milan,Sampdoria,1617445800,it ITA,24-075,90,2,1,1,50.0,0.5,6,22,27.3,28,2,53.6,42.1,8,87.5,54.6,18,0,0.0,6,23.4,649b01d8,Emil Audero,,True
+Napoli,Crotone,1617454800,it ITA,38-092,90,8,4,4,50.0,2.7,8,22,36.4,29,4,37.9,34.6,17,64.7,45.7,10,1,10.0,0,4.5,e66ebabb,Alex Cordaz,,True
+Cagliari,Hellas Verona,1617454800,it ITA,30-032,90,5,0,5,100.0,0.7,6,33,18.2,23,2,78.3,50.5,16,93.8,67.3,21,2,9.5,2,15.3,0d422df7,Marco Silvestri,,True
+Atalanta,Udinese,1617454800,ar ARG,26-332,90,8,3,5,62.5,2.7,6,14,42.9,34,12,29.4,27.9,9,44.4,33.3,10,0,0.0,0,4.8,a111cf41,Juan Musso,,True
+Sassuolo,Roma,1617454800,es ESP,26-111,90,6,2,4,66.7,3.0,2,7,28.6,29,1,24.1,30.0,4,0.0,22.3,7,0,0.0,0,11.0,20b9f052,Pau López,,True
+Genoa,Fiorentina,1617454800,pl POL,23-227,90,1,1,0,0.0,0.7,5,21,23.8,27,4,51.9,38.5,9,77.8,53.2,17,1,5.9,0,9.8,085e71a7,Bartłomiej Drągowski,,True
+Lazio,Spezia,1617454800,nl NED,30-087,90,5,2,3,80.0,1.6,7,16,43.8,34,5,38.2,37.1,5,60.0,53.8,5,0,0.0,3,23.5,cc1a0c57,Jeroen Zoet,,True
+Benevento,Parma,1617454800,it ITA,29-330,90,4,2,2,50.0,1.6,3,5,60.0,23,4,21.7,27.0,4,0.0,27.8,10,0,0.0,0,13.0,343f753a,Luigi Sepe,,True
+Torino,Juventus,1617465600,pl POL,30-350,90,6,2,4,66.7,1.7,1,1,100.0,16,5,6.3,23.6,7,0.0,18.7,15,2,13.3,1,18.8,01b8a2b2,Wojciech Szczęsny,,True
+Bologna,Internazionale,1617475500,si SVN,36-263,90,2,0,2,100.0,0.1,4,9,44.4,21,5,14.3,31.5,9,66.7,48.2,16,1,6.3,0,3.0,74419746,Samir Handanović,,True
+Juventus,Napoli,1617813900,it ITA,24-016,90,3,2,1,33.3,1.2,2,3,66.7,24,4,8.3,21.5,5,20.0,35.0,6,0,0.0,1,18.5,9413b19f,Alex Meret,,True
+Internazionale,Sassuolo,1617813900,it ITA,34-070,90,2,2,0,0.0,0.5,1,3,33.3,18,4,16.7,26.2,5,0.0,18.4,7,0,0.0,1,12.5,8cabdc1e,Andrea Consigli,,True
+Spezia,Crotone,1618059600,it ITA,38-099,90,3,3,0,0.0,1.5,8,22,36.4,40,5,45.0,36.6,5,80.0,46.8,16,2,12.5,1,10.6,e66ebabb,Alex Cordaz,,True
+Parma,Milan,1618070400,it ITA,22-044,90,5,1,4,80.0,1.5,2,12,16.7,26,3,19.2,31.3,11,63.6,46.0,27,1,3.7,0,11.5,08f5afaa,Gianluigi Donnarumma,,True
+Udinese,Torino,1618080300,rs SRB,24-049,90,4,0,4,100.0,0.9,2,13,15.4,20,3,50.0,40.5,11,27.3,31.6,25,0,0.0,2,21.5,9fa26bc2,Vanja Milinković-Savić,,True
+Internazionale,Cagliari,1618137000,it ITA,24-186,90,7,1,6,85.7,1.9,9,13,69.2,21,2,38.1,37.7,7,71.4,52.4,15,0,0.0,0,8.0,77d6fd4d,Guglielmo Vicario,,True
+Sampdoria,Napoli,1618146000,co COL,32-223,90,4,0,4,100.0,0.5,5,10,50.0,34,1,29.4,29.8,4,0.0,20.8,20,1,5.0,0,6.0,82b1198a,David Ospina,,True
+Hellas Verona,Lazio,1618146000,es ESP,38-223,90,0,0,0,,0.0,8,17,47.1,54,3,31.5,32.1,2,0.0,20.5,11,1,9.1,2,16.6,e358587b,Pepe Reina,,True
+Juventus,Genoa,1618146000,it ITA,28-152,90,12,3,9,75.0,3.3,5,10,50.0,17,4,52.9,39.0,6,16.7,26.7,12,0,0.0,0,3.0,4c62d0c8,Mattia Perin,,True
+Roma,Bologna,1618156800,pl POL,29-341,90,6,1,5,83.3,0.7,3,7,42.9,37,6,18.9,26.3,8,0.0,10.6,7,0,0.0,4,34.3,ab4449d6,Łukasz Skorupski,,True
+Fiorentina,Atalanta,1618166700,it ITA,26-024,90,2,2,0,0.0,1.3,4,12,33.3,31,1,19.4,31.5,7,85.7,60.7,10,0,0.0,1,19.7,f0f7f62f,Pierluigi Gollini,,True
+Benevento,Sassuolo,1618253100,it ITA,34-075,90,3,0,3,100.0,0.5,1,5,20.0,31,4,12.9,20.4,3,33.3,29.0,13,3,23.1,0,11.0,8cabdc1e,Andrea Consigli,,True
+Sampdoria,Hellas Verona,1618664400,it ITA,30-046,90,5,3,2,60.0,2.1,5,22,22.7,22,3,68.2,45.1,7,100.0,62.7,17,0,0.0,0,11.5,0d422df7,Marco Silvestri,,True
+Crotone,Udinese,1618664400,ar ARG,26-346,90,2,1,1,100.0,1.1,8,14,57.1,15,4,46.7,38.4,8,87.5,53.4,10,3,30.0,0,6.3,a111cf41,Juan Musso,,True
+Sassuolo,Fiorentina,1618675200,pl POL,23-241,90,5,3,2,80.0,2.7,7,18,38.9,27,5,48.1,39.9,6,83.3,60.2,10,0,0.0,2,21.0,085e71a7,Bartłomiej Drągowski,,True
+Cagliari,Parma,1618685100,it ITA,29-344,90,5,4,1,20.0,2.6,22,40,55.0,28,1,82.1,53.3,17,100.0,68.7,30,2,6.7,0,5.0,343f753a,Luigi Sepe,,True
+Milan,Genoa,1618741800,it ITA,28-159,90,4,2,3,50.0,0.4,6,16,37.5,29,6,34.5,33.0,10,60.0,42.8,13,2,15.4,1,12.4,4c62d0c8,Mattia Perin,,True
+Atalanta,Juventus,1618750800,pl POL,31-000,90,2,1,1,50.0,0.4,3,8,37.5,38,2,21.1,31.6,3,0.0,14.0,13,0,0.0,0,,01b8a2b2,Wojciech Szczęsny,,True
+Bologna,Spezia,1618750800,it ITA,27-032,90,5,4,1,40.0,2.7,4,13,30.8,38,3,28.9,32.0,2,100.0,62.0,5,0,0.0,1,24.0,277da414,Ivan Provedel,,True
+Lazio,Benevento,1618750800,it ITA,25-057,90,7,5,3,42.9,3.5,2,12,16.7,18,5,38.9,35.8,7,71.4,51.3,12,0,0.0,0,12.0,c1d95617,Lorenzo Montipò,,True
+Torino,Roma,1618761600,it ITA,37-284,90,11,3,8,72.7,2.7,2,4,50.0,23,5,8.7,27.8,15,13.3,23.7,29,0,0.0,0,9.6,30223b33,Antonio Mirante,,True
+Napoli,Internazionale,1618771500,si SVN,36-278,90,1,1,1,0.0,0.1,3,5,60.0,37,5,10.8,24.9,6,16.7,17.5,12,0,0.0,0,10.0,74419746,Samir Handanović,,True
+Hellas Verona,Fiorentina,1618944300,pl POL,23-244,90,4,1,3,75.0,2.1,10,19,52.6,19,4,68.4,47.1,8,75.0,55.9,13,0,0.0,2,37.0,085e71a7,Bartłomiej Drągowski,,True
+Milan,Sassuolo,1619022600,it ITA,34-084,90,6,1,5,83.3,1.2,7,15,46.7,38,6,39.5,32.2,3,0.0,21.7,9,1,11.1,0,11.7,8cabdc1e,Andrea Consigli,,True
+Bologna,Torino,1619030700,rs SRB,24-060,90,1,1,0,0.0,0.1,8,21,38.1,35,2,45.7,38.7,9,55.6,44.6,8,1,12.5,2,16.2,9fa26bc2,Vanja Milinković-Savić,,True
+Crotone,Sampdoria,1619030700,it ITA,24-093,90,4,0,4,100.0,0.7,5,14,35.7,38,7,21.1,31.8,8,75.0,51.8,7,0,0.0,0,11.0,649b01d8,Emil Audero,,True
+Genoa,Benevento,1619030700,it ITA,25-060,90,4,2,2,50.0,1.4,16,29,55.2,36,6,69.4,43.6,4,100.0,59.8,17,1,5.9,2,12.4,c1d95617,Lorenzo Montipò,,True
+Spezia,Internazionale,1619030700,si SVN,36-281,90,1,1,0,0.0,0.0,1,2,50.0,22,3,9.1,23.4,1,0.0,23.0,3,0,0.0,1,14.5,74419746,Samir Handanović,,True
+Udinese,Cagliari,1619030700,it ITA,24-196,90,2,0,2,100.0,0.1,7,18,38.9,21,4,47.6,35.9,8,100.0,61.1,26,1,3.8,0,6.7,77d6fd4d,Guglielmo Vicario,,True
+Juventus,Parma,1619030700,it ITA,29-294,90,6,3,3,50.0,1.6,12,20,60.0,25,2,68.0,43.8,5,60.0,39.2,18,0,0.0,0,8.7,72be9309,Simone Colombi,,True
+Roma,Atalanta,1619109000,it ITA,26-035,90,3,1,2,66.7,0.9,7,15,46.7,23,5,21.7,28.7,11,90.9,64.3,12,0,0.0,2,16.0,f0f7f62f,Pierluigi Gollini,,True
+Napoli,Lazio,1619117100,es ESP,38-234,90,8,5,3,50.0,3.2,0,1,0.0,21,4,4.8,26.7,2,0.0,12.0,3,0,0.0,1,19.0,e358587b,Pepe Reina,,True
+Genoa,Spezia,1619269200,it ITA,27-038,90,6,2,4,66.7,2.4,7,20,35.0,47,5,38.3,35.0,5,40.0,43.0,5,0,0.0,1,12.3,277da414,Ivan Provedel,,True
+Parma,Crotone,1619280000,it ITA,38-113,90,3,3,0,0.0,2.0,6,19,31.6,28,2,35.7,34.4,12,75.0,51.0,25,0,0.0,0,8.0,e66ebabb,Alex Cordaz,,True
+Sassuolo,Sampdoria,1619289900,it ITA,24-096,90,7,1,6,85.7,1.8,5,15,33.3,36,9,36.1,31.6,4,50.0,39.3,21,0,0.0,2,14.0,649b01d8,Emil Audero,,True
+Benevento,Udinese,1619346600,ar ARG,26-354,90,7,2,5,85.7,2.4,4,13,30.8,21,9,38.1,36.8,7,71.4,52.3,29,2,6.9,1,11.8,a111cf41,Juan Musso,,True
+Internazionale,Hellas Verona,1619355600,it ITA,30-054,90,3,1,2,66.7,0.4,7,18,38.9,14,0,78.6,47.4,7,100.0,63.6,8,0,0.0,0,10.0,0d422df7,Marco Silvestri,,True
+Fiorentina,Juventus,1619355600,pl POL,31-007,90,4,1,3,100.0,1.2,1,3,33.3,23,6,13.0,28.5,4,0.0,11.8,14,1,7.1,2,13.4,01b8a2b2,Wojciech Szczęsny,,True
+Cagliari,Roma,1619366400,es ESP,26-133,90,6,3,3,50.0,2.0,3,5,60.0,17,4,23.5,28.2,6,16.7,31.5,11,0,0.0,1,26.0,20b9f052,Pau López,,True
+Atalanta,Bologna,1619376300,pl POL,29-355,90,9,5,4,55.6,3.5,8,20,40.0,37,7,40.5,33.2,12,41.7,30.6,12,0,0.0,0,13.8,ab4449d6,Łukasz Skorupski,,True
+Torino,Napoli,1619454600,it ITA,24-035,90,5,0,5,100.0,0.9,2,3,66.7,18,4,16.7,28.1,2,0.0,19.0,24,0,0.0,1,13.8,9413b19f,Alex Meret,,True
+Lazio,Milan,1619462700,it ITA,22-060,90,5,3,2,40.0,2.5,1,1,100.0,27,6,0.0,20.6,5,20.0,27.4,3,1,33.3,3,14.6,08f5afaa,Gianluigi Donnarumma,,True
+Hellas Verona,Spezia,1619874000,it ITA,27-045,90,5,1,4,80.0,1.8,7,20,35.0,55,2,34.5,37.6,1,100.0,63.0,10,0,0.0,2,20.2,277da414,Ivan Provedel,,True
+Crotone,Internazionale,1619884800,si SVN,36-291,90,1,0,1,100.0,0.1,0,3,0.0,14,2,21.4,26.6,3,0.0,24.0,14,1,7.1,0,7.5,74419746,Samir Handanović,,True
+Milan,Benevento,1619894700,it ITA,25-070,90,11,2,9,81.8,3.6,8,17,47.1,22,5,54.5,38.3,7,71.4,54.0,10,0,0.0,0,4.0,c1d95617,Lorenzo Montipò,,True
+Lazio,Genoa,1619951400,it ITA,28-173,90,11,4,7,72.7,3.9,0,6,0.0,22,7,22.7,36.1,6,16.7,33.7,11,0,0.0,0,8.0,4c62d0c8,Mattia Perin,,True
+Napoli,Cagliari,1619960400,it ITA,26-308,90,5,1,4,80.0,1.0,10,18,55.6,19,6,36.8,31.6,16,68.8,47.5,6,1,16.7,0,10.0,f554e29b,Alessio Cragno,,True
+Bologna,Fiorentina,1619960400,pl POL,23-256,90,6,3,3,50.0,2.8,4,16,25.0,23,3,56.5,43.3,4,75.0,45.8,17,1,5.9,0,12.7,085e71a7,Bartłomiej Drągowski,,True
+Sassuolo,Atalanta,1619960400,it ITA,26-045,21,,,,,,1,3,33.3,,1,,,,,,,,,1,26.0,f0f7f62f,Pierluigi Gollini,,True
+Sassuolo,Atalanta,1619960400,it ITA,28-357,66,4,1,3,100.0,1.2,2,11,18.2,19,2,42.1,40.9,6,50.0,47.3,6,0,0.0,3,21.5,ac4003af,Marco Sportiello,,True
+Udinese,Juventus,1619971200,pl POL,31-014,90,2,1,1,50.0,0.1,3,3,100.0,12,3,16.7,25.8,4,25.0,23.3,9,0,0.0,0,11.0,01b8a2b2,Wojciech Szczęsny,,True
+Sampdoria,Roma,1619981100,br BRA,23-302,90,7,2,5,71.4,1.5,9,20,45.0,38,9,42.1,37.4,10,40.0,37.1,16,2,12.5,1,11.8,82328faf,Daniel Fuzato,,True
+Torino,Parma,1620067500,it ITA,29-360,90,3,1,2,66.7,1.4,18,20,90.0,30,6,46.7,36.2,10,60.0,45.2,20,1,5.0,0,9.3,343f753a,Luigi Sepe,,True
+Udinese,Bologna,1620478800,pl POL,30-003,90,3,1,2,66.7,0.5,2,5,40.0,26,10,15.4,29.0,5,20.0,26.4,10,1,10.0,1,13.0,ab4449d6,Łukasz Skorupski,,True
+Spezia,Napoli,1620478800,it ITA,24-047,90,2,1,1,50.0,1.0,1,2,50.0,41,4,2.4,20.1,3,33.3,30.0,7,0,0.0,0,15.0,9413b19f,Alex Meret,,True
+Internazionale,Sampdoria,1620489600,it ITA,24-110,90,7,5,2,42.9,3.6,2,8,25.0,18,1,33.3,35.8,5,40.0,36.4,7,0,0.0,3,23.7,649b01d8,Emil Audero,,True
+Fiorentina,Lazio,1620499500,es ESP,38-250,90,4,2,2,50.0,1.3,0,1,0.0,15,4,6.7,24.2,4,0.0,26.3,11,0,0.0,0,1.0,e358587b,Pepe Reina,,True
+Genoa,Sassuolo,1620556200,it ITA,34-102,90,4,1,3,75.0,1.1,4,13,30.8,27,4,37.0,33.4,12,25.0,22.6,17,1,5.9,0,7.5,8cabdc1e,Andrea Consigli,,True
+Hellas Verona,Torino,1620565200,it ITA,34-117,90,6,1,5,83.3,1.9,8,25,32.0,22,2,68.2,43.1,12,83.3,52.8,20,0,0.0,0,10.0,10dc46f0,Salvatore Sirigu,,True
+Parma,Atalanta,1620565200,it ITA,28-364,90,2,2,0,0.0,1.0,1,2,50.0,13,6,7.7,24.2,4,25.0,26.8,9,1,11.1,2,16.6,ac4003af,Marco Sportiello,,True
+Benevento,Cagliari,1620565200,it ITA,26-315,90,7,1,6,85.7,0.8,7,16,43.8,18,3,72.2,49.3,3,100.0,63.7,19,3,15.8,0,12.3,f554e29b,Alessio Cragno,,True
+Roma,Crotone,1620576000,it ITA,38-128,90,10,5,5,50.0,1.7,8,16,50.0,30,8,33.3,34.5,8,75.0,46.4,18,2,11.1,0,5.4,e66ebabb,Alex Cordaz,,True
+Juventus,Milan,1620585900,it ITA,22-073,90,1,0,1,100.0,0.1,8,13,61.5,22,2,40.9,27.9,5,80.0,52.6,21,0,0.0,1,13.3,08f5afaa,Gianluigi Donnarumma,,True
+Napoli,Udinese,1620758700,ar ARG,27-005,90,9,5,4,44.4,3.0,3,7,42.9,23,6,21.7,27.8,9,22.2,25.9,11,0,0.0,0,5.5,a111cf41,Juan Musso,,True
+Cagliari,Fiorentina,1620837000,pl POL,23-266,45,,,,,0.0,3,7,42.9,6,1,50.0,42.0,4,100.0,63.8,6,1,16.7,,5.0,085e71a7,Bartłomiej Drągowski,,True
+Cagliari,Fiorentina,1620837000,it ITA,31-065,45,0,0,0,,0.0,7,13,53.8,14,3,71.4,48.5,3,100.0,65.3,13,1,7.7,0,6.0,e1b0a70d,Pietro Terracciano,,True
+Atalanta,Benevento,1620845100,it ITA,25-081,90,4,2,2,50.0,2.1,6,20,30.0,23,4,52.2,37.0,9,88.9,62.4,15,0,0.0,3,21.3,c1d95617,Lorenzo Montipò,,True
+Sampdoria,Spezia,1620845100,it ITA,27-056,90,5,2,3,60.0,1.3,2,9,22.2,25,8,28.0,34.8,9,22.2,36.2,19,1,5.3,0,5.0,277da414,Ivan Provedel,,True
+Internazionale,Roma,1620845100,br BRA,23-312,90,5,3,2,40.0,1.6,3,6,50.0,21,6,19.0,29.5,4,50.0,39.8,8,1,12.5,1,13.2,82328faf,Daniel Fuzato,,True
+Sassuolo,Juventus,1620845100,it ITA,43-104,90,3,1,1,66.7,1.4,7,16,43.8,27,6,40.7,36.8,11,45.5,34.5,14,0,0.0,0,,e40d028b,Gianluigi Buffon,,True
+Torino,Milan,1620845100,it ITA,22-076,90,1,0,1,100.0,0.5,6,13,46.2,31,3,22.6,26.4,9,66.7,42.1,14,0,0.0,0,,08f5afaa,Gianluigi Donnarumma,,True
+Bologna,Genoa,1620845100,it ITA,28-183,90,6,0,6,100.0,2.1,10,28,35.7,24,4,66.7,49.3,12,100.0,59.7,29,0,0.0,0,7.7,4c62d0c8,Mattia Perin,,True
+Lazio,Parma,1620845100,it ITA,30-004,90,5,1,4,80.0,0.6,10,15,66.7,29,6,31.0,34.7,12,50.0,45.2,23,0,0.0,0,11.0,343f753a,Luigi Sepe,,True
+Crotone,Hellas Verona,1620931500,hr CRO,21-049,90,4,2,2,50.0,1.2,3,6,50.0,20,4,20.0,23.6,4,50.0,44.8,2,0,0.0,2,35.5,457cb02f,Ivor Pandur,,True
+Spezia,Torino,1621083600,it ITA,34-123,90,8,4,4,62.5,2.4,10,23,43.5,29,4,69.0,45.4,6,50.0,36.2,14,1,7.1,1,14.3,10dc46f0,Salvatore Sirigu,,True
+Genoa,Atalanta,1621083600,it ITA,26-058,90,6,3,3,66.7,1.9,1,5,20.0,24,6,8.3,27.3,3,100.0,69.3,10,1,10.0,0,4.0,f0f7f62f,Pierluigi Gollini,,True
+Juventus,Internazionale,1621094400,si SVN,36-305,90,6,3,2,66.7,2.2,2,2,100.0,21,6,9.5,23.3,1,0.0,23.0,8,0,0.0,0,12.0,74419746,Samir Handanović,,True
+Roma,Lazio,1621104300,es ESP,38-257,90,2,2,0,0.0,0.8,5,6,83.3,29,5,20.7,28.7,9,0.0,16.2,14,1,7.1,0,10.5,e358587b,Pepe Reina,,True
+Fiorentina,Napoli,1621161000,it ITA,24-055,90,3,0,3,100.0,0.9,2,4,50.0,8,4,25.0,28.1,7,28.6,28.0,7,0,0.0,0,6.0,9413b19f,Alex Meret,,True
+Benevento,Crotone,1621170000,it ITA,28-344,90,8,1,7,87.5,0.9,8,13,61.5,26,9,30.8,31.1,10,50.0,36.7,20,0,0.0,1,11.5,c195ae4a,Marco Festa,,True
+Udinese,Sampdoria,1621170000,it ITA,24-118,90,2,0,2,100.0,0.4,4,7,57.1,25,5,24.0,30.0,5,20.0,28.4,18,0,0.0,0,8.0,649b01d8,Emil Audero,,True
+Parma,Sassuolo,1621180800,it ITA,34-109,90,8,1,7,87.5,1.3,2,4,50.0,24,8,12.5,25.6,9,11.1,25.6,14,0,0.0,1,17.5,8cabdc1e,Andrea Consigli,,True
+Milan,Cagliari,1621190700,it ITA,26-322,90,2,0,2,100.0,0.5,15,24,62.5,19,3,52.6,39.8,15,93.3,57.7,26,0,0.0,0,7.5,f554e29b,Alessio Cragno,,True
+Hellas Verona,Bologna,1621277100,it ITA,21-187,90,2,2,0,0.0,0.9,4,11,36.4,31,5,32.3,35.3,5,20.0,26.0,10,0,0.0,1,31.0,6662d731,Federico Ravaglia,,True
+Lazio,Torino,1621362600,it ITA,34-126,90,7,0,7,100.0,1.6,15,37,40.5,27,5,81.5,51.6,15,100.0,62.3,31,1,3.2,2,16.8,10dc46f0,Salvatore Sirigu,,True
+Cagliari,Genoa,1621709100,it ITA,28-266,90,4,0,4,100.0,0.9,1,8,12.5,24,6,16.7,28.5,10,40.0,39.3,22,1,4.5,0,5.0,94a3606c,Alberto Paleari,,True
+Crotone,Fiorentina,1621709100,it ITA,31-075,90,3,0,3,100.0,0.8,6,17,35.3,12,1,50.0,41.8,12,91.7,56.3,14,0,0.0,0,,e1b0a70d,Pietro Terracciano,,True
+Sampdoria,Parma,1621709100,it ITA,30-014,90,4,3,1,25.0,0.9,0,4,0.0,33,5,12.1,24.8,6,0.0,16.7,7,0,0.0,2,24.0,343f753a,Luigi Sepe,,True
+Internazionale,Udinese,1621774800,ar ARG,27-017,87,7,5,2,42.9,3.3,3,3,100.0,20,3,,25.5,4,,21.8,11,,,,,a111cf41,Juan Musso,,True
+Internazionale,Udinese,1621774800,it ITA,19-004,3,0,0,0,,0.0,1,1,100.0,1,0,100.0,44.0,1,0.0,15.0,0,0,,0,,7033ca08,Manuel Gasparini,,True
+Napoli,Hellas Verona,1621795500,hr CRO,21-059,62,1,1,,0.0,0.3,2,12,16.7,10,,40.0,34.9,8,100.0,69.1,6,,,1,12.7,457cb02f,Ivor Pandur,,True
+Napoli,Hellas Verona,1621795500,it ITA,30-127,28,1,0,1,100.0,0.0,5,9,55.6,7,0,71.4,43.0,4,100.0,66.5,6,0,0.0,0,9.0,ec1f737d,Alessandro Berardi,,True
+Torino,Benevento,1621795500,it ITA,33-022,90,5,1,4,80.0,0.9,1,5,20.0,24,9,8.3,25.6,7,42.9,36.9,19,2,10.5,3,13.0,e4b39692,Niccolò Manfredini,,True
+Bologna,Juventus,1621795500,pl POL,31-035,67,3,,3,,0.0,5,11,45.5,28,4,35.7,32.7,2,50.0,43.5,7,,,,12.7,01b8a2b2,Wojciech Szczęsny,,True
+Bologna,Juventus,1621795500,it ITA,31-068,23,2,1,1,50.0,1.0,0,0,,9,0,0.0,20.9,2,0.0,14.0,2,0,0.0,1,28.0,f6a06749,Carlo Pinsoglio,,True
+Spezia,Roma,1621795500,br BRA,23-323,90,8,2,6,75.0,1.8,0,7,0.0,23,5,26.1,29.7,6,16.7,25.3,10,0,0.0,0,,82328faf,Daniel Fuzato,,True
+Atalanta,Milan,1621795500,it ITA,22-087,90,1,0,1,100.0,0.0,15,26,57.7,31,2,61.3,43.9,7,100.0,61.3,12,1,8.3,2,20.0,08f5afaa,Gianluigi Donnarumma,,True
+Sassuolo,Lazio,1621795500,al ALB,26-065,90,4,2,2,75.0,1.8,6,9,66.7,29,5,31.0,29.8,6,0.0,15.7,6,1,16.7,0,7.0,339fe0e8,Thomas Strakosha,,True

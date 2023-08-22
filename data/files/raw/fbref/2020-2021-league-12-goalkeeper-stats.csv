@@ -1,0 +1,766 @@
+home_team,away_team,datetime,nationality,age,minutes,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct,gk_psxg,gk_passes_completed_launched,gk_passes_launched,gk_passes_pct_launched,gk_passes,gk_passes_throws,gk_pct_passes_launched,gk_passes_length_avg,gk_goal_kicks,gk_pct_goal_kicks_launched,gk_goal_kick_length_avg,gk_crosses,gk_crosses_stopped,gk_crosses_stopped_pct,gk_def_actions_outside_pen_area,gk_avg_distance_def_actions,player_id,player,squad,start
+Eibar,Celta Vigo,1599919200,rs SRB,28-232,90,3,0,3,100.0,0.4,14,26,53.8,25,5,80.0,54.9,7,85.7,67.9,8,0,0.0,2,33.0,ac295d9e,Marko Dmitrović,Eibar,True
+Granada,Athletic Club,1599928200,pt POR,26-218,90,2,0,2,100.0,0.4,8,21,38.1,26,1,61.5,45.2,11,45.5,38.8,23,0,0.0,1,15.8,ea83bfa6,Rui Silva,Granada,True
+Cádiz,Osasuna,1599937200,es ESP,26-245,90,4,2,2,50.0,1.2,4,29,13.8,29,3,72.4,46.8,9,88.9,60.1,8,0,0.0,0,10.7,fea23125,David Gil,Cádiz,True
+Alavés,Real Betis,1599998400,es ESP,28-118,90,4,1,3,75.0,0.3,4,8,50.0,23,6,30.4,33.2,6,16.7,28.7,10,0,0.0,1,31.0,97852360,Fernando Pacheco,Alavés,True
+Valladolid,Real Sociedad,1600005600,es ESP,31-254,90,2,1,1,50.0,0.3,10,29,34.5,26,3,57.7,43.4,15,93.3,63.5,14,1,7.1,0,9.0,8fae77ea,Jordi Masip,Valladolid,True
+Villarreal,Huesca,1600014600,es ESP,31-077,90,3,1,2,66.7,0.9,3,9,33.3,23,5,34.8,35.1,8,12.5,25.9,13,2,15.4,1,9.5,9f0ea33f,Sergio Asenjo,Villarreal,True
+Valencia,Levante,1600023600,es ESP,29-313,90,8,2,6,75.0,2.6,10,25,40.0,20,3,70.0,41.4,16,68.8,51.8,16,0,0.0,0,13.0,c9cb972b,Jaume Doménech,Valencia,True
+Villarreal,Eibar,1600524000,es ESP,31-083,90,4,1,3,75.0,1.7,6,20,30.0,30,3,50.0,39.0,10,50.0,39.2,16,0,0.0,1,14.3,9f0ea33f,Sergio Asenjo,Villarreal,True
+Getafe,Osasuna,1600533000,es ESP,27-168,90,3,0,3,100.0,0.7,9,31,29.0,36,2,72.2,45.8,10,50.0,40.4,7,1,14.3,1,15.3,8f8c6934,David Soria,Getafe,True
+Celta Vigo,Valencia,1600542000,es ESP,23-072,90,3,1,2,66.7,1.0,2,11,18.2,20,4,40.0,33.3,5,60.0,50.6,21,1,4.8,0,8.0,cde52ef5,Iván Villar,Celta Vigo,True
+Huesca,Cádiz,1600610400,es ESP,33-278,90,4,2,2,50.0,1.6,3,7,42.9,23,4,26.1,25.4,3,33.3,38.3,9,1,11.1,1,14.5,307fcd26,Andrés Fernández,Huesca,True
+Granada,Alavés,1600619400,pt POR,26-226,90,3,1,2,66.7,1.0,4,17,23.5,26,4,50.0,40.2,6,66.7,47.7,14,1,7.1,2,16.5,ea83bfa6,Rui Silva,Granada,True
+Real Betis,Valladolid,1600619400,cl CHI,37-160,90,2,0,2,100.0,0.5,4,15,26.7,21,4,61.9,48.2,2,100.0,62.0,13,0,0.0,0,,10072610,Claudio Bravo,Real Betis,True
+Real Sociedad,Real Madrid,1600628400,es ESP,25-180,90,4,0,4,100.0,0.3,8,16,50.0,29,3,37.9,34.7,7,71.4,45.6,18,0,0.0,3,24.5,374ee424,Álex Remiro,Real Sociedad,True
+Alavés,Getafe,1601118000,es ESP,28-131,90,4,0,4,100.0,0.4,16,26,61.5,23,1,82.6,51.6,7,100.0,63.6,18,1,5.6,4,18.5,97852360,Fernando Pacheco,Alavés,True
+Valencia,Huesca,1601128800,es ESP,29-326,90,4,1,3,75.0,0.9,11,15,73.3,25,6,32.0,30.0,13,53.8,41.4,25,1,4.0,0,9.7,c9cb972b,Jaume Doménech,Valencia,True
+Elche,Real Sociedad,1601137800,es ESP,28-227,90,7,3,4,71.4,2.8,5,15,33.3,30,4,23.3,28.5,9,88.9,52.3,27,0,0.0,3,14.7,e4346678,Édgar Badía,Elche,True
+Real Betis,Real Madrid,1601146800,es ESP,30-101,90,4,3,2,50.0,2.3,7,21,33.3,25,3,68.0,46.2,8,50.0,41.8,12,0,0.0,3,22.2,cda0b317,Joel Robles,Real Betis,True
+Osasuna,Levante,1601200800,es ESP,27-114,90,5,3,1,40.0,3.0,15,32,46.9,34,6,61.8,43.8,11,100.0,63.1,14,0,0.0,3,23.8,a4995f48,Sergio Herrera,Osasuna,True
+Eibar,Athletic Club,1601208000,rs SRB,28-247,90,5,2,3,60.0,2.4,10,26,38.5,22,4,72.7,53.7,10,100.0,70.4,12,0,0.0,0,10.7,ac295d9e,Marko Dmitrović,Eibar,True
+Atlético Madrid,Granada,1601215200,si SVN,27-264,90,6,1,5,83.3,2.0,3,10,30.0,17,3,47.1,37.1,4,50.0,42.0,16,1,6.3,0,8.3,ee8508c0,Jan Oblak,Atlético Madrid,True
+Valladolid,Celta Vigo,1601224200,es ESP,34-230,90,1,1,0,0.0,0.8,4,15,26.7,24,7,45.8,43.9,5,80.0,65.8,5,0,0.0,1,18.0,ba3ca78f,Roberto,Valladolid,True
+Cádiz,Sevilla,1601224200,es ESP,41-121,90,5,3,2,40.0,2.7,15,27,55.6,25,2,76.0,49.1,8,100.0,59.0,15,0,0.0,4,27.0,94084f83,Alberto Cifuentes,Cádiz,True
+Barcelona,Villarreal,1601233200,br BRA,31-070,90,1,0,1,100.0,0.1,3,3,100.0,27,7,11.1,24.1,5,0.0,13.0,13,0,0.0,2,12.8,a9dc785c,Neto,Barcelona,True
+Real Sociedad,Valencia,1601398800,es ESP,25-189,90,5,1,4,80.0,1.4,7,11,63.6,21,3,52.4,38.5,2,0.0,27.5,7,1,14.3,2,19.3,374ee424,Álex Remiro,Real Sociedad,True
+Getafe,Real Betis,1601407800,es ESP,27-178,90,2,0,2,100.0,0.3,8,28,28.6,22,0,95.5,60.3,7,100.0,62.3,11,0,0.0,0,5.0,8f8c6934,David Soria,Getafe,True
+Villarreal,Alavés,1601485200,es ESP,31-094,90,3,1,2,66.7,0.7,5,16,31.3,35,5,20.0,32.7,10,90.0,57.4,13,0,0.0,1,21.0,9f0ea33f,Sergio Asenjo,Villarreal,True
+Huesca,Atlético Madrid,1601485200,es ESP,33-288,90,2,0,2,100.0,0.4,10,26,38.5,42,4,52.4,37.6,13,30.8,35.5,18,0,0.0,0,7.0,307fcd26,Andrés Fernández,Huesca,True
+Eibar,Elche,1601494200,rs SRB,28-250,90,2,1,1,50.0,0.7,6,12,50.0,27,3,40.7,35.8,4,25.0,35.5,6,0,0.0,4,22.1,ac295d9e,Marko Dmitrović,Eibar,True
+Real Madrid,Valladolid,1601494200,be BEL,28-142,90,5,0,5,100.0,0.8,3,7,42.9,30,6,10.0,28.0,9,44.4,42.7,19,0,0.0,2,17.3,1840e36d,Thibaut Courtois,Real Madrid,True
+Sevilla,Levante,1601571600,ma MAR,29-179,90,1,0,1,100.0,0.0,4,10,40.0,21,1,38.1,32.5,3,66.7,46.3,9,0,0.0,1,26.0,f6798fc3,Yassine Bounou,Sevilla,True
+Athletic Club,Cádiz,1601571600,es ESP,23-112,90,1,1,1,0.0,0.2,6,7,85.7,10,3,30.0,31.2,5,80.0,47.0,6,0,0.0,0,,5dcf3e90,Unai Simón,Athletic Club,True
+Celta Vigo,Barcelona,1601580600,es ESP,23-084,90,4,3,2,25.0,0.6,1,5,20.0,20,4,20.0,29.3,8,12.5,23.0,11,0,0.0,0,6.0,cde52ef5,Iván Villar,Celta Vigo,True
+Valladolid,Eibar,1601722800,es ESP,34-236,90,5,2,3,80.0,2.7,5,22,22.7,22,1,68.2,47.6,8,87.5,61.8,13,0,0.0,1,11.0,ba3ca78f,Roberto,Valladolid,True
+Atlético Madrid,Villarreal,1601733600,si SVN,27-270,90,2,0,2,100.0,0.1,0,2,0.0,15,4,6.7,22.8,7,14.3,32.6,8,0,0.0,3,33.0,ee8508c0,Jan Oblak,Atlético Madrid,True
+Real Sociedad,Getafe,1601742600,es ESP,25-193,90,1,0,1,100.0,0.1,8,14,57.1,18,2,55.6,39.9,4,100.0,59.8,8,0,0.0,1,21.3,374ee424,Álex Remiro,Real Sociedad,True
+Elche,Huesca,1601742600,es ESP,28-234,90,4,0,4,100.0,0.6,3,17,17.6,36,5,36.1,35.8,9,44.4,37.0,19,0,0.0,1,9.5,e4346678,Édgar Badía,Elche,True
+Valencia,Real Betis,1601751600,es ESP,29-333,90,8,2,6,75.0,1.9,4,7,57.1,24,4,12.5,25.3,11,36.4,34.3,13,0,0.0,0,3.0,c9cb972b,Jaume Doménech,Valencia,True
+Osasuna,Celta Vigo,1601805600,es ESP,27-121,90,3,0,3,100.0,0.2,15,29,51.7,25,3,88.0,60.4,7,100.0,61.4,12,1,8.3,2,14.8,a4995f48,Sergio Herrera,Osasuna,True
+Alavés,Athletic Club,1601812800,es ESP,28-139,90,0,0,0,,0.0,7,17,41.2,18,2,61.1,43.4,9,66.7,45.7,23,0,0.0,2,15.8,97852360,Fernando Pacheco,Alavés,True
+Levante,Real Madrid,1601820000,es ESP,29-154,90,3,2,1,33.3,1.5,4,9,44.4,29,6,20.7,25.4,11,27.3,24.8,14,0,0.0,3,22.0,a01c3d54,Aitor Fernández,Levante,True
+Cádiz,Granada,1601829000,ar ARG,27-234,90,5,1,4,80.0,1.4,7,16,43.8,18,1,72.2,47.1,4,75.0,59.0,17,0,0.0,0,10.3,6c4776b1,Jeremías Ledesma,Cádiz,True
+Barcelona,Sevilla,1601838000,br BRA,31-077,90,1,1,0,0.0,0.1,1,6,16.7,35,3,17.1,25.9,12,0.0,12.9,10,0,0.0,2,28.3,a9dc785c,Neto,Barcelona,True
+Granada,Sevilla,1602932400,pt POR,26-253,90,3,0,3,100.0,0.7,4,13,30.8,24,4,45.8,37.5,4,50.0,42.0,6,0,0.0,0,,ea83bfa6,Rui Silva,Granada,True
+Celta Vigo,Atlético Madrid,1602943200,es ESP,23-100,90,4,2,2,50.0,2.1,1,4,25.0,19,4,15.8,27.8,9,11.1,25.3,8,1,12.5,0,9.7,cde52ef5,Iván Villar,Celta Vigo,True
+Real Madrid,Cádiz,1602952200,be BEL,28-159,90,4,1,3,75.0,0.8,1,2,50.0,20,9,0.0,16.5,10,20.0,27.2,22,3,13.6,0,7.3,1840e36d,Thibaut Courtois,Real Madrid,True
+Getafe,Barcelona,1602961200,es ESP,27-196,90,1,0,1,100.0,0.1,7,27,25.9,20,0,95.0,54.1,8,100.0,58.9,4,2,50.0,0,6.0,8f8c6934,David Soria,Getafe,True
+Eibar,Osasuna,1603015200,rs SRB,28-268,90,2,0,2,100.0,0.6,4,23,17.4,19,4,78.9,50.9,8,100.0,68.9,18,1,5.6,0,8.3,ac295d9e,Marko Dmitrović,Eibar,True
+Athletic Club,Levante,1603022400,es ESP,23-129,90,1,0,1,100.0,0.0,10,14,71.4,19,5,36.8,35.3,7,100.0,72.7,11,1,9.1,0,5.0,5dcf3e90,Unai Simón,Athletic Club,True
+Villarreal,Valencia,1603029600,es ESP,31-112,90,3,1,2,66.7,0.2,5,11,45.5,20,7,30.0,32.3,10,50.0,40.6,19,2,10.5,0,3.5,9f0ea33f,Sergio Asenjo,Villarreal,True
+Huesca,Valladolid,1603038600,es ESP,33-306,90,3,2,1,66.7,1.4,1,5,20.0,29,4,10.3,25.5,4,50.0,34.8,7,0,0.0,2,13.5,307fcd26,Andrés Fernández,Huesca,True
+Alavés,Elche,1603038600,es ESP,28-153,90,3,2,1,33.3,1.2,5,9,55.6,25,4,36.0,34.7,2,0.0,25.0,12,0,0.0,4,27.3,97852360,Fernando Pacheco,Alavés,True
+Real Betis,Real Sociedad,1603047600,cl CHI,37-188,90,5,3,2,60.0,1.9,8,20,40.0,34,3,52.9,38.7,5,40.0,43.4,11,1,9.1,2,16.0,10072610,Claudio Bravo,Real Betis,True
+Elche,Valencia,1603479600,es ESP,28-254,90,3,1,2,66.7,1.2,4,12,33.3,18,1,27.8,31.8,9,77.8,45.9,12,0,0.0,2,13.7,e4346678,Édgar Badía,Elche,True
+Barcelona,Real Madrid,1603548000,br BRA,31-097,90,9,3,6,77.8,3.9,2,3,66.7,11,3,9.1,23.1,8,25.0,26.4,10,0,0.0,0,17.0,a9dc785c,Neto,Barcelona,True
+Osasuna,Athletic Club,1603557000,es ESP,27-141,90,5,0,5,100.0,0.6,18,25,72.0,26,2,76.9,54.2,5,100.0,67.6,21,1,4.8,0,8.4,a4995f48,Sergio Herrera,Osasuna,True
+Sevilla,Eibar,1603557000,cz CZE,31-209,90,1,1,0,0.0,0.2,3,10,30.0,44,8,20.5,25.8,3,33.3,36.3,13,1,7.7,1,14.0,7b456af7,Tomáš Vaclík,Sevilla,True
+Atlético Madrid,Real Betis,1603566000,si SVN,27-291,90,3,0,3,100.0,0.8,5,15,33.3,18,2,55.6,43.7,7,71.4,45.4,19,1,5.3,0,8.0,ee8508c0,Jan Oblak,Atlético Madrid,True
+Valladolid,Alavés,1603630800,es ESP,34-258,90,3,2,1,33.3,1.9,8,24,33.3,22,4,68.2,49.6,10,90.0,66.0,17,0,0.0,0,8.8,ba3ca78f,Roberto,Valladolid,True
+Cádiz,Villarreal,1603638000,ar ARG,27-255,90,2,0,2,100.0,0.1,5,25,20.0,24,3,75.0,48.3,7,100.0,64.6,16,1,6.3,2,17.0,6c4776b1,Jeremías Ledesma,Cádiz,True
+Getafe,Granada,1603647000,es ESP,27-204,90,2,1,1,100.0,1.1,14,26,53.8,30,0,83.3,46.5,3,33.3,38.7,7,0,0.0,0,,8f8c6934,David Soria,Getafe,True
+Real Sociedad,Huesca,1603656000,es ESP,25-215,90,4,1,3,75.0,1.1,4,12,33.3,31,5,32.3,34.3,2,100.0,68.0,8,0,0.0,0,3.0,374ee424,Álex Remiro,Real Sociedad,True
+Levante,Celta Vigo,1603742400,es ESP,29-176,90,3,1,2,66.7,0.5,6,9,66.7,14,5,50.0,40.2,4,50.0,45.3,14,0,0.0,0,4.0,a01c3d54,Aitor Fernández,Levante,True
+Eibar,Cádiz,1604088000,rs SRB,28-280,90,4,2,2,50.0,1.7,6,11,54.5,23,2,43.5,40.0,2,50.0,47.5,5,0,0.0,0,15.7,ac295d9e,Marko Dmitrović,Eibar,True
+Real Madrid,Huesca,1604149200,be BEL,28-173,90,2,1,1,50.0,0.8,0,3,0.0,24,5,8.3,25.2,7,14.3,34.1,15,1,6.7,4,26.8,1840e36d,Thibaut Courtois,Real Madrid,True
+Athletic Club,Sevilla,1604157300,es ESP,23-142,90,2,1,1,50.0,1.0,6,18,33.3,30,8,43.3,42.9,5,100.0,68.8,14,1,7.1,1,13.7,5dcf3e90,Unai Simón,Athletic Club,True
+Osasuna,Atlético Madrid,1604165400,es ESP,27-148,90,6,3,3,66.7,2.6,12,24,50.0,31,1,64.5,45.9,5,80.0,53.6,6,0,0.0,0,18.5,a4995f48,Sergio Herrera,Osasuna,True
+Alavés,Barcelona,1604174400,es ESP,28-166,90,8,1,7,87.5,0.9,8,17,47.1,12,1,83.3,54.7,13,53.8,40.1,7,1,14.3,0,6.0,97852360,Fernando Pacheco,Alavés,True
+Real Betis,Elche,1604235600,cl CHI,37-202,90,2,1,1,50.0,1.0,2,9,22.2,32,2,21.9,31.0,2,100.0,71.5,1,0,0.0,0,10.0,10072610,Claudio Bravo,Real Betis,True
+Celta Vigo,Real Sociedad,1604242800,es ESP,25-099,90,7,4,3,42.9,2.6,2,9,22.2,25,5,36.0,32.8,4,0.0,17.0,12,0,0.0,0,,967f34d3,Rubén Blanco,Celta Vigo,True
+Granada,Levante,1604251800,pt POR,26-268,90,4,1,3,75.0,0.3,11,35,31.4,24,1,75.0,51.4,17,100.0,64.1,26,2,7.7,0,6.8,ea83bfa6,Rui Silva,Granada,True
+Valencia,Getafe,1604260800,es ESP,29-362,90,5,2,3,60.0,1.7,17,24,70.8,16,0,93.8,56.1,9,100.0,61.2,27,0,0.0,0,,c9cb972b,Jaume Doménech,Valencia,True
+Villarreal,Valladolid,1604347200,es ESP,31-127,90,1,0,1,100.0,0.2,6,11,54.5,28,4,21.4,30.2,7,71.4,47.7,31,2,6.5,0,7.7,9f0ea33f,Sergio Asenjo,Villarreal,True
+Elche,Celta Vigo,1604692800,es ESP,28-268,90,6,1,5,83.3,2.3,5,11,45.5,28,6,25.0,31.1,8,50.0,36.4,7,0,0.0,0,10.8,e4346678,Édgar Badía,Elche,True
+Huesca,Eibar,1604754000,es ESP,33-326,90,3,1,2,66.7,1.1,3,19,15.8,44,10,40.9,33.8,6,16.7,32.0,15,0,0.0,1,10.5,307fcd26,Andrés Fernández,Huesca,True
+Barcelona,Real Betis,1604762100,de GER,28-191,90,6,2,4,66.7,1.4,4,6,66.7,32,5,9.4,23.3,6,50.0,37.8,9,0,0.0,2,27.3,6f51e382,Marc-André ter Stegen,Barcelona,True
+Sevilla,Osasuna,1604770200,ma MAR,29-216,90,2,0,2,100.0,0.2,1,11,9.1,29,5,17.2,27.8,8,75.0,44.1,9,1,11.1,0,10.0,f6798fc3,Yassine Bounou,Sevilla,True
+Atlético Madrid,Cádiz,1604779200,si SVN,27-305,90,3,0,3,100.0,0.7,4,9,44.4,18,3,33.3,34.1,10,30.0,26.7,25,0,0.0,2,14.2,ee8508c0,Jan Oblak,Atlético Madrid,True
+Getafe,Villarreal,1604840400,es ESP,27-218,90,5,3,2,40.0,2.5,12,28,42.9,24,0,91.7,52.7,6,100.0,59.0,7,0,0.0,1,14.0,8f8c6934,David Soria,Getafe,True
+Real Sociedad,Granada,1604848500,es ESP,25-229,90,1,0,0,100.0,1.0,1,3,33.3,16,4,6.3,24.5,3,66.7,46.7,4,1,25.0,0,8.3,374ee424,Álex Remiro,Real Sociedad,True
+Valladolid,Athletic Club,1604856600,es ESP,31-310,90,2,1,1,100.0,1.0,13,27,48.1,18,0,88.9,53.9,11,100.0,65.1,22,0,0.0,0,10.5,8fae77ea,Jordi Masip,Valladolid,True
+Levante,Alavés,1604856600,es ESP,29-189,90,2,1,1,50.0,0.5,3,4,75.0,20,7,20.0,27.7,2,0.0,27.5,5,0,0.0,3,31.3,a01c3d54,Aitor Fernández,Levante,True
+Valencia,Real Madrid,1604865600,es ESP,30-003,90,6,1,5,83.3,1.1,8,21,38.1,18,3,55.6,42.0,11,100.0,58.4,30,0,0.0,1,16.7,c9cb972b,Jaume Doménech,Valencia,True
+Osasuna,Huesca,1605902400,es ESP,27-168,90,5,1,4,80.0,0.9,8,18,44.4,35,5,48.6,38.7,2,50.0,49.5,10,2,20.0,5,17.8,a4995f48,Sergio Herrera,Osasuna,True
+Levante,Elche,1605963600,es ESP,29-202,90,5,1,4,80.0,0.6,1,8,12.5,28,9,17.9,27.9,4,75.0,59.8,14,0,0.0,3,20.8,a01c3d54,Aitor Fernández,Levante,True
+Villarreal,Real Madrid,1605971700,es ESP,31-146,90,1,1,0,0.0,0.5,2,4,50.0,25,4,12.0,25.0,1,100.0,62.0,6,1,16.7,0,6.5,9f0ea33f,Sergio Asenjo,Villarreal,True
+Sevilla,Celta Vigo,1605979800,cz CZE,31-237,90,7,2,5,71.4,2.9,2,9,22.2,24,0,29.2,35.0,3,66.7,43.0,6,1,16.7,1,9.8,7b456af7,Tomáš Vaclík,Sevilla,True
+Atlético Madrid,Barcelona,1605988800,si SVN,27-319,90,4,0,4,100.0,0.2,6,19,31.6,19,1,68.4,45.3,8,75.0,49.8,15,0,0.0,0,7.0,ee8508c0,Jan Oblak,Atlético Madrid,True
+Eibar,Getafe,1606050000,rs SRB,28-303,90,3,0,3,100.0,0.3,11,26,42.3,26,3,76.9,54.3,6,100.0,73.0,17,1,5.9,1,11.8,ac295d9e,Marko Dmitrović,Eibar,True
+Cádiz,Real Sociedad,1606058100,ar ARG,27-283,90,3,1,2,66.7,0.3,10,24,41.7,20,2,75.0,52.4,9,100.0,64.9,16,0,0.0,0,5.5,6c4776b1,Jeremías Ledesma,Cádiz,True
+Granada,Valladolid,1606066200,pt POR,26-289,90,3,3,0,0.0,1.0,15,23,65.2,27,4,59.3,40.4,9,77.8,50.3,6,0,0.0,1,21.7,ea83bfa6,Rui Silva,Granada,True
+Alavés,Valencia,1606075200,es ESP,28-188,90,5,2,3,60.0,1.7,8,23,34.8,17,0,82.4,50.2,10,90.0,53.6,13,0,0.0,0,1.0,97852360,Fernando Pacheco,Alavés,True
+Athletic Club,Real Betis,1606161600,es ESP,23-165,90,1,0,1,100.0,0.0,5,10,50.0,22,6,36.4,36.5,2,100.0,61.5,14,0,0.0,0,,5dcf3e90,Unai Simón,Athletic Club,True
+Valladolid,Levante,1606507200,es ESP,31-329,90,3,1,2,100.0,1.2,6,24,25.0,20,5,75.0,50.8,9,100.0,68.8,21,1,4.8,0,5.8,8fae77ea,Jordi Masip,Valladolid,True
+Elche,Cádiz,1606568400,es ESP,28-290,90,2,1,1,50.0,0.8,7,14,50.0,37,4,32.4,31.2,2,100.0,64.0,25,0,0.0,1,11.0,e4346678,Édgar Badía,Elche,True
+Valencia,Atlético Madrid,1606576500,es ESP,30-023,90,5,1,5,80.0,0.8,7,26,26.9,21,3,66.7,40.9,13,92.3,56.6,13,0,0.0,0,7.0,c9cb972b,Jaume Doménech,Valencia,True
+Huesca,Sevilla,1606584600,es ESP,33-347,90,4,1,3,75.0,1.2,6,17,35.3,31,5,45.2,40.0,9,33.3,30.6,20,0,0.0,0,12.0,307fcd26,Andrés Fernández,Huesca,True
+Real Madrid,Alavés,1606593600,be BEL,28-201,90,6,2,4,83.3,2.6,0,2,0.0,15,5,13.3,27.5,1,0.0,36.0,10,0,0.0,0,9.5,1840e36d,Thibaut Courtois,Real Madrid,True
+Barcelona,Osasuna,1606654800,de GER,28-213,90,5,0,5,100.0,0.9,4,5,80.0,34,7,5.9,23.1,8,37.5,36.4,20,1,5.0,1,13.3,6f51e382,Marc-André ter Stegen,Barcelona,True
+Getafe,Athletic Club,1606662900,es ESP,27-239,90,2,1,1,50.0,0.3,3,19,15.8,24,0,62.5,46.6,5,80.0,53.6,7,0,0.0,1,21.0,8f8c6934,David Soria,Getafe,True
+Celta Vigo,Granada,1606671000,es ESP,25-127,90,2,1,1,50.0,0.9,6,14,42.9,24,5,37.5,31.5,7,71.4,50.4,3,0,0.0,0,18.0,967f34d3,Rubén Blanco,Celta Vigo,True
+Real Sociedad,Villarreal,1606680000,es ESP,25-250,90,2,1,1,100.0,1.2,8,18,44.4,33,4,42.4,36.2,6,66.7,53.8,14,0,0.0,0,4.5,374ee424,Álex Remiro,Real Sociedad,True
+Real Betis,Eibar,1606766400,es ESP,30-166,90,6,2,3,83.3,3.3,11,24,45.8,40,3,45.0,37.7,9,66.7,47.9,10,0,0.0,3,26.7,cda0b317,Joel Robles,Real Betis,True
+Athletic Club,Celta Vigo,1607112000,es ESP,23-176,90,4,2,2,50.0,1.2,7,15,46.7,17,4,47.1,38.6,7,100.0,64.3,15,0,0.0,0,10.5,5dcf3e90,Unai Simón,Athletic Club,True
+Levante,Getafe,1607173200,es ESP,29-216,90,0,0,0,,0.0,2,5,40.0,25,5,20.0,29.3,8,0.0,12.9,17,0,0.0,0,9.3,a01c3d54,Aitor Fernández,Levante,True
+Sevilla,Real Madrid,1607181300,ma MAR,29-244,90,2,1,2,50.0,0.3,2,8,25.0,23,7,13.0,28.0,7,71.4,45.0,5,1,20.0,1,13.3,f6798fc3,Yassine Bounou,Sevilla,True
+Atlético Madrid,Valladolid,1607189400,si SVN,27-333,90,3,0,3,100.0,0.3,12,26,46.2,22,5,63.6,45.9,15,80.0,49.0,11,0,0.0,0,,ee8508c0,Jan Oblak,Atlético Madrid,True
+Cádiz,Barcelona,1607198400,ar ARG,27-296,90,8,1,8,87.5,1.8,10,25,40.0,14,1,85.7,55.3,13,100.0,64.1,16,2,12.5,0,5.2,6c4776b1,Jeremías Ledesma,Cádiz,True
+Granada,Huesca,1607259600,pt POR,26-303,90,7,3,4,57.1,1.8,6,16,37.5,33,4,39.4,36.4,6,50.0,41.2,17,0,0.0,1,22.5,ea83bfa6,Rui Silva,Granada,True
+Osasuna,Real Betis,1607267700,es ESP,27-184,90,5,2,3,60.0,1.5,13,31,41.9,35,2,68.6,44.4,7,100.0,59.4,11,0,0.0,5,19.4,a4995f48,Sergio Herrera,Osasuna,True
+Villarreal,Elche,1607275800,es ESP,31-161,90,0,0,0,,0.0,1,2,50.0,18,4,11.1,24.3,5,0.0,16.2,4,0,0.0,2,20.2,9f0ea33f,Sergio Asenjo,Villarreal,True
+Alavés,Real Sociedad,1607284800,es ESP,28-202,90,4,0,4,100.0,1.2,18,29,62.1,24,0,79.2,46.3,11,90.9,53.7,21,0,0.0,0,,97852360,Fernando Pacheco,Alavés,True
+Eibar,Valencia,1607371200,rs SRB,28-318,90,4,0,4,100.0,0.3,6,24,25.0,38,6,52.6,44.3,4,100.0,72.5,3,0,0.0,4,21.6,ac295d9e,Marko Dmitrović,Eibar,True
+Valladolid,Osasuna,1607716800,es ESP,31-343,90,6,2,4,66.7,1.9,7,28,25.0,19,1,94.7,56.6,10,100.0,63.4,22,0,0.0,0,,8fae77ea,Jordi Masip,Valladolid,True
+Valencia,Athletic Club,1607778000,es ESP,30-037,90,5,2,3,80.0,2.3,8,20,40.0,23,5,56.5,39.7,7,100.0,62.7,25,0,0.0,1,19.7,c9cb972b,Jaume Doménech,Valencia,True
+Getafe,Sevilla,1607786100,es ESP,27-252,90,0,1,0,,0.0,9,23,39.1,21,0,90.5,59.2,9,44.4,39.3,12,1,8.3,1,21.0,8f8c6934,David Soria,Getafe,True
+Huesca,Alavés,1607794200,es ESP,22-243,90,1,0,1,100.0,0.0,3,16,18.8,38,6,34.2,32.3,6,50.0,42.8,7,1,14.3,0,10.8,f127d782,Álvaro Fernández,Huesca,True
+Real Madrid,Atlético Madrid,1607803200,be BEL,28-215,90,1,0,1,100.0,0.1,1,11,9.1,35,7,22.9,28.5,5,60.0,42.0,12,0,0.0,3,24.8,1840e36d,Thibaut Courtois,Real Madrid,True
+Real Sociedad,Eibar,1607864400,es ESP,25-264,90,4,1,3,75.0,1.3,7,29,24.1,37,4,51.4,38.9,12,83.3,57.9,27,0,0.0,2,17.7,374ee424,Álex Remiro,Real Sociedad,True
+Real Betis,Villarreal,1607872500,es ESP,30-179,90,2,1,1,50.0,1.0,9,14,64.3,27,7,44.4,37.5,6,33.3,33.7,18,0,0.0,0,8.0,cda0b317,Joel Robles,Real Betis,True
+Elche,Granada,1607880600,es ESP,28-305,90,5,1,4,80.0,1.7,2,7,28.6,22,6,18.2,31.6,7,42.9,27.7,15,0,0.0,0,2.0,e4346678,Édgar Badía,Elche,True
+Barcelona,Levante,1607889600,de GER,28-227,90,3,0,3,100.0,0.6,6,6,100.0,22,6,18.2,25.8,6,33.3,32.3,6,0,0.0,1,40.0,6f51e382,Marc-André ter Stegen,Barcelona,True
+Celta Vigo,Cádiz,1607976000,es ESP,25-142,90,2,0,2,100.0,1.0,4,18,22.2,37,7,29.7,31.5,8,87.5,50.8,21,0,0.0,2,14.5,967f34d3,Rubén Blanco,Celta Vigo,True
+Real Madrid,Athletic Club,1608066000,be BEL,28-218,90,4,1,3,75.0,0.6,3,3,100.0,20,6,10.0,27.8,6,16.7,29.7,11,2,18.2,0,9.3,1840e36d,Thibaut Courtois,Real Madrid,True
+Barcelona,Real Sociedad,1608148800,de GER,28-230,90,5,1,4,80.0,1.7,11,20,55.0,34,2,47.1,39.1,4,100.0,60.5,5,0,0.0,1,11.5,6f51e382,Marc-André ter Stegen,Barcelona,True
+Athletic Club,Huesca,1608321600,es ESP,23-190,90,1,0,1,100.0,0.1,3,5,60.0,21,7,19.0,25.7,1,100.0,70.0,13,3,23.1,0,4.0,5dcf3e90,Unai Simón,Athletic Club,True
+Atlético Madrid,Elche,1608382800,si SVN,27-347,90,3,1,2,66.7,0.8,3,4,75.0,14,2,21.4,31.1,6,16.7,28.5,12,0,0.0,1,21.0,ee8508c0,Jan Oblak,Atlético Madrid,True
+Barcelona,Valencia,1608390900,de GER,28-233,90,4,2,2,50.0,1.8,5,9,55.6,25,5,32.0,32.0,8,12.5,22.6,7,1,14.3,0,3.0,6f51e382,Marc-André ter Stegen,Barcelona,True
+Osasuna,Villarreal,1608399000,es ESP,36-180,90,6,3,3,50.0,2.8,20,30,66.7,25,1,88.0,54.4,8,100.0,61.0,5,0,0.0,2,21.0,24279b8b,Rubén,Osasuna,True
+Levante,Real Sociedad,1608399000,es ESP,29-230,90,5,1,4,80.0,0.5,7,13,53.8,33,12,30.3,32.5,10,30.0,28.3,22,1,4.5,2,16.0,a01c3d54,Aitor Fernández,Levante,True
+Sevilla,Valladolid,1608408000,ma MAR,29-258,90,5,1,4,80.0,1.3,6,13,46.2,26,2,38.5,39.0,5,60.0,37.0,12,0,0.0,3,33.0,f6798fc3,Yassine Bounou,Sevilla,True
+Celta Vigo,Alavés,1608469200,es ESP,25-148,90,2,0,2,100.0,0.2,2,23,8.7,34,2,55.9,41.5,8,50.0,34.0,13,0,0.0,0,,967f34d3,Rubén Blanco,Celta Vigo,True
+Granada,Real Betis,1608477300,pt POR,26-317,90,1,0,1,100.0,0.1,9,28,32.1,29,2,69.0,46.4,10,80.0,59.8,22,0,0.0,0,,ea83bfa6,Rui Silva,Granada,True
+Cádiz,Getafe,1608485400,ar ARG,27-311,90,4,2,2,50.0,1.2,5,10,50.0,23,9,39.1,32.4,4,25.0,36.5,9,0,0.0,0,10.0,6c4776b1,Jeremías Ledesma,Cádiz,True
+Eibar,Real Madrid,1608494400,rs SRB,28-331,90,4,3,1,25.0,1.4,11,30,36.7,34,2,70.6,49.7,6,100.0,74.0,9,1,11.1,1,15.6,ac295d9e,Marko Dmitrović,Eibar,True
+Valencia,Sevilla,1608654600,es ESP,30-047,90,3,1,2,66.7,0.1,19,30,63.3,24,3,58.3,39.5,16,100.0,57.9,18,0,0.0,5,16.8,c9cb972b,Jaume Doménech,Valencia,True
+Elche,Osasuna,1608654600,es ESP,28-314,90,6,2,4,66.7,1.6,1,4,25.0,40,5,7.5,22.4,10,10.0,15.8,11,0,0.0,2,15.0,e4346678,Édgar Badía,Elche,True
+Huesca,Levante,1608662700,es ESP,22-253,90,1,1,0,0.0,0.2,3,7,42.9,15,3,33.3,35.5,7,28.6,36.9,15,0,0.0,1,28.0,f127d782,Álvaro Fernández,Huesca,True
+Real Sociedad,Atlético Madrid,1608662700,es ESP,25-273,90,3,2,1,33.3,0.3,4,7,57.1,21,4,28.6,33.9,3,33.3,46.3,17,0,0.0,0,3.0,374ee424,Álex Remiro,Real Sociedad,True
+Valladolid,Barcelona,1608670800,es ESP,31-354,90,10,3,7,70.0,3.1,1,13,7.7,18,6,44.4,40.2,10,50.0,43.7,7,1,14.3,1,10.7,8fae77ea,Jordi Masip,Valladolid,True
+Villarreal,Athletic Club,1608670800,es ESP,31-177,90,3,1,2,66.7,0.7,5,12,41.7,28,6,28.6,30.8,10,40.0,38.2,16,0,0.0,1,18.0,9f0ea33f,Sergio Asenjo,Villarreal,True
+Getafe,Celta Vigo,1608741000,es ESP,27-072,90,1,1,0,100.0,1.0,12,22,54.5,20,2,85.0,48.9,6,83.3,50.2,13,0,0.0,0,,039ae103,Rubén Yáñez,Getafe,True
+Real Madrid,Granada,1608749100,be BEL,28-226,90,1,0,1,100.0,0.3,3,9,33.3,33,6,18.2,28.2,7,42.9,41.6,12,0,0.0,0,13.7,1840e36d,Thibaut Courtois,Real Madrid,True
+Alavés,Eibar,1608757200,es ESP,28-219,90,4,1,3,75.0,0.5,16,25,64.0,26,3,73.1,46.5,10,60.0,47.8,14,0,0.0,1,16.7,97852360,Fernando Pacheco,Alavés,True
+Real Betis,Cádiz,1608757200,es ESP,30-189,90,3,0,3,100.0,0.6,0,3,0.0,10,1,20.0,22.1,3,33.3,22.0,16,0,0.0,3,31.3,cda0b317,Joel Robles,Real Betis,True
+Sevilla,Villarreal,1609257600,ma MAR,29-268,90,2,0,2,100.0,1.0,8,17,47.1,25,1,48.0,43.6,6,83.3,47.0,19,2,10.5,8,21.6,f6798fc3,Yassine Bounou,Sevilla,True
+Barcelona,Eibar,1609265700,de GER,28-243,90,3,1,2,66.7,0.7,1,6,16.7,35,6,11.4,25.1,5,40.0,39.2,19,1,5.3,1,16.7,6f51e382,Marc-André ter Stegen,Barcelona,True
+Cádiz,Valladolid,1609273800,ar ARG,27-320,90,1,0,1,100.0,0.6,13,29,44.8,25,0,92.0,54.3,6,100.0,66.7,17,2,11.8,0,6.0,6c4776b1,Jeremías Ledesma,Cádiz,True
+Levante,Real Betis,1609273800,es ESP,29-240,90,7,3,4,71.4,3.3,8,21,38.1,34,2,50.0,41.4,8,50.0,43.3,22,0,0.0,0,5.0,a01c3d54,Aitor Fernández,Levante,True
+Granada,Valencia,1609344000,pt POR,26-327,90,6,1,5,83.3,1.6,9,19,47.4,26,2,61.5,39.2,4,75.0,55.8,13,0,0.0,2,19.8,ea83bfa6,Rui Silva,Granada,True
+Celta Vigo,Huesca,1609352100,es ESP,25-158,90,6,1,5,83.3,2.0,7,13,53.8,30,3,30.0,28.9,5,80.0,47.2,22,1,4.5,2,14.3,967f34d3,Rubén Blanco,Celta Vigo,True
+Atlético Madrid,Getafe,1609352100,si SVN,27-358,90,2,0,2,100.0,0.3,4,19,21.1,16,5,56.3,39.1,12,83.3,54.8,13,0,0.0,0,14.0,ee8508c0,Jan Oblak,Atlético Madrid,True
+Elche,Real Madrid,1609360200,es ESP,28-322,90,6,1,5,83.3,1.5,8,15,53.3,34,6,29.4,30.5,8,62.5,41.4,22,0,0.0,3,19.3,e4346678,Édgar Badía,Elche,True
+Athletic Club,Real Sociedad,1609419600,es ESP,23-203,90,3,1,2,66.7,1.2,7,21,33.3,29,4,55.2,41.6,8,62.5,49.0,13,0,0.0,0,4.7,5dcf3e90,Unai Simón,Athletic Club,True
+Osasuna,Alavés,1609427700,es ESP,36-192,7,,,,,0.0,2,2,100.0,,,,,,,,1,,,1,22.0,24279b8b,Rubén,Osasuna,True
+Osasuna,Alavés,1609427700,es ESP,27-209,78,1,1,0,100.0,0.9,13,29,44.8,19,0,100.0,57.5,10,100.0,65.7,31,1,3.2,3,19.0,a4995f48,Sergio Herrera,Osasuna,True
+Villarreal,Levante,1609592400,es ESP,31-188,90,2,1,1,50.0,0.7,8,19,42.1,26,3,42.3,35.3,11,72.7,52.5,15,0,0.0,0,8.0,9f0ea33f,Sergio Asenjo,Villarreal,True
+Real Betis,Sevilla,1609600500,cl CHI,37-264,90,2,1,1,50.0,0.4,4,14,28.6,24,4,45.8,36.7,8,37.5,38.6,9,0,0.0,2,12.4,10072610,Claudio Bravo,Real Betis,True
+Getafe,Valladolid,1609608600,es ESP,27-082,90,2,1,1,50.0,1.6,11,26,42.3,30,3,76.7,45.6,5,60.0,47.8,17,1,5.9,1,10.3,039ae103,Rubén Yáñez,Getafe,True
+Real Madrid,Celta Vigo,1609617600,be BEL,28-236,90,0,0,0,,0.0,3,11,27.3,27,6,33.3,37.9,4,50.0,44.8,23,0,0.0,0,5.0,1840e36d,Thibaut Courtois,Real Madrid,True
+Athletic Club,Elche,1609678800,es ESP,23-206,90,1,0,1,100.0,0.3,8,16,50.0,33,6,33.3,35.3,7,71.4,54.0,17,1,5.9,2,16.2,5dcf3e90,Unai Simón,Athletic Club,True
+Alavés,Atlético Madrid,1609686900,es ESP,28-230,90,4,2,2,50.0,2.1,6,15,40.0,26,3,46.2,38.0,10,30.0,30.3,11,1,9.1,1,12.6,97852360,Fernando Pacheco,Alavés,True
+Eibar,Granada,1609695000,rs SRB,28-345,90,3,0,3,100.0,1.3,9,23,39.1,22,2,86.4,60.8,4,100.0,76.3,11,0,0.0,2,35.5,ac295d9e,Marko Dmitrović,Eibar,True
+Real Sociedad,Osasuna,1609695000,es ESP,25-285,90,2,1,1,50.0,0.9,5,12,41.7,27,4,33.3,33.1,6,50.0,39.7,7,0,0.0,1,24.0,374ee424,Álex Remiro,Real Sociedad,True
+Huesca,Barcelona,1609704000,es ESP,22-265,90,6,1,5,83.3,3.3,4,10,40.0,18,3,22.2,31.7,17,35.3,42.4,5,0,0.0,0,10.0,f127d782,Álvaro Fernández,Huesca,True
+Valencia,Cádiz,1609790400,es ESP,30-060,90,2,1,1,50.0,0.4,1,2,50.0,20,6,5.0,22.2,5,20.0,26.6,19,0,0.0,0,,c9cb972b,Jaume Doménech,Valencia,True
+Athletic Club,Barcelona,1609963200,es ESP,23-209,90,9,3,6,66.7,2.2,3,6,50.0,22,8,27.3,32.5,3,0.0,22.3,10,0,0.0,0,13.5,5dcf3e90,Unai Simón,Athletic Club,True
+Celta Vigo,Villarreal,1610136000,es ESP,25-167,90,6,4,2,33.3,2.7,2,10,20.0,28,6,21.4,27.9,6,66.7,46.7,9,0,0.0,2,18.0,967f34d3,Rubén Blanco,Celta Vigo,True
+Sevilla,Real Sociedad,1610197200,ma MAR,29-279,90,3,2,2,33.3,0.5,9,19,47.4,24,2,45.8,38.1,9,88.9,58.8,19,0,0.0,2,16.3,f6798fc3,Yassine Bounou,Sevilla,True
+Granada,Barcelona,1610213400,pt POR,26-337,90,4,4,0,0.0,2.1,6,18,33.3,16,1,62.5,41.9,9,88.9,60.1,3,0,0.0,3,19.1,ea83bfa6,Rui Silva,Granada,True
+Osasuna,Real Madrid,1610222400,es ESP,27-218,90,1,0,1,100.0,0.1,15,29,51.7,25,2,76.0,49.0,10,100.0,59.3,20,0,0.0,1,7.6,a4995f48,Sergio Herrera,Osasuna,True
+Levante,Eibar,1610283600,es ESP,29-252,90,4,1,3,75.0,0.5,3,11,27.3,32,5,25.0,32.0,15,20.0,25.2,21,0,0.0,0,16.0,a01c3d54,Aitor Fernández,Levante,True
+Cádiz,Alavés,1610291700,ar ARG,27-332,90,2,1,1,100.0,1.1,7,22,31.8,26,3,61.5,42.8,6,100.0,64.0,13,2,15.4,1,17.2,6c4776b1,Jeremías Ledesma,Cádiz,True
+Valladolid,Valencia,1610308800,es ESP,32-007,90,6,1,5,83.3,1.2,8,24,33.3,21,2,71.4,44.1,9,100.0,67.7,16,0,0.0,0,4.0,8fae77ea,Jordi Masip,Valladolid,True
+Elche,Getafe,1610388000,es ESP,28-334,90,7,3,4,71.4,3.6,6,9,66.7,25,8,20.0,27.5,6,66.7,38.5,13,0,0.0,0,8.7,e4346678,Édgar Badía,Elche,True
+Huesca,Real Betis,1610395200,es ESP,22-273,90,5,2,3,60.0,1.3,4,4,100.0,27,7,14.8,28.4,6,0.0,23.0,14,0,0.0,0,4.0,f127d782,Álvaro Fernández,Huesca,True
+Granada,Osasuna,1610474400,pt POR,26-340,90,3,0,3,100.0,0.4,10,26,38.5,26,1,76.9,49.8,6,100.0,60.2,15,0,0.0,1,16.5,ea83bfa6,Rui Silva,Granada,True
+Atlético Madrid,Sevilla,1610483400,si SVN,28-005,90,2,0,2,100.0,0.9,14,24,58.3,17,1,70.6,43.3,13,92.3,53.4,27,0,0.0,0,8.0,ee8508c0,Jan Oblak,Atlético Madrid,True
+Valladolid,Elche,1611079200,es ESP,32-016,90,3,2,1,33.3,1.7,5,8,62.5,18,6,38.9,31.4,4,25.0,35.8,10,0,0.0,3,19.8,8fae77ea,Jordi Masip,Valladolid,True
+Cádiz,Levante,1611079200,ar ARG,27-341,90,5,2,3,60.0,2.1,9,23,39.1,19,1,84.2,52.9,7,100.0,65.7,7,0,0.0,0,16.3,6c4776b1,Jeremías Ledesma,Cádiz,True
+Alavés,Sevilla,1611088200,es ESP,28-246,90,3,2,1,33.3,1.6,4,13,30.8,21,2,52.4,41.8,2,100.0,63.5,7,0,0.0,0,10.0,97852360,Fernando Pacheco,Alavés,True
+Getafe,Huesca,1611165600,es ESP,27-100,90,3,0,3,100.0,0.4,6,18,33.3,19,3,63.2,39.7,8,75.0,48.0,19,0,0.0,1,21.0,039ae103,Rubén Yáñez,Getafe,True
+Real Betis,Celta Vigo,1611172800,es ESP,30-217,90,3,1,2,66.7,1.3,10,25,40.0,29,2,65.5,41.8,8,75.0,48.8,13,1,7.7,2,22.7,cda0b317,Joel Robles,Real Betis,True
+Villarreal,Granada,1611174600,es ESP,31-206,90,2,2,0,0.0,0.8,7,12,58.3,21,2,42.9,32.0,8,37.5,33.6,6,1,16.7,0,1.0,9f0ea33f,Sergio Asenjo,Villarreal,True
+Valencia,Osasuna,1611252000,es ESP,30-077,90,5,1,4,80.0,1.6,4,14,28.6,25,4,48.0,36.6,7,28.6,28.9,9,0,0.0,1,22.5,c9cb972b,Jaume Doménech,Valencia,True
+Eibar,Atlético Madrid,1611261000,rs SRB,28-363,90,4,2,2,75.0,1.9,6,18,33.3,16,3,75.0,51.9,6,100.0,75.5,11,1,9.1,0,13.5,ac295d9e,Marko Dmitrović,Eibar,True
+Levante,Valladolid,1611345600,es ESP,29-264,90,3,2,1,33.3,0.5,3,11,27.3,30,7,36.7,32.9,4,0.0,27.8,13,0,0.0,3,24.7,a01c3d54,Aitor Fernández,Levante,True
+Huesca,Villarreal,1611406800,es ESP,22-285,90,2,0,2,100.0,0.3,6,18,33.3,38,6,36.8,36.6,5,80.0,50.0,6,0,0.0,0,6.5,f127d782,Álvaro Fernández,Huesca,True
+Sevilla,Cádiz,1611414900,ma MAR,29-293,90,3,0,3,100.0,0.3,4,7,57.1,29,7,10.3,22.7,5,80.0,50.4,14,1,7.1,1,19.3,f6798fc3,Yassine Bounou,Sevilla,True
+Real Sociedad,Real Betis,1611423000,es ESP,25-305,90,4,2,2,50.0,1.0,1,8,12.5,23,4,34.8,34.7,3,0.0,16.3,9,0,0.0,0,16.0,374ee424,Álex Remiro,Real Sociedad,True
+Alavés,Real Madrid,1611432000,es ESP,28-250,90,6,4,2,33.3,2.2,3,6,50.0,18,8,16.7,29.8,9,33.3,29.9,5,0,0.0,0,,97852360,Fernando Pacheco,Alavés,True
+Osasuna,Granada,1611493200,es ESP,27-233,90,1,1,0,0.0,0.6,8,30,26.7,27,2,81.5,56.1,8,100.0,66.1,15,3,20.0,2,18.0,a4995f48,Sergio Herrera,Osasuna,True
+Elche,Barcelona,1611501300,es ESP,28-347,90,8,2,6,75.0,3.9,3,7,42.9,33,4,21.2,27.1,16,0.0,17.5,15,2,13.3,0,10.7,e4346678,Édgar Badía,Elche,True
+Celta Vigo,Eibar,1611509400,es ESP,25-183,90,2,1,1,50.0,0.9,14,29,48.3,38,3,63.2,40.7,7,71.4,49.1,18,0,0.0,1,14.7,967f34d3,Rubén Blanco,Celta Vigo,True
+Atlético Madrid,Valencia,1611518400,si SVN,28-017,90,4,1,3,75.0,0.6,1,10,10.0,18,5,33.3,34.9,6,66.7,44.2,15,0,0.0,1,25.0,ee8508c0,Jan Oblak,Atlético Madrid,True
+Athletic Club,Getafe,1611604800,es ESP,23-228,90,2,1,0,50.0,1.8,5,12,41.7,15,4,33.3,33.8,8,87.5,59.4,15,2,13.3,0,7.0,5dcf3e90,Unai Simón,Athletic Club,True
+Valladolid,Huesca,1611950400,es ESP,32-026,90,5,3,2,40.0,2.5,6,17,35.3,21,5,47.6,37.8,9,77.8,54.0,16,0,0.0,1,19.0,8fae77ea,Jordi Masip,Valladolid,True
+Eibar,Sevilla,1612011600,rs SRB,29-006,60,3,2,1,66.7,1.9,8,17,47.1,18,1,66.7,49.3,6,83.3,66.2,2,,,2,17.4,ac295d9e,Marko Dmitrović,Eibar,True
+Eibar,Sevilla,1612011600,es ESP,32-155,30,1,0,1,100.0,0.5,4,9,44.4,12,4,58.3,42.9,2,100.0,69.0,0,0,,1,25.0,61bb7498,Yoel,Eibar,True
+Real Madrid,Levante,1612019700,be BEL,28-264,90,8,2,5,75.0,2.8,7,14,50.0,18,5,38.9,37.7,10,70.0,54.3,15,0,0.0,1,10.5,1840e36d,Thibaut Courtois,Real Madrid,True
+Valencia,Elche,1612027800,es ESP,30-086,90,1,0,1,100.0,0.4,9,22,40.9,24,2,62.5,38.0,9,77.8,47.3,19,0,0.0,0,11.3,c9cb972b,Jaume Doménech,Valencia,True
+Villarreal,Real Sociedad,1612036800,es ESP,31-216,90,3,1,2,66.7,1.3,6,16,37.5,21,5,33.3,33.1,11,81.8,53.6,19,0,0.0,0,9.0,9f0ea33f,Sergio Asenjo,Villarreal,True
+Getafe,Alavés,1612098000,es ESP,27-111,90,1,0,1,100.0,0.2,2,10,20.0,19,6,36.8,38.3,5,60.0,51.8,6,1,16.7,1,22.0,039ae103,Rubén Yáñez,Getafe,True
+Cádiz,Atlético Madrid,1612106100,ar ARG,27-353,90,4,4,0,25.0,2.7,6,20,30.0,22,3,63.6,42.3,8,75.0,58.9,8,0,0.0,0,10.5,6c4776b1,Jeremías Ledesma,Cádiz,True
+Granada,Celta Vigo,1612114200,pt POR,26-359,90,1,0,1,100.0,0.2,1,15,6.7,19,2,57.9,40.8,6,66.7,49.8,11,1,9.1,2,18.0,ea83bfa6,Rui Silva,Granada,True
+Barcelona,Athletic Club,1612123200,de GER,28-276,90,2,1,2,50.0,0.1,2,7,28.6,42,6,14.3,28.4,3,33.3,28.0,10,0,0.0,2,19.3,6f51e382,Marc-André ter Stegen,Barcelona,True
+Real Betis,Osasuna,1612209600,es ESP,30-229,90,5,0,5,100.0,0.9,4,11,36.4,18,5,27.8,27.9,10,60.0,47.5,16,0,0.0,2,17.6,cda0b317,Joel Robles,Real Betis,True
+Alavés,Valladolid,1612555200,es ESP,28-263,90,1,0,1,100.0,0.1,5,8,62.5,15,0,40.0,40.9,6,33.3,35.7,8,1,12.5,0,7.0,97852360,Fernando Pacheco,Alavés,True
+Levante,Granada,1612616400,es ESP,29-279,90,5,2,3,60.0,1.9,5,6,83.3,20,8,25.0,35.2,6,16.7,19.8,14,0,0.0,0,7.5,a01c3d54,Aitor Fernández,Levante,True
+Huesca,Real Madrid,1612624500,es ESP,22-299,90,7,2,5,71.4,3.6,7,13,53.8,25,5,36.0,33.4,7,57.1,45.3,19,1,5.3,0,3.5,f127d782,Álvaro Fernández,Huesca,True
+Elche,Villarreal,1612632600,es ESP,28-360,90,4,2,2,50.0,2.1,7,11,63.6,18,3,27.8,27.1,8,75.0,48.0,6,0,0.0,3,25.5,e4346678,Édgar Badía,Elche,True
+Sevilla,Getafe,1612641600,ma MAR,29-307,90,0,0,0,,0.0,5,9,55.6,30,5,26.7,29.3,5,20.0,26.6,5,2,40.0,1,16.4,f6798fc3,Yassine Bounou,Sevilla,True
+Real Sociedad,Cádiz,1612702800,es ESP,25-320,90,1,1,0,0.0,0.6,2,6,33.3,18,6,27.8,26.6,2,50.0,44.0,7,1,14.3,2,19.3,374ee424,Álex Remiro,Real Sociedad,True
+Athletic Club,Valencia,1612710900,es ESP,23-241,90,2,1,1,50.0,0.6,4,12,33.3,14,9,21.4,29.4,9,100.0,61.9,16,2,12.5,0,7.5,5dcf3e90,Unai Simón,Athletic Club,True
+Osasuna,Eibar,1612719000,es ESP,27-247,90,3,1,2,66.7,1.6,23,38,60.5,37,1,89.2,55.3,5,100.0,60.2,16,0,0.0,5,19.7,a4995f48,Sergio Herrera,Osasuna,True
+Real Betis,Barcelona,1612728000,es ESP,30-235,90,4,3,2,25.0,1.3,4,14,28.6,24,4,41.7,34.1,7,57.1,45.6,11,0,0.0,1,15.0,cda0b317,Joel Robles,Real Betis,True
+Atlético Madrid,Celta Vigo,1612814400,si SVN,28-032,90,2,2,0,0.0,1.3,5,13,38.5,14,2,57.1,47.6,8,62.5,39.9,12,0,0.0,1,28.5,ee8508c0,Jan Oblak,Atlético Madrid,True
+Real Madrid,Getafe,1612900800,be BEL,28-274,90,0,0,0,,0.0,2,11,18.2,34,4,29.4,32.1,7,14.3,31.3,10,1,10.0,2,19.0,1840e36d,Thibaut Courtois,Real Madrid,True
+Celta Vigo,Elche,1613160000,es ESP,25-202,90,2,1,1,50.0,1.0,7,16,43.8,26,4,30.8,31.2,9,88.9,54.7,15,0,0.0,1,13.7,967f34d3,Rubén Blanco,Celta Vigo,True
+Granada,Atlético Madrid,1613221200,pt POR,27-006,90,4,2,2,50.0,0.7,6,25,24.0,29,3,58.6,44.3,8,100.0,66.6,7,0,0.0,0,13.0,ea83bfa6,Rui Silva,Granada,True
+Sevilla,Huesca,1613229300,ma MAR,29-314,90,5,0,5,100.0,1.6,4,11,36.4,18,3,44.4,35.9,4,75.0,48.3,20,0,0.0,2,16.0,f6798fc3,Yassine Bounou,Sevilla,True
+Eibar,Valladolid,1613237400,rs SRB,29-020,90,1,1,0,100.0,1.0,14,19,73.7,20,2,70.0,44.6,5,100.0,70.8,12,1,8.3,1,17.8,ac295d9e,Marko Dmitrović,Eibar,True
+Barcelona,Alavés,1613246400,de GER,28-289,90,2,1,1,50.0,0.5,2,5,40.0,26,2,19.2,28.4,3,0.0,19.7,11,0,0.0,1,14.3,6f51e382,Marc-André ter Stegen,Barcelona,True
+Getafe,Real Sociedad,1613307600,es ESP,27-316,90,2,1,1,50.0,1.1,6,16,37.5,23,0,56.5,40.9,3,100.0,62.3,12,0,0.0,0,6.5,8f8c6934,David Soria,Getafe,True
+Real Madrid,Valencia,1613315700,be BEL,28-279,90,1,0,1,100.0,0.2,5,8,62.5,24,5,25.0,31.3,4,50.0,51.8,5,0,0.0,1,21.5,1840e36d,Thibaut Courtois,Real Madrid,True
+Levante,Osasuna,1613323800,es ESP,29-287,90,2,1,1,50.0,0.5,2,7,28.6,21,4,33.3,28.4,7,0.0,16.7,11,0,0.0,1,32.0,a01c3d54,Aitor Fernández,Levante,True
+Villarreal,Real Betis,1613332800,es ESP,31-231,90,4,2,2,50.0,0.5,2,4,50.0,39,3,10.3,22.2,5,0.0,21.0,7,0,0.0,4,24.8,9f0ea33f,Sergio Asenjo,Villarreal,True
+Cádiz,Athletic Club,1613419200,ar ARG,28-002,90,7,4,3,42.9,2.0,7,19,36.8,23,2,60.9,41.5,5,100.0,59.6,14,1,7.1,3,17.3,6c4776b1,Jeremías Ledesma,Cádiz,True
+Levante,Atlético Madrid,1613584800,es ESP,29-290,90,6,1,5,83.3,1.4,2,4,50.0,17,5,23.5,29.4,6,0.0,17.0,19,0,0.0,4,20.5,a01c3d54,Aitor Fernández,Levante,True
+Real Betis,Getafe,1613764800,es ESP,30-247,90,1,0,1,100.0,0.4,5,22,22.7,31,4,61.3,44.7,8,37.5,31.8,11,1,9.1,2,17.0,cda0b317,Joel Robles,Real Betis,True
+Elche,Eibar,1613826000,es ESP,29-008,90,3,0,3,100.0,0.3,18,40,45.0,37,3,67.6,47.1,15,100.0,59.5,28,0,0.0,1,16.3,e4346678,Édgar Badía,Elche,True
+Atlético Madrid,Levante,1613834100,si SVN,28-044,90,1,2,0,-100.0,0.1,2,3,66.7,10,2,20.0,26.4,5,20.0,30.6,7,0,0.0,0,10.0,ee8508c0,Jan Oblak,Atlético Madrid,True
+Valencia,Celta Vigo,1613842200,nl NED,31-304,90,2,0,2,100.0,0.6,5,10,50.0,15,3,46.7,36.7,5,60.0,41.6,12,0,0.0,0,10.5,04ac8285,Jasper Cillessen,Valencia,True
+Valladolid,Real Madrid,1613851200,es ESP,32-048,90,2,1,1,50.0,1.2,5,26,19.2,26,3,65.4,43.7,10,90.0,61.0,13,1,7.7,0,12.3,8fae77ea,Jordi Masip,Valladolid,True
+Barcelona,Cádiz,1613912400,de GER,28-297,90,1,1,0,100.0,1.0,2,2,100.0,22,6,9.1,21.9,5,0.0,26.0,7,1,14.3,1,16.0,6f51e382,Marc-André ter Stegen,Barcelona,True
+Real Sociedad,Alavés,1613920500,es ESP,25-334,90,2,0,2,100.0,0.3,5,16,31.3,32,2,34.4,32.4,5,100.0,70.0,10,0,0.0,1,22.0,374ee424,Álex Remiro,Real Sociedad,True
+Huesca,Granada,1613928600,es ESP,22-314,90,5,2,3,60.0,2.2,7,17,41.2,32,7,37.5,35.0,10,50.0,40.4,14,1,7.1,2,14.3,f127d782,Álvaro Fernández,Huesca,True
+Athletic Club,Villarreal,1613937600,es ESP,23-255,90,2,1,1,50.0,0.4,0,5,0.0,19,2,15.8,29.7,3,66.7,41.0,5,0,0.0,1,24.0,5dcf3e90,Unai Simón,Athletic Club,True
+Osasuna,Sevilla,1614024000,es ESP,27-262,90,5,2,3,60.0,1.7,8,18,44.4,20,1,60.0,42.5,6,100.0,62.7,12,0,0.0,1,28.5,a4995f48,Sergio Herrera,Osasuna,True
+Barcelona,Elche,1614189600,de GER,28-300,90,1,0,1,100.0,0.0,0,1,0.0,19,1,5.3,22.3,4,0.0,24.3,7,0,0.0,0,,6f51e382,Marc-André ter Stegen,Barcelona,True
+Levante,Athletic Club,1614369600,es ESP,29-299,90,5,1,4,100.0,1.3,6,12,50.0,33,10,27.3,33.0,6,50.0,37.0,19,1,5.3,2,14.5,a01c3d54,Aitor Fernández,Levante,True
+Eibar,Huesca,1614430800,es ESP,32-183,90,1,1,0,0.0,0.9,8,12,66.7,25,10,40.0,36.8,2,100.0,65.0,6,0,0.0,6,26.7,61bb7498,Yoel,Eibar,True
+Sevilla,Barcelona,1614438900,ma MAR,29-328,90,5,2,3,60.0,2.0,5,17,29.4,42,4,33.3,31.6,8,37.5,33.8,2,1,50.0,1,13.3,f6798fc3,Yassine Bounou,Sevilla,True
+Alavés,Osasuna,1614447000,es ESP,28-285,90,2,1,1,50.0,1.2,7,14,50.0,17,3,41.2,40.4,12,58.3,41.9,10,1,10.0,0,5.5,97852360,Fernando Pacheco,Alavés,True
+Getafe,Valencia,1614456000,es ESP,27-329,90,0,0,0,,0.0,7,19,36.8,17,0,88.2,49.5,5,80.0,51.8,12,1,8.3,1,18.3,8f8c6934,David Soria,Getafe,True
+Celta Vigo,Valladolid,1614517200,es ESP,25-218,90,3,1,2,66.7,0.4,7,13,53.8,21,5,47.6,38.0,9,33.3,30.6,7,1,14.3,2,25.0,967f34d3,Rubén Blanco,Celta Vigo,True
+Cádiz,Real Betis,1614525300,ar ARG,28-015,90,4,1,3,75.0,0.6,7,19,36.8,12,1,58.3,48.0,12,100.0,69.3,16,1,6.3,0,5.0,6c4776b1,Jeremías Ledesma,Cádiz,True
+Granada,Elche,1614533400,pt POR,27-021,90,4,1,3,75.0,1.7,13,27,48.1,18,1,83.3,54.5,13,92.3,59.2,16,0,0.0,1,16.5,ea83bfa6,Rui Silva,Granada,True
+Villarreal,Atlético Madrid,1614542400,es ESP,31-245,90,5,2,4,60.0,1.8,2,6,33.3,22,1,27.3,30.5,2,0.0,22.0,8,1,12.5,4,24.0,9f0ea33f,Sergio Asenjo,Villarreal,True
+Real Madrid,Real Sociedad,1614628800,be BEL,28-294,90,2,1,1,50.0,0.6,2,7,28.6,30,5,23.3,30.5,4,0.0,21.5,7,2,28.6,0,8.0,1840e36d,Thibaut Courtois,Real Madrid,True
+Valencia,Villarreal,1614974400,nl NED,31-317,90,5,1,4,100.0,2.1,8,18,44.4,22,4,68.2,40.7,7,42.9,32.4,9,0,0.0,3,26.3,04ac8285,Jasper Cillessen,Valencia,True
+Valladolid,Getafe,1615035600,es ESP,35-024,90,2,1,1,50.0,0.1,8,26,30.8,26,2,73.1,52.8,8,87.5,61.0,21,0,0.0,1,15.7,ba3ca78f,Roberto,Valladolid,True
+Elche,Sevilla,1615043700,es ESP,29-022,90,3,1,2,66.7,1.2,15,24,62.5,21,4,61.9,43.1,13,84.6,49.1,11,1,9.1,0,7.0,e4346678,Édgar Badía,Elche,True
+Cádiz,Eibar,1615051800,ar ARG,28-021,90,1,0,0,100.0,1.0,18,33,54.5,19,0,100.0,56.7,14,100.0,66.7,36,0,0.0,0,3.0,6c4776b1,Jeremías Ledesma,Cádiz,True
+Osasuna,Barcelona,1615060800,es ESP,27-274,90,6,2,4,66.7,1.0,9,19,47.4,26,5,50.0,40.2,7,85.7,55.7,7,0,0.0,0,,a4995f48,Sergio Herrera,Osasuna,True
+Huesca,Celta Vigo,1615122000,es ESP,22-328,90,7,4,3,42.9,2.6,5,11,45.5,27,8,33.3,34.2,6,33.3,26.0,9,1,11.1,1,18.0,f127d782,Álvaro Fernández,Huesca,True
+Atlético Madrid,Real Madrid,1615130100,si SVN,28-059,90,8,1,7,87.5,1.7,8,24,33.3,22,1,72.7,48.1,9,88.9,56.2,18,0,0.0,0,11.0,ee8508c0,Jan Oblak,Atlético Madrid,True
+Real Sociedad,Levante,1615138200,es ESP,25-348,90,1,0,1,100.0,0.2,4,11,36.4,17,0,52.9,45.8,2,100.0,65.0,11,0,0.0,0,5.0,374ee424,Álex Remiro,Real Sociedad,True
+Athletic Club,Granada,1615147200,es ESP,23-269,90,3,1,2,66.7,1.1,2,10,20.0,20,9,25.0,27.8,8,62.5,49.6,22,4,18.2,0,6.3,5dcf3e90,Unai Simón,Athletic Club,True
+Real Betis,Alavés,1615233600,es ESP,30-264,90,3,2,1,33.3,1.4,2,5,40.0,22,8,22.7,27.9,3,0.0,21.7,6,0,0.0,0,9.5,cda0b317,Joel Robles,Real Betis,True
+Atlético Madrid,Athletic Club,1615399200,si SVN,28-062,90,2,1,1,50.0,0.9,9,16,56.3,21,5,52.4,37.4,9,55.6,43.2,14,0,0.0,2,34.0,ee8508c0,Jan Oblak,Atlético Madrid,True
+Levante,Valencia,1615579200,es ESP,29-313,90,2,0,2,100.0,0.2,1,12,8.3,16,2,43.8,42.2,6,83.3,57.3,12,0,0.0,0,10.0,a01c3d54,Aitor Fernández,Levante,True
+Alavés,Cádiz,1615640400,es ESP,28-299,90,1,1,0,100.0,1.0,7,12,58.3,11,0,63.6,39.3,8,62.5,47.4,17,1,5.9,0,8.0,97852360,Fernando Pacheco,Alavés,True
+Real Madrid,Elche,1615648500,be BEL,28-306,90,2,1,1,50.0,0.3,0,1,0.0,22,6,4.5,23.5,1,0.0,30.0,10,0,0.0,1,14.5,1840e36d,Thibaut Courtois,Real Madrid,True
+Osasuna,Valladolid,1615656600,es ESP,27-281,90,2,0,2,100.0,0.3,10,28,35.7,26,2,80.8,51.2,8,87.5,63.6,15,1,6.7,2,22.7,a4995f48,Sergio Herrera,Osasuna,True
+Getafe,Atlético Madrid,1615665600,es ESP,27-343,90,7,0,7,100.0,2.1,17,35,48.6,29,0,96.6,55.3,7,100.0,62.7,21,1,4.8,1,12.5,8f8c6934,David Soria,Getafe,True
+Celta Vigo,Athletic Club,1615726800,es ESP,23-248,90,1,0,1,100.0,0.1,6,15,40.0,36,6,22.2,25.0,7,100.0,60.9,15,1,6.7,2,14.3,cde52ef5,Iván Villar,Celta Vigo,True
+Granada,Real Sociedad,1615734900,pt POR,27-035,90,1,0,1,100.0,0.2,8,24,33.3,27,2,59.3,43.4,8,100.0,64.6,19,0,0.0,3,20.0,ea83bfa6,Rui Silva,Granada,True
+Eibar,Villarreal,1615743000,rs SRB,29-049,90,8,3,5,62.5,3.3,7,11,63.6,23,5,26.1,33.1,6,83.3,63.2,4,0,0.0,3,22.0,ac295d9e,Marko Dmitrović,Eibar,True
+Sevilla,Real Betis,1615752000,ma MAR,29-343,90,2,0,2,100.0,0.2,5,11,45.5,34,1,29.4,32.7,6,16.7,23.7,19,0,0.0,0,3.0,f6798fc3,Yassine Bounou,Sevilla,True
+Barcelona,Huesca,1615838400,de GER,28-319,90,4,1,3,100.0,1.7,2,8,25.0,22,4,18.2,25.9,6,66.7,44.7,7,0,0.0,1,19.0,6f51e382,Marc-André ter Stegen,Barcelona,True
+Sevilla,Elche,1616004000,ma MAR,29-346,90,5,0,5,100.0,0.4,3,6,50.0,32,9,18.8,27.0,5,0.0,21.6,15,1,6.7,1,9.3,f6798fc3,Yassine Bounou,Sevilla,True
+Real Betis,Levante,1616184000,cl CHI,37-340,90,1,0,1,100.0,0.0,4,18,22.2,26,6,50.0,41.5,5,100.0,73.4,11,1,9.1,0,6.0,10072610,Claudio Bravo,Real Betis,True
+Athletic Club,Eibar,1616245200,es ESP,23-282,90,2,1,1,50.0,0.9,6,7,85.7,20,4,25.0,28.6,5,40.0,37.4,11,0,0.0,0,14.0,5dcf3e90,Unai Simón,Athletic Club,True
+Celta Vigo,Real Madrid,1616253300,es ESP,23-254,90,4,3,1,25.0,1.8,3,7,42.9,23,5,17.4,28.0,8,37.5,34.4,10,0,0.0,1,14.0,cde52ef5,Iván Villar,Celta Vigo,True
+Huesca,Osasuna,1616261400,es ESP,34-093,90,2,0,2,100.0,0.4,7,20,35.0,27,5,66.7,43.6,6,33.3,35.2,9,0,0.0,0,,307fcd26,Andrés Fernández,Huesca,True
+Valladolid,Sevilla,1616270400,es ESP,35-038,90,4,1,3,75.0,0.5,7,25,28.0,22,0,72.7,46.2,9,100.0,62.3,23,1,4.3,0,6.5,ba3ca78f,Roberto,Valladolid,True
+Getafe,Elche,1616331600,es ESP,27-351,90,2,1,1,50.0,1.0,17,31,54.8,22,1,95.5,53.7,10,100.0,63.4,24,0,0.0,3,26.5,8f8c6934,David Soria,Getafe,True
+Valencia,Granada,1616339700,nl NED,31-333,90,3,1,2,66.7,1.1,4,19,21.1,21,5,52.4,43.8,13,61.5,48.8,15,0,0.0,0,,04ac8285,Jasper Cillessen,Valencia,True
+Villarreal,Cádiz,1616339700,es ESP,31-266,90,3,1,2,66.7,1.0,2,5,40.0,19,5,10.5,22.1,8,37.5,37.6,25,2,8.0,1,11.5,9f0ea33f,Sergio Asenjo,Villarreal,True
+Atlético Madrid,Alavés,1616347800,si SVN,28-073,90,3,0,2,100.0,1.3,5,15,33.3,19,2,47.4,36.9,9,66.7,47.4,9,0,0.0,2,20.5,ee8508c0,Jan Oblak,Atlético Madrid,True
+Real Sociedad,Barcelona,1616356800,es ESP,25-362,90,10,6,4,40.0,4.8,5,13,38.5,22,2,54.5,43.8,2,50.0,37.0,2,1,50.0,1,8.7,374ee424,Álex Remiro,Real Sociedad,True
+Levante,Huesca,1617390000,es ESP,29-334,90,2,2,0,0.0,1.1,0,1,0.0,21,2,4.8,22.4,6,0.0,23.0,3,0,0.0,3,30.6,a01c3d54,Aitor Fernández,Levante,True
+Granada,Villarreal,1617451200,pt POR,27-055,90,5,3,2,80.0,2.9,2,10,20.0,25,4,32.0,32.1,4,50.0,39.0,11,0,0.0,0,7.3,ea83bfa6,Rui Silva,Granada,True
+Real Madrid,Eibar,1617459300,be BEL,28-327,90,4,0,4,100.0,0.4,3,8,37.5,37,14,13.5,25.1,13,23.1,31.6,22,1,4.5,0,5.0,1840e36d,Thibaut Courtois,Real Madrid,True
+Osasuna,Getafe,1617467400,es ESP,27-302,90,2,0,2,100.0,0.1,15,30,50.0,30,2,83.3,51.6,7,71.4,54.6,17,1,5.9,2,21.0,a4995f48,Sergio Herrera,Osasuna,True
+Alavés,Celta Vigo,1617537600,es ESP,28-321,90,6,3,3,50.0,2.3,11,14,78.6,25,6,44.0,32.4,3,100.0,55.0,4,0,0.0,0,13.0,97852360,Fernando Pacheco,Alavés,True
+Elche,Real Betis,1617545700,es ESP,29-051,90,3,1,2,100.0,1.5,5,14,35.7,23,6,30.4,35.0,10,70.0,51.5,10,0,0.0,0,11.0,e4346678,Édgar Badía,Elche,True
+Cádiz,Valencia,1617553800,ar ARG,28-050,90,6,1,5,83.3,2.1,9,24,37.5,14,1,85.7,54.6,13,92.3,63.4,18,0,0.0,0,17.0,6c4776b1,Jeremías Ledesma,Cádiz,True
+Sevilla,Atlético Madrid,1617562800,ma MAR,29-364,90,4,0,4,100.0,0.4,3,10,30.0,25,5,24.0,29.5,6,66.7,45.5,18,1,5.6,1,19.0,f6798fc3,Yassine Bounou,Sevilla,True
+Barcelona,Valladolid,1617649200,de GER,28-340,90,2,0,2,100.0,0.1,1,2,50.0,20,7,10.0,27.2,6,0.0,24.0,9,0,0.0,0,,6f51e382,Marc-André ter Stegen,Barcelona,True
+Real Sociedad,Athletic Club,1617822000,es ESP,26-014,90,2,1,1,50.0,0.6,7,18,38.9,31,5,35.5,34.6,8,87.5,62.8,15,0,0.0,2,21.5,374ee424,Álex Remiro,Real Sociedad,True
+Huesca,Elche,1617994800,es ESP,34-113,90,2,1,2,50.0,0.4,6,8,75.0,14,1,35.7,35.9,7,42.9,37.6,24,1,4.2,0,8.0,307fcd26,Andrés Fernández,Huesca,True
+Getafe,Cádiz,1618056000,es ESP,28-006,90,3,1,3,66.7,0.4,13,27,48.1,25,3,80.0,53.1,7,100.0,66.1,13,1,7.7,2,19.5,8f8c6934,David Soria,Getafe,True
+Athletic Club,Alavés,1618064100,es ESP,23-303,90,0,0,0,,0.0,4,6,66.7,17,8,23.5,32.1,6,33.3,33.5,18,0,0.0,1,32.0,5dcf3e90,Unai Simón,Athletic Club,True
+Eibar,Levante,1618072200,es ESP,32-225,90,1,1,0,0.0,0.2,14,28,50.0,41,9,56.1,41.0,5,100.0,69.8,4,0,0.0,4,24.0,61bb7498,Yoel,Eibar,True
+Real Madrid,Barcelona,1618081200,be BEL,28-334,90,4,1,3,75.0,0.8,7,16,43.8,22,4,59.1,46.7,4,75.0,57.5,15,0,0.0,0,5.8,1840e36d,Thibaut Courtois,Real Madrid,True
+Villarreal,Osasuna,1618142400,es ESP,31-287,90,4,2,2,50.0,0.9,1,7,14.3,26,2,23.1,29.1,10,10.0,16.3,18,0,0.0,0,14.0,9f0ea33f,Sergio Asenjo,Villarreal,True
+Valencia,Real Sociedad,1618150500,es ESP,30-157,90,5,2,3,60.0,1.1,12,24,50.0,31,4,61.3,41.6,6,83.3,60.0,16,0,0.0,0,15.3,c9cb972b,Jaume Doménech,Valencia,True
+Valladolid,Granada,1618158600,es ESP,32-098,90,6,2,4,66.7,2.0,4,16,25.0,29,5,34.5,34.5,11,54.5,45.1,10,0,0.0,3,21.8,8fae77ea,Jordi Masip,Valladolid,True
+Real Betis,Atlético Madrid,1618167600,cl CHI,37-363,90,4,1,3,75.0,1.3,3,13,23.1,34,5,35.3,32.7,4,25.0,25.8,12,0,0.0,0,6.7,10072610,Claudio Bravo,Real Betis,True
+Celta Vigo,Sevilla,1618254000,es ESP,23-277,90,6,4,2,33.3,1.4,6,27,22.2,31,1,64.5,43.7,9,77.8,57.9,15,0,0.0,4,25.0,cde52ef5,Iván Villar,Celta Vigo,True
+Real Sociedad,Sevilla,1618747200,es ESP,26-025,90,6,2,4,66.7,2.3,6,20,30.0,26,4,50.0,37.8,8,87.5,56.5,13,1,7.7,2,19.7,374ee424,Álex Remiro,Real Sociedad,True
+Osasuna,Elche,1618747200,es ESP,27-317,90,2,0,2,100.0,0.1,10,21,47.6,22,3,63.6,46.2,7,100.0,60.9,24,2,8.3,1,10.5,a4995f48,Sergio Herrera,Osasuna,True
+Atlético Madrid,Eibar,1618755300,si SVN,28-101,90,0,0,0,,0.0,6,11,54.5,27,5,37.0,36.0,4,25.0,17.8,8,0,0.0,0,,ee8508c0,Jan Oblak,Atlético Madrid,True
+Alavés,Huesca,1618755300,es ESP,28-335,90,1,0,1,100.0,0.2,2,6,33.3,17,4,35.3,29.1,8,0.0,24.8,20,0,0.0,2,22.7,97852360,Fernando Pacheco,Alavés,True
+Cádiz,Celta Vigo,1618763400,ar ARG,28-064,90,4,0,4,100.0,0.4,12,32,37.5,25,2,96.0,60.6,8,100.0,67.3,23,2,8.7,0,7.3,6c4776b1,Jeremías Ledesma,Cádiz,True
+Real Betis,Valencia,1618763400,cl CHI,38-005,90,3,2,1,66.7,1.4,3,11,27.3,20,3,40.0,36.3,9,33.3,39.8,11,0,0.0,1,17.0,10072610,Claudio Bravo,Real Betis,True
+Levante,Villarreal,1618772400,es ESP,29-350,90,7,5,4,28.6,3.4,3,10,30.0,28,6,32.1,32.6,3,33.3,36.3,7,0,0.0,0,15.0,a01c3d54,Aitor Fernández,Levante,True
+Getafe,Real Madrid,1618772400,es ESP,28-014,90,1,0,1,100.0,0.2,11,20,55.0,17,1,88.2,53.2,5,100.0,58.0,16,0,0.0,1,23.5,8f8c6934,David Soria,Getafe,True
+Osasuna,Valencia,1619024400,es ESP,27-320,90,5,1,4,80.0,1.3,6,24,25.0,26,5,61.5,44.3,8,100.0,70.0,16,1,6.3,2,16.4,a4995f48,Sergio Herrera,Osasuna,True
+Levante,Sevilla,1619024400,es ESP,24-024,90,3,1,2,66.7,1.8,3,7,42.9,25,3,24.0,29.0,6,16.7,23.0,14,0,0.0,2,23.5,e1846dde,Cárdenas,Levante,True
+Real Betis,Athletic Club,1619028000,cl CHI,38-008,90,4,0,4,100.0,0.3,15,34,44.1,32,2,78.1,48.7,9,100.0,63.9,19,1,5.3,2,14.0,10072610,Claudio Bravo,Real Betis,True
+Alavés,Villarreal,1619031600,es ESP,28-338,90,4,1,3,75.0,1.2,8,18,44.4,22,1,54.5,42.1,9,66.7,44.9,13,0,0.0,0,13.0,97852360,Fernando Pacheco,Alavés,True
+Elche,Valladolid,1619031600,ar ARG,29-109,90,4,1,3,75.0,1.0,6,18,33.3,18,3,72.2,56.2,5,100.0,72.0,19,0,0.0,0,1.0,63d17038,Paulo Gazzaniga,Elche,True
+Cádiz,Real Madrid,1619035200,ar ARG,28-067,90,4,3,1,50.0,2.6,11,24,45.8,19,2,73.7,45.8,12,83.3,59.3,10,1,10.0,1,12.5,6c4776b1,Jeremías Ledesma,Cádiz,True
+Atlético Madrid,Huesca,1619110800,si SVN,28-105,90,2,0,2,100.0,1.5,3,5,60.0,10,2,20.0,31.2,5,60.0,47.6,10,1,10.0,0,10.5,ee8508c0,Jan Oblak,Atlético Madrid,True
+Real Sociedad,Celta Vigo,1619118000,es ESP,26-029,90,3,1,2,66.7,0.3,7,22,31.8,25,1,68.0,47.7,6,83.3,66.7,20,0,0.0,1,27.0,374ee424,Álex Remiro,Real Sociedad,True
+Granada,Eibar,1619118000,pt POR,27-074,90,3,1,2,66.7,1.2,10,28,35.7,27,1,74.1,50.0,10,80.0,57.0,21,1,4.8,1,16.0,ea83bfa6,Rui Silva,Granada,True
+Barcelona,Getafe,1619121600,de GER,28-357,90,1,2,0,0.0,1.0,2,5,40.0,35,3,8.6,24.7,6,33.3,33.8,6,1,16.7,2,18.4,6f51e382,Marc-André ter Stegen,Barcelona,True
+Elche,Levante,1619265600,ar ARG,29-112,90,1,0,1,100.0,0.4,13,23,56.5,21,5,76.2,55.2,7,100.0,74.7,12,0,0.0,0,,63d17038,Paulo Gazzaniga,Elche,True
+Valladolid,Cádiz,1619273700,es ESP,35-073,90,2,1,1,50.0,1.0,7,20,35.0,29,3,51.7,40.4,11,45.5,40.4,19,0,0.0,2,18.7,ba3ca78f,Roberto,Valladolid,True
+Valencia,Alavés,1619281800,es ESP,30-170,90,2,1,1,50.0,0.8,5,13,38.5,22,4,45.5,33.9,3,100.0,57.3,17,0,0.0,1,20.0,c9cb972b,Jaume Doménech,Valencia,True
+Real Madrid,Real Betis,1619290800,be BEL,28-348,90,2,0,2,100.0,0.9,1,3,33.3,30,5,10.0,26.5,5,0.0,23.8,8,0,0.0,1,13.0,1840e36d,Thibaut Courtois,Real Madrid,True
+Huesca,Getafe,1619352000,es ESP,34-129,90,4,2,2,50.0,0.9,5,8,62.5,29,5,24.1,31.0,4,25.0,35.0,8,0,0.0,4,26.5,307fcd26,Andrés Fernández,Huesca,True
+Villarreal,Barcelona,1619360100,es ESP,31-301,90,5,2,3,60.0,2.1,3,12,25.0,28,5,35.7,31.5,7,28.6,29.7,6,0,0.0,1,11.0,9f0ea33f,Sergio Asenjo,Villarreal,True
+Celta Vigo,Osasuna,1619368200,es ESP,23-290,90,3,1,2,100.0,1.1,7,19,36.8,17,4,41.2,36.4,13,92.3,59.3,20,1,5.0,0,5.8,cde52ef5,Iván Villar,Celta Vigo,True
+Sevilla,Granada,1619368200,ma MAR,30-020,90,2,1,1,100.0,1.0,6,17,35.3,29,6,41.4,38.2,6,83.3,54.8,17,1,5.9,0,8.5,f6798fc3,Yassine Bounou,Sevilla,True
+Athletic Club,Atlético Madrid,1619377200,es ESP,23-318,90,3,1,2,66.7,0.9,3,10,30.0,14,3,28.6,28.9,10,60.0,44.4,23,1,4.3,0,4.0,5dcf3e90,Unai Simón,Athletic Club,True
+Eibar,Real Sociedad,1619463600,rs SRB,29-092,90,2,1,1,50.0,0.4,12,26,46.2,35,3,60.0,43.9,6,83.3,69.2,6,0,0.0,4,25.8,ac295d9e,Marko Dmitrović,Eibar,True
+Athletic Club,Valladolid,1619629200,es ESP,23-321,90,4,2,2,50.0,1.4,6,10,60.0,21,7,28.6,30.3,5,80.0,59.8,28,1,3.6,0,9.5,5dcf3e90,Unai Simón,Athletic Club,True
+Barcelona,Granada,1619715600,de GER,28-364,90,2,2,0,0.0,0.7,2,3,66.7,13,1,23.1,31.4,8,0.0,19.8,7,0,0.0,1,21.5,6f51e382,Marc-André ter Stegen,Barcelona,True
+Celta Vigo,Levante,1619809200,es ESP,23-295,90,2,0,2,100.0,0.1,5,19,26.3,20,3,50.0,40.0,9,100.0,65.7,20,0,0.0,4,18.5,cde52ef5,Iván Villar,Celta Vigo,True
+Eibar,Alavés,1619870400,rs SRB,29-097,90,2,0,2,100.0,0.5,9,29,31.0,20,2,95.0,57.5,10,100.0,74.8,12,2,16.7,0,10.0,ac295d9e,Marko Dmitrović,Eibar,True
+Elche,Atlético Madrid,1619878500,ar ARG,29-119,90,4,1,3,75.0,0.6,1,10,10.0,26,4,23.1,30.7,8,50.0,45.0,4,0,0.0,0,9.0,63d17038,Paulo Gazzaniga,Elche,True
+Huesca,Real Sociedad,1619886600,es ESP,23-018,90,3,0,3,100.0,0.4,7,17,41.2,35,5,42.9,40.2,3,66.7,51.7,10,2,20.0,0,7.6,f127d782,Álvaro Fernández,Huesca,True
+Real Madrid,Osasuna,1619895600,be BEL,28-355,90,2,0,2,100.0,0.1,5,9,55.6,35,8,25.7,31.0,2,0.0,20.0,7,0,0.0,1,16.7,1840e36d,Thibaut Courtois,Real Madrid,True
+Valladolid,Real Betis,1619956800,es ESP,35-081,90,4,1,3,75.0,1.7,6,17,35.3,23,3,56.5,43.9,8,50.0,44.6,12,0,0.0,1,14.0,ba3ca78f,Roberto,Valladolid,True
+Villarreal,Getafe,1619964900,es ESP,31-308,90,3,0,3,100.0,0.1,6,20,30.0,39,3,28.2,30.5,17,52.9,40.9,18,0,0.0,0,14.0,9f0ea33f,Sergio Asenjo,Villarreal,True
+Granada,Cádiz,1619973000,es ESP,25-217,90,4,1,3,75.0,1.8,5,17,29.4,25,6,52.0,41.4,8,50.0,47.3,15,0,0.0,4,19.7,67669ce7,Aarón Escandell,Granada,True
+Valencia,Barcelona,1619982000,nl NED,32-010,90,6,3,2,50.0,2.3,5,15,33.3,23,1,52.2,44.2,8,37.5,41.8,4,0,0.0,0,13.0,04ac8285,Jasper Cillessen,Valencia,True
+Sevilla,Athletic Club,1620068400,ma MAR,30-028,90,2,1,1,50.0,1.0,3,6,50.0,29,5,13.8,26.8,6,33.3,31.2,13,0,0.0,0,8.5,f6798fc3,Yassine Bounou,Sevilla,True
+Real Sociedad,Elche,1620414000,es ESP,26-044,90,0,0,0,,0.0,2,3,66.7,14,4,21.4,23.1,4,0.0,28.8,2,0,0.0,2,19.8,374ee424,Álex Remiro,Real Sociedad,True
+Alavés,Levante,1620475200,es ESP,28-355,90,3,2,1,33.3,1.2,6,12,50.0,19,5,52.6,43.3,7,28.6,32.4,8,0,0.0,1,21.0,97852360,Fernando Pacheco,Alavés,True
+Barcelona,Atlético Madrid,1620483300,de GER,29-008,90,6,0,6,100.0,0.6,2,5,40.0,25,6,16.0,28.1,5,20.0,28.0,7,1,14.3,0,6.4,6f51e382,Marc-André ter Stegen,Barcelona,True
+Cádiz,Huesca,1620491400,ar ARG,28-084,90,5,1,4,80.0,1.1,22,31,71.0,22,5,77.3,48.0,15,93.3,63.9,25,1,4.0,0,10.0,6c4776b1,Jeremías Ledesma,Cádiz,True
+Athletic Club,Osasuna,1620500400,es ESP,23-331,90,4,2,2,50.0,1.7,2,12,16.7,19,5,47.4,36.5,7,42.9,42.3,20,1,5.0,2,18.3,5dcf3e90,Unai Simón,Athletic Club,True
+Getafe,Eibar,1620561600,es ESP,28-035,90,3,1,2,100.0,1.2,12,31,38.7,28,1,92.9,56.4,6,83.3,57.5,14,0,0.0,2,17.7,8f8c6934,David Soria,Getafe,True
+Valencia,Valladolid,1620569700,nl NED,32-017,90,2,0,2,100.0,0.2,5,20,25.0,17,2,52.9,37.2,14,78.6,59.7,29,0,0.0,0,3.0,04ac8285,Jasper Cillessen,Valencia,True
+Villarreal,Celta Vigo,1620577800,es ESP,31-315,90,6,4,2,66.7,2.8,2,4,50.0,23,1,8.7,23.2,7,28.6,25.4,10,0,0.0,1,21.5,9f0ea33f,Sergio Asenjo,Villarreal,True
+Real Madrid,Sevilla,1620586800,be BEL,28-363,90,3,2,1,66.7,1.3,1,4,25.0,21,4,19.0,28.0,6,0.0,15.8,7,0,0.0,5,28.5,1840e36d,Thibaut Courtois,Real Madrid,True
+Real Betis,Granada,1620673200,cl CHI,38-027,90,5,1,4,80.0,2.0,9,12,75.0,22,2,45.5,34.1,6,33.3,30.3,10,1,10.0,2,21.8,10072610,Claudio Bravo,Real Betis,True
+Osasuna,Cádiz,1620752400,es ESP,24-300,90,4,2,2,75.0,1.9,3,10,30.0,17,3,35.3,35.8,5,80.0,64.8,14,0,0.0,2,15.2,8f29e08b,Juan Pérez,Osasuna,True
+Elche,Alavés,1620756000,ar ARG,29-129,90,2,2,0,0.0,0.7,4,7,57.1,16,2,31.3,29.3,5,40.0,48.2,11,0,0.0,1,18.0,63d17038,Paulo Gazzaniga,Elche,True
+Levante,Barcelona,1620763200,es ESP,30-008,90,5,3,2,40.0,2.3,1,3,33.3,16,4,12.5,24.1,8,12.5,22.9,9,0,0.0,2,13.0,a01c3d54,Aitor Fernández,Levante,True
+Sevilla,Valencia,1620838800,ma MAR,30-037,90,2,0,2,100.0,0.2,5,6,83.3,17,5,29.4,34.4,7,14.3,22.0,11,2,18.2,0,6.7,f6798fc3,Yassine Bounou,Sevilla,True
+Huesca,Athletic Club,1620842400,es ESP,23-029,90,3,0,3,100.0,0.3,6,13,46.2,28,3,35.7,36.0,5,60.0,52.0,15,0,0.0,3,23.0,f127d782,Álvaro Fernández,Huesca,True
+Celta Vigo,Getafe,1620842400,es ESP,23-307,90,4,0,4,100.0,1.3,9,29,31.0,40,1,50.0,41.4,10,90.0,58.6,24,0,0.0,0,15.0,cde52ef5,Iván Villar,Celta Vigo,True
+Atlético Madrid,Real Sociedad,1620849600,si SVN,28-125,90,7,1,6,85.7,1.5,6,19,31.6,17,2,76.5,50.0,6,100.0,59.7,12,2,16.7,0,6.3,ee8508c0,Jan Oblak,Atlético Madrid,True
+Valladolid,Villarreal,1620925200,es ESP,35-092,90,3,2,1,33.3,0.8,6,23,26.1,19,1,78.9,50.5,8,100.0,71.3,7,0,0.0,1,16.0,ba3ca78f,Roberto,Valladolid,True
+Eibar,Real Betis,1620928800,rs SRB,29-109,90,4,1,3,75.0,0.7,11,16,68.8,23,4,52.2,40.0,5,80.0,59.0,4,1,25.0,1,16.0,ac295d9e,Marko Dmitrović,Eibar,True
+Granada,Real Madrid,1620936000,pt POR,27-095,90,7,4,3,42.9,1.6,15,30,50.0,31,2,61.3,46.1,11,100.0,64.5,5,0,0.0,1,13.5,ea83bfa6,Rui Silva,Granada,True
+Real Betis,Huesca,1621182600,cl CHI,38-033,90,0,0,0,,0.0,7,19,36.8,22,5,59.1,45.5,7,85.7,61.1,15,0,0.0,0,17.0,10072610,Claudio Bravo,Real Betis,True
+Cádiz,Elche,1621182600,es ESP,27-125,90,5,3,2,40.0,1.2,5,15,33.3,16,4,68.8,50.8,4,100.0,66.3,25,2,8.0,1,8.3,fea23125,David Gil,Cádiz,True
+Villarreal,Sevilla,1621182600,es ESP,31-322,90,5,0,5,100.0,0.6,5,11,45.5,29,7,31.0,31.3,7,28.6,35.9,12,1,8.3,1,15.5,9f0ea33f,Sergio Asenjo,Villarreal,True
+Real Sociedad,Valladolid,1621182600,es ESP,26-053,90,5,1,4,80.0,1.3,5,16,31.3,27,3,33.3,33.0,10,70.0,55.0,20,0,0.0,0,7.3,374ee424,Álex Remiro,Real Sociedad,True
+Valencia,Eibar,1621182600,nl NED,32-024,90,8,1,7,87.5,1.4,11,22,50.0,22,6,63.6,43.5,9,88.9,67.6,34,1,2.9,0,8.5,04ac8285,Jasper Cillessen,Valencia,True
+Alavés,Granada,1621182600,es ESP,28-363,90,2,2,0,0.0,0.8,8,12,66.7,20,4,35.0,30.1,6,83.3,53.8,9,1,11.1,0,14.3,97852360,Fernando Pacheco,Alavés,True
+Atlético Madrid,Osasuna,1621182600,si SVN,28-129,90,2,1,1,50.0,0.3,3,10,30.0,23,7,43.5,33.7,2,0.0,25.0,6,0,0.0,0,14.7,ee8508c0,Jan Oblak,Atlético Madrid,True
+Athletic Club,Real Madrid,1621182600,es ESP,23-339,90,2,1,1,50.0,0.8,2,5,40.0,19,11,10.5,26.3,5,60.0,35.0,21,0,0.0,1,27.0,5dcf3e90,Unai Simón,Athletic Club,True
+Barcelona,Celta Vigo,1621182600,de GER,29-016,90,4,2,2,50.0,0.8,2,4,50.0,35,4,11.4,26.5,0,,,5,1,20.0,0,10.0,6f51e382,Marc-André ter Stegen,Barcelona,True
+Getafe,Levante,1621182600,es ESP,28-042,90,1,1,0,0.0,0.3,12,28,42.9,22,0,90.9,58.9,8,100.0,70.6,10,0,0.0,4,22.6,8f8c6934,David Soria,Getafe,True
+Levante,Cádiz,1621623600,es ESP,24-054,90,2,2,0,0.0,0.9,3,5,60.0,21,6,23.8,26.8,3,0.0,19.0,5,0,0.0,3,24.9,e1846dde,Cárdenas,Levante,True
+Real Madrid,Villarreal,1621699200,be BEL,29-011,90,2,1,1,50.0,1.0,3,3,100.0,26,7,11.5,27.7,4,0.0,26.5,4,1,25.0,1,15.5,1840e36d,Thibaut Courtois,Real Madrid,True
+Huesca,Valencia,1621699200,es ESP,23-039,90,4,0,4,100.0,0.2,6,12,50.0,27,6,44.4,36.4,2,0.0,26.0,3,0,0.0,1,43.5,f127d782,Álvaro Fernández,Huesca,True
+Osasuna,Real Sociedad,1621699200,es ESP,24-311,90,1,1,0,0.0,0.9,15,25,60.0,28,3,57.1,44.5,10,90.0,65.1,8,0,0.0,0,,8f29e08b,Juan Pérez,Osasuna,True
+Elche,Athletic Club,1621699200,ar ARG,29-140,90,2,0,2,100.0,0.3,7,23,30.4,24,4,54.2,47.5,11,90.9,64.4,13,0,0.0,0,,63d17038,Paulo Gazzaniga,Elche,True
+Celta Vigo,Real Betis,1621699200,es ESP,23-317,90,5,3,2,60.0,2.8,7,14,50.0,31,6,35.5,34.0,6,50.0,40.5,10,0,0.0,0,6.0,cde52ef5,Iván Villar,Celta Vigo,True
+Valladolid,Atlético Madrid,1621699200,es ESP,32-139,90,3,2,1,33.3,1.0,7,20,35.0,22,2,50.0,39.4,14,64.3,53.9,11,0,0.0,0,,8fae77ea,Jordi Masip,Valladolid,True
+Eibar,Barcelona,1621699200,es ESP,32-267,90,3,1,2,66.7,0.7,8,20,40.0,24,3,50.0,41.3,8,100.0,71.4,9,0,0.0,4,22.2,61bb7498,Yoel,Eibar,True
+Granada,Getafe,1621787400,es ESP,25-238,90,2,0,2,100.0,0.4,14,28,50.0,24,0,83.3,55.3,9,88.9,65.4,13,0,0.0,1,15.5,67669ce7,Aarón Escandell,Granada,True
+Sevilla,Alavés,1621796400,cz CZE,32-055,90,2,0,2,100.0,0.5,4,5,80.0,17,7,17.6,25.5,11,18.2,29.0,16,2,12.5,0,10.6,7b456af7,Tomáš Vaclík,Sevilla,True
+Eibar,Celta Vigo,1599919200,es ESP,23-065,90,1,0,1,100.0,0.2,5,20,25.0,21,3,61.9,47.6,11,63.6,48.7,15,0,0.0,2,15.5,cde52ef5,Iván Villar,,True
+Granada,Athletic Club,1599928200,es ESP,23-093,90,2,2,0,0.0,0.9,10,21,47.6,41,8,43.9,34.4,3,100.0,61.0,6,1,16.7,3,17.7,5dcf3e90,Unai Simón,,True
+Cádiz,Osasuna,1599937200,es ESP,27-099,90,3,0,3,100.0,0.8,11,28,39.3,23,2,78.3,49.6,10,100.0,64.4,19,0,0.0,0,3.0,a4995f48,Sergio Herrera,,True
+Alavés,Real Betis,1599998400,cl CHI,37-153,90,2,0,2,100.0,1.0,6,20,30.0,27,4,63.0,45.5,4,75.0,54.5,10,0,0.0,1,27.0,10072610,Claudio Bravo,,True
+Valladolid,Real Sociedad,1600005600,es ESP,25-173,90,2,1,1,50.0,0.7,4,5,80.0,19,4,21.1,27.5,8,12.5,28.4,14,0,0.0,2,14.8,374ee424,Álex Remiro,,True
+Villarreal,Huesca,1600014600,es ESP,33-271,90,4,1,3,100.0,2.4,8,16,50.0,24,6,50.0,36.3,7,57.1,44.0,23,0,0.0,0,5.0,307fcd26,Andrés Fernández,,True
+Valencia,Levante,1600023600,es ESP,29-133,90,8,4,4,50.0,3.3,3,9,33.3,20,6,35.0,32.6,7,28.6,28.1,9,0,0.0,2,17.3,a01c3d54,Aitor Fernández,,True
+Villarreal,Eibar,1600524000,rs SRB,28-239,90,7,2,5,71.4,3.0,12,28,42.9,30,5,66.7,48.1,8,100.0,77.8,12,0,0.0,2,23.5,ac295d9e,Marko Dmitrović,,True
+Getafe,Osasuna,1600533000,es ESP,27-106,90,1,1,0,0.0,0.6,9,31,29.0,32,5,75.0,49.7,8,87.5,62.9,22,1,4.5,3,18.4,a4995f48,Sergio Herrera,,True
+Celta Vigo,Valencia,1600542000,es ESP,29-319,90,6,2,4,66.7,3.3,12,19,63.2,25,5,52.0,38.0,9,66.7,52.4,15,0,0.0,1,20.7,c9cb972b,Jaume Doménech,,True
+Huesca,Cádiz,1600610400,es ESP,41-114,90,1,0,0,100.0,0.2,7,33,21.2,28,1,92.9,58.5,7,100.0,67.3,17,0,0.0,0,,94084f83,Alberto Cifuentes,,True
+Granada,Alavés,1600619400,es ESP,28-125,90,3,2,1,33.3,1.9,6,16,37.5,13,2,69.2,46.2,10,70.0,45.0,18,0,0.0,2,16.0,97852360,Fernando Pacheco,,True
+Real Betis,Valladolid,1600619400,es ESP,34-223,90,6,2,4,83.3,1.7,6,19,31.6,25,4,48.0,41.9,9,77.8,54.7,14,0,0.0,1,35.0,ba3ca78f,Roberto,,True
+Real Sociedad,Real Madrid,1600628400,be BEL,28-132,90,1,0,1,100.0,0.4,2,9,22.2,31,4,19.4,29.7,6,50.0,36.8,7,0,0.0,0,,1840e36d,Thibaut Courtois,,True
+Alavés,Getafe,1601118000,es ESP,27-175,90,0,0,0,,0.0,12,34,35.3,32,0,81.3,52.3,9,88.9,54.7,8,1,12.5,5,21.1,8f8c6934,David Soria,,True
+Valencia,Huesca,1601128800,es ESP,33-284,90,2,1,1,50.0,0.7,5,14,35.7,24,4,41.7,38.3,6,66.7,48.8,17,1,5.9,0,6.0,307fcd26,Andrés Fernández,,True
+Elche,Real Sociedad,1601137800,es ESP,25-186,90,2,0,2,100.0,1.5,3,6,50.0,18,0,27.8,32.4,2,50.0,37.0,11,0,0.0,1,17.7,374ee424,Álex Remiro,,True
+Real Betis,Real Madrid,1601146800,be BEL,28-138,90,5,2,3,60.0,2.0,0,3,0.0,27,4,7.4,26.3,8,12.5,32.5,9,2,22.2,1,10.7,1840e36d,Thibaut Courtois,,True
+Osasuna,Levante,1601200800,es ESP,29-147,90,3,1,2,66.7,0.6,3,17,17.6,17,2,76.5,49.5,9,44.4,39.2,12,0,0.0,4,21.2,a01c3d54,Aitor Fernández,,True
+Eibar,Athletic Club,1601208000,es ESP,23-108,90,1,1,0,0.0,0.3,16,37,43.2,39,3,71.8,46.4,9,100.0,69.2,25,0,0.0,2,22.5,5dcf3e90,Unai Simón,,True
+Atlético Madrid,Granada,1601215200,pt POR,26-233,90,10,6,3,40.0,6.0,7,18,38.9,27,4,51.9,39.6,10,40.0,36.1,6,0,0.0,4,24.6,ea83bfa6,Rui Silva,,True
+Valladolid,Celta Vigo,1601224200,es ESP,23-080,90,4,1,3,100.0,1.6,4,14,28.6,13,3,61.5,39.6,8,75.0,55.6,20,0,0.0,2,20.0,cde52ef5,Iván Villar,,True
+Cádiz,Sevilla,1601224200,ma MAR,29-175,90,5,1,4,80.0,1.2,1,3,33.3,16,6,12.5,23.5,5,20.0,30.4,16,0,0.0,0,5.5,f6798fc3,Yassine Bounou,,True
+Barcelona,Villarreal,1601233200,es ESP,31-091,90,9,4,6,66.7,2.5,4,9,44.4,24,7,25.0,30.5,7,42.9,37.0,11,0,0.0,0,4.0,9f0ea33f,Sergio Asenjo,,True
+Real Sociedad,Valencia,1601398800,es ESP,29-329,90,3,0,3,100.0,0.3,8,21,38.1,23,8,43.5,38.7,11,100.0,64.5,25,1,4.0,0,2.5,c9cb972b,Jaume Doménech,,True
+Getafe,Real Betis,1601407800,es ESP,30-104,90,4,3,1,25.0,1.9,7,13,53.8,31,5,41.9,33.3,6,0.0,12.7,7,0,0.0,1,18.8,cda0b317,Joel Robles,,True
+Villarreal,Alavés,1601485200,es ESP,28-135,90,5,3,2,60.0,3.2,6,11,54.5,28,6,28.6,32.5,5,60.0,42.6,11,0,0.0,1,14.0,97852360,Fernando Pacheco,,True
+Huesca,Atlético Madrid,1601485200,si SVN,27-267,90,3,0,3,100.0,0.3,4,11,36.4,24,6,33.3,34.1,8,37.5,43.6,15,0,0.0,1,22.0,ee8508c0,Jan Oblak,,True
+Eibar,Elche,1601494200,es ESP,28-231,90,4,0,4,100.0,0.4,16,37,43.2,35,6,68.6,46.5,14,92.9,61.4,33,0,0.0,0,5.5,e4346678,Édgar Badía,,True
+Real Madrid,Valladolid,1601494200,es ESP,34-233,90,5,1,4,80.0,1.5,8,25,32.0,22,5,63.6,47.4,12,91.7,61.4,15,0,0.0,2,19.5,ba3ca78f,Roberto,,True
+Sevilla,Levante,1601571600,es ESP,29-151,90,2,1,1,50.0,0.4,7,18,38.9,20,3,65.0,41.8,15,33.3,28.4,18,0,0.0,1,26.0,a01c3d54,Aitor Fernández,,True
+Athletic Club,Cádiz,1601571600,ar ARG,27-231,90,4,0,4,100.0,0.5,15,39,38.5,30,0,80.0,51.9,16,93.8,67.1,25,3,12.0,2,14.5,6c4776b1,Jeremías Ledesma,,True
+Celta Vigo,Barcelona,1601580600,br BRA,31-074,90,3,0,3,100.0,0.3,4,15,26.7,29,4,34.5,31.8,8,62.5,48.5,12,0,0.0,3,12.1,a9dc785c,Neto,,True
+Valladolid,Eibar,1601722800,rs SRB,28-253,90,3,1,1,66.7,1.6,7,27,25.9,20,4,85.0,56.1,10,100.0,72.4,14,0,0.0,0,6.0,ac295d9e,Marko Dmitrović,,True
+Atlético Madrid,Villarreal,1601733600,es ESP,31-097,90,0,0,0,,0.0,9,19,47.4,37,7,43.2,38.5,8,37.5,36.0,22,1,4.5,2,13.5,9f0ea33f,Sergio Asenjo,,True
+Real Sociedad,Getafe,1601742600,es ESP,27-182,90,6,3,3,66.7,2.8,11,33,33.3,28,0,96.4,53.7,9,66.7,43.9,12,1,8.3,1,18.7,8f8c6934,David Soria,,True
+Elche,Huesca,1601742600,es ESP,33-291,90,0,0,0,,0.0,2,6,33.3,13,0,30.8,30.8,3,66.7,40.7,6,0,0.0,0,,307fcd26,Andrés Fernández,,True
+Valencia,Real Betis,1601751600,es ESP,30-108,90,2,0,2,100.0,0.8,5,17,29.4,20,4,50.0,41.6,8,87.5,61.9,9,1,11.1,1,15.3,cda0b317,Joel Robles,,True
+Osasuna,Celta Vigo,1601805600,es ESP,23-087,90,4,2,2,50.0,1.5,1,11,9.1,30,6,30.0,29.5,9,22.2,33.8,18,0,0.0,4,23.3,cde52ef5,Iván Villar,,True
+Alavés,Athletic Club,1601812800,es ESP,23-115,90,3,1,2,66.7,0.6,8,23,34.8,30,3,53.3,41.8,7,100.0,68.6,14,0,0.0,4,21.7,5dcf3e90,Unai Simón,,True
+Levante,Real Madrid,1601820000,be BEL,28-146,90,4,0,4,100.0,0.3,3,19,15.8,37,4,37.8,35.5,10,50.0,46.2,11,0,0.0,2,27.0,1840e36d,Thibaut Courtois,,True
+Cádiz,Granada,1601829000,pt POR,26-240,90,4,1,3,75.0,1.5,8,17,47.1,26,2,42.3,37.5,9,66.7,51.6,11,0,0.0,0,,ea83bfa6,Rui Silva,,True
+Barcelona,Sevilla,1601838000,ma MAR,29-182,90,5,1,4,80.0,1.0,1,5,20.0,25,4,12.0,23.5,4,50.0,36.3,10,2,20.0,1,10.5,f6798fc3,Yassine Bounou,,True
+Granada,Sevilla,1602932400,ma MAR,29-195,90,3,1,2,66.7,1.6,12,22,54.5,27,5,51.9,40.3,9,88.9,58.1,22,1,4.5,0,5.0,f6798fc3,Yassine Bounou,,True
+Celta Vigo,Atlético Madrid,1602943200,si SVN,27-284,90,5,0,5,100.0,1.2,11,25,44.0,28,3,64.3,45.3,11,63.6,45.5,13,0,0.0,2,20.5,ee8508c0,Jan Oblak,,True
+Real Madrid,Cádiz,1602952200,ar ARG,27-247,90,2,0,2,100.0,0.1,17,41,41.5,23,0,100.0,63.3,18,100.0,69.8,24,3,12.5,0,7.3,6c4776b1,Jeremías Ledesma,,True
+Getafe,Barcelona,1602961200,br BRA,31-090,90,4,1,3,100.0,1.5,1,2,50.0,26,9,7.7,22.6,7,0.0,15.4,14,2,14.3,0,7.0,a9dc785c,Neto,,True
+Eibar,Osasuna,1603015200,es ESP,27-135,90,6,0,6,100.0,0.9,13,33,39.4,31,0,90.3,58.2,5,100.0,67.4,22,2,9.1,2,10.0,a4995f48,Sergio Herrera,,True
+Athletic Club,Levante,1603022400,es ESP,25-021,90,4,2,2,50.0,2.2,3,12,25.0,19,3,47.4,37.2,10,30.0,32.0,12,0,0.0,1,12.3,bfb15d99,Koke Vegas,,True
+Villarreal,Valencia,1603029600,es ESP,29-348,90,6,2,4,83.3,1.6,9,16,56.3,26,3,42.3,34.7,11,45.5,35.7,9,1,11.1,0,5.0,c9cb972b,Jaume Doménech,,True
+Huesca,Valladolid,1603038600,es ESP,34-251,90,7,2,5,71.4,1.2,5,25,20.0,22,3,72.7,50.0,9,100.0,67.4,25,0,0.0,0,,ba3ca78f,Roberto,,True
+Alavés,Elche,1603038600,es ESP,28-249,90,2,0,2,100.0,0.4,10,17,58.8,34,4,23.5,28.1,13,69.2,41.1,19,1,5.3,0,4.7,e4346678,Édgar Badía,,True
+Real Betis,Real Sociedad,1603047600,es ESP,25-208,90,1,0,1,100.0,0.1,11,24,45.8,40,2,45.0,36.8,10,60.0,44.9,11,0,0.0,2,18.0,374ee424,Álex Remiro,,True
+Elche,Valencia,1603479600,es ESP,29-353,90,2,2,0,0.0,0.5,0,0,,13,1,0.0,20.8,2,0.0,11.5,8,0,0.0,0,2.0,c9cb972b,Jaume Doménech,,True
+Barcelona,Real Madrid,1603548000,be BEL,28-166,90,4,1,3,75.0,1.9,0,5,0.0,26,9,7.7,21.4,6,50.0,41.7,10,0,0.0,3,18.8,1840e36d,Thibaut Courtois,,True
+Osasuna,Athletic Club,1603557000,es ESP,23-135,90,2,1,1,100.0,1.2,5,22,22.7,39,5,43.6,39.4,5,100.0,69.0,16,1,6.3,2,15.8,5dcf3e90,Unai Simón,,True
+Sevilla,Eibar,1603557000,rs SRB,28-274,90,3,0,3,100.0,0.3,11,27,40.7,17,2,94.1,58.4,11,100.0,80.9,36,0,0.0,0,10.0,ac295d9e,Marko Dmitrović,,True
+Atlético Madrid,Real Betis,1603566000,cl CHI,37-194,90,6,2,4,66.7,1.6,8,15,53.3,31,3,38.7,30.2,7,42.9,40.7,8,1,12.5,1,11.5,10072610,Claudio Bravo,,True
+Valladolid,Alavés,1603630800,es ESP,28-160,90,1,0,1,100.0,0.3,8,9,88.9,14,4,42.9,33.2,7,42.9,28.7,10,0,0.0,2,18.3,97852360,Fernando Pacheco,,True
+Cádiz,Villarreal,1603638000,es ESP,31-119,90,0,0,0,,0.0,0,0,,23,7,0.0,20.0,6,0.0,21.8,13,0,0.0,1,19.0,9f0ea33f,Sergio Asenjo,,True
+Getafe,Granada,1603647000,pt POR,26-261,90,1,0,1,100.0,0.0,11,28,39.3,21,0,90.5,54.8,9,100.0,65.8,32,0,0.0,1,27.0,ea83bfa6,Rui Silva,,True
+Real Sociedad,Huesca,1603656000,es ESP,33-313,90,6,4,2,50.0,2.6,5,15,33.3,23,3,43.5,34.1,9,55.6,46.1,12,1,8.3,0,4.8,307fcd26,Andrés Fernández,,True
+Levante,Celta Vigo,1603742400,es ESP,23-109,90,3,1,2,100.0,1.1,8,19,42.1,27,5,55.6,41.6,6,66.7,50.5,13,1,7.7,5,19.8,cde52ef5,Iván Villar,,True
+Eibar,Cádiz,1604088000,ar ARG,27-260,90,3,0,3,100.0,0.6,13,29,44.8,22,0,95.5,55.1,9,88.9,53.8,29,1,3.4,0,5.3,6c4776b1,Jeremías Ledesma,,True
+Real Madrid,Huesca,1604149200,es ESP,33-319,90,6,4,2,33.3,2.7,3,11,27.3,31,8,16.1,24.5,7,85.7,46.6,16,0,0.0,0,9.3,307fcd26,Andrés Fernández,,True
+Athletic Club,Sevilla,1604157300,ma MAR,29-209,90,5,2,3,60.0,0.8,5,14,35.7,24,7,41.7,34.7,5,80.0,54.0,22,0,0.0,0,11.0,f6798fc3,Yassine Bounou,,True
+Osasuna,Atlético Madrid,1604165400,si SVN,27-298,90,3,1,2,66.7,1.0,5,21,23.8,26,2,46.2,36.2,14,64.3,43.0,19,0,0.0,1,16.3,ee8508c0,Jan Oblak,,True
+Alavés,Barcelona,1604174400,br BRA,31-104,90,3,1,2,66.7,1.3,0,0,,24,5,0.0,18.1,0,,,5,0,0.0,1,16.0,a9dc785c,Neto,,True
+Real Betis,Elche,1604235600,es ESP,28-263,90,10,3,6,70.0,3.7,5,8,62.5,36,13,13.9,24.1,9,33.3,28.1,12,0,0.0,3,21.8,e4346678,Édgar Badía,,True
+Celta Vigo,Real Sociedad,1604242800,es ESP,25-222,90,2,1,1,100.0,1.0,5,13,38.5,30,4,26.7,33.6,7,71.4,52.6,4,0,0.0,0,,374ee424,Álex Remiro,,True
+Granada,Levante,1604251800,es ESP,29-182,90,2,1,1,50.0,0.5,1,2,50.0,17,4,11.8,26.1,5,0.0,22.4,7,0,0.0,1,19.5,a01c3d54,Aitor Fernández,,True
+Valencia,Getafe,1604260800,es ESP,27-211,90,5,2,3,80.0,1.8,10,23,43.5,28,1,67.9,41.6,7,57.1,40.1,3,0,0.0,2,24.7,8f8c6934,David Soria,,True
+Villarreal,Valladolid,1604347200,es ESP,31-304,90,5,2,3,60.0,2.8,3,17,17.6,17,1,70.6,44.8,6,83.3,57.0,12,0,0.0,0,,8fae77ea,Jordi Masip,,True
+Elche,Celta Vigo,1604692800,es ESP,25-104,90,1,1,0,100.0,1.0,0,5,0.0,17,6,23.5,28.6,9,11.1,19.9,22,0,0.0,0,5.0,967f34d3,Rubén Blanco,,True
+Huesca,Eibar,1604754000,rs SRB,28-288,90,5,1,4,80.0,1.7,9,28,32.1,25,2,84.0,59.7,9,77.8,61.3,26,2,7.7,1,11.0,ac295d9e,Marko Dmitrović,,True
+Barcelona,Real Betis,1604762100,cl CHI,37-208,90,9,5,3,55.6,3.4,9,17,52.9,31,6,41.9,32.8,9,44.4,33.1,11,1,9.1,0,9.4,10072610,Claudio Bravo,,True
+Sevilla,Osasuna,1604770200,es ESP,27-155,90,1,1,0,100.0,0.9,15,28,53.6,24,0,79.2,49.9,10,90.0,58.8,15,0,0.0,3,25.0,a4995f48,Sergio Herrera,,True
+Atlético Madrid,Cádiz,1604779200,ar ARG,27-268,90,7,4,3,42.9,2.9,8,18,44.4,23,4,65.2,42.3,3,100.0,63.0,4,1,25.0,0,11.0,6c4776b1,Jeremías Ledesma,,True
+Getafe,Villarreal,1604840400,es ESP,31-133,90,4,1,3,75.0,0.8,12,18,66.7,37,12,37.8,34.1,7,57.1,45.1,23,0,0.0,0,11.0,9f0ea33f,Sergio Asenjo,,True
+Real Sociedad,Granada,1604848500,es ESP,18-139,90,9,2,6,88.9,3.1,9,24,37.5,14,0,71.4,43.7,17,82.4,54.8,20,0,0.0,0,7.7,b1e5bbec,Ángel,,True
+Valladolid,Athletic Club,1604856600,es ESP,23-150,90,4,2,2,75.0,2.2,7,12,58.3,15,3,46.7,36.1,6,83.3,59.5,9,0,0.0,0,1.0,5dcf3e90,Unai Simón,,True
+Levante,Alavés,1604856600,es ESP,28-174,90,5,1,4,80.0,0.8,22,36,61.1,28,3,82.1,48.1,13,100.0,61.2,25,2,8.0,0,4.5,97852360,Fernando Pacheco,,True
+Valencia,Real Madrid,1604865600,be BEL,28-181,90,4,4,1,75.0,3.1,2,4,50.0,23,7,17.4,27.0,3,0.0,20.0,7,1,14.3,0,10.0,1840e36d,Thibaut Courtois,,True
+Osasuna,Huesca,1605902400,es ESP,33-339,90,7,1,6,85.7,0.9,4,24,16.7,30,2,40.0,37.9,14,85.7,55.6,24,0,0.0,0,8.0,307fcd26,Andrés Fernández,,True
+Levante,Elche,1605963600,es ESP,28-283,90,5,1,4,80.0,1.2,7,14,50.0,36,7,25.0,27.9,7,71.4,45.7,15,0,0.0,2,15.0,e4346678,Édgar Badía,,True
+Villarreal,Real Madrid,1605971700,be BEL,28-194,90,1,1,0,100.0,1.0,5,10,50.0,36,6,22.2,29.4,9,22.2,26.3,15,0,0.0,1,10.7,1840e36d,Thibaut Courtois,,True
+Sevilla,Celta Vigo,1605979800,es ESP,25-119,90,10,4,6,60.0,3.5,5,12,41.7,26,1,26.9,31.2,5,100.0,57.2,19,0,0.0,0,14.0,967f34d3,Rubén Blanco,,True
+Atlético Madrid,Barcelona,1605988800,de GER,28-205,90,2,1,1,50.0,0.5,2,3,66.7,18,4,11.1,26.9,5,20.0,32.8,13,1,7.7,3,19.7,6f51e382,Marc-André ter Stegen,,True
+Eibar,Getafe,1606050000,es ESP,27-232,90,4,0,4,100.0,1.3,9,25,36.0,19,1,84.2,51.8,9,100.0,62.7,17,1,5.9,0,6.0,8f8c6934,David Soria,,True
+Cádiz,Real Sociedad,1606058100,es ESP,25-243,90,0,0,0,,0.0,5,10,50.0,23,4,30.4,28.9,7,42.9,38.6,6,0,0.0,2,24.7,374ee424,Álex Remiro,,True
+Granada,Valladolid,1606066200,es ESP,31-324,90,6,1,5,83.3,0.9,12,29,41.4,29,3,69.0,47.1,9,100.0,60.9,22,0,0.0,2,17.7,8fae77ea,Jordi Masip,,True
+Alavés,Valencia,1606075200,es ESP,30-017,90,3,2,1,66.7,1.5,1,9,11.1,27,7,25.9,31.3,2,100.0,56.5,9,0,0.0,0,15.0,c9cb972b,Jaume Doménech,,True
+Athletic Club,Real Betis,1606161600,cl CHI,37-224,90,9,4,6,55.6,3.0,2,7,28.6,28,10,17.9,25.9,3,66.7,41.3,17,0,0.0,1,11.7,10072610,Claudio Bravo,,True
+Valladolid,Levante,1606507200,es ESP,23-244,90,4,1,3,75.0,0.9,1,6,16.7,21,4,23.8,28.0,8,12.5,19.4,15,1,6.7,0,7.2,e1846dde,Cárdenas,,True
+Elche,Cádiz,1606568400,ar ARG,27-289,90,3,1,2,66.7,0.8,7,19,36.8,23,2,60.9,42.3,6,83.3,57.8,5,0,0.0,0,,6c4776b1,Jeremías Ledesma,,True
+Valencia,Atlético Madrid,1606576500,si SVN,27-326,90,2,0,2,100.0,0.5,1,9,11.1,15,5,33.3,35.1,5,80.0,49.6,9,0,0.0,0,,ee8508c0,Jan Oblak,,True
+Huesca,Sevilla,1606584600,cz CZE,31-244,90,1,0,1,100.0,0.1,6,9,66.7,19,5,47.4,37.5,1,0.0,23.0,9,0,0.0,0,11.0,7b456af7,Tomáš Vaclík,,True
+Real Madrid,Alavés,1606593600,es ESP,28-194,90,8,1,7,87.5,2.0,15,24,62.5,23,3,65.2,44.0,15,60.0,40.6,29,3,10.3,0,4.3,97852360,Fernando Pacheco,,True
+Barcelona,Osasuna,1606654800,es ESP,27-177,90,10,4,6,60.0,3.9,12,21,57.1,24,3,54.2,40.3,9,88.9,61.3,11,0,0.0,4,21.0,a4995f48,Sergio Herrera,,True
+Getafe,Athletic Club,1606662900,es ESP,23-171,90,3,1,2,66.7,0.2,8,22,36.4,22,2,45.5,40.9,12,100.0,61.9,12,0,0.0,2,20.3,5dcf3e90,Unai Simón,,True
+Celta Vigo,Granada,1606671000,pt POR,26-296,90,7,3,4,57.1,3.8,5,21,23.8,22,3,68.2,44.5,9,66.7,46.2,13,1,7.7,0,10.3,ea83bfa6,Rui Silva,,True
+Real Sociedad,Villarreal,1606680000,es ESP,31-154,90,4,1,3,100.0,1.5,1,12,8.3,28,7,39.3,33.3,1,100.0,67.0,14,1,7.1,0,3.5,9f0ea33f,Sergio Asenjo,,True
+Real Betis,Eibar,1606766400,rs SRB,28-311,90,3,0,3,100.0,0.8,6,30,20.0,34,0,76.5,51.1,4,100.0,74.0,11,0,0.0,0,14.3,ac295d9e,Marko Dmitrović,,True
+Athletic Club,Celta Vigo,1607112000,es ESP,25-132,90,0,0,0,,0.0,5,21,23.8,23,4,43.5,35.4,14,78.6,49.1,15,0,0.0,2,24.0,967f34d3,Rubén Blanco,,True
+Levante,Getafe,1607173200,es ESP,27-245,90,8,3,5,62.5,2.0,9,27,33.3,24,0,95.8,58.0,6,66.7,48.8,11,1,9.1,5,22.0,8f8c6934,David Soria,,True
+Sevilla,Real Madrid,1607181300,be BEL,28-208,90,2,0,2,100.0,0.1,3,18,16.7,30,7,46.7,38.2,6,66.7,49.2,17,0,0.0,0,,1840e36d,Thibaut Courtois,,True
+Atlético Madrid,Valladolid,1607189400,es ESP,31-337,90,4,2,2,50.0,0.8,5,12,41.7,23,5,26.1,34.1,10,60.0,48.4,12,1,8.3,1,13.3,8fae77ea,Jordi Masip,,True
+Cádiz,Barcelona,1607198400,de GER,28-219,90,3,2,1,33.3,2.7,0,0,,19,8,0.0,21.6,4,0.0,24.3,8,1,12.5,2,13.5,6f51e382,Marc-André ter Stegen,,True
+Granada,Huesca,1607259600,es ESP,22-237,90,6,3,3,50.0,2.3,7,17,41.2,26,4,53.8,40.7,7,42.9,39.4,24,0,0.0,0,8.0,f127d782,Álvaro Fernández,,True
+Osasuna,Real Betis,1607267700,es ESP,30-172,90,0,0,0,,0.0,7,26,26.9,23,4,69.6,44.4,11,90.9,58.7,18,0,0.0,4,24.0,cda0b317,Joel Robles,,True
+Villarreal,Elche,1607275800,es ESP,28-298,90,3,0,3,100.0,0.5,1,11,9.1,37,9,21.6,29.8,13,23.1,21.8,13,2,15.4,0,10.0,e4346678,Édgar Badía,,True
+Alavés,Real Sociedad,1607284800,es ESP,25-257,90,1,0,1,100.0,0.2,6,10,60.0,26,2,23.1,26.9,6,66.7,45.2,7,0,0.0,0,13.5,374ee424,Álex Remiro,,True
+Eibar,Valencia,1607371200,es ESP,30-032,90,3,0,3,100.0,0.3,15,33,45.5,23,2,78.3,48.3,15,100.0,65.1,29,1,3.4,2,16.3,c9cb972b,Jaume Doménech,,True
+Valladolid,Osasuna,1607716800,es ESP,27-189,90,6,3,3,66.7,3.2,13,24,54.2,31,2,64.5,46.1,4,100.0,58.5,12,0,0.0,2,40.0,a4995f48,Sergio Herrera,,True
+Valencia,Athletic Club,1607778000,es ESP,23-184,90,2,2,0,50.0,1.2,7,14,50.0,19,2,36.8,34.9,10,70.0,49.7,10,0,0.0,1,14.5,5dcf3e90,Unai Simón,,True
+Getafe,Sevilla,1607786100,ma MAR,29-251,90,1,0,1,100.0,0.1,4,7,57.1,20,8,30.0,28.5,10,10.0,27.5,12,1,8.3,0,9.0,f6798fc3,Yassine Bounou,,True
+Huesca,Alavés,1607794200,es ESP,28-208,90,3,1,2,66.7,0.8,8,20,40.0,19,1,73.7,49.7,12,50.0,42.8,17,1,5.9,0,6.0,97852360,Fernando Pacheco,,True
+Real Madrid,Atlético Madrid,1607803200,si SVN,27-340,90,3,2,2,33.3,0.9,4,8,50.0,14,3,28.6,32.6,7,57.1,42.0,6,0,0.0,0,,ee8508c0,Jan Oblak,,True
+Real Sociedad,Eibar,1607864400,rs SRB,28-324,90,2,1,1,50.0,0.1,13,22,59.1,24,1,66.7,51.3,6,100.0,66.5,9,0,0.0,1,15.8,ac295d9e,Marko Dmitrović,,True
+Real Betis,Villarreal,1607872500,es ESP,31-168,90,5,1,4,80.0,1.2,7,7,100.0,47,9,14.9,24.8,5,0.0,15.2,12,1,8.3,2,20.3,9f0ea33f,Sergio Asenjo,,True
+Elche,Granada,1607880600,pt POR,26-310,90,1,0,1,100.0,0.2,9,18,50.0,20,1,70.0,45.2,5,80.0,52.2,18,0,0.0,1,18.5,ea83bfa6,Rui Silva,,True
+Barcelona,Levante,1607889600,es ESP,29-224,90,13,1,12,92.3,2.4,9,18,50.0,31,7,51.6,39.0,11,18.2,21.4,18,1,5.6,2,12.3,a01c3d54,Aitor Fernández,,True
+Celta Vigo,Cádiz,1607976000,ar ARG,27-305,90,4,4,0,25.0,1.7,11,25,44.0,28,1,75.0,48.0,4,100.0,67.5,2,0,0.0,2,19.0,6c4776b1,Jeremías Ledesma,,True
+Real Madrid,Athletic Club,1608066000,es ESP,23-187,90,5,3,2,40.0,2.0,10,31,32.3,30,5,63.3,44.3,12,100.0,64.5,15,1,6.7,0,4.5,5dcf3e90,Unai Simón,,True
+Barcelona,Real Sociedad,1608148800,es ESP,25-267,90,4,2,2,50.0,1.1,13,25,52.0,38,4,57.9,39.4,5,60.0,43.6,3,0,0.0,0,7.3,374ee424,Álex Remiro,,True
+Athletic Club,Huesca,1608321600,es ESP,22-249,90,3,2,1,66.7,1.7,5,20,25.0,45,6,35.6,34.6,8,50.0,38.8,16,1,6.3,0,6.3,f127d782,Álvaro Fernández,,True
+Atlético Madrid,Elche,1608382800,es ESP,28-311,90,6,3,3,66.7,2.8,2,4,50.0,23,4,13.0,26.1,9,11.1,22.8,9,0,0.0,2,22.7,e4346678,Édgar Badía,,True
+Barcelona,Valencia,1608390900,es ESP,30-044,90,9,2,6,77.8,2.3,10,19,52.6,19,1,57.9,43.2,9,88.9,61.6,16,0,0.0,1,20.5,c9cb972b,Jaume Doménech,,True
+Osasuna,Villarreal,1608399000,es ESP,31-174,90,1,1,0,100.0,1.0,4,12,33.3,25,8,24.0,28.0,8,75.0,50.9,15,2,13.3,0,5.0,9f0ea33f,Sergio Asenjo,,True
+Levante,Real Sociedad,1608399000,es ESP,25-270,90,5,2,3,60.0,2.1,7,11,63.6,27,6,22.2,30.8,6,83.3,61.8,9,1,11.1,2,13.2,374ee424,Álex Remiro,,True
+Sevilla,Valladolid,1608408000,es ESP,31-351,90,3,1,2,100.0,1.1,9,16,56.3,20,5,45.0,37.6,7,100.0,69.3,20,0,0.0,2,24.5,8fae77ea,Jordi Masip,,True
+Celta Vigo,Alavés,1608469200,es ESP,28-216,90,3,2,1,33.3,1.4,7,13,53.8,28,2,32.1,31.6,6,66.7,39.8,7,0,0.0,2,13.3,97852360,Fernando Pacheco,,True
+Granada,Real Betis,1608477300,es ESP,30-186,90,3,2,1,66.7,1.7,4,9,44.4,20,4,35.0,34.8,8,25.0,32.6,7,0,0.0,1,29.0,cda0b317,Joel Robles,,True
+Cádiz,Getafe,1608485400,es ESP,27-069,90,1,0,1,100.0,0.0,4,18,22.2,16,0,81.3,49.2,6,83.3,51.7,13,2,15.4,1,9.3,039ae103,Rubén Yáñez,,True
+Eibar,Real Madrid,1608494400,be BEL,28-223,90,3,1,2,66.7,0.8,3,19,15.8,48,7,31.3,34.0,9,44.4,46.3,22,3,13.6,0,9.0,1840e36d,Thibaut Courtois,,True
+Valencia,Sevilla,1608654600,ma MAR,29-261,90,4,0,4,100.0,0.5,13,17,76.5,27,1,48.1,37.8,5,80.0,47.6,9,0,0.0,2,21.7,f6798fc3,Yassine Bounou,,True
+Elche,Osasuna,1608654600,es ESP,36-183,90,2,2,0,0.0,1.6,10,18,55.6,18,1,66.7,42.9,6,100.0,57.7,17,1,5.9,1,17.0,24279b8b,Rubén,,True
+Huesca,Levante,1608662700,es ESP,29-233,90,2,1,1,100.0,1.0,6,15,40.0,28,4,39.3,36.0,9,44.4,36.1,25,0,0.0,3,15.3,a01c3d54,Aitor Fernández,,True
+Real Sociedad,Atlético Madrid,1608662700,si SVN,27-350,90,1,0,1,100.0,0.2,9,24,37.5,19,2,84.2,50.5,9,88.9,54.8,16,0,0.0,1,22.5,ee8508c0,Jan Oblak,,True
+Valladolid,Barcelona,1608670800,de GER,28-236,90,5,0,5,100.0,0.3,7,12,58.3,32,5,25.0,30.1,11,36.4,43.7,12,1,8.3,0,9.8,6f51e382,Marc-André ter Stegen,,True
+Villarreal,Athletic Club,1608670800,es ESP,23-194,90,6,1,5,83.3,2.1,6,23,26.1,16,3,62.5,44.8,14,92.9,62.0,16,0,0.0,2,18.7,5dcf3e90,Unai Simón,,True
+Getafe,Celta Vigo,1608741000,es ESP,25-151,90,3,1,2,66.7,1.0,3,13,23.1,36,9,16.7,28.4,7,100.0,65.9,10,0,0.0,0,16.0,967f34d3,Rubén Blanco,,True
+Real Madrid,Granada,1608749100,pt POR,26-320,90,6,2,4,66.7,1.8,8,25,32.0,27,0,63.0,43.3,8,100.0,60.1,18,0,0.0,2,15.7,ea83bfa6,Rui Silva,,True
+Alavés,Eibar,1608757200,rs SRB,28-334,90,3,2,1,33.3,1.3,14,29,48.3,27,1,88.9,54.3,6,83.3,60.8,11,0,0.0,2,20.5,ac295d9e,Marko Dmitrović,,True
+Real Betis,Cádiz,1608757200,ar ARG,27-314,90,1,1,0,0.0,0.5,13,31,41.9,27,0,85.2,49.4,8,100.0,63.1,14,1,7.1,1,11.5,6c4776b1,Jeremías Ledesma,,True
+Sevilla,Villarreal,1609257600,es ESP,31-184,90,3,2,1,66.7,1.3,2,9,22.2,26,5,23.1,29.6,7,42.9,37.6,11,0,0.0,1,15.0,9f0ea33f,Sergio Asenjo,,True
+Barcelona,Eibar,1609265700,rs SRB,28-340,90,5,1,4,80.0,1.1,9,26,34.6,15,0,93.3,59.1,12,100.0,71.8,10,0,0.0,0,9.3,ac295d9e,Marko Dmitrović,,True
+Cádiz,Valladolid,1609273800,es ESP,31-361,90,3,0,3,100.0,0.5,7,16,43.8,19,3,52.6,39.5,7,85.7,55.0,12,0,0.0,1,10.6,8fae77ea,Jordi Masip,,True
+Levante,Real Betis,1609273800,es ESP,30-195,90,5,4,1,20.0,2.8,4,9,44.4,16,3,56.3,37.8,4,0.0,19.3,9,1,11.1,0,7.0,cda0b317,Joel Robles,,True
+Granada,Valencia,1609344000,es ESP,30-055,90,5,2,3,60.0,1.4,3,14,21.4,20,2,45.0,38.6,6,83.3,65.3,21,0,0.0,1,9.3,c9cb972b,Jaume Doménech,,True
+Celta Vigo,Huesca,1609352100,es ESP,22-261,90,6,2,4,66.7,1.6,2,6,33.3,31,4,12.9,27.1,7,28.6,31.0,5,0,0.0,2,26.3,f127d782,Álvaro Fernández,,True
+Atlético Madrid,Getafe,1609352100,es ESP,27-079,90,3,1,2,66.7,0.5,8,17,47.1,25,5,56.0,43.5,3,100.0,53.7,10,0,0.0,0,,039ae103,Rubén Yáñez,,True
+Elche,Real Madrid,1609360200,be BEL,28-233,90,3,1,2,100.0,1.4,1,1,100.0,22,6,4.5,23.5,4,0.0,31.0,8,0,0.0,3,29.7,1840e36d,Thibaut Courtois,,True
+Athletic Club,Real Sociedad,1609419600,es ESP,25-282,90,0,0,0,,0.0,3,18,16.7,22,3,68.2,52.7,3,100.0,72.3,15,0,0.0,1,21.0,374ee424,Álex Remiro,,True
+Osasuna,Alavés,1609427700,es ESP,28-227,90,3,1,2,66.7,0.5,4,9,44.4,18,3,44.4,37.5,8,12.5,26.8,14,0,0.0,5,24.0,97852360,Fernando Pacheco,,True
+Villarreal,Levante,1609592400,es ESP,29-244,90,7,2,5,71.4,2.6,4,17,23.5,41,4,41.5,35.8,2,0.0,11.0,4,0,0.0,3,21.0,a01c3d54,Aitor Fernández,,True
+Real Betis,Sevilla,1609600500,ma MAR,29-272,90,3,1,1,100.0,2.0,0,4,0.0,20,5,20.0,30.1,10,0.0,19.3,10,2,20.0,0,10.3,f6798fc3,Yassine Bounou,,True
+Getafe,Valladolid,1609608600,es ESP,31-365,90,4,0,4,100.0,0.9,11,28,39.3,25,1,88.0,55.4,6,100.0,61.3,22,0,0.0,1,34.0,8fae77ea,Jordi Masip,,True
+Real Madrid,Celta Vigo,1609617600,es ESP,25-161,90,2,2,0,0.0,0.8,7,15,46.7,31,2,38.7,33.9,8,37.5,34.3,5,0,0.0,0,,967f34d3,Rubén Blanco,,True
+Athletic Club,Elche,1609678800,es ESP,28-326,90,2,1,1,50.0,1.0,1,8,12.5,33,5,15.2,29.3,13,23.1,27.6,11,0,0.0,0,13.5,e4346678,Édgar Badía,,True
+Alavés,Atlético Madrid,1609686900,si SVN,27-362,90,1,1,1,0.0,0.1,6,12,50.0,18,3,44.4,38.7,6,66.7,52.2,4,0,0.0,1,20.7,ee8508c0,Jan Oblak,,True
+Eibar,Granada,1609695000,pt POR,26-331,90,7,2,4,71.4,2.0,16,36,44.4,28,0,92.9,55.3,11,90.9,61.3,24,1,4.2,2,21.0,ea83bfa6,Rui Silva,,True
+Real Sociedad,Osasuna,1609695000,es ESP,27-212,90,2,1,1,50.0,1.1,13,34,38.2,27,2,85.2,50.0,11,100.0,55.4,30,1,3.3,3,17.5,a4995f48,Sergio Herrera,,True
+Huesca,Barcelona,1609704000,de GER,28-248,90,4,0,4,100.0,1.0,2,3,66.7,23,7,8.7,25.1,3,33.3,38.0,8,2,25.0,0,8.5,6f51e382,Marc-André ter Stegen,,True
+Valencia,Cádiz,1609790400,ar ARG,27-326,90,4,1,3,75.0,0.7,14,28,50.0,24,0,95.8,61.0,5,100.0,69.0,27,2,7.4,2,12.6,6c4776b1,Jeremías Ledesma,,True
+Athletic Club,Barcelona,1609963200,de GER,28-251,90,3,2,1,33.3,0.7,2,4,50.0,25,8,12.0,29.2,4,25.0,39.3,11,1,9.1,0,9.0,6f51e382,Marc-André ter Stegen,,True
+Celta Vigo,Villarreal,1610136000,es ESP,31-194,90,3,0,3,100.0,0.9,6,11,54.5,24,2,33.3,36.3,4,75.0,50.5,16,1,6.3,0,5.0,9f0ea33f,Sergio Asenjo,,True
+Sevilla,Real Sociedad,1610197200,es ESP,25-291,90,7,3,4,57.1,3.7,1,6,16.7,14,3,35.7,37.0,5,20.0,30.8,15,0,0.0,0,7.8,374ee424,Álex Remiro,,True
+Granada,Barcelona,1610213400,de GER,28-254,90,4,0,4,100.0,0.7,1,1,100.0,33,8,0.0,19.4,7,14.3,23.1,11,1,9.1,1,13.7,6f51e382,Marc-André ter Stegen,,True
+Osasuna,Real Madrid,1610222400,be BEL,28-243,90,2,0,2,100.0,0.1,1,6,16.7,31,7,19.4,25.0,6,0.0,20.7,11,0,0.0,1,13.0,1840e36d,Thibaut Courtois,,True
+Levante,Eibar,1610283600,rs SRB,28-352,90,2,2,0,0.0,1.4,8,23,34.8,26,2,80.8,57.6,2,100.0,83.5,12,0,0.0,2,19.7,ac295d9e,Marko Dmitrović,,True
+Cádiz,Alavés,1610291700,es ESP,28-237,90,7,3,4,57.1,2.6,5,10,50.0,21,6,33.3,31.6,3,100.0,62.0,13,1,7.7,1,12.0,97852360,Fernando Pacheco,,True
+Valladolid,Valencia,1610308800,es ESP,30-066,90,4,0,4,100.0,0.3,13,27,48.1,38,5,63.2,40.9,6,50.0,45.5,13,0,0.0,0,,c9cb972b,Jaume Doménech,,True
+Elche,Getafe,1610388000,es ESP,27-091,90,4,1,3,75.0,1.4,3,6,50.0,16,4,37.5,34.3,2,0.0,19.5,9,0,0.0,0,7.0,039ae103,Rubén Yáñez,,True
+Huesca,Real Betis,1610395200,cl CHI,37-273,90,3,0,3,100.0,0.6,9,21,42.9,24,4,62.5,45.3,8,75.0,51.5,11,0,0.0,0,20.0,10072610,Claudio Bravo,,True
+Granada,Osasuna,1610474400,es ESP,27-221,90,3,2,1,33.3,1.0,5,21,23.8,26,4,73.1,42.8,3,66.7,49.0,6,0,0.0,3,22.8,a4995f48,Sergio Herrera,,True
+Atlético Madrid,Sevilla,1610483400,ma MAR,29-282,90,4,2,2,50.0,1.0,2,4,50.0,19,4,21.1,26.8,0,,,8,0,0.0,0,,f6798fc3,Yassine Bounou,,True
+Valladolid,Elche,1611079200,es ESP,28-342,90,2,2,0,0.0,0.8,9,17,52.9,24,4,37.5,35.6,12,66.7,44.6,13,0,0.0,0,4.7,e4346678,Édgar Badía,,True
+Cádiz,Levante,1611079200,es ESP,29-261,90,2,2,0,0.0,1.2,2,5,40.0,22,0,18.2,26.5,6,16.7,26.0,17,0,0.0,2,22.3,a01c3d54,Aitor Fernández,,True
+Alavés,Sevilla,1611088200,ma MAR,29-289,90,3,1,1,66.7,1.5,8,17,47.1,30,1,46.7,37.5,5,60.0,48.6,12,0,0.0,0,12.5,f6798fc3,Yassine Bounou,,True
+Getafe,Huesca,1611165600,es ESP,22-282,90,5,1,4,80.0,0.5,5,13,38.5,31,7,35.5,35.6,7,28.6,32.3,20,1,5.0,2,17.5,f127d782,Álvaro Fernández,,True
+Real Betis,Celta Vigo,1611172800,es ESP,25-179,90,4,2,2,50.0,1.5,1,4,25.0,36,2,11.1,24.8,8,0.0,19.8,10,0,0.0,0,9.5,967f34d3,Rubén Blanco,,True
+Villarreal,Granada,1611174600,pt POR,26-348,90,3,2,0,66.7,2.7,7,21,33.3,22,0,72.7,51.0,6,83.3,57.2,4,0,0.0,3,29.0,ea83bfa6,Rui Silva,,True
+Valencia,Osasuna,1611252000,es ESP,27-230,90,3,1,3,66.7,0.5,10,24,41.7,26,2,57.7,40.6,9,100.0,63.0,26,1,3.8,1,11.4,a4995f48,Sergio Herrera,,True
+Eibar,Atlético Madrid,1611261000,si SVN,28-014,90,2,1,1,100.0,1.1,7,15,46.7,22,7,40.9,32.9,12,50.0,40.8,20,0,0.0,0,14.5,ee8508c0,Jan Oblak,,True
+Levante,Valladolid,1611345600,es ESP,32-019,90,3,2,1,33.3,1.3,4,20,20.0,21,5,66.7,44.5,7,85.7,58.7,19,0,0.0,0,,8fae77ea,Jordi Masip,,True
+Huesca,Villarreal,1611406800,es ESP,31-209,90,1,0,1,100.0,0.1,1,7,14.3,20,5,30.0,28.6,4,25.0,22.8,15,0,0.0,0,,9f0ea33f,Sergio Asenjo,,True
+Sevilla,Cádiz,1611414900,ar ARG,27-345,90,7,3,4,57.1,2.6,12,25,48.0,13,1,84.6,58.7,14,100.0,66.9,16,0,0.0,1,11.3,6c4776b1,Jeremías Ledesma,,True
+Real Sociedad,Real Betis,1611423000,es ESP,30-220,90,5,2,3,60.0,1.1,7,22,31.8,27,4,66.7,47.7,5,80.0,49.4,13,0,0.0,2,17.6,cda0b317,Joel Robles,,True
+Alavés,Real Madrid,1611432000,be BEL,28-257,90,4,1,3,75.0,0.7,3,8,37.5,33,8,12.1,24.8,6,66.7,46.3,17,1,5.9,0,5.5,1840e36d,Thibaut Courtois,,True
+Osasuna,Granada,1611493200,pt POR,26-352,90,4,3,1,25.0,1.8,5,23,21.7,29,2,62.1,46.7,5,100.0,67.2,12,0,0.0,4,28.6,ea83bfa6,Rui Silva,,True
+Elche,Barcelona,1611501300,de GER,28-269,90,2,0,2,100.0,0.6,0,0,,23,2,0.0,18.7,3,0.0,26.7,3,1,33.3,0,13.0,6f51e382,Marc-André ter Stegen,,True
+Celta Vigo,Eibar,1611509400,rs SRB,29-000,90,4,1,3,75.0,1.3,8,23,34.8,29,2,65.5,49.4,4,100.0,70.8,8,0,0.0,4,24.8,ac295d9e,Marko Dmitrović,,True
+Atlético Madrid,Valencia,1611518400,es ESP,30-080,90,5,3,2,40.0,2.9,11,18,61.1,21,0,71.4,45.4,9,33.3,35.1,13,0,0.0,1,19.5,c9cb972b,Jaume Doménech,,True
+Athletic Club,Getafe,1611604800,es ESP,27-105,90,8,5,3,37.5,3.2,7,19,36.8,19,4,63.2,41.4,7,100.0,62.0,13,0,0.0,0,17.3,039ae103,Rubén Yáñez,,True
+Valladolid,Huesca,1611950400,es ESP,22-291,90,4,1,3,75.0,1.0,8,18,44.4,34,4,29.4,33.9,12,66.7,50.6,23,1,4.3,0,4.3,f127d782,Álvaro Fernández,,True
+Eibar,Sevilla,1612011600,ma MAR,29-300,90,6,0,6,100.0,0.9,14,23,60.9,35,7,40.0,35.1,12,75.0,49.4,22,0,0.0,0,7.5,f6798fc3,Yassine Bounou,,True
+Real Madrid,Levante,1612019700,es ESP,29-272,90,2,1,1,50.0,1.6,2,8,25.0,19,5,31.6,29.9,5,40.0,33.8,9,0,0.0,0,7.5,a01c3d54,Aitor Fernández,,True
+Valencia,Elche,1612027800,es ESP,28-353,90,3,1,1,66.7,1.8,3,8,37.5,26,1,19.2,29.0,8,37.5,28.6,10,0,0.0,1,19.2,e4346678,Édgar Badía,,True
+Villarreal,Real Sociedad,1612036800,es ESP,25-312,90,2,1,1,50.0,0.5,0,2,0.0,34,2,5.9,23.5,2,0.0,16.5,5,0,0.0,4,28.0,374ee424,Álex Remiro,,True
+Getafe,Alavés,1612098000,es ESP,28-258,90,0,0,0,,0.0,10,23,43.5,21,2,76.2,54.3,7,100.0,70.1,21,2,9.5,3,13.7,97852360,Fernando Pacheco,,True
+Cádiz,Atlético Madrid,1612106100,si SVN,28-024,90,6,2,4,66.7,2.1,4,11,36.4,14,3,35.7,34.6,6,100.0,60.5,24,3,12.5,0,3.7,ee8508c0,Jan Oblak,,True
+Granada,Celta Vigo,1612114200,es ESP,25-190,90,5,0,5,100.0,0.6,10,21,47.6,28,1,42.9,35.9,10,90.0,56.0,7,0,0.0,0,9.0,967f34d3,Rubén Blanco,,True
+Barcelona,Athletic Club,1612123200,es ESP,23-234,90,6,2,4,66.7,3.0,3,7,42.9,19,6,26.3,33.4,5,40.0,39.6,9,0,0.0,0,13.0,5dcf3e90,Unai Simón,,True
+Real Betis,Osasuna,1612209600,es ESP,27-241,90,3,1,2,66.7,1.1,9,23,39.1,20,1,80.0,44.9,8,87.5,51.9,14,2,14.3,2,23.3,a4995f48,Sergio Herrera,,True
+Alavés,Valladolid,1612555200,es ESP,32-033,90,5,1,4,80.0,1.0,10,23,43.5,21,5,61.9,41.8,12,83.3,55.8,23,0,0.0,2,26.7,8fae77ea,Jordi Masip,,True
+Levante,Granada,1612616400,pt POR,26-365,90,7,2,5,71.4,2.2,4,20,20.0,26,2,57.7,41.7,9,55.6,49.0,16,2,12.5,2,16.2,ea83bfa6,Rui Silva,,True
+Huesca,Real Madrid,1612624500,be BEL,28-271,90,2,1,1,50.0,1.0,4,9,44.4,24,3,25.0,30.4,10,30.0,35.9,12,1,8.3,2,16.0,1840e36d,Thibaut Courtois,,True
+Elche,Villarreal,1612632600,es ESP,31-223,90,2,2,0,0.0,1.3,4,5,80.0,39,10,7.7,25.7,7,28.6,34.7,27,2,7.4,0,3.5,9f0ea33f,Sergio Asenjo,,True
+Sevilla,Getafe,1612641600,es ESP,27-117,90,5,3,2,40.0,2.5,13,26,50.0,18,2,66.7,49.1,16,87.5,59.4,14,1,7.1,0,8.8,039ae103,Rubén Yáñez,,True
+Real Sociedad,Cádiz,1612702800,ar ARG,27-360,90,6,4,2,50.0,4.1,6,17,35.3,17,3,52.9,42.5,9,88.9,65.6,8,0,0.0,2,16.0,6c4776b1,Jeremías Ledesma,,True
+Athletic Club,Valencia,1612710900,es ESP,30-094,90,2,1,2,50.0,0.3,10,19,52.6,24,2,45.8,38.8,10,80.0,55.3,22,0,0.0,0,6.5,c9cb972b,Jaume Doménech,,True
+Osasuna,Eibar,1612719000,rs SRB,29-014,90,4,2,2,50.0,1.8,9,26,34.6,23,2,73.9,49.7,9,100.0,75.2,15,0,0.0,0,12.4,ac295d9e,Marko Dmitrović,,True
+Real Betis,Barcelona,1612728000,de GER,28-283,90,5,2,3,60.0,2.2,1,5,20.0,38,8,13.2,25.8,4,0.0,19.0,8,0,0.0,1,13.7,6f51e382,Marc-André ter Stegen,,True
+Atlético Madrid,Celta Vigo,1612814400,es ESP,25-198,90,2,2,0,0.0,1.3,3,11,27.3,24,8,33.3,29.9,9,33.3,35.6,9,0,0.0,0,,967f34d3,Rubén Blanco,,True
+Real Madrid,Getafe,1612900800,es ESP,27-311,90,4,2,2,50.0,1.5,14,27,51.9,26,0,73.1,46.8,9,88.9,53.9,15,0,0.0,3,25.3,8f8c6934,David Soria,,True
+Celta Vigo,Elche,1613160000,es ESP,29-000,90,6,3,3,50.0,2.6,10,17,58.8,27,3,51.9,37.6,3,100.0,63.7,9,0,0.0,2,21.0,e4346678,Édgar Badía,,True
+Granada,Atlético Madrid,1613221200,si SVN,28-037,90,1,1,0,0.0,0.4,4,13,30.8,13,1,46.2,41.5,9,77.8,55.0,15,0,0.0,1,12.3,ee8508c0,Jan Oblak,,True
+Sevilla,Huesca,1613229300,es ESP,22-306,90,4,1,3,75.0,1.1,5,20,25.0,32,7,53.1,39.8,9,33.3,37.9,12,2,16.7,4,19.7,f127d782,Álvaro Fernández,,True
+Eibar,Valladolid,1613237400,es ESP,32-041,90,2,1,1,50.0,0.9,7,32,21.9,27,2,74.1,50.6,12,100.0,69.1,32,0,0.0,0,12.5,8fae77ea,Jordi Masip,,True
+Barcelona,Alavés,1613246400,es ESP,28-271,90,9,5,4,44.4,3.1,7,10,70.0,21,4,42.9,37.8,5,20.0,26.4,5,0,0.0,1,17.8,97852360,Fernando Pacheco,,True
+Getafe,Real Sociedad,1613307600,es ESP,25-327,90,0,0,0,,0.0,7,18,38.9,29,5,58.6,46.9,1,100.0,66.0,8,1,12.5,3,22.4,374ee424,Álex Remiro,,True
+Real Madrid,Valencia,1613315700,es ESP,30-101,90,7,2,5,71.4,0.9,8,12,66.7,28,9,28.6,31.4,5,80.0,55.4,7,2,28.6,1,11.3,c9cb972b,Jaume Doménech,,True
+Levante,Osasuna,1613323800,es ESP,27-254,90,4,0,3,100.0,1.4,11,24,45.8,19,1,84.2,51.4,8,100.0,64.0,12,1,8.3,0,15.0,a4995f48,Sergio Herrera,,True
+Villarreal,Real Betis,1613332800,es ESP,30-242,90,5,1,4,100.0,1.3,5,18,27.8,28,10,46.4,39.6,5,100.0,57.4,26,4,15.4,3,14.4,cda0b317,Joel Robles,,True
+Cádiz,Athletic Club,1613419200,es ESP,23-249,90,2,0,2,100.0,0.1,5,10,50.0,14,6,28.6,29.7,9,66.7,50.7,19,1,5.3,1,11.3,5dcf3e90,Unai Simón,,True
+Levante,Atlético Madrid,1613584800,si SVN,28-041,90,4,1,3,75.0,0.8,7,15,46.7,25,6,44.0,34.5,5,80.0,52.6,7,0,0.0,4,25.8,ee8508c0,Jan Oblak,,True
+Real Betis,Getafe,1613764800,es ESP,27-321,90,5,1,3,100.0,2.7,5,23,21.7,22,3,77.3,47.6,7,85.7,48.6,7,1,14.3,2,14.2,8f8c6934,David Soria,,True
+Elche,Eibar,1613826000,rs SRB,29-027,90,2,1,1,50.0,0.6,4,17,23.5,24,3,37.5,34.0,8,100.0,71.5,5,0,0.0,1,22.5,ac295d9e,Marko Dmitrović,,True
+Atlético Madrid,Levante,1613834100,es ESP,23-329,90,10,0,10,100.0,1.7,4,11,36.4,17,6,41.2,31.9,10,40.0,34.4,26,0,0.0,1,26.0,e1846dde,Cárdenas,,True
+Valencia,Celta Vigo,1613842200,es ESP,25-210,63,,,,,0.0,7,16,43.8,23,2,52.2,38.7,6,66.7,52.7,8,,,1,20.0,967f34d3,Rubén Blanco,,True
+Valencia,Celta Vigo,1613842200,es ESP,23-226,25,3,2,1,33.3,1.5,1,7,14.3,7,3,57.1,47.1,3,100.0,55.3,12,1,8.3,0,7.0,cde52ef5,Iván Villar,,True
+Valladolid,Real Madrid,1613851200,be BEL,28-285,90,5,0,5,100.0,0.9,2,9,22.2,26,6,26.9,35.3,4,50.0,47.3,14,0,0.0,2,26.0,1840e36d,Thibaut Courtois,,True
+Barcelona,Cádiz,1613912400,ar ARG,28-008,90,4,1,3,100.0,1.3,9,33,27.3,18,0,100.0,59.3,15,100.0,67.9,10,0,0.0,0,4.3,6c4776b1,Jeremías Ledesma,,True
+Real Sociedad,Alavés,1613920500,es ESP,28-279,90,4,4,0,0.0,3.3,8,10,80.0,15,2,53.3,37.7,2,100.0,57.5,12,0,0.0,2,21.0,97852360,Fernando Pacheco,,True
+Huesca,Granada,1613928600,pt POR,27-014,90,6,3,4,50.0,2.2,8,24,33.3,24,3,62.5,48.1,9,100.0,64.0,17,0,0.0,3,28.3,ea83bfa6,Rui Silva,,True
+Athletic Club,Villarreal,1613937600,es ESP,31-238,90,8,1,7,87.5,1.9,5,14,35.7,40,8,22.5,30.4,9,55.6,44.4,20,1,5.0,2,17.0,9f0ea33f,Sergio Asenjo,,True
+Osasuna,Sevilla,1614024000,ma MAR,29-323,90,0,0,0,,0.0,5,19,26.3,41,6,29.3,33.1,10,70.0,44.4,20,2,10.0,0,7.3,f6798fc3,Yassine Bounou,,True
+Barcelona,Elche,1614189600,es ESP,29-012,90,5,3,2,40.0,2.9,6,13,46.2,31,4,32.3,30.1,6,50.0,38.5,5,0,0.0,0,8.7,e4346678,Édgar Badía,,True
+Levante,Athletic Club,1614369600,es ESP,23-260,90,4,1,3,100.0,1.2,2,3,66.7,24,7,8.3,25.5,4,25.0,37.5,7,0,0.0,2,23.3,5dcf3e90,Unai Simón,,True
+Eibar,Huesca,1614430800,es ESP,22-320,90,3,1,2,66.7,0.9,9,23,39.1,33,4,51.5,39.9,15,40.0,39.5,22,1,4.5,0,12.5,f127d782,Álvaro Fernández,,True
+Sevilla,Barcelona,1614438900,de GER,28-303,90,2,0,2,100.0,0.4,2,8,25.0,41,6,12.2,25.7,7,42.9,39.3,7,0,0.0,2,22.3,6f51e382,Marc-André ter Stegen,,True
+Alavés,Osasuna,1614447000,es ESP,27-267,90,1,0,1,100.0,0.2,12,27,44.4,30,1,80.0,47.4,3,100.0,61.3,11,1,9.1,3,21.0,a4995f48,Sergio Herrera,,True
+Getafe,Valencia,1614456000,nl NED,31-311,90,4,3,1,25.0,1.2,10,25,40.0,25,6,60.0,44.0,10,100.0,61.8,16,1,6.3,1,19.0,04ac8285,Jasper Cillessen,,True
+Celta Vigo,Valladolid,1614517200,es ESP,35-018,90,2,1,1,50.0,0.8,8,22,36.4,28,3,71.4,47.8,4,50.0,39.8,12,0,0.0,0,12.0,ba3ca78f,Roberto,,True
+Cádiz,Real Betis,1614525300,es ESP,30-256,90,3,0,3,100.0,0.5,0,4,0.0,22,7,18.2,25.7,1,0.0,9.0,11,1,9.1,3,21.2,cda0b317,Joel Robles,,True
+Granada,Elche,1614533400,es ESP,29-016,90,4,2,2,50.0,1.3,8,24,33.3,23,2,65.2,41.3,11,81.8,50.2,14,0,0.0,0,19.0,e4346678,Édgar Badía,,True
+Villarreal,Atlético Madrid,1614542400,si SVN,28-052,90,6,0,6,100.0,1.3,7,24,29.2,22,3,81.8,52.6,6,100.0,58.8,20,2,10.0,0,4.0,ee8508c0,Jan Oblak,,True
+Real Madrid,Real Sociedad,1614628800,es ESP,25-342,90,2,1,1,50.0,0.7,9,22,40.9,21,1,42.9,38.9,13,100.0,66.8,20,0,0.0,0,,374ee424,Álex Remiro,,True
+Valencia,Villarreal,1614974400,es ESP,31-250,90,4,2,2,75.0,2.1,6,22,27.3,19,2,63.2,44.3,16,62.5,47.3,19,0,0.0,1,12.5,9f0ea33f,Sergio Asenjo,,True
+Valladolid,Getafe,1615035600,es ESP,27-336,90,3,2,1,33.3,2.3,11,25,44.0,22,0,95.5,55.2,4,100.0,62.0,10,0,0.0,1,14.0,8f8c6934,David Soria,,True
+Elche,Sevilla,1615043700,cz CZE,31-342,90,3,2,1,33.3,2.1,2,4,50.0,16,2,18.8,24.2,7,14.3,24.9,18,0,0.0,0,12.0,7b456af7,Tomáš Vaclík,,True
+Cádiz,Eibar,1615051800,rs SRB,29-041,90,2,1,1,50.0,0.8,3,8,37.5,14,3,28.6,30.6,9,44.4,37.1,8,0,0.0,1,18.0,ac295d9e,Marko Dmitrović,,True
+Osasuna,Barcelona,1615060800,de GER,28-310,90,3,0,3,100.0,0.4,2,4,50.0,29,6,10.3,22.9,7,14.3,21.3,20,1,5.0,1,12.0,6f51e382,Marc-André ter Stegen,,True
+Huesca,Celta Vigo,1615122000,es ESP,25-225,44,2,2,,0.0,1.0,2,6,33.3,13,4,23.1,27.5,4,75.0,51.5,9,1,11.1,1,14.0,967f34d3,Rubén Blanco,,True
+Huesca,Celta Vigo,1615122000,es ESP,23-241,46,3,1,2,66.7,0.8,3,16,18.8,18,5,44.4,36.9,8,100.0,68.5,15,0,0.0,0,12.0,cde52ef5,Iván Villar,,True
+Atlético Madrid,Real Madrid,1615130100,be BEL,28-300,90,5,1,4,80.0,1.6,0,4,0.0,29,8,10.3,25.0,7,14.3,29.0,5,0,0.0,3,28.0,1840e36d,Thibaut Courtois,,True
+Real Sociedad,Levante,1615138200,es ESP,23-344,90,7,1,6,85.7,3.2,8,18,44.4,29,7,37.9,32.5,13,53.8,42.8,18,0,0.0,1,13.0,e1846dde,Cárdenas,,True
+Athletic Club,Granada,1615147200,pt POR,27-028,90,5,2,2,60.0,2.0,12,19,63.2,18,2,72.2,43.0,8,75.0,46.0,17,0,0.0,1,26.5,ea83bfa6,Rui Silva,,True
+Real Betis,Alavés,1615233600,es ESP,28-294,90,7,3,4,71.4,2.7,10,21,47.6,19,2,73.7,48.6,10,70.0,43.8,23,0,0.0,0,,97852360,Fernando Pacheco,,True
+Atlético Madrid,Athletic Club,1615399200,es ESP,23-272,90,5,2,3,80.0,1.6,1,6,16.7,18,7,27.8,34.2,5,20.0,31.0,9,0,0.0,1,21.5,5dcf3e90,Unai Simón,,True
+Levante,Valencia,1615579200,nl NED,31-324,90,3,1,2,66.7,0.3,3,11,27.3,24,5,37.5,31.7,9,22.2,31.1,11,1,9.1,5,23.7,04ac8285,Jasper Cillessen,,True
+Alavés,Cádiz,1615640400,ar ARG,28-028,90,2,1,1,100.0,1.1,15,36,41.7,38,3,78.9,49.9,6,100.0,66.8,12,1,8.3,1,11.5,6c4776b1,Jeremías Ledesma,,True
+Real Madrid,Elche,1615648500,es ESP,29-029,90,4,2,2,50.0,1.3,15,27,55.6,23,2,56.5,40.6,16,87.5,56.8,17,0,0.0,2,17.2,e4346678,Édgar Badía,,True
+Osasuna,Valladolid,1615656600,es ESP,35-031,90,2,0,2,100.0,0.4,8,25,32.0,15,3,80.0,48.9,13,100.0,63.2,18,0,0.0,0,5.5,ba3ca78f,Roberto,,True
+Getafe,Atlético Madrid,1615665600,si SVN,28-065,90,2,0,2,100.0,0.1,5,10,50.0,22,6,36.4,31.9,12,16.7,31.0,13,0,0.0,2,15.8,ee8508c0,Jan Oblak,,True
+Celta Vigo,Athletic Club,1615726800,es ESP,23-276,90,3,0,3,100.0,0.8,6,10,60.0,18,10,27.8,33.6,6,83.3,56.2,15,1,6.7,0,9.0,5dcf3e90,Unai Simón,,True
+Granada,Real Sociedad,1615734900,es ESP,25-355,90,2,1,1,50.0,0.2,4,11,36.4,26,4,23.1,30.7,6,83.3,69.3,6,0,0.0,7,35.1,374ee424,Álex Remiro,,True
+Eibar,Villarreal,1615743000,es ESP,31-259,90,7,1,5,85.7,1.5,7,26,26.9,34,7,52.9,40.6,10,80.0,56.3,34,1,2.9,0,4.5,9f0ea33f,Sergio Asenjo,,True
+Sevilla,Real Betis,1615752000,es ESP,30-270,90,3,1,2,66.7,0.3,4,21,19.0,27,3,59.3,39.4,6,83.3,53.2,5,0,0.0,1,21.0,cda0b317,Joel Robles,,True
+Barcelona,Huesca,1615838400,es ESP,22-336,90,5,4,1,20.0,1.8,1,5,20.0,15,1,20.0,27.9,4,50.0,35.8,9,0,0.0,3,15.7,f127d782,Álvaro Fernández,,True
+Sevilla,Elche,1616004000,es ESP,29-033,90,8,2,6,75.0,1.9,11,18,61.1,23,5,52.2,39.2,8,75.0,55.6,13,0,0.0,1,35.0,e4346678,Édgar Badía,,True
+Real Betis,Levante,1616184000,es ESP,29-320,90,6,2,4,66.7,1.7,2,6,33.3,34,8,17.6,28.2,7,0.0,16.0,9,1,11.1,2,12.0,a01c3d54,Aitor Fernández,,True
+Athletic Club,Eibar,1616245200,rs SRB,29-055,90,4,1,3,75.0,1.0,10,26,38.5,22,2,77.3,50.5,9,100.0,72.3,18,1,5.6,1,13.5,ac295d9e,Marko Dmitrović,,True
+Celta Vigo,Real Madrid,1616253300,be BEL,28-313,90,3,1,2,66.7,0.6,3,14,21.4,37,7,29.7,35.4,6,50.0,42.3,7,0,0.0,1,19.0,1840e36d,Thibaut Courtois,,True
+Huesca,Osasuna,1616261400,es ESP,24-248,90,3,0,3,100.0,0.2,2,20,10.0,13,2,46.2,41.5,14,100.0,61.8,22,0,0.0,1,10.8,8f29e08b,Juan Pérez,,True
+Valladolid,Sevilla,1616270400,ma MAR,29-349,90,2,1,1,100.0,1.0,6,10,60.0,30,4,23.3,32.5,4,75.0,44.0,11,1,9.1,5,27.8,f6798fc3,Yassine Bounou,,True
+Getafe,Elche,1616331600,es ESP,29-037,90,5,1,3,80.0,2.8,15,28,53.6,27,6,74.1,46.2,9,88.9,57.7,17,2,11.8,0,4.7,e4346678,Édgar Badía,,True
+Valencia,Granada,1616339700,pt POR,27-042,90,8,2,6,75.0,1.9,13,26,50.0,31,5,61.3,42.6,7,100.0,63.4,13,0,0.0,3,16.5,ea83bfa6,Rui Silva,,True
+Villarreal,Cádiz,1616339700,ar ARG,28-036,90,4,2,2,75.0,2.4,8,22,36.4,18,2,77.8,50.7,9,88.9,61.2,13,0,0.0,0,5.0,6c4776b1,Jeremías Ledesma,,True
+Atlético Madrid,Alavés,1616347800,es ESP,28-307,90,4,1,3,75.0,1.2,8,20,40.0,24,4,66.7,43.8,7,57.1,45.4,14,0,0.0,0,4.0,97852360,Fernando Pacheco,,True
+Real Sociedad,Barcelona,1616356800,de GER,28-325,90,5,1,4,80.0,1.2,2,12,16.7,51,3,21.6,28.2,1,100.0,46.0,2,0,0.0,2,23.3,6f51e382,Marc-André ter Stegen,,True
+Levante,Huesca,1617390000,es ESP,34-106,90,3,0,3,100.0,0.8,9,25,36.0,32,5,53.1,39.2,14,57.1,46.1,29,0,0.0,1,17.0,307fcd26,Andrés Fernández,,True
+Granada,Villarreal,1617451200,es ESP,31-279,90,2,0,2,100.0,0.9,3,9,33.3,36,5,13.9,24.6,8,50.0,41.4,17,2,11.8,1,9.3,9f0ea33f,Sergio Asenjo,,True
+Real Madrid,Eibar,1617459300,rs SRB,29-069,90,8,2,6,75.0,1.8,10,25,40.0,31,8,61.3,50.2,8,75.0,59.6,13,0,0.0,0,,ac295d9e,Marko Dmitrović,,True
+Osasuna,Getafe,1617467400,es ESP,27-364,90,1,0,1,100.0,0.1,11,36,30.6,29,0,96.6,54.6,8,100.0,57.6,13,0,0.0,1,17.0,8f8c6934,David Soria,,True
+Alavés,Celta Vigo,1617537600,es ESP,23-269,90,7,1,6,85.7,2.1,3,28,10.7,32,2,65.6,48.1,8,87.5,65.5,26,1,3.8,3,14.6,cde52ef5,Iván Villar,,True
+Elche,Real Betis,1617545700,cl CHI,37-356,90,3,1,2,66.7,0.9,4,10,40.0,23,6,34.8,32.2,4,50.0,49.3,20,2,10.0,1,11.7,10072610,Claudio Bravo,,True
+Cádiz,Valencia,1617553800,es ESP,30-150,90,2,2,0,0.0,0.6,1,3,33.3,16,2,12.5,22.4,7,14.3,26.0,20,1,5.0,2,16.6,c9cb972b,Jaume Doménech,,True
+Sevilla,Atlético Madrid,1617562800,si SVN,28-087,90,5,1,3,80.0,1.4,7,17,41.2,20,5,45.0,41.0,12,66.7,48.3,15,0,0.0,0,20.0,ee8508c0,Jan Oblak,,True
+Barcelona,Valladolid,1617649200,es ESP,32-092,90,10,1,9,90.0,2.4,7,28,25.0,30,6,70.0,49.0,7,100.0,77.7,8,1,12.5,0,5.5,8fae77ea,Jordi Masip,,True
+Real Sociedad,Athletic Club,1617822000,es ESP,23-300,90,2,1,1,50.0,1.0,5,10,50.0,15,4,40.0,32.7,9,44.4,34.8,9,1,11.1,3,20.8,5dcf3e90,Unai Simón,,True
+Huesca,Elche,1617994800,es ESP,29-056,90,5,3,2,60.0,2.1,0,2,0.0,24,4,8.3,25.5,4,0.0,26.0,13,0,0.0,2,13.5,e4346678,Édgar Badía,,True
+Getafe,Cádiz,1618056000,ar ARG,28-056,90,3,0,3,100.0,0.7,10,32,31.3,27,4,81.5,53.0,10,100.0,70.3,31,1,3.2,0,7.0,6c4776b1,Jeremías Ledesma,,True
+Athletic Club,Alavés,1618064100,es ESP,28-327,90,4,0,4,100.0,2.6,7,17,41.2,29,7,41.4,34.0,10,50.0,38.3,11,1,9.1,1,14.0,97852360,Fernando Pacheco,,True
+Eibar,Levante,1618072200,es ESP,29-342,90,4,0,4,100.0,0.5,3,17,17.6,33,6,42.4,40.0,10,30.0,30.2,23,1,4.3,1,12.2,a01c3d54,Aitor Fernández,,True
+Real Madrid,Barcelona,1618081200,de GER,28-345,90,3,2,1,33.3,0.6,2,2,100.0,24,4,4.2,20.9,9,11.1,24.4,8,0,0.0,5,20.6,6f51e382,Marc-André ter Stegen,,True
+Villarreal,Osasuna,1618142400,es ESP,27-310,90,6,1,6,83.3,2.1,15,29,51.7,19,1,89.5,53.2,12,100.0,65.0,21,3,14.3,3,16.5,a4995f48,Sergio Herrera,,True
+Valencia,Real Sociedad,1618150500,es ESP,26-018,90,2,2,0,50.0,1.4,8,21,38.1,27,4,48.1,40.9,8,100.0,66.1,12,1,8.3,1,15.3,374ee424,Álex Remiro,,True
+Valladolid,Granada,1618158600,pt POR,27-063,90,3,1,2,100.0,1.4,4,20,20.0,24,2,50.0,39.0,9,88.9,58.3,11,1,9.1,1,15.4,ea83bfa6,Rui Silva,,True
+Real Betis,Atlético Madrid,1618167600,si SVN,28-094,90,4,1,3,75.0,1.3,4,11,36.4,18,3,50.0,36.4,5,40.0,39.4,14,0,0.0,0,,ee8508c0,Jan Oblak,,True
+Celta Vigo,Sevilla,1618254000,ma MAR,30-007,90,5,3,2,60.0,2.7,6,13,46.2,30,6,30.0,29.9,5,80.0,52.2,14,2,14.3,0,6.3,f6798fc3,Yassine Bounou,,True
+Real Sociedad,Sevilla,1618747200,ma MAR,30-013,90,2,1,1,50.0,0.6,3,15,20.0,28,4,46.4,36.5,2,100.0,58.5,21,0,0.0,0,2.0,f6798fc3,Yassine Bounou,,True
+Osasuna,Elche,1618747200,ar ARG,29-106,90,3,2,2,33.3,0.9,11,18,61.1,21,2,57.1,42.2,7,85.7,62.1,11,0,0.0,1,27.0,63d17038,Paulo Gazzaniga,,True
+Atlético Madrid,Eibar,1618755300,rs SRB,29-084,90,7,5,2,28.6,3.0,7,27,25.9,28,2,75.0,51.4,6,100.0,73.0,11,3,27.3,3,16.2,ac295d9e,Marko Dmitrović,,True
+Alavés,Huesca,1618755300,es ESP,34-122,90,2,1,1,50.0,0.8,3,11,27.3,31,7,32.3,30.8,8,12.5,22.4,21,0,0.0,2,33.3,307fcd26,Andrés Fernández,,True
+Cádiz,Celta Vigo,1618763400,es ESP,23-283,90,2,0,2,100.0,0.4,1,3,33.3,19,5,15.8,21.7,4,0.0,22.3,10,0,0.0,3,23.6,cde52ef5,Iván Villar,,True
+Real Betis,Valencia,1618763400,es ESP,30-164,90,5,2,3,60.0,1.5,2,12,16.7,26,4,30.8,31.9,7,57.1,39.7,13,1,7.7,2,19.8,c9cb972b,Jaume Doménech,,True
+Levante,Villarreal,1618772400,es ESP,31-294,90,3,1,2,66.7,1.0,5,12,41.7,36,7,16.7,26.8,9,66.7,48.8,16,1,6.3,0,11.2,9f0ea33f,Sergio Asenjo,,True
+Getafe,Real Madrid,1618772400,be BEL,28-342,90,6,0,6,100.0,0.9,3,12,25.0,30,10,20.0,31.9,9,66.7,55.9,25,2,8.0,1,11.7,1840e36d,Thibaut Courtois,,True
+Osasuna,Valencia,1619024400,es ESP,30-167,90,9,3,5,77.8,3.4,6,12,50.0,24,5,37.5,30.9,8,37.5,28.8,18,0,0.0,0,7.0,c9cb972b,Jaume Doménech,,True
+Levante,Sevilla,1619024400,ma MAR,30-016,90,1,0,1,100.0,0.0,7,15,46.7,35,2,40.0,32.5,4,25.0,27.5,12,0,0.0,1,19.0,f6798fc3,Yassine Bounou,,True
+Real Betis,Athletic Club,1619028000,es ESP,23-314,90,2,0,2,100.0,0.2,0,0,,15,5,0.0,18.9,5,0.0,19.0,11,1,9.1,0,10.0,5dcf3e90,Unai Simón,,True
+Alavés,Villarreal,1619031600,ar ARG,28-336,90,4,2,2,50.0,1.6,5,6,83.3,39,9,15.4,24.2,6,0.0,23.0,13,0,0.0,0,15.0,625c144a,Gerónimo Rulli,,True
+Elche,Valladolid,1619031600,es ESP,32-108,90,3,1,2,66.7,1.7,10,25,40.0,31,5,67.7,48.5,5,80.0,57.4,11,0,0.0,0,12.0,8fae77ea,Jordi Masip,,True
+Cádiz,Real Madrid,1619035200,be BEL,28-345,90,3,0,3,100.0,0.2,0,2,0.0,25,9,8.0,26.5,6,0.0,21.8,19,3,15.8,0,9.2,1840e36d,Thibaut Courtois,,True
+Atlético Madrid,Huesca,1619110800,es ESP,23-009,90,12,2,10,83.3,3.0,3,5,60.0,32,10,15.6,26.5,9,0.0,16.7,12,0,0.0,1,10.7,f127d782,Álvaro Fernández,,True
+Real Sociedad,Celta Vigo,1619118000,es ESP,23-287,90,3,2,0,66.7,2.2,11,23,47.8,37,4,59.5,41.1,4,25.0,34.8,6,0,0.0,0,2.0,cde52ef5,Iván Villar,,True
+Granada,Eibar,1619118000,rs SRB,29-088,90,4,4,0,0.0,1.9,7,11,63.6,17,2,35.3,39.2,6,83.3,64.0,8,0,0.0,1,12.0,ac295d9e,Marko Dmitrović,,True
+Barcelona,Getafe,1619121600,es ESP,28-018,90,6,5,2,33.3,2.5,10,21,47.6,17,0,88.2,49.2,6,100.0,59.3,7,0,0.0,2,12.8,8f8c6934,David Soria,,True
+Elche,Levante,1619265600,es ESP,29-356,90,3,1,2,66.7,0.7,1,3,33.3,22,5,13.6,25.8,6,0.0,13.3,9,1,11.1,7,20.0,a01c3d54,Aitor Fernández,,True
+Valladolid,Cádiz,1619273700,ar ARG,28-070,90,6,1,5,83.3,3.0,14,27,51.9,24,2,70.8,49.8,11,90.9,67.9,17,4,23.5,2,10.8,6c4776b1,Jeremías Ledesma,,True
+Valencia,Alavés,1619281800,es ESP,28-341,90,2,1,1,50.0,0.8,6,19,31.6,23,1,56.5,40.4,7,85.7,52.9,16,0,0.0,0,19.0,97852360,Fernando Pacheco,,True
+Real Madrid,Real Betis,1619290800,cl CHI,38-011,90,5,0,5,100.0,0.9,6,16,37.5,29,8,37.9,33.9,8,62.5,43.8,27,1,3.7,0,5.0,10072610,Claudio Bravo,,True
+Huesca,Getafe,1619352000,es ESP,28-021,90,1,0,1,100.0,0.0,13,26,50.0,13,1,100.0,55.5,14,92.9,64.3,24,0,0.0,0,15.0,8f8c6934,David Soria,,True
+Villarreal,Barcelona,1619360100,de GER,28-360,90,4,1,3,75.0,0.5,3,8,37.5,38,4,18.4,29.4,6,16.7,28.5,8,0,0.0,0,6.5,6f51e382,Marc-André ter Stegen,,True
+Celta Vigo,Osasuna,1619368200,es ESP,27-324,90,2,2,0,0.0,1.2,10,21,47.6,32,3,59.4,40.8,3,66.7,53.3,8,0,0.0,0,13.0,a4995f48,Sergio Herrera,,True
+Sevilla,Granada,1619368200,pt POR,27-077,90,4,2,2,75.0,1.3,10,22,45.5,28,1,50.0,38.5,9,88.9,59.1,14,0,0.0,5,30.8,ea83bfa6,Rui Silva,,True
+Athletic Club,Atlético Madrid,1619377200,si SVN,28-108,90,3,2,1,33.3,1.3,3,14,21.4,19,2,52.6,35.8,6,66.7,47.2,10,0,0.0,1,14.0,ee8508c0,Jan Oblak,,True
+Eibar,Real Sociedad,1619463600,es ESP,26-033,90,5,0,5,100.0,0.7,6,23,26.1,46,6,43.5,36.9,9,33.3,35.7,19,1,5.3,0,11.2,374ee424,Álex Remiro,,True
+Athletic Club,Valladolid,1619629200,es ESP,32-115,90,7,2,5,71.4,1.8,3,21,14.3,23,3,56.5,40.1,10,80.0,53.5,12,0,0.0,0,,8fae77ea,Jordi Masip,,True
+Barcelona,Granada,1619715600,es ESP,25-214,90,4,1,3,75.0,1.9,5,22,22.7,21,3,66.7,45.0,8,100.0,66.9,17,2,11.8,0,8.3,67669ce7,Aarón Escandell,,True
+Celta Vigo,Levante,1619809200,es ESP,24-033,90,5,2,3,60.0,1.7,6,12,50.0,22,1,50.0,40.0,3,33.3,35.3,7,0,0.0,0,8.7,e1846dde,Cárdenas,,True
+Eibar,Alavés,1619870400,es ESP,28-348,90,4,3,1,25.0,2.5,7,19,36.8,25,2,60.0,42.5,9,44.4,38.9,22,0,0.0,0,9.5,97852360,Fernando Pacheco,,True
+Elche,Atlético Madrid,1619878500,si SVN,28-114,90,1,0,1,100.0,0.5,4,16,25.0,15,1,73.3,51.0,6,83.3,61.5,11,1,9.1,0,9.0,ee8508c0,Jan Oblak,,True
+Huesca,Real Sociedad,1619886600,es ESP,26-038,90,3,1,3,66.7,0.5,7,17,41.2,29,5,34.5,32.0,10,70.0,53.2,14,0,0.0,0,14.0,374ee424,Álex Remiro,,True
+Real Madrid,Osasuna,1619895600,es ESP,27-330,90,6,2,4,66.7,1.6,10,30,33.3,25,4,68.0,45.9,14,92.9,61.7,17,1,5.9,1,14.0,a4995f48,Sergio Herrera,,True
+Valladolid,Real Betis,1619956800,cl CHI,38-019,90,2,1,1,50.0,0.8,2,9,22.2,15,1,26.7,31.4,7,71.4,47.0,16,0,0.0,2,21.0,10072610,Claudio Bravo,,True
+Villarreal,Getafe,1619964900,es ESP,28-028,90,3,1,2,66.7,0.3,7,20,35.0,17,1,82.4,48.5,6,100.0,59.3,7,0,0.0,4,26.8,8f8c6934,David Soria,,True
+Granada,Cádiz,1619973000,ar ARG,28-078,90,2,0,2,100.0,0.5,12,36,33.3,28,2,89.3,56.1,11,100.0,78.4,14,1,7.1,1,12.0,6c4776b1,Jeremías Ledesma,,True
+Valencia,Barcelona,1619982000,de GER,29-002,90,4,2,2,50.0,1.5,3,8,37.5,23,7,21.7,29.3,4,75.0,43.0,5,0,0.0,1,32.0,6f51e382,Marc-André ter Stegen,,True
+Sevilla,Athletic Club,1620068400,es ESP,23-326,90,3,0,3,100.0,0.6,5,14,35.7,16,2,43.8,39.1,14,50.0,44.9,26,0,0.0,0,10.0,5dcf3e90,Unai Simón,,True
+Real Sociedad,Elche,1620414000,ar ARG,29-125,90,3,2,1,33.3,0.7,9,35,25.7,21,0,90.5,60.7,17,94.1,68.4,14,0,0.0,0,3.0,63d17038,Paulo Gazzaniga,,True
+Alavés,Levante,1620475200,es ESP,24-041,90,5,2,3,60.0,0.7,5,20,25.0,36,7,41.7,38.3,7,71.4,53.7,22,0,0.0,1,13.3,e1846dde,Cárdenas,,True
+Barcelona,Atlético Madrid,1620483300,si SVN,28-121,90,7,0,7,100.0,2.0,6,10,60.0,18,8,44.4,35.2,4,50.0,45.5,13,1,7.7,0,8.5,ee8508c0,Jan Oblak,,True
+Cádiz,Huesca,1620491400,es ESP,23-025,90,1,2,0,-100.0,0.3,1,2,50.0,12,5,8.3,25.3,13,7.7,28.9,17,0,0.0,1,30.0,f127d782,Álvaro Fernández,,True
+Athletic Club,Osasuna,1620500400,es ESP,27-337,90,3,2,1,33.3,0.5,10,29,34.5,32,4,59.4,43.0,11,90.9,59.1,21,1,4.8,3,18.8,a4995f48,Sergio Herrera,,True
+Getafe,Eibar,1620561600,rs SRB,29-105,90,2,0,2,100.0,0.6,12,30,40.0,28,3,78.6,54.9,8,100.0,73.6,13,0,0.0,2,31.5,ac295d9e,Marko Dmitrović,,True
+Valencia,Valladolid,1620569700,es ESP,32-126,90,3,3,0,0.0,1.9,1,8,12.5,19,4,36.8,36.6,4,25.0,32.0,4,0,0.0,0,16.0,8fae77ea,Jordi Masip,,True
+Villarreal,Celta Vigo,1620577800,es ESP,23-304,90,7,2,5,85.7,1.9,8,31,25.8,22,0,90.9,55.9,11,100.0,68.3,16,0,0.0,0,5.0,cde52ef5,Iván Villar,,True
+Real Madrid,Sevilla,1620586800,ma MAR,30-034,90,7,2,5,71.4,0.6,5,12,41.7,26,4,26.9,32.6,11,45.5,41.7,18,2,11.1,0,8.0,f6798fc3,Yassine Bounou,,True
+Real Betis,Granada,1620673200,es ESP,25-225,90,5,2,3,60.0,2.1,6,22,27.3,25,1,80.0,48.2,3,66.7,47.0,8,0,0.0,0,8.0,67669ce7,Aarón Escandell,,True
+Osasuna,Cádiz,1620752400,es ESP,27-120,90,4,3,1,50.0,2.2,10,26,38.5,19,0,94.7,58.1,8,100.0,65.1,12,0,0.0,0,16.0,fea23125,David Gil,,True
+Elche,Alavés,1620756000,es ESP,28-358,90,3,0,3,100.0,0.9,7,20,35.0,24,5,45.8,38.3,9,100.0,66.2,28,1,3.6,0,3.5,97852360,Fernando Pacheco,,True
+Levante,Barcelona,1620763200,de GER,29-011,90,6,3,3,50.0,1.9,1,7,14.3,23,5,26.1,32.3,3,33.3,35.7,17,1,5.9,0,11.5,6f51e382,Marc-André ter Stegen,,True
+Sevilla,Valencia,1620838800,nl NED,32-020,90,4,1,3,75.0,1.0,8,17,47.1,24,4,45.8,39.8,10,60.0,50.4,12,0,0.0,2,21.5,04ac8285,Jasper Cillessen,,True
+Huesca,Athletic Club,1620842400,es ESP,23-335,90,6,1,5,83.3,1.0,12,23,52.2,28,10,28.6,33.1,17,88.2,56.6,19,0,0.0,3,22.3,5dcf3e90,Unai Simón,,True
+Celta Vigo,Getafe,1620842400,es ESP,28-038,90,1,1,0,0.0,0.2,12,21,57.1,23,0,87.0,52.0,2,50.0,42.5,6,0,0.0,2,33.0,8f8c6934,David Soria,,True
+Atlético Madrid,Real Sociedad,1620849600,es ESP,26-049,90,4,2,2,50.0,1.6,4,9,44.4,36,4,22.2,26.8,10,10.0,19.3,2,0,0.0,2,17.0,374ee424,Álex Remiro,,True
+Valladolid,Villarreal,1620925200,es ESP,31-319,90,2,0,2,100.0,0.6,4,13,30.8,27,7,14.8,24.3,13,69.2,60.8,17,2,11.8,4,18.8,9f0ea33f,Sergio Asenjo,,True
+Eibar,Real Betis,1620928800,cl CHI,38-030,90,4,1,3,75.0,1.4,5,31,16.1,27,4,77.8,54.5,11,90.9,59.5,34,2,5.9,0,4.0,10072610,Claudio Bravo,,True
+Granada,Real Madrid,1620936000,be BEL,29-002,90,5,1,4,80.0,1.3,1,4,25.0,30,8,10.0,25.3,5,20.0,32.0,8,2,25.0,0,11.8,1840e36d,Thibaut Courtois,,True
+Real Betis,Huesca,1621182600,es ESP,23-033,90,2,1,1,100.0,1.1,4,9,44.4,34,3,20.6,30.1,8,25.0,29.5,4,0,0.0,2,18.3,f127d782,Álvaro Fernández,,True
+Cádiz,Elche,1621182600,ar ARG,29-134,90,3,1,2,100.0,1.8,8,17,47.1,33,4,45.5,41.3,3,66.7,50.0,9,2,22.2,1,12.3,63d17038,Paulo Gazzaniga,,True
+Villarreal,Sevilla,1621182600,ma MAR,30-041,90,5,4,1,20.0,2.1,1,3,33.3,29,5,6.9,23.2,3,33.3,29.3,4,0,0.0,3,19.7,f6798fc3,Yassine Bounou,,True
+Real Sociedad,Valladolid,1621182600,es ESP,32-133,90,9,4,5,66.7,3.2,4,15,26.7,36,8,38.9,33.9,3,33.3,34.0,6,0,0.0,1,20.0,8fae77ea,Jordi Masip,,True
+Valencia,Eibar,1621182600,rs SRB,29-112,90,5,4,1,20.0,2.4,3,8,37.5,11,3,54.5,42.8,3,66.7,49.3,7,0,0.0,2,21.0,ac295d9e,Marko Dmitrović,,True
+Alavés,Granada,1621182600,es ESP,25-231,90,9,4,5,55.6,4.0,7,22,31.8,30,3,56.7,43.5,5,100.0,70.6,12,0,0.0,6,24.2,67669ce7,Aarón Escandell,,True
+Atlético Madrid,Osasuna,1621182600,es ESP,27-345,90,9,2,7,77.8,2.1,13,39,33.3,27,5,81.5,54.0,18,94.4,62.1,19,2,10.5,2,11.8,a4995f48,Sergio Herrera,,True
+Athletic Club,Real Madrid,1621182600,be BEL,29-005,90,1,0,1,100.0,0.1,3,12,25.0,38,6,26.3,32.7,6,33.3,34.7,14,0,0.0,2,17.5,1840e36d,Thibaut Courtois,,True
+Barcelona,Celta Vigo,1621182600,es ESP,23-311,90,4,1,3,75.0,1.5,8,16,50.0,22,3,40.9,31.8,16,43.8,38.0,14,0,0.0,1,11.8,cde52ef5,Iván Villar,,True
+Getafe,Levante,1621182600,es ESP,24-049,90,3,2,1,33.3,0.4,3,10,30.0,32,7,21.9,28.4,9,33.3,31.4,18,1,5.6,8,20.7,e1846dde,Cárdenas,,True
+Levante,Cádiz,1621623600,es ESP,27-130,90,4,2,2,50.0,1.5,13,34,38.2,21,2,85.7,55.3,16,100.0,66.0,17,0,0.0,0,5.0,fea23125,David Gil,,True
+Real Madrid,Villarreal,1621699200,ar ARG,29-002,90,4,2,2,50.0,1.1,5,19,26.3,37,9,27.0,27.7,15,60.0,48.3,20,1,5.0,0,7.0,625c144a,Gerónimo Rulli,,True
+Huesca,Valencia,1621699200,nl NED,32-030,90,8,0,8,100.0,1.2,8,30,26.7,32,6,65.6,47.9,10,90.0,69.9,28,0,0.0,0,,04ac8285,Jasper Cillessen,,True
+Osasuna,Real Sociedad,1621699200,es ESP,26-059,90,1,0,1,100.0,0.0,5,14,35.7,25,5,44.0,34.2,4,75.0,53.5,15,0,0.0,0,14.5,374ee424,Álex Remiro,,True
+Elche,Athletic Club,1621699200,es ESP,24-278,90,3,2,1,33.3,1.5,1,4,25.0,18,6,11.1,26.2,7,28.6,30.4,16,0,0.0,2,30.5,0f7dbaf6,Jokin Ezkieta,,True
+Celta Vigo,Real Betis,1621699200,cl CHI,38-039,90,4,2,2,75.0,1.6,7,17,41.2,16,0,56.3,39.0,11,72.7,52.7,21,0,0.0,1,10.0,10072610,Claudio Bravo,,True
+Valladolid,Atlético Madrid,1621699200,si SVN,28-135,90,4,1,3,75.0,1.4,5,19,26.3,21,3,71.4,48.2,5,80.0,59.0,12,2,16.7,1,10.8,ee8508c0,Jan Oblak,,True
+Eibar,Barcelona,1621699200,br BRA,31-307,90,3,0,3,100.0,0.3,3,7,42.9,37,6,18.9,25.1,12,0.0,22.5,22,0,0.0,0,7.3,a9dc785c,Neto,,True
+Granada,Getafe,1621787400,es ESP,27-223,90,2,0,2,100.0,0.1,13,21,61.9,21,4,57.1,42.8,10,90.0,65.0,13,0,0.0,0,10.8,039ae103,Rubén Yáñez,,True
+Sevilla,Alavés,1621796400,es ESP,24-285,71,1,,1,,0.0,4,14,28.6,15,4,53.3,39.5,7,85.7,53.6,10,1,10.0,,8.0,9970da54,Antonio Sivera,,True
+Sevilla,Alavés,1621796400,es ESP,29-005,19,1,1,0,0.0,0.2,5,10,50.0,5,0,80.0,46.6,6,100.0,68.5,9,0,0.0,1,29.0,97852360,Fernando Pacheco,,True

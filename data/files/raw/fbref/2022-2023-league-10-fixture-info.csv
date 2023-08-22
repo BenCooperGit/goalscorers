@@ -1,0 +1,558 @@
+url,home_team,away_team,datetime,home_team_manager,away_team_manager,stadium,attendance
+https://fbref.com/en/matches/46d9048f/Huddersfield-Town-Burnley-July-29-2022-Championship,Huddersfield Town,Burnley,1659121200,Danny Schofield,Vincent Kompany,"The John Smith's Stadium, Huddersfield",20206
+https://fbref.com/en/matches/03cea9be/Hull-City-Bristol-City-July-30-2022-Championship,Hull City,Bristol City,1659189600,Shota Arveladze,Nigel Pearson,"MKM Stadium, Hull",16667
+https://fbref.com/en/matches/78f52c96/Rotherham-United-Swansea-City-July-30-2022-Championship,Rotherham United,Swansea City,1659189600,Paul Warne,Russell Martin,"AESSEAL New York Stadium, Rotherham",10454
+https://fbref.com/en/matches/8cdd19be/Millwall-Stoke-City-July-30-2022-Championship,Millwall,Stoke City,1659189600,Gary Rowett,Michael O'Neill,"The Den, London",15341
+https://fbref.com/en/matches/a0240431/Luton-Town-Birmingham-City-July-30-2022-Championship,Luton Town,Birmingham City,1659189600,Nathan Jones,John Eustace,"Kenilworth Road Stadium, Luton",9921
+https://fbref.com/en/matches/a0b364df/Blackburn-Rovers-Queens-Park-Rangers-July-30-2022-Championship,Blackburn Rovers,Queens Park Rangers,1659189600,Jon Dahl Tomasson,Michael Beale,"Ewood Park, Blackburn",14315
+https://fbref.com/en/matches/a4b6453f/Wigan-Athletic-Preston-North-End-July-30-2022-Championship,Wigan Athletic,Preston North End,1659189600,Leam Richardson ,Ryan Lowe,"The DW Stadium, Wigan",15429
+https://fbref.com/en/matches/ca95a18c/Blackpool-Reading-July-30-2022-Championship,Blackpool,Reading,1659189600,Michael Appleton,Paul Ince,"Bloomfield Road, Blackpool",10831
+https://fbref.com/en/matches/d116aa74/Cardiff-City-Norwich-City-July-30-2022-Championship,Cardiff City,Norwich City,1659189600,Steve Morison,Dean Smith,"Cardiff City Stadium, Cardiff",19969
+https://fbref.com/en/matches/f6132023/Middlesbrough-West-Bromwich-Albion-July-30-2022-Championship,Middlesbrough,West Bromwich Albion,1659198600,Chris Wilder,Steve Bruce,"Riverside Stadium, Middlesbrough",26567
+https://fbref.com/en/matches/5a68e6de/Sunderland-Coventry-City-July-31-2022-Championship,Sunderland,Coventry City,1659265200,Alex Neil,Mark Robins,"Stadium of Light, Sunderland",40851
+https://fbref.com/en/matches/70a64f0a/Watford-Sheffield-United-August-1-2022-Championship,Watford,Sheffield United,1659380400,Rob Edwards,Paul Heckingbottom,"Vicarage Road Stadium, Watford",19536
+https://fbref.com/en/matches/0b6ec9c5/Birmingham-City-Huddersfield-Town-August-5-2022-Championship,Birmingham City,Huddersfield Town,1659725100,John Eustace,Danny Schofield,"St Andrew's Trillion Trophy Stadium, Birmingham",17065
+https://fbref.com/en/matches/f0c8e3db/Norwich-City-Wigan-Athletic-August-6-2022-Championship,Norwich City,Wigan Athletic,1659785400,Dean Smith,Leam Richardson ,"Carrow Road, Norwich",25595
+https://fbref.com/en/matches/0c610922/Queens-Park-Rangers-Middlesbrough-August-6-2022-Championship,Queens Park Rangers,Middlesbrough,1659794400,Michael Beale,Chris Wilder,"Kiyan Prince Foundation Stadium, London",15796
+https://fbref.com/en/matches/2c85ce1a/Preston-North-End-Hull-City-August-6-2022-Championship,Preston North End,Hull City,1659794400,Ryan Lowe,Shota Arveladze,"Deepdale Stadium, Preston",15816
+https://fbref.com/en/matches/7b64b74c/Stoke-City-Blackpool-August-6-2022-Championship,Stoke City,Blackpool,1659794400,Michael O'Neill,Michael Appleton,"Bet365 Stadium, Stoke-on-Trent",23612
+https://fbref.com/en/matches/813eddcd/Sheffield-United-Millwall-August-6-2022-Championship,Sheffield United,Millwall,1659794400,Paul Heckingbottom,Gary Rowett,"Bramall Lane, Sheffield",27738
+https://fbref.com/en/matches/8a646f2a/Swansea-City-Blackburn-Rovers-August-6-2022-Championship,Swansea City,Blackburn Rovers,1659794400,Russell Martin,Jon Dahl Tomasson,"Swansea.com Stadium, Swansea",16632
+https://fbref.com/en/matches/bf32a77b/Burnley-Luton-Town-August-6-2022-Championship,Burnley,Luton Town,1659794400,Vincent Kompany,Nathan Jones,"Turf Moor, Burnley",19628
+https://fbref.com/en/matches/c7d19d79/Reading-Cardiff-City-August-6-2022-Championship,Reading,Cardiff City,1659794400,Paul Ince,Steve Morison,"Select Car Leasing Stadium, Reading",13866
+https://fbref.com/en/matches/f3b3073c/Bristol-City-Sunderland-August-6-2022-Championship,Bristol City,Sunderland,1659794400,Nigel Pearson,Alex Neil,"Ashton Gate Stadium, Bristol",24543
+https://fbref.com/en/matches/e852efad/West-Bromwich-Albion-Watford-August-8-2022-Championship,West Bromwich Albion,Watford,1659985200,Steve Bruce,Rob Edwards,"The Hawthorns, West Bromwich",22365
+https://fbref.com/en/matches/2fb23b8f/Watford-Burnley-August-12-2022-Championship,Watford,Burnley,1660330800,Rob Edwards,Vincent Kompany,"Vicarage Road Stadium, Watford",19225
+https://fbref.com/en/matches/c430983b/Cardiff-City-Birmingham-City-August-13-2022-Championship,Cardiff City,Birmingham City,1660390200,Steve Morison,John Eustace,"Cardiff City Stadium, Cardiff",18893
+https://fbref.com/en/matches/04249b82/Sunderland-Queens-Park-Rangers-August-13-2022-Championship,Sunderland,Queens Park Rangers,1660399200,Alex Neil,Michael Beale,"Stadium of Light, Sunderland",37884
+https://fbref.com/en/matches/0d73300d/Millwall-Coventry-City-August-13-2022-Championship,Millwall,Coventry City,1660399200,Gary Rowett,Mark Robins,"The Den, London",13880
+https://fbref.com/en/matches/530d1770/Luton-Town-Preston-North-End-August-13-2022-Championship,Luton Town,Preston North End,1660399200,Nathan Jones,Ryan Lowe,"Kenilworth Road Stadium, Luton",9740
+https://fbref.com/en/matches/7bf10507/Hull-City-Norwich-City-August-13-2022-Championship,Hull City,Norwich City,1660399200,Shota Arveladze,Dean Smith,"MKM Stadium, Hull",17028
+https://fbref.com/en/matches/b0ba7052/Huddersfield-Town-Stoke-City-August-13-2022-Championship,Huddersfield Town,Stoke City,1660399200,Danny Schofield,Michael O'Neill,"The John Smith's Stadium, Huddersfield",18618
+https://fbref.com/en/matches/ba41f245/Blackpool-Swansea-City-August-13-2022-Championship,Blackpool,Swansea City,1660399200,Michael Appleton,Russell Martin,"Bloomfield Road, Blackpool",11519
+https://fbref.com/en/matches/bc89a13b/Wigan-Athletic-Bristol-City-August-13-2022-Championship,Wigan Athletic,Bristol City,1660399200,Leam Richardson ,Nigel Pearson,"The DW Stadium, Wigan",9822
+https://fbref.com/en/matches/d34b5683/Rotherham-United-Reading-August-13-2022-Championship,Rotherham United,Reading,1660399200,Paul Warne,Paul Ince,"AESSEAL New York Stadium, Rotherham",9263
+https://fbref.com/en/matches/e7230924/Middlesbrough-Sheffield-United-August-14-2022-Championship,Middlesbrough,Sheffield United,1660482000,Chris Wilder,Paul Heckingbottom,"Riverside Stadium, Middlesbrough",26056
+https://fbref.com/en/matches/4a51252f/Blackburn-Rovers-West-Bromwich-Albion-August-14-2022-Championship,Blackburn Rovers,West Bromwich Albion,1660485600,Jon Dahl Tomasson,Steve Bruce,"Ewood Park, Blackburn",14970
+https://fbref.com/en/matches/0a4929d2/Norwich-City-Huddersfield-Town-August-16-2022-Championship,Norwich City,Huddersfield Town,1660675500,Dean Smith,Danny Schofield,"Carrow Road, Norwich",25369
+https://fbref.com/en/matches/2c58d22e/Preston-North-End-Rotherham-United-August-16-2022-Championship,Preston North End,Rotherham United,1660675500,Ryan Lowe,Paul Warne,"Deepdale Stadium, Preston",14479
+https://fbref.com/en/matches/2d24ee36/Birmingham-City-Watford-August-16-2022-Championship,Birmingham City,Watford,1660675500,John Eustace,Rob Edwards,"St Andrew's Trillion Trophy Stadium, Birmingham",16811
+https://fbref.com/en/matches/5a983594/Bristol-City-Luton-Town-August-16-2022-Championship,Bristol City,Luton Town,1660675500,Nigel Pearson,Nathan Jones,"Ashton Gate Stadium, Bristol",17329
+https://fbref.com/en/matches/673cd4a6/Swansea-City-Millwall-August-16-2022-Championship,Swansea City,Millwall,1660675500,Russell Martin,Gary Rowett,"Swansea.com Stadium, Swansea",16068
+https://fbref.com/en/matches/aa3e8a7e/Burnley-Hull-City-August-16-2022-Championship,Burnley,Hull City,1660675500,Vincent Kompany,Shota Arveladze,"Turf Moor, Burnley",18209
+https://fbref.com/en/matches/e5765f33/Queens-Park-Rangers-Blackpool-August-16-2022-Championship,Queens Park Rangers,Blackpool,1660676400,Michael Beale,Michael Appleton,"Kiyan Prince Foundation Stadium, London",12575
+https://fbref.com/en/matches/957c7c70/Stoke-City-Middlesbrough-August-17-2022-Championship,Stoke City,Middlesbrough,1660761900,Michael O'Neill,Chris Wilder,"Bet365 Stadium, Stoke-on-Trent",18345
+https://fbref.com/en/matches/a489f067/Sheffield-United-Sunderland-August-17-2022-Championship,Sheffield United,Sunderland,1660762800,Paul Heckingbottom,Alex Neil,"Bramall Lane, Sheffield",28197
+https://fbref.com/en/matches/bcdf1fee/West-Bromwich-Albion-Cardiff-City-August-17-2022-Championship,West Bromwich Albion,Cardiff City,1660762800,Steve Bruce,Steve Morison,"The Hawthorns, West Bromwich",21820
+https://fbref.com/en/matches/cf53e3e1/Reading-Blackburn-Rovers-August-17-2022-Championship,Reading,Blackburn Rovers,1660762800,Paul Ince,Jon Dahl Tomasson,"Select Car Leasing Stadium, Reading",11780
+https://fbref.com/en/matches/5014504d/Norwich-City-Millwall-August-19-2022-Championship,Norwich City,Millwall,1660935600,Dean Smith,Gary Rowett,"Carrow Road, Norwich",26214
+https://fbref.com/en/matches/158a5bf7/Reading-Middlesbrough-August-20-2022-Championship,Reading,Middlesbrough,1661004000,Paul Ince,Chris Wilder,"Select Car Leasing Stadium, Reading",12318
+https://fbref.com/en/matches/1720082f/Sheffield-United-Blackburn-Rovers-August-20-2022-Championship,Sheffield United,Blackburn Rovers,1661004000,Paul Heckingbottom,Jon Dahl Tomasson,"Bramall Lane, Sheffield",27850
+https://fbref.com/en/matches/59fab04e/Stoke-City-Sunderland-August-20-2022-Championship,Stoke City,Sunderland,1661004000,Michael O'Neill,Alex Neil,"Bet365 Stadium, Stoke-on-Trent",21230
+https://fbref.com/en/matches/61825f8d/Birmingham-City-Wigan-Athletic-August-20-2022-Championship,Birmingham City,Wigan Athletic,1661004000,John Eustace,Leam Richardson ,"St Andrew's Trillion Trophy Stadium, Birmingham",16013
+https://fbref.com/en/matches/74ca79e8/Burnley-Blackpool-August-20-2022-Championship,Burnley,Blackpool,1661004000,Vincent Kompany,Michael Appleton,"Turf Moor, Burnley",20620
+https://fbref.com/en/matches/8edceb37/Swansea-City-Luton-Town-August-20-2022-Championship,Swansea City,Luton Town,1661004000,Russell Martin,Nathan Jones,"Swansea.com Stadium, Swansea",16323
+https://fbref.com/en/matches/a0a52800/Preston-North-End-Watford-August-20-2022-Championship,Preston North End,Watford,1661004000,Ryan Lowe,Rob Edwards,"Deepdale Stadium, Preston",15317
+https://fbref.com/en/matches/a127597d/Queens-Park-Rangers-Rotherham-United-August-20-2022-Championship,Queens Park Rangers,Rotherham United,1661004000,Michael Beale,Paul Warne,"Kiyan Prince Foundation Stadium, London",12230
+https://fbref.com/en/matches/b86c5165/West-Bromwich-Albion-Hull-City-August-20-2022-Championship,West Bromwich Albion,Hull City,1661004000,Steve Bruce,Shota Arveladze,"The Hawthorns, West Bromwich",22003
+https://fbref.com/en/matches/aae38626/Bristol-City-Cardiff-City-August-21-2022-Championship,Bristol City,Cardiff City,1661079600,Nigel Pearson,Steve Morison,"Ashton Gate Stadium, Bristol",21649
+https://fbref.com/en/matches/caf0bf47/Luton-Town-Sheffield-United-August-26-2022-Championship,Luton Town,Sheffield United,1661540400,Nathan Jones,Paul Heckingbottom,"Kenilworth Road Stadium, Luton",9882
+https://fbref.com/en/matches/29cfc220/Sunderland-Norwich-City-August-27-2022-Championship,Sunderland,Norwich City,1661599800,Alex Neil,Dean Smith,"Stadium of Light, Sunderland",36440
+https://fbref.com/en/matches/0344abd0/Wigan-Athletic-Burnley-August-27-2022-Championship,Wigan Athletic,Burnley,1661608800,Leam Richardson ,Vincent Kompany,"The DW Stadium, Wigan",14506
+https://fbref.com/en/matches/0a66d482/Blackburn-Rovers-Stoke-City-August-27-2022-Championship,Blackburn Rovers,Stoke City,1661608800,Jon Dahl Tomasson,Dean Holden,"Ewood Park, Blackburn",13371
+https://fbref.com/en/matches/1b6dd67b/Middlesbrough-Swansea-City-August-27-2022-Championship,Middlesbrough,Swansea City,1661608800,Chris Wilder,Russell Martin,"Riverside Stadium, Middlesbrough",23672
+https://fbref.com/en/matches/3247e1db/Rotherham-United-Birmingham-City-August-27-2022-Championship,Rotherham United,Birmingham City,1661608800,Paul Warne,John Eustace,"AESSEAL New York Stadium, Rotherham",11027
+https://fbref.com/en/matches/4aedb770/Blackpool-Bristol-City-August-27-2022-Championship,Blackpool,Bristol City,1661608800,Michael Appleton,Nigel Pearson,"Bloomfield Road, Blackpool",10804
+https://fbref.com/en/matches/52eee350/Millwall-Reading-August-27-2022-Championship,Millwall,Reading,1661608800,Gary Rowett,Paul Ince,"The Den, London",14352
+https://fbref.com/en/matches/987effc9/Huddersfield-Town-West-Bromwich-Albion-August-27-2022-Championship,Huddersfield Town,West Bromwich Albion,1661608800,Danny Schofield,Steve Bruce,"The John Smith's Stadium, Huddersfield",18696
+https://fbref.com/en/matches/acb985cc/Cardiff-City-Preston-North-End-August-27-2022-Championship,Cardiff City,Preston North End,1661608800,Steve Morison,Ryan Lowe,"Cardiff City Stadium, Cardiff",17922
+https://fbref.com/en/matches/e06e1131/Watford-Queens-Park-Rangers-August-27-2022-Championship,Watford,Queens Park Rangers,1661608800,Rob Edwards,Michael Beale,"Vicarage Road Stadium, Watford",19977
+https://fbref.com/en/matches/e9bd14df/Hull-City-Coventry-City-August-27-2022-Championship,Hull City,Coventry City,1661608800,Shota Arveladze,Mark Robins,"MKM Stadium, Hull",17874
+https://fbref.com/en/matches/015aa052/Cardiff-City-Luton-Town-August-30-2022-Championship,Cardiff City,Luton Town,1661885100,Steve Morison,Nathan Jones,"Cardiff City Stadium, Cardiff",7202
+https://fbref.com/en/matches/03380f6e/Queens-Park-Rangers-Hull-City-August-30-2022-Championship,Queens Park Rangers,Hull City,1661885100,Michael Beale,Shota Arveladze,"Kiyan Prince Foundation Stadium, London",12716
+https://fbref.com/en/matches/09afd026/Birmingham-City-Norwich-City-August-30-2022-Championship,Birmingham City,Norwich City,1661885100,John Eustace,Dean Smith,"St Andrew's Trillion Trophy Stadium, Birmingham",16156
+https://fbref.com/en/matches/0b60da71/Sheffield-United-Reading-August-30-2022-Championship,Sheffield United,Reading,1661885100,Paul Heckingbottom,Paul Ince,"Bramall Lane, Sheffield",27810
+https://fbref.com/en/matches/dc8b3015/Burnley-Millwall-August-30-2022-Championship,Burnley,Millwall,1661885100,Vincent Kompany,Gary Rowett,"Turf Moor, Burnley",18732
+https://fbref.com/en/matches/f7aa4988/Wigan-Athletic-West-Bromwich-Albion-August-30-2022-Championship,Wigan Athletic,West Bromwich Albion,1661885100,Leam Richardson ,Steve Bruce,"The DW Stadium, Wigan",10526
+https://fbref.com/en/matches/65d60e08/Watford-Middlesbrough-August-30-2022-Championship,Watford,Middlesbrough,1661886000,Rob Edwards,Chris Wilder,"Vicarage Road Stadium, Watford",20022
+https://fbref.com/en/matches/880124fc/Stoke-City-Swansea-City-August-31-2022-Championship,Stoke City,Swansea City,1661971500,Alex Neil,Russell Martin,"Bet365 Stadium, Stoke-on-Trent",18697
+https://fbref.com/en/matches/911f1100/Bristol-City-Huddersfield-Town-August-31-2022-Championship,Bristol City,Huddersfield Town,1661971500,Nigel Pearson,Danny Schofield,"Ashton Gate Stadium, Bristol",18569
+https://fbref.com/en/matches/b378268b/Coventry-City-Preston-North-End-August-31-2022-Championship,Coventry City,Preston North End,1661971500,Mark Robins,Ryan Lowe,"Coventry Building Society Arena, Coventry",18913
+https://fbref.com/en/matches/b6049a2d/Sunderland-Rotherham-United-August-31-2022-Championship,Sunderland,Rotherham United,1661971500,Tony Mowbray,Paul Warne,"Stadium of Light, Sunderland",36530
+https://fbref.com/en/matches/829eb8cd/Blackpool-Blackburn-Rovers-August-31-2022-Championship,Blackpool,Blackburn Rovers,1661972400,Michael Appleton,Jon Dahl Tomasson,"Bloomfield Road, Blackpool",33383
+https://fbref.com/en/matches/9f0e0aca/West-Bromwich-Albion-Burnley-September-2-2022-Championship,West Bromwich Albion,Burnley,1662145200,Steve Bruce,Vincent Kompany,"The Hawthorns, West Bromwich",22303
+https://fbref.com/en/matches/3bc7bd43/Millwall-Cardiff-City-September-3-2022-Championship,Millwall,Cardiff City,1662213600,Gary Rowett,Steve Morison,"The Den, London",13010
+https://fbref.com/en/matches/403198f6/Preston-North-End-Birmingham-City-September-3-2022-Championship,Preston North End,Birmingham City,1662213600,Ryan Lowe,John Eustace,"Deepdale Stadium, Preston",16098
+https://fbref.com/en/matches/79b06c22/Luton-Town-Wigan-Athletic-September-3-2022-Championship,Luton Town,Wigan Athletic,1662213600,Nathan Jones,Leam Richardson ,"Kenilworth Road Stadium, Luton",9885
+https://fbref.com/en/matches/9c789465/Rotherham-United-Watford-September-3-2022-Championship,Rotherham United,Watford,1662213600,Paul Warne,Rob Edwards,"AESSEAL New York Stadium, Rotherham",10607
+https://fbref.com/en/matches/9ece3abb/Swansea-City-Queens-Park-Rangers-September-3-2022-Championship,Swansea City,Queens Park Rangers,1662213600,Russell Martin,Michael Beale,"Swansea.com Stadium, Swansea",15935
+https://fbref.com/en/matches/cf03d2eb/Norwich-City-Coventry-City-September-3-2022-Championship,Norwich City,Coventry City,1662213600,Dean Smith,Mark Robins,"Carrow Road, Norwich",26487
+https://fbref.com/en/matches/fba336c5/Blackburn-Rovers-Bristol-City-September-3-2022-Championship,Blackburn Rovers,Bristol City,1662213600,Jon Dahl Tomasson,Nigel Pearson,"Ewood Park, Blackburn",12502
+https://fbref.com/en/matches/b1180c37/Reading-Stoke-City-September-4-2022-Championship,Reading,Stoke City,1662289200,Paul Ince,Alex Neil,"Select Car Leasing Stadium, Reading",12292
+https://fbref.com/en/matches/9bd1edfe/Hull-City-Sheffield-United-September-4-2022-Championship,Hull City,Sheffield United,1662300000,Shota Arveladze,Paul Heckingbottom,"MKM Stadium, Hull",20426
+https://fbref.com/en/matches/d12cb4da/Huddersfield-Town-Blackpool-September-4-2022-Championship,Huddersfield Town,Blackpool,1662300000,Danny Schofield,Michael Appleton,"The John Smith's Stadium, Huddersfield",18195
+https://fbref.com/en/matches/f789002c/Middlesbrough-Sunderland-September-5-2022-Championship,Middlesbrough,Sunderland,1662404400,Chris Wilder,Tony Mowbray,"Riverside Stadium, Middlesbrough",30391
+https://fbref.com/en/matches/12b4f1d0/Hull-City-Stoke-City-September-13-2022-Championship,Hull City,Stoke City,1663094700,Shota Arveladze,Alex Neil,"MKM Stadium, Hull",15627
+https://fbref.com/en/matches/1e8e7e27/Blackburn-Rovers-Watford-September-13-2022-Championship,Blackburn Rovers,Watford,1663094700,Jon Dahl Tomasson,Rob Edwards,"Ewood Park, Blackburn",11803
+https://fbref.com/en/matches/3037ea2b/Swansea-City-Sheffield-United-September-13-2022-Championship,Swansea City,Sheffield United,1663094700,Russell Martin,Paul Heckingbottom,"Swansea.com Stadium, Swansea",15458
+https://fbref.com/en/matches/79305252/Huddersfield-Town-Wigan-Athletic-September-13-2022-Championship,Huddersfield Town,Wigan Athletic,1663094700,Danny Schofield,Leam Richardson ,"The John Smith's Stadium, Huddersfield",17941
+https://fbref.com/en/matches/8131c5b4/Middlesbrough-Cardiff-City-September-13-2022-Championship,Middlesbrough,Cardiff City,1663094700,Chris Wilder,Steve Morison,"Riverside Stadium, Middlesbrough",22124
+https://fbref.com/en/matches/de0c64ab/Preston-North-End-Burnley-September-13-2022-Championship,Preston North End,Burnley,1663095600,Ryan Lowe,Vincent Kompany,"Deepdale Stadium, Preston",20212
+https://fbref.com/en/matches/212a5027/Luton-Town-Coventry-City-September-14-2022-Championship,Luton Town,Coventry City,1663181100,Nathan Jones,Mark Robins,"Kenilworth Road Stadium, Luton",9546
+https://fbref.com/en/matches/3039ff81/Millwall-Queens-Park-Rangers-September-14-2022-Championship,Millwall,Queens Park Rangers,1663181100,Gary Rowett,Michael Beale,"The Den, London",13384
+https://fbref.com/en/matches/8d78dc07/Rotherham-United-Blackpool-September-14-2022-Championship,Rotherham United,Blackpool,1663181100,Paul Warne,Michael Appleton,"AESSEAL New York Stadium, Rotherham",9105
+https://fbref.com/en/matches/e82bcf87/Norwich-City-Bristol-City-September-14-2022-Championship,Norwich City,Bristol City,1663181100,Dean Smith,Nigel Pearson,"Carrow Road, Norwich",35287
+https://fbref.com/en/matches/39f4f408/Reading-Sunderland-September-14-2022-Championship,Reading,Sunderland,1663182000,Paul Ince,Tony Mowbray,"Select Car Leasing Stadium, Reading",12061
+https://fbref.com/en/matches/fb0c5d0a/West-Bromwich-Albion-Birmingham-City-September-14-2022-Championship,West Bromwich Albion,Birmingham City,1663182000,Steve Bruce,John Eustace,"The Hawthorns, West Bromwich",23089
+https://fbref.com/en/matches/84b4d837/Swansea-City-Hull-City-September-17-2022-Championship,Swansea City,Hull City,1663414200,Russell Martin,Shota Arveladze,"Swansea.com Stadium, Swansea",15207
+https://fbref.com/en/matches/1f091957/Birmingham-City-Coventry-City-September-17-2022-Championship,Birmingham City,Coventry City,1663423200,John Eustace,Mark Robins,"St Andrew's Trillion Trophy Stadium, Birmingham",16633
+https://fbref.com/en/matches/2a1ce2f9/Watford-Sunderland-September-17-2022-Championship,Watford,Sunderland,1663423200,Rob Edwards,Tony Mowbray,"Vicarage Road Stadium, Watford",19767
+https://fbref.com/en/matches/2eb576e4/Queens-Park-Rangers-Stoke-City-September-17-2022-Championship,Queens Park Rangers,Stoke City,1663423200,Michael Beale,Alex Neil,"Kiyan Prince Foundation Stadium, London",14174
+https://fbref.com/en/matches/366a9fd8/Burnley-Bristol-City-September-17-2022-Championship,Burnley,Bristol City,1663423200,Vincent Kompany,Nigel Pearson,"Turf Moor, Burnley",19742
+https://fbref.com/en/matches/3c099582/Norwich-City-West-Bromwich-Albion-September-17-2022-Championship,Norwich City,West Bromwich Albion,1663423200,Dean Smith,Steve Bruce,"Carrow Road, Norwich",26303
+https://fbref.com/en/matches/482d7884/Millwall-Blackpool-September-17-2022-Championship,Millwall,Blackpool,1663423200,Gary Rowett,Michael Appleton,"The Den, London",11463
+https://fbref.com/en/matches/557aeb6e/Luton-Town-Blackburn-Rovers-September-17-2022-Championship,Luton Town,Blackburn Rovers,1663423200,Nathan Jones,Jon Dahl Tomasson,"Kenilworth Road Stadium, Luton",9839
+https://fbref.com/en/matches/6e20a7b6/Huddersfield-Town-Cardiff-City-September-17-2022-Championship,Huddersfield Town,Cardiff City,1663423200,Narcís Pelach Nadal,Steve Morison,"The John Smith's Stadium, Huddersfield",19193
+https://fbref.com/en/matches/8c951476/Wigan-Athletic-Reading-September-17-2022-Championship,Wigan Athletic,Reading,1663423200,Leam Richardson ,Paul Ince,"The DW Stadium, Wigan",10113
+https://fbref.com/en/matches/d36f9552/Preston-North-End-Sheffield-United-September-17-2022-Championship,Preston North End,Sheffield United,1663423200,Ryan Lowe,Paul Heckingbottom,"Deepdale Stadium, Preston",18412
+https://fbref.com/en/matches/df39a19c/Middlesbrough-Rotherham-United-September-17-2022-Championship,Middlesbrough,Rotherham United,1663440300,Chris Wilder,Paul Warne,"Riverside Stadium, Middlesbrough",22960
+https://fbref.com/en/matches/1e0b6356/Hull-City-Luton-Town-September-30-2022-Championship,Hull City,Luton Town,1664564400,Andy Dawson,Nathan Jones,"MKM Stadium, Hull",15730
+https://fbref.com/en/matches/22eb30c2/Cardiff-City-Burnley-October-1-2022-Championship,Cardiff City,Burnley,1664632800,Mark Hudson,Vincent Kompany,"Cardiff City Stadium, Cardiff",18508
+https://fbref.com/en/matches/30cf2f63/Reading-Huddersfield-Town-October-1-2022-Championship,Reading,Huddersfield Town,1664632800,Paul Ince,Mark Fotheringham,"Select Car Leasing Stadium, Reading",16684
+https://fbref.com/en/matches/62c322e2/Rotherham-United-Wigan-Athletic-October-1-2022-Championship,Rotherham United,Wigan Athletic,1664632800,Lee Peltier,Leam Richardson ,"AESSEAL New York Stadium, Rotherham",10761
+https://fbref.com/en/matches/6f76c3dc/Sheffield-United-Birmingham-City-October-1-2022-Championship,Sheffield United,Birmingham City,1664632800,Paul Heckingbottom,John Eustace,"Bramall Lane, Sheffield",29927
+https://fbref.com/en/matches/7efa3aa3/Coventry-City-Middlesbrough-October-1-2022-Championship,Coventry City,Middlesbrough,1664632800,Mark Robins,Chris Wilder,"Coventry Building Society Arena, Coventry",19788
+https://fbref.com/en/matches/c03a242c/Blackburn-Rovers-Millwall-October-1-2022-Championship,Blackburn Rovers,Millwall,1664632800,Jon Dahl Tomasson,Gary Rowett,"Ewood Park, Blackburn",12164
+https://fbref.com/en/matches/c1b156e6/West-Bromwich-Albion-Swansea-City-October-1-2022-Championship,West Bromwich Albion,Swansea City,1664632800,Steve Bruce,Russell Martin,"The Hawthorns, West Bromwich",22369
+https://fbref.com/en/matches/db570c73/Bristol-City-Queens-Park-Rangers-October-1-2022-Championship,Bristol City,Queens Park Rangers,1664632800,Nigel Pearson,Michael Beale,"Ashton Gate Stadium, Bristol",21665
+https://fbref.com/en/matches/e087f7b7/Sunderland-Preston-North-End-October-1-2022-Championship,Sunderland,Preston North End,1664632800,Tony Mowbray,Ryan Lowe,"Stadium of Light, Sunderland",41825
+https://fbref.com/en/matches/e95bd82c/Blackpool-Norwich-City-October-1-2022-Championship,Blackpool,Norwich City,1664632800,Michael Appleton,Dean Smith,"Bloomfield Road, Blackpool",11594
+https://fbref.com/en/matches/5733d2a9/Stoke-City-Watford-October-2-2022-Championship,Stoke City,Watford,1664708400,Alex Neil,Slaven Bilić,"Bet365 Stadium, Stoke-on-Trent",19905
+https://fbref.com/en/matches/1b742c6e/Sheffield-United-Queens-Park-Rangers-October-4-2022-Championship,Sheffield United,Queens Park Rangers,1664909100,Paul Heckingbottom,Michael Beale,"Bramall Lane, Sheffield",26636
+https://fbref.com/en/matches/3ac55cd6/Luton-Town-Huddersfield-Town-October-4-2022-Championship,Luton Town,Huddersfield Town,1664909100,Nathan Jones,Mark Fotheringham,"Kenilworth Road Stadium, Luton",9073
+https://fbref.com/en/matches/b4e72b50/Sunderland-Blackpool-October-4-2022-Championship,Sunderland,Blackpool,1664909100,Tony Mowbray,Michael Appleton,"Stadium of Light, Sunderland",35900
+https://fbref.com/en/matches/f286c4ee/Bristol-City-Coventry-City-October-4-2022-Championship,Bristol City,Coventry City,1664909100,Nigel Pearson,Mark Robins,"Ashton Gate Stadium, Bristol",18658
+https://fbref.com/en/matches/48b1e85d/Cardiff-City-Blackburn-Rovers-October-4-2022-Championship,Cardiff City,Blackburn Rovers,1664910000,Mark Hudson,Jon Dahl Tomasson,"Cardiff City Stadium, Cardiff",16150
+https://fbref.com/en/matches/db87955a/Reading-Norwich-City-October-4-2022-Championship,Reading,Norwich City,1664910000,Paul Ince,Dean Smith,"Select Car Leasing Stadium, Reading",11978
+https://fbref.com/en/matches/618c52a1/Hull-City-Wigan-Athletic-October-5-2022-Championship,Hull City,Wigan Athletic,1664995500,Andy Dawson,Leam Richardson ,"MKM Stadium, Hull",14669
+https://fbref.com/en/matches/a26a1845/Middlesbrough-Birmingham-City-October-5-2022-Championship,Middlesbrough,Birmingham City,1664995500,Leo Percovich,John Eustace,"Riverside Stadium, Middlesbrough",22374
+https://fbref.com/en/matches/c0f22f4d/Burnley-Stoke-City-October-5-2022-Championship,Burnley,Stoke City,1664995500,Vincent Kompany,Alex Neil,"Turf Moor, Burnley",18131
+https://fbref.com/en/matches/dfa8b214/Watford-Swansea-City-October-5-2022-Championship,Watford,Swansea City,1664995500,Slaven Bilić,Russell Martin,"Vicarage Road Stadium, Watford",17231
+https://fbref.com/en/matches/f06b2355/Rotherham-United-Millwall-October-5-2022-Championship,Rotherham United,Millwall,1664995500,Matt Taylor,Gary Rowett,"AESSEAL New York Stadium, Rotherham",8618
+https://fbref.com/en/matches/17f7f3a4/Preston-North-End-West-Bromwich-Albion-October-5-2022-Championship,Preston North End,West Bromwich Albion,1664996400,Ryan Lowe,Steve Bruce,"Deepdale Stadium, Preston",13924
+https://fbref.com/en/matches/bf93ce45/Queens-Park-Rangers-Reading-October-7-2022-Championship,Queens Park Rangers,Reading,1665169200,Michael Beale,Paul Ince,"Kiyan Prince Foundation Stadium, London",16656
+https://fbref.com/en/matches/38ef7a0f/Blackpool-Watford-October-8-2022-Championship,Blackpool,Watford,1665237600,Michael Appleton,Slaven Bilić,"Bloomfield Road, Blackpool",11567
+https://fbref.com/en/matches/3c81e78c/Coventry-City-Burnley-October-8-2022-Championship,Coventry City,Burnley,1665237600,Mark Robins,Vincent Kompany,"Coventry Building Society Arena, Coventry",19445
+https://fbref.com/en/matches/3e07830d/Millwall-Middlesbrough-October-8-2022-Championship,Millwall,Middlesbrough,1665237600,Gary Rowett,Leo Percovich,"The Den, London",15638
+https://fbref.com/en/matches/7ede3e60/Wigan-Athletic-Cardiff-City-October-8-2022-Championship,Wigan Athletic,Cardiff City,1665237600,Leam Richardson ,Mark Hudson,"The DW Stadium, Wigan",10340
+https://fbref.com/en/matches/87cbec5d/Birmingham-City-Bristol-City-October-8-2022-Championship,Birmingham City,Bristol City,1665237600,John Eustace,Nigel Pearson,"St Andrew's Trillion Trophy Stadium, Birmingham",3107
+https://fbref.com/en/matches/9f2a6801/Blackburn-Rovers-Rotherham-United-October-8-2022-Championship,Blackburn Rovers,Rotherham United,1665237600,Jon Dahl Tomasson,Matt Taylor,"Ewood Park, Blackburn",12233
+https://fbref.com/en/matches/b0f9c4ef/West-Bromwich-Albion-Luton-Town-October-8-2022-Championship,West Bromwich Albion,Luton Town,1665237600,Steve Bruce,Nathan Jones,"The Hawthorns, West Bromwich",21550
+https://fbref.com/en/matches/ba92fd78/Norwich-City-Preston-North-End-October-8-2022-Championship,Norwich City,Preston North End,1665237600,Dean Smith,Ryan Lowe,"Carrow Road, Norwich",26062
+https://fbref.com/en/matches/d0246a9f/Stoke-City-Sheffield-United-October-8-2022-Championship,Stoke City,Sheffield United,1665237600,Alex Neil,Paul Heckingbottom,"Bet365 Stadium, Stoke-on-Trent",22008
+https://fbref.com/en/matches/ea91e3d3/Swansea-City-Sunderland-October-8-2022-Championship,Swansea City,Sunderland,1665237600,Russell Martin,Tony Mowbray,"Swansea.com Stadium, Swansea",18008
+https://fbref.com/en/matches/01077ad7/Huddersfield-Town-Hull-City-October-9-2022-Championship,Huddersfield Town,Hull City,1665313200,Mark Fotheringham,Andy Dawson,"The John Smith's Stadium, Huddersfield",18628
+https://fbref.com/en/matches/8e068fda/Wigan-Athletic-Blackburn-Rovers-October-11-2022-Championship,Wigan Athletic,Blackburn Rovers,1665513900,Leam Richardson ,Jon Dahl Tomasson,"The DW Stadium, Wigan",13611
+https://fbref.com/en/matches/3bb36390/Bristol-City-Preston-North-End-October-12-2022-Championship,Bristol City,Preston North End,1665600300,Nigel Pearson,Ryan Lowe,"Ashton Gate Stadium, Bristol",17367
+https://fbref.com/en/matches/433f288c/Rotherham-United-Huddersfield-Town-October-15-2022-Championship,Rotherham United,Huddersfield Town,1665833400,Matt Taylor,Mark Fotheringham,"AESSEAL New York Stadium, Rotherham",11006
+https://fbref.com/en/matches/74c1230d/Luton-Town-Queens-Park-Rangers-October-15-2022-Championship,Luton Town,Queens Park Rangers,1665833400,Nathan Jones,Michael Beale,"Kenilworth Road Stadium, Luton",10011
+https://fbref.com/en/matches/1afbd5e5/Bristol-City-Millwall-October-15-2022-Championship,Bristol City,Millwall,1665842400,Nigel Pearson,Gary Rowett,"Ashton Gate Stadium, Bristol",19122
+https://fbref.com/en/matches/55c3c5ad/Sheffield-United-Blackpool-October-15-2022-Championship,Sheffield United,Blackpool,1665842400,Paul Heckingbottom,Michael Appleton,"Bramall Lane, Sheffield",28458
+https://fbref.com/en/matches/57e51c9e/Preston-North-End-Stoke-City-October-15-2022-Championship,Preston North End,Stoke City,1665842400,Ryan Lowe,Alex Neil,"Deepdale Stadium, Preston",17498
+https://fbref.com/en/matches/71d2b02e/Burnley-Swansea-City-October-15-2022-Championship,Burnley,Swansea City,1665842400,Vincent Kompany,Russell Martin,"Turf Moor, Burnley",18728
+https://fbref.com/en/matches/8da8eb79/Cardiff-City-Coventry-City-October-15-2022-Championship,Cardiff City,Coventry City,1665842400,Mark Hudson,Mark Robins,"Cardiff City Stadium, Cardiff",19861
+https://fbref.com/en/matches/cccfd248/Sunderland-Wigan-Athletic-October-15-2022-Championship,Sunderland,Wigan Athletic,1665842400,Tony Mowbray,Leam Richardson ,"Stadium of Light, Sunderland",37060
+https://fbref.com/en/matches/d5a1941f/Reading-West-Bromwich-Albion-October-15-2022-Championship,Reading,West Bromwich Albion,1665842400,Paul Ince,Richard Beale,"Select Car Leasing Stadium, Reading",14235
+https://fbref.com/en/matches/e99c4a52/Middlesbrough-Blackburn-Rovers-October-15-2022-Championship,Middlesbrough,Blackburn Rovers,1665842400,Leo Percovich,Jon Dahl Tomasson,"Riverside Stadium, Middlesbrough",24213
+https://fbref.com/en/matches/07e29e36/Watford-Norwich-City-October-15-2022-Championship,Watford,Norwich City,1665859500,Slaven Bilić,Dean Smith,"Vicarage Road Stadium, Watford",19400
+https://fbref.com/en/matches/e5e3ebfe/Hull-City-Birmingham-City-October-16-2022-Championship,Hull City,Birmingham City,1665928800,Andy Dawson,John Eustace,"MKM Stadium, Hull",16587
+https://fbref.com/en/matches/58290014/Huddersfield-Town-Preston-North-End-October-18-2022-Championship,Huddersfield Town,Preston North End,1666118700,Mark Fotheringham,Ryan Lowe,"The John Smith's Stadium, Huddersfield",18357
+https://fbref.com/en/matches/ad13edcb/Norwich-City-Luton-Town-October-18-2022-Championship,Norwich City,Luton Town,1666118700,Dean Smith,Nathan Jones,"Carrow Road, Norwich",25846
+https://fbref.com/en/matches/e2be46fa/Swansea-City-Reading-October-18-2022-Championship,Swansea City,Reading,1666118700,Russell Martin,Paul Ince,"Swansea.com Stadium, Swansea",15717
+https://fbref.com/en/matches/00137021/Stoke-City-Rotherham-United-October-18-2022-Championship,Stoke City,Rotherham United,1666119600,Alex Neil,Matt Taylor,"Bet365 Stadium, Stoke-on-Trent",18036
+https://fbref.com/en/matches/4761ad01/Blackburn-Rovers-Sunderland-October-18-2022-Championship,Blackburn Rovers,Sunderland,1666119600,Jon Dahl Tomasson,Tony Mowbray,"Ewood Park, Blackburn",15171
+https://fbref.com/en/matches/94cacb79/West-Bromwich-Albion-Bristol-City-October-18-2022-Championship,West Bromwich Albion,Bristol City,1666119600,Richard Beale,Nigel Pearson,"The Hawthorns, West Bromwich",21004
+https://fbref.com/en/matches/0be304a8/Blackpool-Hull-City-October-19-2022-Championship,Blackpool,Hull City,1666205100,Michael Appleton,Andy Dawson,"Bloomfield Road, Blackpool",9884
+https://fbref.com/en/matches/40db8990/Birmingham-City-Burnley-October-19-2022-Championship,Birmingham City,Burnley,1666205100,John Eustace,Vincent Kompany,"St Andrew's Trillion Trophy Stadium, Birmingham",16303
+https://fbref.com/en/matches/68dfe994/Wigan-Athletic-Middlesbrough-October-19-2022-Championship,Wigan Athletic,Middlesbrough,1666205100,Leam Richardson ,Leo Percovich,"The DW Stadium, Wigan",10226
+https://fbref.com/en/matches/81207176/Queens-Park-Rangers-Cardiff-City-October-19-2022-Championship,Queens Park Rangers,Cardiff City,1666205100,Michael Beale,Mark Hudson,"Kiyan Prince Foundation Stadium, London",12805
+https://fbref.com/en/matches/b3f5940e/Coventry-City-Sheffield-United-October-19-2022-Championship,Coventry City,Sheffield United,1666205100,Mark Robins,Paul Heckingbottom,"Coventry Building Society Arena, Coventry",17913
+https://fbref.com/en/matches/ca9509f3/Millwall-Watford-October-19-2022-Championship,Millwall,Watford,1666206000,Gary Rowett,Slaven Bilić,"The Den, London",12787
+https://fbref.com/en/matches/92fc14ad/Blackpool-Preston-North-End-October-22-2022-Championship,Blackpool,Preston North End,1666438200,Michael Appleton,Ryan Lowe,"Bloomfield Road, Blackpool",13632
+https://fbref.com/en/matches/10bebd9d/Reading-Bristol-City-October-22-2022-Championship,Reading,Bristol City,1666447200,Paul Ince,Nigel Pearson,"Select Car Leasing Stadium, Reading",13606
+https://fbref.com/en/matches/310704c1/Sheffield-United-Norwich-City-October-22-2022-Championship,Sheffield United,Norwich City,1666447200,Paul Heckingbottom,Dean Smith,"Bramall Lane, Sheffield",30035
+https://fbref.com/en/matches/5d3ee33e/Rotherham-United-Hull-City-October-22-2022-Championship,Rotherham United,Hull City,1666447200,Matt Taylor,Andy Dawson,"AESSEAL New York Stadium, Rotherham",11220
+https://fbref.com/en/matches/8bd6d88b/Blackburn-Rovers-Birmingham-City-October-22-2022-Championship,Blackburn Rovers,Birmingham City,1666447200,Jon Dahl Tomasson,John Eustace,"Ewood Park, Blackburn",14092
+https://fbref.com/en/matches/9f811b3f/Queens-Park-Rangers-Wigan-Athletic-October-22-2022-Championship,Queens Park Rangers,Wigan Athletic,1666447200,Michael Beale,Leam Richardson ,"Kiyan Prince Foundation Stadium, London",16353
+https://fbref.com/en/matches/a62d91de/Millwall-West-Bromwich-Albion-October-22-2022-Championship,Millwall,West Bromwich Albion,1666447200,Gary Rowett,Richard Beale,"The Den, London",15212
+https://fbref.com/en/matches/c5aeab7f/Middlesbrough-Huddersfield-Town-October-22-2022-Championship,Middlesbrough,Huddersfield Town,1666447200,Leo Percovich,Mark Fotheringham,"Riverside Stadium, Middlesbrough",23661
+https://fbref.com/en/matches/ebc02255/Sunderland-Burnley-October-22-2022-Championship,Sunderland,Burnley,1666447200,Tony Mowbray,Vincent Kompany,"Stadium of Light, Sunderland",37349
+https://fbref.com/en/matches/f3f1ee5d/Stoke-City-Coventry-City-October-22-2022-Championship,Stoke City,Coventry City,1666447200,Alex Neil,Mark Robins,"Bet365 Stadium, Stoke-on-Trent",22453
+https://fbref.com/en/matches/a590f986/Watford-Luton-Town-October-23-2022-Championship,Watford,Luton Town,1666522800,Slaven Bilić,Nathan Jones,"Vicarage Road Stadium, Watford",19282
+https://fbref.com/en/matches/acc677ee/Swansea-City-Cardiff-City-October-23-2022-Championship,Swansea City,Cardiff City,1666522800,Russell Martin,Mark Hudson,"Swansea.com Stadium, Swansea",19814
+https://fbref.com/en/matches/6887b57a/Coventry-City-Rotherham-United-October-25-2022-Championship,Coventry City,Rotherham United,1666723500,Mark Robins,Matt Taylor,"Coventry Building Society Arena, Coventry",18953
+https://fbref.com/en/matches/97297f01/Burnley-Norwich-City-October-25-2022-Championship,Burnley,Norwich City,1666724400,Vincent Kompany,Dean Smith,"Turf Moor, Burnley",14858
+https://fbref.com/en/matches/839b6100/Birmingham-City-Queens-Park-Rangers-October-28-2022-Championship,Birmingham City,Queens Park Rangers,1666983600,John Eustace,Michael Beale,"St Andrew's Trillion Trophy Stadium, Birmingham",19007
+https://fbref.com/en/matches/0794a0af/Bristol-City-Swansea-City-October-29-2022-Championship,Bristol City,Swansea City,1667041200,Nigel Pearson,Russell Martin,"Ashton Gate Stadium, Bristol",21007
+https://fbref.com/en/matches/d84237f0/West-Bromwich-Albion-Sheffield-United-October-29-2022-Championship,West Bromwich Albion,Sheffield United,1667043000,Carlos Corberán,Paul Heckingbottom,"The Hawthorns, West Bromwich",22270
+https://fbref.com/en/matches/140e9753/Burnley-Reading-October-29-2022-Championship,Burnley,Reading,1667052000,Vincent Kompany,Paul Ince,"Turf Moor, Burnley",18684
+https://fbref.com/en/matches/1e971ec4/Hull-City-Blackburn-Rovers-October-29-2022-Championship,Hull City,Blackburn Rovers,1667052000,Andy Dawson,Jon Dahl Tomasson,"MKM Stadium, Hull",18843
+https://fbref.com/en/matches/7d75e6ed/Cardiff-City-Rotherham-United-October-29-2022-Championship,Cardiff City,Rotherham United,1667052000,Mark Hudson,Matt Taylor,"Cardiff City Stadium, Cardiff",17395
+https://fbref.com/en/matches/7f326db7/Huddersfield-Town-Millwall-October-29-2022-Championship,Huddersfield Town,Millwall,1667052000,Mark Fotheringham,Gary Rowett,"The John Smith's Stadium, Huddersfield",17717
+https://fbref.com/en/matches/9333516b/Norwich-City-Stoke-City-October-29-2022-Championship,Norwich City,Stoke City,1667052000,Dean Smith,Alex Neil,"Carrow Road, Norwich",26159
+https://fbref.com/en/matches/935d8241/Luton-Town-Sunderland-October-29-2022-Championship,Luton Town,Sunderland,1667052000,Nathan Jones,Tony Mowbray,"Kenilworth Road Stadium, Luton",10060
+https://fbref.com/en/matches/cfb6eba9/Coventry-City-Blackpool-October-29-2022-Championship,Coventry City,Blackpool,1667052000,Mark Robins,Michael Appleton,"Coventry Building Society Arena, Coventry",8924
+https://fbref.com/en/matches/dc97e4e9/Wigan-Athletic-Watford-October-29-2022-Championship,Wigan Athletic,Watford,1667052000,Leam Richardson ,Slaven Bilić,"The DW Stadium, Wigan",10642
+https://fbref.com/en/matches/fd223877/Preston-North-End-Middlesbrough-October-29-2022-Championship,Preston North End,Middlesbrough,1667052000,Ryan Lowe,Michael Carrick,"Deepdale Stadium, Preston",16984
+https://fbref.com/en/matches/a1e99c7d/Luton-Town-Reading-November-1-2022-Championship,Luton Town,Reading,1667331900,Nathan Jones,Paul Ince,"Kenilworth Road Stadium, Luton",9620
+https://fbref.com/en/matches/bbcce937/Hull-City-Middlesbrough-November-1-2022-Championship,Hull City,Middlesbrough,1667331900,Andy Dawson,Michael Carrick,"MKM Stadium, Hull",16445
+https://fbref.com/en/matches/df63945e/Coventry-City-Blackburn-Rovers-November-1-2022-Championship,Coventry City,Blackburn Rovers,1667331900,Mark Robins,Jon Dahl Tomasson,"Coventry Building Society Arena, Coventry",16530
+https://fbref.com/en/matches/f89860e2/Preston-North-End-Swansea-City-November-1-2022-Championship,Preston North End,Swansea City,1667331900,Ryan Lowe,Russell Martin,"Deepdale Stadium, Preston",13631
+https://fbref.com/en/matches/08dbb17a/West-Bromwich-Albion-Blackpool-November-1-2022-Championship,West Bromwich Albion,Blackpool,1667332800,Carlos Corberán,Michael Appleton,"The Hawthorns, West Bromwich",19786
+https://fbref.com/en/matches/c80c3b41/Bristol-City-Sheffield-United-November-1-2022-Championship,Bristol City,Sheffield United,1667332800,Nigel Pearson,Paul Heckingbottom,"Ashton Gate Stadium, Bristol",17437
+https://fbref.com/en/matches/0eb9de3c/Huddersfield-Town-Sunderland-November-2-2022-Championship,Huddersfield Town,Sunderland,1667418300,Mark Fotheringham,Tony Mowbray,"The John Smith's Stadium, Huddersfield",19341
+https://fbref.com/en/matches/1cb25d4e/Cardiff-City-Watford-November-2-2022-Championship,Cardiff City,Watford,1667418300,Mark Hudson,Slaven Bilić,"Cardiff City Stadium, Cardiff",17036
+https://fbref.com/en/matches/2d1fabc3/Burnley-Rotherham-United-November-2-2022-Championship,Burnley,Rotherham United,1667418300,Vincent Kompany,Matt Taylor,"Turf Moor, Burnley",17572
+https://fbref.com/en/matches/6fef09a6/Norwich-City-Queens-Park-Rangers-November-2-2022-Championship,Norwich City,Queens Park Rangers,1667418300,Dean Smith,Michael Beale,"Carrow Road, Norwich",25458
+https://fbref.com/en/matches/b40c7530/Birmingham-City-Millwall-November-2-2022-Championship,Birmingham City,Millwall,1667418300,John Eustace,Gary Rowett,"St Andrew's Trillion Trophy Stadium, Birmingham",15030
+https://fbref.com/en/matches/c8dba1b1/Wigan-Athletic-Stoke-City-November-2-2022-Championship,Wigan Athletic,Stoke City,1667418300,Leam Richardson ,Alex Neil,"The DW Stadium, Wigan",10223
+https://fbref.com/en/matches/09247691/Reading-Preston-North-End-November-4-2022-Championship,Reading,Preston North End,1667592000,Paul Ince,Ryan Lowe,"Select Car Leasing Stadium, Reading",11777
+https://fbref.com/en/matches/23804e13/Sheffield-United-Burnley-November-5-2022-Championship,Sheffield United,Burnley,1667651400,Paul Heckingbottom,Vincent Kompany,"Bramall Lane, Sheffield",28924
+https://fbref.com/en/matches/07e04551/Middlesbrough-Bristol-City-November-5-2022-Championship,Middlesbrough,Bristol City,1667660400,Michael Carrick,Nigel Pearson,"Riverside Stadium, Middlesbrough",23899
+https://fbref.com/en/matches/11c99e95/Blackpool-Luton-Town-November-5-2022-Championship,Blackpool,Luton Town,1667660400,Michael Appleton,Nathan Jones,"Bloomfield Road, Blackpool",11452
+https://fbref.com/en/matches/6c94959d/Queens-Park-Rangers-West-Bromwich-Albion-November-5-2022-Championship,Queens Park Rangers,West Bromwich Albion,1667660400,Michael Beale,Carlos Corberán,"Kiyan Prince Foundation Stadium, London",17139
+https://fbref.com/en/matches/7c92eca4/Millwall-Hull-City-November-5-2022-Championship,Millwall,Hull City,1667660400,Gary Rowett,Liam Rosenior,"The Den, London",14488
+https://fbref.com/en/matches/8af147ea/Stoke-City-Birmingham-City-November-5-2022-Championship,Stoke City,Birmingham City,1667660400,Alex Neil,John Eustace,"Bet365 Stadium, Stoke-on-Trent",22459
+https://fbref.com/en/matches/913cf9ef/Watford-Coventry-City-November-5-2022-Championship,Watford,Coventry City,1667660400,Slaven Bilić,Mark Robins,"Vicarage Road Stadium, Watford",20164
+https://fbref.com/en/matches/ac05a4b4/Swansea-City-Wigan-Athletic-November-5-2022-Championship,Swansea City,Wigan Athletic,1667660400,Russell Martin,Leam Richardson ,"Swansea.com Stadium, Swansea",16644
+https://fbref.com/en/matches/be631a99/Blackburn-Rovers-Huddersfield-Town-November-5-2022-Championship,Blackburn Rovers,Huddersfield Town,1667660400,Jon Dahl Tomasson,Mark Fotheringham,"Ewood Park, Blackburn",15179
+https://fbref.com/en/matches/d743985b/Sunderland-Cardiff-City-November-5-2022-Championship,Sunderland,Cardiff City,1667660400,Tony Mowbray,Mark Hudson,"Stadium of Light, Sunderland",27015
+https://fbref.com/en/matches/de6867a7/Rotherham-United-Norwich-City-November-5-2022-Championship,Rotherham United,Norwich City,1667660400,Matt Taylor,Dean Smith,"AESSEAL New York Stadium, Rotherham",10913
+https://fbref.com/en/matches/58decb45/Coventry-City-Wigan-Athletic-November-8-2022-Championship,Coventry City,Wigan Athletic,1667936700,Mark Robins,Leam Richardson ,"Coventry Building Society Arena, Coventry",17227
+https://fbref.com/en/matches/159bfa16/Sheffield-United-Rotherham-United-November-8-2022-Championship,Sheffield United,Rotherham United,1667936700,Paul Heckingbottom,Matt Taylor,"Bramall Lane, Sheffield",30700
+https://fbref.com/en/matches/54a6fd4b/Queens-Park-Rangers-Huddersfield-Town-November-8-2022-Championship,Queens Park Rangers,Huddersfield Town,1667936700,Michael Beale,Mark Fotheringham,"Kiyan Prince Foundation Stadium, London",12769
+https://fbref.com/en/matches/982591c3/Birmingham-City-Swansea-City-November-8-2022-Championship,Birmingham City,Swansea City,1667936700,John Eustace,Russell Martin,"St Andrew's Trillion Trophy Stadium, Birmingham",15491
+https://fbref.com/en/matches/d011a48a/Blackpool-Middlesbrough-November-8-2022-Championship,Blackpool,Middlesbrough,1667936700,Michael Appleton,Michael Carrick,"Bloomfield Road, Blackpool",12191
+https://fbref.com/en/matches/db6542ad/Cardiff-City-Hull-City-November-8-2022-Championship,Cardiff City,Hull City,1667936700,Mark Hudson,Liam Rosenior,"Cardiff City Stadium, Cardiff",16387
+https://fbref.com/en/matches/fe49f8f2/Stoke-City-Luton-Town-November-8-2022-Championship,Stoke City,Luton Town,1667936700,Alex Neil,Nathan Jones,"Bet365 Stadium, Stoke-on-Trent",18095
+https://fbref.com/en/matches/05e9e5e9/Watford-Reading-November-8-2022-Championship,Watford,Reading,1667937600,Slaven Bilić,Paul Ince,"Vicarage Road Stadium, Watford",18847
+https://fbref.com/en/matches/c0d89b5c/Birmingham-City-Sunderland-November-11-2022-Championship,Birmingham City,Sunderland,1668196800,John Eustace,Tony Mowbray,"St Andrew's Trillion Trophy Stadium, Birmingham",18702
+https://fbref.com/en/matches/096988ae/Bristol-City-Watford-November-12-2022-Championship,Bristol City,Watford,1668265200,Nigel Pearson,Slaven Bilić,"Ashton Gate Stadium, Bristol",23501
+https://fbref.com/en/matches/29dcc607/Coventry-City-Queens-Park-Rangers-November-12-2022-Championship,Coventry City,Queens Park Rangers,1668265200,Mark Robins,Michael Beale,"Coventry Building Society Arena, Coventry",23201
+https://fbref.com/en/matches/2f0b0ff0/Huddersfield-Town-Swansea-City-November-12-2022-Championship,Huddersfield Town,Swansea City,1668265200,Mark Fotheringham,Russell Martin,"The John Smith's Stadium, Huddersfield",17852
+https://fbref.com/en/matches/726bae96/Preston-North-End-Millwall-November-12-2022-Championship,Preston North End,Millwall,1668265200,Ryan Lowe,Gary Rowett,"Deepdale Stadium, Preston",15184
+https://fbref.com/en/matches/7ddffebc/West-Bromwich-Albion-Stoke-City-November-12-2022-Championship,West Bromwich Albion,Stoke City,1668265200,Carlos Corberán,Alex Neil,"The Hawthorns, West Bromwich",23728
+https://fbref.com/en/matches/84445078/Wigan-Athletic-Blackpool-November-12-2022-Championship,Wigan Athletic,Blackpool,1668265200,Rob Kelly,Michael Appleton,"The DW Stadium, Wigan",14059
+https://fbref.com/en/matches/8573a527/Norwich-City-Middlesbrough-November-12-2022-Championship,Norwich City,Middlesbrough,1668265200,Dean Smith,Michael Carrick,"Carrow Road, Norwich",26673
+https://fbref.com/en/matches/a17a7895/Cardiff-City-Sheffield-United-November-12-2022-Championship,Cardiff City,Sheffield United,1668265200,Mark Hudson,Paul Heckingbottom,"Cardiff City Stadium, Cardiff",18700
+https://fbref.com/en/matches/a6070611/Hull-City-Reading-November-12-2022-Championship,Hull City,Reading,1668265200,Liam Rosenior,Paul Ince,"MKM Stadium, Hull",15997
+https://fbref.com/en/matches/d247459a/Luton-Town-Rotherham-United-November-12-2022-Championship,Luton Town,Rotherham United,1668265200,Mick Harford,Matt Taylor,"Kenilworth Road Stadium, Luton",10071
+https://fbref.com/en/matches/90827254/Burnley-Blackburn-Rovers-November-13-2022-Championship,Burnley,Blackburn Rovers,1668342600,Vincent Kompany,Jon Dahl Tomasson,"Turf Moor, Burnley",21747
+https://fbref.com/en/matches/7f8bd6ee/Sunderland-Millwall-December-3-2022-Championship,Sunderland,Millwall,1670070600,Tony Mowbray,Gary Rowett,"Stadium of Light, Sunderland",37012
+https://fbref.com/en/matches/d5a927da/Blackburn-Rovers-Preston-North-End-December-10-2022-Championship,Blackburn Rovers,Preston North End,1670673600,Jon Dahl Tomasson,Ryan Lowe,"Ewood Park, Blackburn",17690
+https://fbref.com/en/matches/ff2bd35d/Rotherham-United-Bristol-City-December-10-2022-Championship,Rotherham United,Bristol City,1670675400,Matt Taylor,Nigel Pearson,"AESSEAL New York Stadium, Rotherham",10167
+https://fbref.com/en/matches/0bd97655/Reading-Coventry-City-December-10-2022-Championship,Reading,Coventry City,1670680800,Paul Ince,Mark Robins,"Select Car Leasing Stadium, Reading",15213
+https://fbref.com/en/matches/1c8c4942/Middlesbrough-Luton-Town-December-10-2022-Championship,Middlesbrough,Luton Town,1670684400,Michael Carrick,Rob Edwards,"Riverside Stadium, Middlesbrough",23187
+https://fbref.com/en/matches/403b93c3/Stoke-City-Cardiff-City-December-10-2022-Championship,Stoke City,Cardiff City,1670684400,Alex Neil,Mark Hudson,"Bet365 Stadium, Stoke-on-Trent",20111
+https://fbref.com/en/matches/718d3aa0/Sheffield-United-Huddersfield-Town-December-10-2022-Championship,Sheffield United,Huddersfield Town,1670684400,Paul Heckingbottom,Mark Fotheringham,"Bramall Lane, Sheffield",27794
+https://fbref.com/en/matches/7e12d78c/Swansea-City-Norwich-City-December-10-2022-Championship,Swansea City,Norwich City,1670684400,Russell Martin,Dean Smith,"Swansea.com Stadium, Swansea",16362
+https://fbref.com/en/matches/ce2a8d0f/Blackpool-Birmingham-City-December-10-2022-Championship,Blackpool,Birmingham City,1670684400,Michael Appleton,John Eustace,"Bloomfield Road, Blackpool",12854
+https://fbref.com/en/matches/d3a74276/Millwall-Wigan-Athletic-December-10-2022-Championship,Millwall,Wigan Athletic,1670684400,Gary Rowett,Kolo Touré,"The Den, London",12698
+https://fbref.com/en/matches/2519e605/Queens-Park-Rangers-Burnley-December-11-2022-Championship,Queens Park Rangers,Burnley,1670763600,Paul Hall,Vincent Kompany,"Kiyan Prince Foundation Stadium, London",14299
+https://fbref.com/en/matches/91aabf06/Watford-Hull-City-December-11-2022-Championship,Watford,Hull City,1670770800,Slaven Bilić,Liam Rosenior,"Vicarage Road Stadium, Watford",18846
+https://fbref.com/en/matches/9e923111/Sunderland-West-Bromwich-Albion-December-12-2022-Championship,Sunderland,West Bromwich Albion,1670875200,Tony Mowbray,Carlos Corberán,"Stadium of Light, Sunderland",37432
+https://fbref.com/en/matches/ff3f9fe8/Birmingham-City-Reading-December-16-2022-Championship,Birmingham City,Reading,1671220800,John Eustace,Paul Ince,"St Andrew's Trillion Trophy Stadium, Birmingham",14647
+https://fbref.com/en/matches/007369ed/Bristol-City-Stoke-City-December-17-2022-Championship,Bristol City,Stoke City,1671289200,Nigel Pearson,Alex Neil,"Ashton Gate Stadium, Bristol",15617
+https://fbref.com/en/matches/0e3132c0/West-Bromwich-Albion-Rotherham-United-December-17-2022-Championship,West Bromwich Albion,Rotherham United,1671289200,Carlos Corberán,Matt Taylor,"The Hawthorns, West Bromwich",22519
+https://fbref.com/en/matches/196ce4f5/Burnley-Middlesbrough-December-17-2022-Championship,Burnley,Middlesbrough,1671289200,Vincent Kompany,Michael Carrick,"Turf Moor, Burnley",20603
+https://fbref.com/en/matches/643c3f17/Huddersfield-Town-Watford-December-17-2022-Championship,Huddersfield Town,Watford,1671289200,Mark Fotheringham,Slaven Bilić,"The John Smith's Stadium, Huddersfield",18434
+https://fbref.com/en/matches/8d3362eb/Hull-City-Sunderland-December-17-2022-Championship,Hull City,Sunderland,1671289200,Liam Rosenior,Tony Mowbray,"MKM Stadium, Hull",18120
+https://fbref.com/en/matches/c818e81a/Preston-North-End-Queens-Park-Rangers-December-17-2022-Championship,Preston North End,Queens Park Rangers,1671289200,Ryan Lowe,Neil Critchley,"Deepdale Stadium, Preston",14534
+https://fbref.com/en/matches/d5881d7e/Cardiff-City-Blackpool-December-17-2022-Championship,Cardiff City,Blackpool,1671289200,Mark Hudson,Michael Appleton,"Cardiff City Stadium, Cardiff",17544
+https://fbref.com/en/matches/fc113546/Coventry-City-Swansea-City-December-17-2022-Championship,Coventry City,Swansea City,1671289200,Mark Robins,Russell Martin,"Coventry Building Society Arena, Coventry",17985
+https://fbref.com/en/matches/35773259/Norwich-City-Blackburn-Rovers-December-17-2022-Championship,Norwich City,Blackburn Rovers,1671298200,Dean Smith,Jon Dahl Tomasson,"Carrow Road, Norwich",25866
+https://fbref.com/en/matches/c47a3561/Wigan-Athletic-Sheffield-United-December-19-2022-Championship,Wigan Athletic,Sheffield United,1671480000,Kolo Touré,Paul Heckingbottom,"The DW Stadium, Wigan",11556
+https://fbref.com/en/matches/828e94de/Coventry-City-West-Bromwich-Albion-December-21-2022-Championship,Coventry City,West Bromwich Albion,1671651900,Mark Robins,Carlos Corberán,"Coventry Building Society Arena, Coventry",22519
+https://fbref.com/en/matches/67f6377f/Watford-Millwall-December-26-2022-Championship,Watford,Millwall,1672056000,Slaven Bilić,Gary Rowett,"Vicarage Road Stadium, Watford",20204
+https://fbref.com/en/matches/2d5c30c6/Sunderland-Blackburn-Rovers-December-26-2022-Championship,Sunderland,Blackburn Rovers,1672057800,Tony Mowbray,Jon Dahl Tomasson,"Stadium of Light, Sunderland",43921
+https://fbref.com/en/matches/0cc5e56b/Rotherham-United-Stoke-City-December-26-2022-Championship,Rotherham United,Stoke City,1672066800,Matt Taylor,Alex Neil,"AESSEAL New York Stadium, Rotherham",11517
+https://fbref.com/en/matches/1cdca239/Sheffield-United-Coventry-City-December-26-2022-Championship,Sheffield United,Coventry City,1672066800,Paul Heckingbottom,Mark Robins,"Bramall Lane, Sheffield",29651
+https://fbref.com/en/matches/7d8bdc34/Middlesbrough-Wigan-Athletic-December-26-2022-Championship,Middlesbrough,Wigan Athletic,1672066800,Michael Carrick,Kolo Touré,"Riverside Stadium, Middlesbrough",31048
+https://fbref.com/en/matches/80f0b468/Preston-North-End-Huddersfield-Town-December-26-2022-Championship,Preston North End,Huddersfield Town,1672066800,Ryan Lowe,Mark Fotheringham,"Deepdale Stadium, Preston",16982
+https://fbref.com/en/matches/da383e57/Hull-City-Blackpool-December-26-2022-Championship,Hull City,Blackpool,1672066800,Liam Rosenior,Michael Appleton,"MKM Stadium, Hull",19170
+https://fbref.com/en/matches/fd266eb7/Bristol-City-West-Bromwich-Albion-December-26-2022-Championship,Bristol City,West Bromwich Albion,1672066800,Nigel Pearson,Carlos Corberán,"Ashton Gate Stadium, Bristol",23181
+https://fbref.com/en/matches/30f52d41/Cardiff-City-Queens-Park-Rangers-December-26-2022-Championship,Cardiff City,Queens Park Rangers,1672074900,Mark Hudson,Neil Critchley,"Cardiff City Stadium, Cardiff",18549
+https://fbref.com/en/matches/d874e128/Luton-Town-Norwich-City-December-26-2022-Championship,Luton Town,Norwich City,1672083900,Rob Edwards,Dean Smith,"Kenilworth Road Stadium, Luton",9831
+https://fbref.com/en/matches/4cb5d21c/Reading-Swansea-City-December-27-2022-Championship,Reading,Swansea City,1672161300,Paul Ince,Russell Martin,"Select Car Leasing Stadium, Reading",15452
+https://fbref.com/en/matches/6a3e53f3/Burnley-Birmingham-City-December-27-2022-Championship,Burnley,Birmingham City,1672171200,Vincent Kompany,John Eustace,"Turf Moor, Burnley",20945
+https://fbref.com/en/matches/e6a39e96/Queens-Park-Rangers-Luton-Town-December-29-2022-Championship,Queens Park Rangers,Luton Town,1672336800,Neil Critchley,Rob Edwards,"Kiyan Prince Foundation Stadium, London",16030
+https://fbref.com/en/matches/439ed927/Huddersfield-Town-Rotherham-United-December-29-2022-Championship,Huddersfield Town,Rotherham United,1672343100,Mark Fotheringham,Matt Taylor,"The John Smith's Stadium, Huddersfield",19378
+https://fbref.com/en/matches/61d1b2eb/Wigan-Athletic-Sunderland-December-29-2022-Championship,Wigan Athletic,Sunderland,1672343100,Kolo Touré,Tony Mowbray,"The DW Stadium, Wigan",14615
+https://fbref.com/en/matches/88daec5d/Coventry-City-Cardiff-City-December-29-2022-Championship,Coventry City,Cardiff City,1672343100,Mark Robins,Mark Hudson,"Coventry Building Society Arena, Coventry",21421
+https://fbref.com/en/matches/a700d747/Millwall-Bristol-City-December-29-2022-Championship,Millwall,Bristol City,1672343100,Gary Rowett,Nigel Pearson,"The Den, London",14814
+https://fbref.com/en/matches/d194c77c/Blackburn-Rovers-Middlesbrough-December-29-2022-Championship,Blackburn Rovers,Middlesbrough,1672343100,Jon Dahl Tomasson,Michael Carrick,"Ewood Park, Blackburn",18128
+https://fbref.com/en/matches/d3d37b3a/West-Bromwich-Albion-Preston-North-End-December-29-2022-Championship,West Bromwich Albion,Preston North End,1672344000,Carlos Corberán,Ryan Lowe,"The Hawthorns, West Bromwich",25321
+https://fbref.com/en/matches/28377d6a/Blackpool-Sheffield-United-December-29-2022-Championship,Blackpool,Sheffield United,1672344900,Michael Appleton,Paul Heckingbottom,"Bloomfield Road, Blackpool",4395
+https://fbref.com/en/matches/05257762/Norwich-City-Reading-December-30-2022-Championship,Norwich City,Reading,1672429500,Allan Russell,Paul Ince,"Carrow Road, Norwich",26218
+https://fbref.com/en/matches/1c836db6/Birmingham-City-Hull-City-December-30-2022-Championship,Birmingham City,Hull City,1672429500,John Eustace,Liam Rosenior,"St Andrew's Trillion Trophy Stadium, Birmingham",17868
+https://fbref.com/en/matches/573fc51e/Swansea-City-Watford-December-30-2022-Championship,Swansea City,Watford,1672429500,Russell Martin,Slaven Bilić,"Swansea.com Stadium, Swansea",17339
+https://fbref.com/en/matches/80616f8a/Stoke-City-Burnley-December-30-2022-Championship,Stoke City,Burnley,1672429500,Alex Neil,Vincent Kompany,"Bet365 Stadium, Stoke-on-Trent",21464
+https://fbref.com/en/matches/ae76daea/Blackburn-Rovers-Cardiff-City-January-1-2023-Championship,Blackburn Rovers,Cardiff City,1672574400,Jon Dahl Tomasson,Mark Hudson,"Ewood Park, Blackburn",12499
+https://fbref.com/en/matches/0496666a/Coventry-City-Bristol-City-January-1-2023-Championship,Coventry City,Bristol City,1672585200,Mark Robins,Nigel Pearson,"Coventry Building Society Arena, Coventry",19547
+https://fbref.com/en/matches/75a62d51/Blackpool-Sunderland-January-1-2023-Championship,Blackpool,Sunderland,1672585200,Michael Appleton,Tony Mowbray,"Bloomfield Road, Blackpool",14117
+https://fbref.com/en/matches/8077b27b/Huddersfield-Town-Luton-Town-January-1-2023-Championship,Huddersfield Town,Luton Town,1672585200,Mark Fotheringham,Rob Edwards,"The John Smith's Stadium, Huddersfield",18333
+https://fbref.com/en/matches/a94872b2/Millwall-Rotherham-United-January-1-2023-Championship,Millwall,Rotherham United,1672585200,Gary Rowett,Matt Taylor,"The Den, London",12899
+https://fbref.com/en/matches/245e8923/Stoke-City-Preston-North-End-January-2-2023-Championship,Stoke City,Preston North End,1672671600,Alex Neil,Ryan Lowe,"Bet365 Stadium, Stoke-on-Trent",20034
+https://fbref.com/en/matches/383ebc24/West-Bromwich-Albion-Reading-January-2-2023-Championship,West Bromwich Albion,Reading,1672671600,Carlos Corberán,Paul Ince,"The Hawthorns, West Bromwich",25322
+https://fbref.com/en/matches/4b94ea09/Norwich-City-Watford-January-2-2023-Championship,Norwich City,Watford,1672671600,Allan Russell,Slaven Bilić,"Carrow Road, Norwich",26587
+https://fbref.com/en/matches/5501b88d/Birmingham-City-Middlesbrough-January-2-2023-Championship,Birmingham City,Middlesbrough,1672671600,John Eustace,Michael Carrick,"St Andrew's Trillion Trophy Stadium, Birmingham",17823
+https://fbref.com/en/matches/d5191be2/Swansea-City-Burnley-January-2-2023-Championship,Swansea City,Burnley,1672671600,Russell Martin,Vincent Kompany,"Swansea.com Stadium, Swansea",17699
+https://fbref.com/en/matches/f0bda157/Wigan-Athletic-Hull-City-January-2-2023-Championship,Wigan Athletic,Hull City,1672671600,Kolo Touré,Liam Rosenior,"The DW Stadium, Wigan",12522
+https://fbref.com/en/matches/1b8184ee/Queens-Park-Rangers-Sheffield-United-January-2-2023-Championship,Queens Park Rangers,Sheffield United,1672689600,Neil Critchley,Paul Heckingbottom,"Kiyan Prince Foundation Stadium, London",14151
+https://fbref.com/en/matches/1c9c40a3/Rotherham-United-Blackburn-Rovers-January-14-2023-Championship,Rotherham United,Blackburn Rovers,1673699400,Matt Taylor,Jon Dahl Tomasson,"AESSEAL New York Stadium, Rotherham",10345
+https://fbref.com/en/matches/02915267/Burnley-Coventry-City-January-14-2023-Championship,Burnley,Coventry City,1673708400,Vincent Kompany,Mark Robins,"Turf Moor, Burnley",21290
+https://fbref.com/en/matches/255d6712/Bristol-City-Birmingham-City-January-14-2023-Championship,Bristol City,Birmingham City,1673708400,Nigel Pearson,John Eustace,"Ashton Gate Stadium, Bristol",21489
+https://fbref.com/en/matches/7969e868/Reading-Queens-Park-Rangers-January-14-2023-Championship,Reading,Queens Park Rangers,1673708400,Paul Ince,Neil Critchley,"Select Car Leasing Stadium, Reading",14186
+https://fbref.com/en/matches/7a7ca621/Preston-North-End-Norwich-City-January-14-2023-Championship,Preston North End,Norwich City,1673708400,Ryan Lowe,David Wagner,"Deepdale Stadium, Preston",11650
+https://fbref.com/en/matches/927b8de7/Middlesbrough-Millwall-January-14-2023-Championship,Middlesbrough,Millwall,1673708400,Michael Carrick,Gary Rowett,"Riverside Stadium, Middlesbrough",24614
+https://fbref.com/en/matches/9b965460/Sunderland-Swansea-City-January-14-2023-Championship,Sunderland,Swansea City,1673708400,Tony Mowbray,Russell Martin,"Stadium of Light, Sunderland",41030
+https://fbref.com/en/matches/b04af347/Hull-City-Huddersfield-Town-January-14-2023-Championship,Hull City,Huddersfield Town,1673708400,Liam Rosenior,Mark Fotheringham,"MKM Stadium, Hull",17928
+https://fbref.com/en/matches/cd50d134/Sheffield-United-Stoke-City-January-14-2023-Championship,Sheffield United,Stoke City,1673708400,Paul Heckingbottom,Alex Neil,"Bramall Lane, Sheffield",29644
+https://fbref.com/en/matches/d7854a1c/Watford-Blackpool-January-14-2023-Championship,Watford,Blackpool,1673708400,Slaven Bilić,Michael Appleton,"Vicarage Road Stadium, Watford",19679
+https://fbref.com/en/matches/dc3932e1/Luton-Town-West-Bromwich-Albion-January-14-2023-Championship,Luton Town,West Bromwich Albion,1673708400,Rob Edwards,Carlos Corberán,"Kenilworth Road Stadium, Luton",10069
+https://fbref.com/en/matches/f769b6b6/Cardiff-City-Wigan-Athletic-January-14-2023-Championship,Cardiff City,Wigan Athletic,1673708400,Mark Hudson,Kolo Touré,"Cardiff City Stadium, Cardiff",18041
+https://fbref.com/en/matches/e10d18b8/Sheffield-United-Hull-City-January-20-2023-Championship,Sheffield United,Hull City,1674243900,Paul Heckingbottom,Liam Rosenior,"Bramall Lane, Sheffield",29271
+https://fbref.com/en/matches/4b61b638/Burnley-West-Bromwich-Albion-January-20-2023-Championship,Burnley,West Bromwich Albion,1674244800,Vincent Kompany,Carlos Corberán,"Turf Moor, Burnley",19890
+https://fbref.com/en/matches/5661744c/Coventry-City-Norwich-City-January-21-2023-Championship,Coventry City,Norwich City,1674304200,Mark Robins,David Wagner,"Coventry Building Society Arena, Coventry",19877
+https://fbref.com/en/matches/380257b2/Birmingham-City-Preston-North-End-January-21-2023-Championship,Birmingham City,Preston North End,1674313200,John Eustace,Ryan Lowe,"St Andrew's Trillion Trophy Stadium, Birmingham",1659
+https://fbref.com/en/matches/77e01d74/Wigan-Athletic-Luton-Town-January-21-2023-Championship,Wigan Athletic,Luton Town,1674313200,Kolo Touré,Rob Edwards,"The DW Stadium, Wigan",11125
+https://fbref.com/en/matches/7f830bfe/Watford-Rotherham-United-January-21-2023-Championship,Watford,Rotherham United,1674313200,Slaven Bilić,Matt Taylor,"Vicarage Road Stadium, Watford",18911
+https://fbref.com/en/matches/871f2b5c/Queens-Park-Rangers-Swansea-City-January-21-2023-Championship,Queens Park Rangers,Swansea City,1674313200,Neil Critchley,Russell Martin,"Kiyan Prince Foundation Stadium, London",16110
+https://fbref.com/en/matches/b7b4d362/Bristol-City-Blackburn-Rovers-January-21-2023-Championship,Bristol City,Blackburn Rovers,1674313200,Nigel Pearson,Jon Dahl Tomasson,"Ashton Gate Stadium, Bristol",19882
+https://fbref.com/en/matches/c4013000/Cardiff-City-Millwall-January-21-2023-Championship,Cardiff City,Millwall,1674313200,Dean Whitehead,Gary Rowett,"Cardiff City Stadium, Cardiff",18838
+https://fbref.com/en/matches/c78b4115/Stoke-City-Reading-January-21-2023-Championship,Stoke City,Reading,1674313200,Alex Neil,Paul Ince,"Bet365 Stadium, Stoke-on-Trent",19157
+https://fbref.com/en/matches/d773bcc7/Sunderland-Middlesbrough-January-22-2023-Championship,Sunderland,Middlesbrough,1674388800,Tony Mowbray,Michael Carrick,"Stadium of Light, Sunderland",42584
+https://fbref.com/en/matches/954eaf4d/Coventry-City-Huddersfield-Town-January-28-2023-Championship,Coventry City,Huddersfield Town,1674918000,Mark Robins,Mark Fotheringham,"Coventry Building Society Arena, Coventry",17557
+https://fbref.com/en/matches/0215c33c/Hull-City-Queens-Park-Rangers-January-28-2023-Championship,Hull City,Queens Park Rangers,1674918000,Liam Rosenior,Neil Critchley,"MKM Stadium, Hull",16418
+https://fbref.com/en/matches/a377f567/Middlesbrough-Watford-January-28-2023-Championship,Middlesbrough,Watford,1674918000,Michael Carrick,Slaven Bilić,"Riverside Stadium, Middlesbrough",25469
+https://fbref.com/en/matches/51ed84ee/Luton-Town-Cardiff-City-January-31-2023-Championship,Luton Town,Cardiff City,1675194300,Rob Edwards,Sabri Lamouchi,"Kenilworth Road Stadium, Luton",9031
+https://fbref.com/en/matches/0caab560/West-Bromwich-Albion-Coventry-City-February-3-2023-Championship,West Bromwich Albion,Coventry City,1675454400,Carlos Corberán,Mark Robins,"The Hawthorns, West Bromwich",24719
+https://fbref.com/en/matches/21dcc19c/Norwich-City-Burnley-February-4-2023-Championship,Norwich City,Burnley,1675513800,David Wagner,Vincent Kompany,"Carrow Road, Norwich",26536
+https://fbref.com/en/matches/736d1de7/Rotherham-United-Sheffield-United-February-4-2023-Championship,Rotherham United,Sheffield United,1675513800,Matt Taylor,Paul Heckingbottom,"AESSEAL New York Stadium, Rotherham",11485
+https://fbref.com/en/matches/0c90460d/Middlesbrough-Blackpool-February-4-2023-Championship,Middlesbrough,Blackpool,1675522800,Michael Carrick,Mick McCarthy,"Riverside Stadium, Middlesbrough",26299
+https://fbref.com/en/matches/1af57f98/Hull-City-Cardiff-City-February-4-2023-Championship,Hull City,Cardiff City,1675522800,Liam Rosenior,Sabri Lamouchi,"MKM Stadium, Hull",16584
+https://fbref.com/en/matches/1be68347/Swansea-City-Birmingham-City-February-4-2023-Championship,Swansea City,Birmingham City,1675522800,Russell Martin,John Eustace,"Swansea.com Stadium, Swansea",17247
+https://fbref.com/en/matches/3856d902/Reading-Watford-February-4-2023-Championship,Reading,Watford,1675522800,Paul Ince,Slaven Bilić,"Select Car Leasing Stadium, Reading",13861
+https://fbref.com/en/matches/50eada8e/Luton-Town-Stoke-City-February-4-2023-Championship,Luton Town,Stoke City,1675522800,Rob Edwards,Alex Neil,"Kenilworth Road Stadium, Luton",10031
+https://fbref.com/en/matches/813a062e/Huddersfield-Town-Queens-Park-Rangers-February-4-2023-Championship,Huddersfield Town,Queens Park Rangers,1675522800,Mark Fotheringham,Neil Critchley,"The John Smith's Stadium, Huddersfield",17954
+https://fbref.com/en/matches/c691e04a/Preston-North-End-Bristol-City-February-4-2023-Championship,Preston North End,Bristol City,1675522800,Ryan Lowe,Nigel Pearson,"Deepdale Stadium, Preston",14261
+https://fbref.com/en/matches/eefb9781/Millwall-Sunderland-February-4-2023-Championship,Millwall,Sunderland,1675522800,Gary Rowett,Tony Mowbray,"The Den, London",18524
+https://fbref.com/en/matches/f3c76636/Blackburn-Rovers-Wigan-Athletic-February-6-2023-Championship,Blackburn Rovers,Wigan Athletic,1675713600,Jon Dahl Tomasson,Shaun Maloney,"Ewood Park, Blackburn",14540
+https://fbref.com/en/matches/bee26e4b/Blackpool-Huddersfield-Town-February-7-2023-Championship,Blackpool,Huddersfield Town,1675799100,Mick McCarthy,Mark Fotheringham,"Bloomfield Road, Blackpool",11164
+https://fbref.com/en/matches/03c8fc76/Birmingham-City-West-Bromwich-Albion-February-10-2023-Championship,Birmingham City,West Bromwich Albion,1676059200,John Eustace,Carlos Corberán,"St Andrew's Trillion Trophy Stadium, Birmingham",17781
+https://fbref.com/en/matches/163a7131/Cardiff-City-Middlesbrough-February-11-2023-Championship,Cardiff City,Middlesbrough,1676127600,Sabri Lamouchi,Michael Carrick,"Cardiff City Stadium, Cardiff",19182
+https://fbref.com/en/matches/204d9de0/Queens-Park-Rangers-Millwall-February-11-2023-Championship,Queens Park Rangers,Millwall,1676127600,Neil Critchley,Gary Rowett,"Kiyan Prince Foundation Stadium, London",15335
+https://fbref.com/en/matches/4001fe71/Blackpool-Rotherham-United-February-11-2023-Championship,Blackpool,Rotherham United,1676127600,Mick McCarthy,Matt Taylor,"Bloomfield Road, Blackpool",12262
+https://fbref.com/en/matches/50f2845b/Bristol-City-Norwich-City-February-11-2023-Championship,Bristol City,Norwich City,1676127600,Nigel Pearson,David Wagner,"Ashton Gate Stadium, Bristol",23757
+https://fbref.com/en/matches/552e576a/Stoke-City-Hull-City-February-11-2023-Championship,Stoke City,Hull City,1676127600,Alex Neil,Liam Rosenior,"Bet365 Stadium, Stoke-on-Trent",23970
+https://fbref.com/en/matches/996e744a/Wigan-Athletic-Huddersfield-Town-February-11-2023-Championship,Wigan Athletic,Huddersfield Town,1676127600,Shaun Maloney,Narcís Pelach Nadal,"The DW Stadium, Wigan",12268
+https://fbref.com/en/matches/9fb471fb/Sheffield-United-Swansea-City-February-11-2023-Championship,Sheffield United,Swansea City,1676127600,Paul Heckingbottom,Russell Martin,"Bramall Lane, Sheffield",27800
+https://fbref.com/en/matches/a2320ac8/Coventry-City-Luton-Town-February-11-2023-Championship,Coventry City,Luton Town,1676127600,Mark Robins,Rob Edwards,"Coventry Building Society Arena, Coventry",20366
+https://fbref.com/en/matches/a8f7cc4c/Sunderland-Reading-February-11-2023-Championship,Sunderland,Reading,1676127600,Tony Mowbray,Paul Ince,"Stadium of Light, Sunderland",38046
+https://fbref.com/en/matches/b60cdb53/Watford-Blackburn-Rovers-February-11-2023-Championship,Watford,Blackburn Rovers,1676127600,Slaven Bilić,Jon Dahl Tomasson,"Vicarage Road Stadium, Watford",19294
+https://fbref.com/en/matches/d3cea2a9/Burnley-Preston-North-End-February-11-2023-Championship,Burnley,Preston North End,1676127600,Vincent Kompany,Ryan Lowe,"Turf Moor, Burnley",21528
+https://fbref.com/en/matches/1fa52f77/Norwich-City-Hull-City-February-14-2023-Championship,Norwich City,Hull City,1676403900,David Wagner,Liam Rosenior,"Carrow Road, Norwich",25767
+https://fbref.com/en/matches/49534e33/Birmingham-City-Cardiff-City-February-14-2023-Championship,Birmingham City,Cardiff City,1676403900,John Eustace,Sabri Lamouchi,"St Andrew's Trillion Trophy Stadium, Birmingham",14369
+https://fbref.com/en/matches/7fb3191e/Coventry-City-Millwall-February-14-2023-Championship,Coventry City,Millwall,1676403900,Mark Robins,Gary Rowett,"Coventry Building Society Arena, Coventry",16446
+https://fbref.com/en/matches/a71fb516/Queens-Park-Rangers-Sunderland-February-14-2023-Championship,Queens Park Rangers,Sunderland,1676403900,Neil Critchley,Tony Mowbray,"Kiyan Prince Foundation Stadium, London",14471
+https://fbref.com/en/matches/37880f5b/Burnley-Watford-February-14-2023-Championship,Burnley,Watford,1676404800,Vincent Kompany,Slaven Bilić,"Turf Moor, Burnley",18393
+https://fbref.com/en/matches/ac764429/Reading-Rotherham-United-February-14-2023-Championship,Reading,Rotherham United,1676404800,Paul Ince,Matt Taylor,"Select Car Leasing Stadium, Reading",9492
+https://fbref.com/en/matches/3e723056/Stoke-City-Huddersfield-Town-February-15-2023-Championship,Stoke City,Huddersfield Town,1676490300,Alex Neil,Narcís Pelach Nadal,"Bet365 Stadium, Stoke-on-Trent",17700
+https://fbref.com/en/matches/6556a146/Preston-North-End-Luton-Town-February-15-2023-Championship,Preston North End,Luton Town,1676490300,Ryan Lowe,Rob Edwards,"Deepdale Stadium, Preston",13903
+https://fbref.com/en/matches/c3d63615/Bristol-City-Wigan-Athletic-February-15-2023-Championship,Bristol City,Wigan Athletic,1676490300,Nigel Pearson,Shaun Maloney,"Ashton Gate Stadium, Bristol",18766
+https://fbref.com/en/matches/e393c1f8/Swansea-City-Blackpool-February-15-2023-Championship,Swansea City,Blackpool,1676490300,Russell Martin,Mick McCarthy,"Swansea.com Stadium, Swansea",15345
+https://fbref.com/en/matches/1735b570/Sheffield-United-Middlesbrough-February-15-2023-Championship,Sheffield United,Middlesbrough,1676491200,Paul Heckingbottom,Michael Carrick,"Bramall Lane, Sheffield",29084
+https://fbref.com/en/matches/63515489/West-Bromwich-Albion-Blackburn-Rovers-February-15-2023-Championship,West Bromwich Albion,Blackburn Rovers,1676491200,Carlos Corberán,Jon Dahl Tomasson,"The Hawthorns, West Bromwich",21840
+https://fbref.com/en/matches/6780d2d8/Cardiff-City-Reading-February-17-2023-Championship,Cardiff City,Reading,1676664000,Sabri Lamouchi,Paul Ince,"Cardiff City Stadium, Cardiff",18879
+https://fbref.com/en/matches/fce891d4/Millwall-Sheffield-United-February-18-2023-Championship,Millwall,Sheffield United,1676723400,Gary Rowett,Paul Heckingbottom,"The Den, London",15571
+https://fbref.com/en/matches/52611126/Huddersfield-Town-Birmingham-City-February-18-2023-Championship,Huddersfield Town,Birmingham City,1676732400,Neil Warnock,John Eustace,"The John Smith's Stadium, Huddersfield",19564
+https://fbref.com/en/matches/596442a6/Middlesbrough-Queens-Park-Rangers-February-18-2023-Championship,Middlesbrough,Queens Park Rangers,1676732400,Michael Carrick,Neil Critchley,"Riverside Stadium, Middlesbrough",27456
+https://fbref.com/en/matches/8195cffd/Blackpool-Stoke-City-February-18-2023-Championship,Blackpool,Stoke City,1676732400,Mick McCarthy,Alex Neil,"Bloomfield Road, Blackpool",13238
+https://fbref.com/en/matches/b33214ec/Luton-Town-Burnley-February-18-2023-Championship,Luton Town,Burnley,1676732400,Rob Edwards,Vincent Kompany,"Kenilworth Road Stadium, Luton",10066
+https://fbref.com/en/matches/bd1c11ec/Sunderland-Bristol-City-February-18-2023-Championship,Sunderland,Bristol City,1676732400,Tony Mowbray,Nigel Pearson,"Stadium of Light, Sunderland",38682
+https://fbref.com/en/matches/cee54354/Blackburn-Rovers-Swansea-City-February-18-2023-Championship,Blackburn Rovers,Swansea City,1676732400,Jon Dahl Tomasson,Russell Martin,"Ewood Park, Blackburn",12584
+https://fbref.com/en/matches/d6608133/Hull-City-Preston-North-End-February-18-2023-Championship,Hull City,Preston North End,1676732400,Liam Rosenior,Ryan Lowe,"MKM Stadium, Hull",17776
+https://fbref.com/en/matches/e508ee4c/Rotherham-United-Coventry-City-February-18-2023-Championship,Rotherham United,Coventry City,1676732400,Matt Taylor,Mark Robins,"AESSEAL New York Stadium, Rotherham",10865
+https://fbref.com/en/matches/f596b197/Wigan-Athletic-Norwich-City-February-18-2023-Championship,Wigan Athletic,Norwich City,1676732400,Shaun Maloney,David Wagner,"The DW Stadium, Wigan",11603
+https://fbref.com/en/matches/9ad0e307/Watford-West-Bromwich-Albion-February-20-2023-Championship,Watford,West Bromwich Albion,1676923200,Slaven Bilić,Carlos Corberán,"Vicarage Road Stadium, Watford",18634
+https://fbref.com/en/matches/177cc36e/Rotherham-United-Sunderland-February-21-2023-Championship,Rotherham United,Sunderland,1677008700,Matt Taylor,Tony Mowbray,"AESSEAL New York Stadium, Rotherham",10522
+https://fbref.com/en/matches/5cf91ed5/Norwich-City-Birmingham-City-February-21-2023-Championship,Norwich City,Birmingham City,1677008700,David Wagner,John Eustace,"Carrow Road, Norwich",25657
+https://fbref.com/en/matches/73d428bf/Blackburn-Rovers-Blackpool-February-21-2023-Championship,Blackburn Rovers,Blackpool,1677008700,Jon Dahl Tomasson,Mick McCarthy,"Ewood Park, Blackburn",14483
+https://fbref.com/en/matches/bda9839f/Millwall-Burnley-February-21-2023-Championship,Millwall,Burnley,1677008700,Gary Rowett,Vincent Kompany,"The Den, London",13542
+https://fbref.com/en/matches/d715a009/Swansea-City-Stoke-City-February-21-2023-Championship,Swansea City,Stoke City,1677008700,Russell Martin,Alex Neil,"Swansea.com Stadium, Swansea",15817
+https://fbref.com/en/matches/db31c00d/Coventry-City-Sunderland-February-25-2023-Championship,Coventry City,Sunderland,1677328200,Mark Robins,Tony Mowbray,"Coventry Building Society Arena, Coventry",21437
+https://fbref.com/en/matches/00b132eb/West-Bromwich-Albion-Middlesbrough-February-25-2023-Championship,West Bromwich Albion,Middlesbrough,1677337200,Carlos Corberán,Michael Carrick,"The Hawthorns, West Bromwich",25204
+https://fbref.com/en/matches/0bcb9ced/Norwich-City-Cardiff-City-February-25-2023-Championship,Norwich City,Cardiff City,1677337200,David Wagner,Sabri Lamouchi,"Carrow Road, Norwich",25417
+https://fbref.com/en/matches/0f28b046/Birmingham-City-Luton-Town-February-25-2023-Championship,Birmingham City,Luton Town,1677337200,John Eustace,Rob Edwards,"St Andrew's Trillion Trophy Stadium, Birmingham",16866
+https://fbref.com/en/matches/2b5d7399/Bristol-City-Hull-City-February-25-2023-Championship,Bristol City,Hull City,1677337200,Nigel Pearson,Liam Rosenior,"Ashton Gate Stadium, Bristol",20333
+https://fbref.com/en/matches/430390f3/Queens-Park-Rangers-Blackburn-Rovers-February-25-2023-Championship,Queens Park Rangers,Blackburn Rovers,1677337200,Gareth Ainsworth,Jon Dahl Tomasson,"Kiyan Prince Foundation Stadium, London",15715
+https://fbref.com/en/matches/46d7e482/Reading-Blackpool-February-25-2023-Championship,Reading,Blackpool,1677337200,Paul Ince,Mick McCarthy,"Select Car Leasing Stadium, Reading",17013
+https://fbref.com/en/matches/4ebb9937/Preston-North-End-Wigan-Athletic-February-25-2023-Championship,Preston North End,Wigan Athletic,1677337200,Ryan Lowe,Shaun Maloney,"Deepdale Stadium, Preston",17842
+https://fbref.com/en/matches/854a989e/Burnley-Huddersfield-Town-February-25-2023-Championship,Burnley,Huddersfield Town,1677337200,Vincent Kompany,Neil Warnock,"Turf Moor, Burnley",20711
+https://fbref.com/en/matches/8fc8b1f3/Sheffield-United-Watford-February-25-2023-Championship,Sheffield United,Watford,1677337200,Paul Heckingbottom,Slaven Bilić,"Bramall Lane, Sheffield",29132
+https://fbref.com/en/matches/92fea05d/Stoke-City-Millwall-February-25-2023-Championship,Stoke City,Millwall,1677337200,Alex Neil,Gary Rowett,"Bet365 Stadium, Stoke-on-Trent",19773
+https://fbref.com/en/matches/d2f828bc/Swansea-City-Rotherham-United-February-27-2023-Championship,Swansea City,Rotherham United,1677528000,Russell Martin,Matt Taylor,"Swansea.com Stadium, Swansea",15144
+https://fbref.com/en/matches/72ed19fb/Preston-North-End-Coventry-City-February-28-2023-Championship,Preston North End,Coventry City,1677613500,Ryan Lowe,Mark Robins,"Deepdale Stadium, Preston",13891
+https://fbref.com/en/matches/9a750781/Luton-Town-Millwall-February-28-2023-Championship,Luton Town,Millwall,1677614400,Rob Edwards,Gary Rowett,"Kenilworth Road Stadium, Luton",10060
+https://fbref.com/en/matches/648d1ef2/Hull-City-West-Bromwich-Albion-March-3-2023-Championship,Hull City,West Bromwich Albion,1677873600,Liam Rosenior,Carlos Corberán,"MKM Stadium, Hull",17021
+https://fbref.com/en/matches/4b1cd75a/Blackburn-Rovers-Sheffield-United-March-4-2023-Championship,Blackburn Rovers,Sheffield United,1677933000,Jon Dahl Tomasson,Paul Heckingbottom,"Ewood Park, Blackburn",16464
+https://fbref.com/en/matches/85e42697/Cardiff-City-Bristol-City-March-4-2023-Championship,Cardiff City,Bristol City,1677933000,Sabri Lamouchi,Nigel Pearson,"Cardiff City Stadium, Cardiff",22156
+https://fbref.com/en/matches/2ecfdbac/Huddersfield-Town-Coventry-City-March-4-2023-Championship,Huddersfield Town,Coventry City,1677942000,Neil Warnock,Mark Robins,"The John Smith's Stadium, Huddersfield",19958
+https://fbref.com/en/matches/40cbbfe6/Wigan-Athletic-Birmingham-City-March-4-2023-Championship,Wigan Athletic,Birmingham City,1677942000,Shaun Maloney,John Eustace,"The DW Stadium, Wigan",13741
+https://fbref.com/en/matches/5c16aba7/Rotherham-United-Queens-Park-Rangers-March-4-2023-Championship,Rotherham United,Queens Park Rangers,1677942000,Matt Taylor,Gareth Ainsworth,"AESSEAL New York Stadium, Rotherham",10563
+https://fbref.com/en/matches/5ec54cac/Sunderland-Stoke-City-March-4-2023-Championship,Sunderland,Stoke City,1677942000,Tony Mowbray,Alex Neil,"Stadium of Light, Sunderland",40053
+https://fbref.com/en/matches/7d5ec2d7/Watford-Preston-North-End-March-4-2023-Championship,Watford,Preston North End,1677942000,Slaven Bilić,Ryan Lowe,"Vicarage Road Stadium, Watford",19244
+https://fbref.com/en/matches/7ec16d9e/Millwall-Norwich-City-March-4-2023-Championship,Millwall,Norwich City,1677942000,Gary Rowett,David Wagner,"The Den, London",18785
+https://fbref.com/en/matches/d3d343bd/Luton-Town-Swansea-City-March-4-2023-Championship,Luton Town,Swansea City,1677942000,Rob Edwards,Russell Martin,"Kenilworth Road Stadium, Luton",10072
+https://fbref.com/en/matches/f84483f2/Blackpool-Burnley-March-4-2023-Championship,Blackpool,Burnley,1677942000,Mick McCarthy,Vincent Kompany,"Bloomfield Road, Blackpool",14134
+https://fbref.com/en/matches/fa38d5c0/Middlesbrough-Reading-March-4-2023-Championship,Middlesbrough,Reading,1677942000,Michael Carrick,Paul Ince,"Riverside Stadium, Middlesbrough",26823
+https://fbref.com/en/matches/0d2c2063/Huddersfield-Town-Bristol-City-March-7-2023-Championship,Huddersfield Town,Bristol City,1678218300,Neil Warnock,Nigel Pearson,"The John Smith's Stadium, Huddersfield",17177
+https://fbref.com/en/matches/432aa3fa/Reading-Sheffield-United-March-7-2023-Championship,Reading,Sheffield United,1678219200,Paul Ince,Paul Heckingbottom,"Select Car Leasing Stadium, Reading",9897
+https://fbref.com/en/matches/ac803238/West-Bromwich-Albion-Wigan-Athletic-March-7-2023-Championship,West Bromwich Albion,Wigan Athletic,1678219200,Carlos Corberán,Shaun Maloney,"The Hawthorns, West Bromwich",21552
+https://fbref.com/en/matches/1e92c0d1/Stoke-City-Blackburn-Rovers-March-10-2023-Championship,Stoke City,Blackburn Rovers,1678478400,Alex Neil,Jon Dahl Tomasson,"Bet365 Stadium, Stoke-on-Trent",17427
+https://fbref.com/en/matches/16f31f26/Bristol-City-Blackpool-March-11-2023-Championship,Bristol City,Blackpool,1678537800,Nigel Pearson,Mick McCarthy,"Ashton Gate Stadium, Bristol",19070
+https://fbref.com/en/matches/1e3d86d6/Preston-North-End-Cardiff-City-March-11-2023-Championship,Preston North End,Cardiff City,1678546800,Ryan Lowe,Sabri Lamouchi,"Deepdale Stadium, Preston",14295
+https://fbref.com/en/matches/2c5e1613/Coventry-City-Hull-City-March-11-2023-Championship,Coventry City,Hull City,1678546800,Mark Robins,Liam Rosenior,"Coventry Building Society Arena, Coventry",22206
+https://fbref.com/en/matches/43a1ed9e/West-Bromwich-Albion-Huddersfield-Town-March-11-2023-Championship,West Bromwich Albion,Huddersfield Town,1678546800,Carlos Corberán,Neil Warnock,"The Hawthorns, West Bromwich",24685
+https://fbref.com/en/matches/4ed7a393/Reading-Millwall-March-11-2023-Championship,Reading,Millwall,1678546800,Paul Ince,Gary Rowett,"Select Car Leasing Stadium, Reading",13265
+https://fbref.com/en/matches/56cc3175/Birmingham-City-Rotherham-United-March-11-2023-Championship,Birmingham City,Rotherham United,1678546800,John Eustace,Matt Taylor,"St Andrew's Trillion Trophy Stadium, Birmingham",15932
+https://fbref.com/en/matches/7815d5b3/Burnley-Wigan-Athletic-March-11-2023-Championship,Burnley,Wigan Athletic,1678546800,Vincent Kompany,Shaun Maloney,"Turf Moor, Burnley",20249
+https://fbref.com/en/matches/895aadfb/Sheffield-United-Luton-Town-March-11-2023-Championship,Sheffield United,Luton Town,1678546800,Paul Heckingbottom,Rob Edwards,"Bramall Lane, Sheffield",28006
+https://fbref.com/en/matches/d8800fa8/Swansea-City-Middlesbrough-March-11-2023-Championship,Swansea City,Middlesbrough,1678546800,Russell Martin,Michael Carrick,"Swansea.com Stadium, Swansea",17021
+https://fbref.com/en/matches/f3bd528e/Queens-Park-Rangers-Watford-March-11-2023-Championship,Queens Park Rangers,Watford,1678546800,Gareth Ainsworth,Chris Wilder,"Kiyan Prince Foundation Stadium, London",17247
+https://fbref.com/en/matches/ed02967b/Norwich-City-Sunderland-March-12-2023-Championship,Norwich City,Sunderland,1678622400,David Wagner,Tony Mowbray,"Carrow Road, Norwich",26874
+https://fbref.com/en/matches/1765d4c2/Rotherham-United-Preston-North-End-March-14-2023-Championship,Rotherham United,Preston North End,1678823100,Matt Taylor,Ryan Lowe,"AESSEAL New York Stadium, Rotherham",9003
+https://fbref.com/en/matches/3f05028c/Watford-Birmingham-City-March-14-2023-Championship,Watford,Birmingham City,1678823100,Chris Wilder,John Eustace,"Vicarage Road Stadium, Watford",18403
+https://fbref.com/en/matches/907275dc/Blackpool-Queens-Park-Rangers-March-14-2023-Championship,Blackpool,Queens Park Rangers,1678823100,Mick McCarthy,Gareth Ainsworth,"Bloomfield Road, Blackpool",10051
+https://fbref.com/en/matches/de7acaa5/Millwall-Swansea-City-March-14-2023-Championship,Millwall,Swansea City,1678823100,Gary Rowett,Russell Martin,"The Den, London",12470
+https://fbref.com/en/matches/f37dd342/Wigan-Athletic-Coventry-City-March-14-2023-Championship,Wigan Athletic,Coventry City,1678823100,Shaun Maloney,Mark Robins,"The DW Stadium, Wigan",11014
+https://fbref.com/en/matches/3f77a8b0/Middlesbrough-Stoke-City-March-14-2023-Championship,Middlesbrough,Stoke City,1678824000,Michael Carrick,Alex Neil,"Riverside Stadium, Middlesbrough",24779
+https://fbref.com/en/matches/27dd5fb9/Hull-City-Burnley-March-15-2023-Championship,Hull City,Burnley,1678909500,Liam Rosenior,Vincent Kompany,"MKM Stadium, Hull",17271
+https://fbref.com/en/matches/2e952295/Cardiff-City-West-Bromwich-Albion-March-15-2023-Championship,Cardiff City,West Bromwich Albion,1678909500,Sabri Lamouchi,Carlos Corberán,"Cardiff City Stadium, Cardiff",17785
+https://fbref.com/en/matches/50827fe4/Blackburn-Rovers-Reading-March-15-2023-Championship,Blackburn Rovers,Reading,1678909500,Jon Dahl Tomasson,Paul Ince,"Ewood Park, Blackburn",14023
+https://fbref.com/en/matches/7b92d96d/Huddersfield-Town-Norwich-City-March-15-2023-Championship,Huddersfield Town,Norwich City,1678909500,Neil Warnock,David Wagner,"The John Smith's Stadium, Huddersfield",18116
+https://fbref.com/en/matches/ecba6ea7/Luton-Town-Bristol-City-March-15-2023-Championship,Luton Town,Bristol City,1678909500,Rob Edwards,Nigel Pearson,"Kenilworth Road Stadium, Luton",9899
+https://fbref.com/en/matches/8813406f/Sunderland-Sheffield-United-March-15-2023-Championship,Sunderland,Sheffield United,1678910400,Tony Mowbray,Paul Heckingbottom,"Stadium of Light, Sunderland",37490
+https://fbref.com/en/matches/12370400/Sunderland-Luton-Town-March-18-2023-Championship,Sunderland,Luton Town,1679151600,Tony Mowbray,Rob Edwards,"Stadium of Light, Sunderland",37579
+https://fbref.com/en/matches/16fcbcb5/Millwall-Huddersfield-Town-March-18-2023-Championship,Millwall,Huddersfield Town,1679151600,Gary Rowett,Neil Warnock,"The Den, London",14968
+https://fbref.com/en/matches/24042362/Reading-Hull-City-March-18-2023-Championship,Reading,Hull City,1679151600,Paul Ince,Liam Rosenior,"Select Car Leasing Stadium, Reading",12033
+https://fbref.com/en/matches/2af9362f/Blackpool-Coventry-City-March-18-2023-Championship,Blackpool,Coventry City,1679151600,Mick McCarthy,Mark Robins,"Bloomfield Road, Blackpool",14055
+https://fbref.com/en/matches/38512b4e/Stoke-City-Norwich-City-March-18-2023-Championship,Stoke City,Norwich City,1679151600,Alex Neil,David Wagner,"Bet365 Stadium, Stoke-on-Trent",22102
+https://fbref.com/en/matches/57d4c671/Middlesbrough-Preston-North-End-March-18-2023-Championship,Middlesbrough,Preston North End,1679151600,Michael Carrick,Ryan Lowe,"Riverside Stadium, Middlesbrough",28304
+https://fbref.com/en/matches/6618bc52/Queens-Park-Rangers-Birmingham-City-March-18-2023-Championship,Queens Park Rangers,Birmingham City,1679151600,Gareth Ainsworth,John Eustace,"Kiyan Prince Foundation Stadium, London",15097
+https://fbref.com/en/matches/75d009fc/Watford-Wigan-Athletic-March-18-2023-Championship,Watford,Wigan Athletic,1679151600,Chris Wilder,Shaun Maloney,"Vicarage Road Stadium, Watford",18523
+https://fbref.com/en/matches/eefdfa17/Swansea-City-Bristol-City-March-19-2023-Championship,Swansea City,Bristol City,1679229000,Russell Martin,Nigel Pearson,"Swansea.com Stadium, Swansea",16730
+https://fbref.com/en/matches/89c9bfc0/Burnley-Sunderland-March-31-2023-Championship,Burnley,Sunderland,1680289200,Vincent Kompany,Tony Mowbray,"Turf Moor, Burnley",21462
+https://fbref.com/en/matches/d7c7e0d1/Preston-North-End-Blackpool-April-1-2023-Championship,Preston North End,Blackpool,1680348600,Ryan Lowe,Mick McCarthy,"Deepdale Stadium, Preston",18834
+https://fbref.com/en/matches/fc9ab220/Luton-Town-Watford-April-1-2023-Championship,Luton Town,Watford,1680348600,Rob Edwards,Chris Wilder,"Kenilworth Road Stadium, Luton",10046
+https://fbref.com/en/matches/2857364a/Birmingham-City-Blackburn-Rovers-April-1-2023-Championship,Birmingham City,Blackburn Rovers,1680357600,John Eustace,Jon Dahl Tomasson,"St Andrew's Trillion Trophy Stadium, Birmingham",16623
+https://fbref.com/en/matches/4f7da075/Cardiff-City-Swansea-City-April-1-2023-Championship,Cardiff City,Swansea City,1680357600,Sabri Lamouchi,Russell Martin,"Cardiff City Stadium, Cardiff",28232
+https://fbref.com/en/matches/55b7c009/Norwich-City-Sheffield-United-April-1-2023-Championship,Norwich City,Sheffield United,1680357600,David Wagner,Paul Heckingbottom,"Carrow Road, Norwich",26801
+https://fbref.com/en/matches/6de08953/Hull-City-Rotherham-United-April-1-2023-Championship,Hull City,Rotherham United,1680357600,Liam Rosenior,Matt Taylor,"MKM Stadium, Hull",23432
+https://fbref.com/en/matches/826ba564/Bristol-City-Reading-April-1-2023-Championship,Bristol City,Reading,1680357600,Nigel Pearson,Paul Ince,"Ashton Gate Stadium, Bristol",20526
+https://fbref.com/en/matches/976f381a/Huddersfield-Town-Middlesbrough-April-1-2023-Championship,Huddersfield Town,Middlesbrough,1680357600,Neil Warnock,Michael Carrick,"The John Smith's Stadium, Huddersfield",20186
+https://fbref.com/en/matches/98131b37/West-Bromwich-Albion-Millwall-April-1-2023-Championship,West Bromwich Albion,Millwall,1680357600,Carlos Corberán,Gary Rowett,"The Hawthorns, West Bromwich",24334
+https://fbref.com/en/matches/a35a56ff/Wigan-Athletic-Queens-Park-Rangers-April-1-2023-Championship,Wigan Athletic,Queens Park Rangers,1680357600,Shaun Maloney,Gareth Ainsworth,"The DW Stadium, Wigan",12608
+https://fbref.com/en/matches/c3afbb99/Coventry-City-Stoke-City-April-1-2023-Championship,Coventry City,Stoke City,1680357600,Mark Robins,Alex Neil,"Coventry Building Society Arena, Coventry",23625
+https://fbref.com/en/matches/32c393a0/Millwall-Luton-Town-April-7-2023-Championship,Millwall,Luton Town,1680867000,Gary Rowett,Rob Edwards,"The Den, London",18422
+https://fbref.com/en/matches/b6147042/Rotherham-United-West-Bromwich-Albion-April-7-2023-Championship,Rotherham United,West Bromwich Albion,1680868800,Matt Taylor,Carlos Corberán,"AESSEAL New York Stadium, Rotherham",11098
+https://fbref.com/en/matches/042fc9ed/Blackburn-Rovers-Norwich-City-April-7-2023-Championship,Blackburn Rovers,Norwich City,1680876000,Jon Dahl Tomasson,David Wagner,"Ewood Park, Blackburn",18544
+https://fbref.com/en/matches/1ae17dda/Watford-Huddersfield-Town-April-7-2023-Championship,Watford,Huddersfield Town,1680876000,Chris Wilder,Neil Warnock,"Vicarage Road Stadium, Watford",19511
+https://fbref.com/en/matches/2f378ca6/Blackpool-Cardiff-City-April-7-2023-Championship,Blackpool,Cardiff City,1680876000,Mick McCarthy,Sabri Lamouchi,"Bloomfield Road, Blackpool",13462
+https://fbref.com/en/matches/4c7b5cfa/Swansea-City-Coventry-City-April-7-2023-Championship,Swansea City,Coventry City,1680876000,Russell Martin,Mark Robins,"Swansea.com Stadium, Swansea",19960
+https://fbref.com/en/matches/70ad32e3/Queens-Park-Rangers-Preston-North-End-April-7-2023-Championship,Queens Park Rangers,Preston North End,1680876000,Gareth Ainsworth,Ryan Lowe,"Kiyan Prince Foundation Stadium, London",14620
+https://fbref.com/en/matches/e1c9052a/Stoke-City-Bristol-City-April-7-2023-Championship,Stoke City,Bristol City,1680876000,Alex Neil,Nigel Pearson,"Bet365 Stadium, Stoke-on-Trent",22826
+https://fbref.com/en/matches/e6baa4a7/Sheffield-United-Wigan-Athletic-April-7-2023-Championship,Sheffield United,Wigan Athletic,1680876000,Paul Heckingbottom,Shaun Maloney,"Bramall Lane, Sheffield",29026
+https://fbref.com/en/matches/fc7601cb/Reading-Birmingham-City-April-7-2023-Championship,Reading,Birmingham City,1680876000,Paul Ince,John Eustace,"Select Car Leasing Stadium, Reading",16084
+https://fbref.com/en/matches/2c212263/Sunderland-Hull-City-April-7-2023-Championship,Sunderland,Hull City,1680885000,Tony Mowbray,Liam Rosenior,"Stadium of Light, Sunderland",40676
+https://fbref.com/en/matches/49839821/Middlesbrough-Burnley-April-7-2023-Championship,Middlesbrough,Burnley,1680894000,Michael Carrick,Vincent Kompany,"Riverside Stadium, Middlesbrough",30844
+https://fbref.com/en/matches/88ca8e10/Huddersfield-Town-Blackburn-Rovers-April-10-2023-Championship,Huddersfield Town,Blackburn Rovers,1681126200,Neil Warnock,Jon Dahl Tomasson,"The John Smith's Stadium, Huddersfield",20887
+https://fbref.com/en/matches/0b8f4cc8/Preston-North-End-Reading-April-10-2023-Championship,Preston North End,Reading,1681135200,Ryan Lowe,Paul Ince,"Deepdale Stadium, Preston",15092
+https://fbref.com/en/matches/52ac0502/Cardiff-City-Sunderland-April-10-2023-Championship,Cardiff City,Sunderland,1681135200,Sabri Lamouchi,Tony Mowbray,"Cardiff City Stadium, Cardiff",23365
+https://fbref.com/en/matches/75137f5f/Luton-Town-Blackpool-April-10-2023-Championship,Luton Town,Blackpool,1681135200,Rob Edwards,Stephen Dobbie,"Kenilworth Road Stadium, Luton",9772
+https://fbref.com/en/matches/78c0b692/Norwich-City-Rotherham-United-April-10-2023-Championship,Norwich City,Rotherham United,1681135200,David Wagner,Matt Taylor,"Carrow Road, Norwich",26269
+https://fbref.com/en/matches/856420e0/Wigan-Athletic-Swansea-City-April-10-2023-Championship,Wigan Athletic,Swansea City,1681135200,Shaun Maloney,Russell Martin,"The DW Stadium, Wigan",11634
+https://fbref.com/en/matches/a81b0890/Hull-City-Millwall-April-10-2023-Championship,Hull City,Millwall,1681135200,Liam Rosenior,Gary Rowett,"MKM Stadium, Hull",20069
+https://fbref.com/en/matches/dbec87a0/Coventry-City-Watford-April-10-2023-Championship,Coventry City,Watford,1681135200,Mark Robins,Chris Wilder,"Coventry Building Society Arena, Coventry",21112
+https://fbref.com/en/matches/dbf86d10/Birmingham-City-Stoke-City-April-10-2023-Championship,Birmingham City,Stoke City,1681135200,John Eustace,Alex Neil,"St Andrew's Trillion Trophy Stadium, Birmingham",17413
+https://fbref.com/en/matches/fdef71cb/West-Bromwich-Albion-Queens-Park-Rangers-April-10-2023-Championship,West Bromwich Albion,Queens Park Rangers,1681135200,Carlos Corberán,Gareth Ainsworth,"The Hawthorns, West Bromwich",23969
+https://fbref.com/en/matches/08b37886/Bristol-City-Middlesbrough-April-10-2023-Championship,Bristol City,Middlesbrough,1681144200,Nigel Pearson,Michael Carrick,"Ashton Gate Stadium, Bristol",21726
+https://fbref.com/en/matches/30f53c16/Burnley-Sheffield-United-April-10-2023-Championship,Burnley,Sheffield United,1681153200,Vincent Kompany,Paul Heckingbottom,"Turf Moor, Burnley",21506
+https://fbref.com/en/matches/d45c13c0/Middlesbrough-Norwich-City-April-14-2023-Championship,Middlesbrough,Norwich City,1681498800,Michael Carrick,David Wagner,"Riverside Stadium, Middlesbrough",26429
+https://fbref.com/en/matches/4a9ccf13/Sheffield-United-Cardiff-City-April-15-2023-Championship,Sheffield United,Cardiff City,1681558200,Paul Heckingbottom,Sabri Lamouchi,"Bramall Lane, Sheffield",27768
+https://fbref.com/en/matches/03635f33/Queens-Park-Rangers-Coventry-City-April-15-2023-Championship,Queens Park Rangers,Coventry City,1681567200,Gareth Ainsworth,Mark Robins,"Kiyan Prince Foundation Stadium, London",16713
+https://fbref.com/en/matches/2fde1997/Stoke-City-West-Bromwich-Albion-April-15-2023-Championship,Stoke City,West Bromwich Albion,1681567200,Alex Neil,Carlos Corberán,"Bet365 Stadium, Stoke-on-Trent",23486
+https://fbref.com/en/matches/3f501146/Millwall-Preston-North-End-April-15-2023-Championship,Millwall,Preston North End,1681567200,Gary Rowett,Ryan Lowe,"The Den, London",16488
+https://fbref.com/en/matches/7a6d3d1a/Rotherham-United-Luton-Town-April-15-2023-Championship,Rotherham United,Luton Town,1681567200,Matt Taylor,Rob Edwards,"AESSEAL New York Stadium, Rotherham",11009
+https://fbref.com/en/matches/a73a6a34/Blackpool-Wigan-Athletic-April-15-2023-Championship,Blackpool,Wigan Athletic,1681567200,Stephen Dobbie,Shaun Maloney,"Bloomfield Road, Blackpool",12027
+https://fbref.com/en/matches/b59cfeac/Reading-Burnley-April-15-2023-Championship,Reading,Burnley,1681567200,Noel Hunt,Vincent Kompany,"Select Car Leasing Stadium, Reading",19476
+https://fbref.com/en/matches/bba683a1/Watford-Bristol-City-April-15-2023-Championship,Watford,Bristol City,1681567200,Chris Wilder,Nigel Pearson,"Vicarage Road Stadium, Watford",19148
+https://fbref.com/en/matches/c1884e15/Swansea-City-Huddersfield-Town-April-15-2023-Championship,Swansea City,Huddersfield Town,1681567200,Russell Martin,Neil Warnock,"Swansea.com Stadium, Swansea",16686
+https://fbref.com/en/matches/d26d795f/Sunderland-Birmingham-City-April-15-2023-Championship,Sunderland,Birmingham City,1681567200,Tony Mowbray,John Eustace,"Stadium of Light, Sunderland",37673
+https://fbref.com/en/matches/fa661e80/Blackburn-Rovers-Hull-City-April-15-2023-Championship,Blackburn Rovers,Hull City,1681584300,Jon Dahl Tomasson,Liam Rosenior,"Ewood Park, Blackburn",14847
+https://fbref.com/en/matches/14dfd4e2/Rotherham-United-Burnley-April-18-2023-Championship,Rotherham United,Burnley,1681843500,Matt Taylor,Vincent Kompany,"AESSEAL New York Stadium, Rotherham",10566
+https://fbref.com/en/matches/668f51ae/Stoke-City-Wigan-Athletic-April-18-2023-Championship,Stoke City,Wigan Athletic,1681843500,Alex Neil,Shaun Maloney,"Bet365 Stadium, Stoke-on-Trent",17726
+https://fbref.com/en/matches/abc44dc9/Sheffield-United-Bristol-City-April-18-2023-Championship,Sheffield United,Bristol City,1681843500,Paul Heckingbottom,Nigel Pearson,"Bramall Lane, Sheffield",26476
+https://fbref.com/en/matches/c61a3cb2/Blackpool-West-Bromwich-Albion-April-18-2023-Championship,Blackpool,West Bromwich Albion,1681843500,Stephen Dobbie,Carlos Corberán,"Bloomfield Road, Blackpool",10705
+https://fbref.com/en/matches/e1d27d19/Sunderland-Huddersfield-Town-April-18-2023-Championship,Sunderland,Huddersfield Town,1681843500,Tony Mowbray,Neil Warnock,"Stadium of Light, Sunderland",37065
+https://fbref.com/en/matches/b86e79cd/Millwall-Birmingham-City-April-18-2023-Championship,Millwall,Birmingham City,1681844400,Gary Rowett,John Eustace,"The Den, London",13311
+https://fbref.com/en/matches/16cfb285/Blackburn-Rovers-Coventry-City-April-19-2023-Championship,Blackburn Rovers,Coventry City,1681929900,Jon Dahl Tomasson,Mark Robins,"Ewood Park, Blackburn",14728
+https://fbref.com/en/matches/71c144a6/Swansea-City-Preston-North-End-April-19-2023-Championship,Swansea City,Preston North End,1681929900,Russell Martin,Ryan Lowe,"Swansea.com Stadium, Swansea",15433
+https://fbref.com/en/matches/8e8c67e2/Queens-Park-Rangers-Norwich-City-April-19-2023-Championship,Queens Park Rangers,Norwich City,1681929900,Gareth Ainsworth,David Wagner,"Kiyan Prince Foundation Stadium, London",14132
+https://fbref.com/en/matches/fba159a2/Watford-Cardiff-City-April-19-2023-Championship,Watford,Cardiff City,1681929900,Chris Wilder,Sabri Lamouchi,"Vicarage Road Stadium, Watford",17005
+https://fbref.com/en/matches/2878fb88/Reading-Luton-Town-April-19-2023-Championship,Reading,Luton Town,1681930800,Noel Hunt,Rob Edwards,"Select Car Leasing Stadium, Reading",14126
+https://fbref.com/en/matches/ed1fcd37/Middlesbrough-Hull-City-April-19-2023-Championship,Middlesbrough,Hull City,1681930800,Michael Carrick,Liam Rosenior,"Riverside Stadium, Middlesbrough",24923
+https://fbref.com/en/matches/230de0c9/Birmingham-City-Blackpool-April-22-2023-Championship,Birmingham City,Blackpool,1682172000,John Eustace,Stephen Dobbie,"St Andrew's Trillion Trophy Stadium, Birmingham",16636
+https://fbref.com/en/matches/6dae2843/Wigan-Athletic-Millwall-April-22-2023-Championship,Wigan Athletic,Millwall,1682172000,Shaun Maloney,Gary Rowett,"The DW Stadium, Wigan",10858
+https://fbref.com/en/matches/7885b309/Bristol-City-Rotherham-United-April-22-2023-Championship,Bristol City,Rotherham United,1682172000,Nigel Pearson,Matt Taylor,"Ashton Gate Stadium, Bristol",19350
+https://fbref.com/en/matches/7ac5a3b0/Burnley-Queens-Park-Rangers-April-22-2023-Championship,Burnley,Queens Park Rangers,1682172000,Vincent Kompany,Gareth Ainsworth,"Turf Moor, Burnley",20027
+https://fbref.com/en/matches/8adc40a9/Norwich-City-Swansea-City-April-22-2023-Championship,Norwich City,Swansea City,1682172000,David Wagner,Russell Martin,"Carrow Road, Norwich",26135
+https://fbref.com/en/matches/8c81aea6/Coventry-City-Reading-April-22-2023-Championship,Coventry City,Reading,1682172000,Mark Robins,Noel Hunt,"Coventry Building Society Arena, Coventry",23694
+https://fbref.com/en/matches/9a33a511/Cardiff-City-Stoke-City-April-22-2023-Championship,Cardiff City,Stoke City,1682172000,Sabri Lamouchi,Alex Neil,"Cardiff City Stadium, Cardiff",20058
+https://fbref.com/en/matches/d4a99a4a/Hull-City-Watford-April-22-2023-Championship,Hull City,Watford,1682172000,Liam Rosenior,Chris Wilder,"MKM Stadium, Hull",20666
+https://fbref.com/en/matches/b4117605/Preston-North-End-Blackburn-Rovers-April-22-2023-Championship,Preston North End,Blackburn Rovers,1682181000,Ryan Lowe,Jon Dahl Tomasson,"Deepdale Stadium, Preston",20721
+https://fbref.com/en/matches/53044117/West-Bromwich-Albion-Sunderland-April-23-2023-Championship,West Bromwich Albion,Sunderland,1682247600,Carlos Corberán,Tony Mowbray,"The Hawthorns, West Bromwich",24764
+https://fbref.com/en/matches/e0734d75/Luton-Town-Middlesbrough-April-24-2023-Championship,Luton Town,Middlesbrough,1682362800,Rob Edwards,Michael Carrick,"Kenilworth Road Stadium, Luton",10063
+https://fbref.com/en/matches/6aded76e/Blackburn-Rovers-Burnley-April-25-2023-Championship,Blackburn Rovers,Burnley,1682449200,Jon Dahl Tomasson,Vincent Kompany,"Ewood Park, Blackburn",18166
+https://fbref.com/en/matches/b38bbcff/Sheffield-United-West-Bromwich-Albion-April-26-2023-Championship,Sheffield United,West Bromwich Albion,1682535600,Paul Heckingbottom,Carlos Corberán,"Bramall Lane, Sheffield",30050
+https://fbref.com/en/matches/7eb7d487/Rotherham-United-Cardiff-City-April-27-2023-Championship,Rotherham United,Cardiff City,1682622000,Matt Taylor,Sabri Lamouchi,"AESSEAL New York Stadium, Rotherham",10219
+https://fbref.com/en/matches/94de4ae5/Blackpool-Millwall-April-28-2023-Championship,Blackpool,Millwall,1682708400,Stephen Dobbie,Gary Rowett,"Bloomfield Road, Blackpool",12191
+https://fbref.com/en/matches/009ce4e9/Bristol-City-Burnley-April-29-2023-Championship,Bristol City,Burnley,1682776800,Nigel Pearson,Vincent Kompany,"Ashton Gate Stadium, Bristol",24065
+https://fbref.com/en/matches/5457dd07/Sheffield-United-Preston-North-End-April-29-2023-Championship,Sheffield United,Preston North End,1682776800,Paul Heckingbottom,Ryan Lowe,"Bramall Lane, Sheffield",30780
+https://fbref.com/en/matches/66b0be66/Sunderland-Watford-April-29-2023-Championship,Sunderland,Watford,1682776800,Tony Mowbray,Chris Wilder,"Stadium of Light, Sunderland",44944
+https://fbref.com/en/matches/7cddc441/Hull-City-Swansea-City-April-29-2023-Championship,Hull City,Swansea City,1682776800,Liam Rosenior,Russell Martin,"MKM Stadium, Hull",23036
+https://fbref.com/en/matches/7ee9e18a/Reading-Wigan-Athletic-April-29-2023-Championship,Reading,Wigan Athletic,1682776800,Noel Hunt,Shaun Maloney,"Select Car Leasing Stadium, Reading",21919
+https://fbref.com/en/matches/cb65fe8a/Coventry-City-Birmingham-City-April-29-2023-Championship,Coventry City,Birmingham City,1682776800,Mark Robins,John Eustace,"Coventry Building Society Arena, Coventry",30175
+https://fbref.com/en/matches/f10a0a2b/Stoke-City-Queens-Park-Rangers-April-29-2023-Championship,Stoke City,Queens Park Rangers,1682776800,Alex Neil,Gareth Ainsworth,"Bet365 Stadium, Stoke-on-Trent",22486
+https://fbref.com/en/matches/8900aa02/West-Bromwich-Albion-Norwich-City-April-29-2023-Championship,West Bromwich Albion,Norwich City,1682785800,Carlos Corberán,David Wagner,"The Hawthorns, West Bromwich",24638
+https://fbref.com/en/matches/1295b0aa/Cardiff-City-Huddersfield-Town-April-30-2023-Championship,Cardiff City,Huddersfield Town,1682852400,Sabri Lamouchi,Neil Warnock,"Cardiff City Stadium, Cardiff",26804
+https://fbref.com/en/matches/d580c995/Rotherham-United-Middlesbrough-May-1-2023-Championship,Rotherham United,Middlesbrough,1682942400,Matt Taylor,Michael Carrick,"AESSEAL New York Stadium, Rotherham",11508
+https://fbref.com/en/matches/7e29b60f/Blackburn-Rovers-Luton-Town-May-1-2023-Championship,Blackburn Rovers,Luton Town,1682958600,Jon Dahl Tomasson,Rob Edwards,"Ewood Park, Blackburn",17261
+https://fbref.com/en/matches/9c94d725/Huddersfield-Town-Sheffield-United-May-4-2023-Championship,Huddersfield Town,Sheffield United,1683225900,Neil Warnock,Paul Heckingbottom,"The John Smith's Stadium, Huddersfield",20172
+https://fbref.com/en/matches/03ef0296/Preston-North-End-Sunderland-May-8-2023-Championship,Preston North End,Sunderland,1683554400,Ryan Lowe,Tony Mowbray,"Deepdale Stadium, Preston",21177
+https://fbref.com/en/matches/10965228/Watford-Stoke-City-May-8-2023-Championship,Watford,Stoke City,1683554400,Chris Wilder,Alex Neil,"Vicarage Road Stadium, Watford",20100
+https://fbref.com/en/matches/11c86cc8/Luton-Town-Hull-City-May-8-2023-Championship,Luton Town,Hull City,1683554400,Rob Edwards,Liam Rosenior,"Kenilworth Road Stadium, Luton",10061
+https://fbref.com/en/matches/57e26fb0/Queens-Park-Rangers-Bristol-City-May-8-2023-Championship,Queens Park Rangers,Bristol City,1683554400,Gareth Ainsworth,Nigel Pearson,"Kiyan Prince Foundation Stadium, London",17335
+https://fbref.com/en/matches/78a42547/Huddersfield-Town-Reading-May-8-2023-Championship,Huddersfield Town,Reading,1683554400,Neil Warnock,Noel Hunt,"The John Smith's Stadium, Huddersfield",21585
+https://fbref.com/en/matches/a5ee3f2e/Millwall-Blackburn-Rovers-May-8-2023-Championship,Millwall,Blackburn Rovers,1683554400,Gary Rowett,Jon Dahl Tomasson,"The Den, London",17588
+https://fbref.com/en/matches/b0ce3ee0/Birmingham-City-Sheffield-United-May-8-2023-Championship,Birmingham City,Sheffield United,1683554400,John Eustace,Paul Heckingbottom,"St Andrew's Trillion Trophy Stadium, Birmingham",18853
+https://fbref.com/en/matches/b688adb7/Wigan-Athletic-Rotherham-United-May-8-2023-Championship,Wigan Athletic,Rotherham United,1683554400,Shaun Maloney,Matt Taylor,"The DW Stadium, Wigan",17788
+https://fbref.com/en/matches/bf3acf17/Swansea-City-West-Bromwich-Albion-May-8-2023-Championship,Swansea City,West Bromwich Albion,1683554400,Russell Martin,Carlos Corberán,"Swansea.com Stadium, Swansea",20294
+https://fbref.com/en/matches/e5443add/Norwich-City-Blackpool-May-8-2023-Championship,Norwich City,Blackpool,1683554400,David Wagner,Stephen Dobbie,"Carrow Road, Norwich",26147
+https://fbref.com/en/matches/ef64f2f0/Middlesbrough-Coventry-City-May-8-2023-Championship,Middlesbrough,Coventry City,1683554400,Michael Carrick,Mark Robins,"Riverside Stadium, Middlesbrough",32187
+https://fbref.com/en/matches/feb8f66f/Burnley-Cardiff-City-May-8-2023-Championship,Burnley,Cardiff City,1683554400,Vincent Kompany,Sabri Lamouchi,"Turf Moor, Burnley",21594
+https://fbref.com/en/matches/cc45efca/Sunderland-Luton-Town-May-13-2023-Championship,Sunderland,Luton Town,1683995400,Tony Mowbray,Rob Edwards,"Stadium of Light, Sunderland",46060
+https://fbref.com/en/matches/f06587a0/Coventry-City-Middlesbrough-May-14-2023-Championship,Coventry City,Middlesbrough,1684062000,Mark Robins,Michael Carrick,"Coventry Building Society Arena, Coventry",28874
+https://fbref.com/en/matches/1a587649/Luton-Town-Sunderland-May-16-2023-Championship,Luton Town,Sunderland,1684263600,Rob Edwards,Tony Mowbray,"Kenilworth Road Stadium, Luton",10013
+https://fbref.com/en/matches/f41aa3c8/Middlesbrough-Coventry-City-May-17-2023-Championship,Middlesbrough,Coventry City,1684350000,Michael Carrick,Mark Robins,"Riverside Stadium, Middlesbrough",32154
+https://fbref.com/en/matches/78ccd86d/Coventry-City-Luton-Town-May-27-2023-Championship,Coventry City,Luton Town,1685202300,Mark Robins,Rob Edwards,"Wembley Stadium (1923), London",85711

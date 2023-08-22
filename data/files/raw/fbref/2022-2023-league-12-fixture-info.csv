@@ -1,0 +1,381 @@
+url,home_team,away_team,datetime,home_team_manager,away_team_manager,stadium,attendance
+https://fbref.com/en/matches/1edcbf7a/Osasuna-Sevilla-August-12-2022-La-Liga,Osasuna,Sevilla,1660330800,Jagoba Arrasate,Lopetegui,"Estadio El Sadar, Pamplona",18536
+https://fbref.com/en/matches/73b529f2/Celta-Vigo-Espanyol-August-13-2022-La-Liga,Celta Vigo,Espanyol,1660402800,Eduardo Coudet,Diego Martínez ,"Estadio de Balaídos, Vigo",13859
+https://fbref.com/en/matches/be7e4222/Valladolid-Villarreal-August-13-2022-La-Liga,Valladolid,Villarreal,1660410000,Pacheta,Unai Emery,"Estadio Municipal José Zorrilla, Valladolid",17543
+https://fbref.com/en/matches/cbe0a303/Barcelona-Rayo-Vallecano-August-13-2022-La-Liga,Barcelona,Rayo Vallecano,1660417200,Xavi,Andoni Iraola,"Camp Nou, Barcelona",81104
+https://fbref.com/en/matches/7fbde755/Cadiz-Real-Sociedad-August-14-2022-La-Liga,Cádiz,Real Sociedad,1660491000,Sergio,Imanol Alguacil,"Estadio Nuevo Mirandilla, Cádiz",16570
+https://fbref.com/en/matches/aaab7ab9/Valencia-Girona-August-14-2022-La-Liga,Valencia,Girona,1660498200,Gennaro Gattuso,Michel,"Estadio de Mestalla, Valencia",39359
+https://fbref.com/en/matches/c1e42359/Almeria-Real-Madrid-August-14-2022-La-Liga,Almería,Real Madrid,1660507200,Rubí,Carlo Ancelotti,"Power Horse Stadium, Almería",14386
+https://fbref.com/en/matches/ab058eb9/Athletic-Club-Mallorca-August-15-2022-La-Liga,Athletic Club,Mallorca,1660577400,Ernesto Valverde,Javier Aguirre,"San Mamés, Bilbao",39747
+https://fbref.com/en/matches/9993b01a/Getafe-Atletico-Madrid-August-15-2022-La-Liga,Getafe,Atlético Madrid,1660584600,Quique Flores,Diego Simeone,"Coliseum Alfonso Pérez, Getafe",12235
+https://fbref.com/en/matches/1f998adf/Real-Betis-Elche-August-15-2022-La-Liga,Real Betis,Elche,1660591800,Manuel Pellegrini,Francisco,"Estadio Benito Villamarín, Sevilla",50622
+https://fbref.com/en/matches/cb92acb9/Espanyol-Rayo-Vallecano-August-19-2022-La-Liga,Espanyol,Rayo Vallecano,1660932000,Diego Martínez ,Andoni Iraola,"RCDE Stadium, Cornellà de Llobregat",16071
+https://fbref.com/en/matches/bc5ec3c6/Sevilla-Valladolid-August-19-2022-La-Liga,Sevilla,Valladolid,1660939200,Lopetegui,Pacheta,"Estadio Ramón Sánchez Pizjuán, Sevilla",33991
+https://fbref.com/en/matches/39d72386/Osasuna-Cadiz-August-20-2022-La-Liga,Osasuna,Cádiz,1661009400,Jagoba Arrasate,Sergio,"Estadio El Sadar, Pamplona",18587
+https://fbref.com/en/matches/f06f275b/Mallorca-Real-Betis-August-20-2022-La-Liga,Mallorca,Real Betis,1661016600,Javier Aguirre,Manuel Pellegrini,"Iberostar Estadi, Palma de Mallorca",15579
+https://fbref.com/en/matches/65ccc663/Celta-Vigo-Real-Madrid-August-20-2022-La-Liga,Celta Vigo,Real Madrid,1661025600,Eduardo Coudet,Carlo Ancelotti,"Estadio de Balaídos, Vigo",15681
+https://fbref.com/en/matches/615ccfb0/Athletic-Club-Valencia-August-21-2022-La-Liga,Athletic Club,Valencia,1661095800,Ernesto Valverde,Gennaro Gattuso,"San Mamés, Bilbao",43333
+https://fbref.com/en/matches/ebb32848/Atletico-Madrid-Villarreal-August-21-2022-La-Liga,Atlético Madrid,Villarreal,1661103000,Diego Simeone,Unai Emery,"Estadio Cívitas Metropolitano, Madrid",57033
+https://fbref.com/en/matches/9a5e0f15/Real-Sociedad-Barcelona-August-21-2022-La-Liga,Real Sociedad,Barcelona,1661112000,Imanol Alguacil,Xavi,"Reale Arena, San Sebastián",36201
+https://fbref.com/en/matches/6f633cb1/Elche-Almeria-August-22-2022-La-Liga,Elche,Almería,1661191200,Francisco,Rubí,"Estadio Manuel Martínez Valero, Elche",23361
+https://fbref.com/en/matches/1253bef2/Girona-Getafe-August-22-2022-La-Liga,Girona,Getafe,1661198400,Michel,Quique Flores,"Estadi Municipal de Montilivi, Girona",10460
+https://fbref.com/en/matches/3cce40a3/Girona-Celta-Vigo-August-26-2022-La-Liga,Girona,Celta Vigo,1661536800,Michel,Eduardo Coudet,"Estadi Municipal de Montilivi, Girona",11329
+https://fbref.com/en/matches/8ed0d2b7/Real-Betis-Osasuna-August-26-2022-La-Liga,Real Betis,Osasuna,1661544000,Manuel Pellegrini,Jagoba Arrasate,"Estadio Benito Villamarín, Sevilla",52580
+https://fbref.com/en/matches/0839f02f/Elche-Real-Sociedad-August-27-2022-La-Liga,Elche,Real Sociedad,1661614200,Francisco,Imanol Alguacil,"Estadio Manuel Martínez Valero, Elche",22656
+https://fbref.com/en/matches/21b1f2fd/Rayo-Vallecano-Mallorca-August-27-2022-La-Liga,Rayo Vallecano,Mallorca,1661621400,Andoni Iraola,Javier Aguirre,"Estadio del Rayo Vallecano, Madrid",10944
+https://fbref.com/en/matches/ef9a3cb4/Almeria-Sevilla-August-27-2022-La-Liga,Almería,Sevilla,1661630400,Rubí,Lopetegui,"Power Horse Stadium, Almería",13788
+https://fbref.com/en/matches/834124a1/Getafe-Villarreal-August-28-2022-La-Liga,Getafe,Villarreal,1661700600,Quique Flores,Unai Emery,"Coliseum Alfonso Pérez, Getafe",9815
+https://fbref.com/en/matches/4ed9f64b/Barcelona-Valladolid-August-28-2022-La-Liga,Barcelona,Valladolid,1661707800,Xavi,Pacheta,"Camp Nou, Barcelona",83972
+https://fbref.com/en/matches/36d21a47/Espanyol-Real-Madrid-August-28-2022-La-Liga,Espanyol,Real Madrid,1661716800,Diego Martínez ,Carlo Ancelotti,"RCDE Stadium, Cornellà de Llobregat",25778
+https://fbref.com/en/matches/af336b4a/Cadiz-Athletic-Club-August-29-2022-La-Liga,Cádiz,Athletic Club,1661796000,Sergio,Ernesto Valverde,"Estadio Nuevo Mirandilla, Cádiz",17029
+https://fbref.com/en/matches/da3b5ed5/Valencia-Atletico-Madrid-August-29-2022-La-Liga,Valencia,Atlético Madrid,1661803200,Gennaro Gattuso,Diego Simeone,"Estadio de Mestalla, Valencia",43910
+https://fbref.com/en/matches/66ac20bd/Celta-Vigo-Cadiz-September-2-2022-La-Liga,Celta Vigo,Cádiz,1662145200,Eduardo Coudet,Sergio,"Estadio de Balaídos, Vigo",14510
+https://fbref.com/en/matches/5d51fa0c/Mallorca-Girona-September-3-2022-La-Liga,Mallorca,Girona,1662206400,Javier Aguirre,Michel,"Iberostar Estadi, Palma de Mallorca",13390
+https://fbref.com/en/matches/7f84388c/Real-Madrid-Real-Betis-September-3-2022-La-Liga,Real Madrid,Real Betis,1662214500,Carlo Ancelotti,Manuel Pellegrini,"Estadio Santiago Bernabéu, Madrid",58579
+https://fbref.com/en/matches/ccb89898/Real-Sociedad-Atletico-Madrid-September-3-2022-La-Liga,Real Sociedad,Atlético Madrid,1662222600,Imanol Alguacil,Diego Simeone,"Reale Arena, San Sebastián",35366
+https://fbref.com/en/matches/7952eab7/Sevilla-Barcelona-September-3-2022-La-Liga,Sevilla,Barcelona,1662231600,Lopetegui,Xavi,"Estadio Ramón Sánchez Pizjuán, Sevilla",40233
+https://fbref.com/en/matches/ef71bc61/Osasuna-Rayo-Vallecano-September-4-2022-La-Liga,Osasuna,Rayo Vallecano,1662292800,Jagoba Arrasate,Andoni Iraola,"Estadio El Sadar, Pamplona",18745
+https://fbref.com/en/matches/9c491e2b/Athletic-Club-Espanyol-September-4-2022-La-Liga,Athletic Club,Espanyol,1662300900,Ernesto Valverde,Diego Martínez ,"San Mamés, Bilbao",41574
+https://fbref.com/en/matches/1c460149/Villarreal-Elche-September-4-2022-La-Liga,Villarreal,Elche,1662309000,Unai Emery,Francisco,"Estadio Ciudad de Valencia, Valencia",13915
+https://fbref.com/en/matches/65797851/Valencia-Getafe-September-4-2022-La-Liga,Valencia,Getafe,1662318000,Gennaro Gattuso,Quique Flores,"Estadio de Mestalla, Valencia",38725
+https://fbref.com/en/matches/33b0a63b/Valladolid-Almeria-September-5-2022-La-Liga,Valladolid,Almería,1662404400,Pacheta,Rubí,"Estadio Municipal José Zorrilla, Valladolid",20260
+https://fbref.com/en/matches/67a548bd/Girona-Valladolid-September-9-2022-La-Liga,Girona,Valladolid,1662750000,Michel,Pacheta,"Estadi Municipal de Montilivi, Girona",10053
+https://fbref.com/en/matches/c159b9d8/Rayo-Vallecano-Valencia-September-10-2022-La-Liga,Rayo Vallecano,Valencia,1662811200,Andoni Iraola,Gennaro Gattuso,"Estadio del Rayo Vallecano, Madrid",12085
+https://fbref.com/en/matches/2705dc41/Espanyol-Sevilla-September-10-2022-La-Liga,Espanyol,Sevilla,1662819300,Diego Martínez ,Lopetegui,"RCDE Stadium, Cornellà de Llobregat",20135
+https://fbref.com/en/matches/50a0b6b9/Cadiz-Barcelona-September-10-2022-La-Liga,Cádiz,Barcelona,1662827400,Sergio,Xavi,"Estadio Nuevo Mirandilla, Cádiz",19530
+https://fbref.com/en/matches/cc61d2ba/Atletico-Madrid-Celta-Vigo-September-10-2022-La-Liga,Atlético Madrid,Celta Vigo,1662836400,Diego Simeone,Eduardo Coudet,"Estadio Cívitas Metropolitano, Madrid",52247
+https://fbref.com/en/matches/6cf98669/Real-Madrid-Mallorca-September-11-2022-La-Liga,Real Madrid,Mallorca,1662897600,Carlo Ancelotti,Javier Aguirre,"Estadio Santiago Bernabéu, Madrid",54816
+https://fbref.com/en/matches/ab2a8ab6/Elche-Athletic-Club-September-11-2022-La-Liga,Elche,Athletic Club,1662905700,Francisco,Ernesto Valverde,"Estadio Manuel Martínez Valero, Elche",24176
+https://fbref.com/en/matches/3e47416b/Getafe-Real-Sociedad-September-11-2022-La-Liga,Getafe,Real Sociedad,1662913800,Quique Flores,Imanol Alguacil,"Coliseum Alfonso Pérez, Getafe",11112
+https://fbref.com/en/matches/287c6564/Real-Betis-Villarreal-September-11-2022-La-Liga,Real Betis,Villarreal,1662922800,Manuel Pellegrini,Unai Emery,"Estadio Benito Villamarín, Sevilla",53276
+https://fbref.com/en/matches/12e36761/Almeria-Osasuna-September-12-2022-La-Liga,Almería,Osasuna,1663009200,Rubí,Jagoba Arrasate,"Power Horse Stadium, Almería",12397
+https://fbref.com/en/matches/ec90c2fe/Valladolid-Cadiz-September-16-2022-La-Liga,Valladolid,Cádiz,1663354800,Pacheta,Sergio,"Estadio Municipal José Zorrilla, Valladolid",20295
+https://fbref.com/en/matches/8d5bc7c7/Mallorca-Almeria-September-17-2022-La-Liga,Mallorca,Almería,1663416000,Javier Aguirre,Rubí,"Iberostar Estadi, Palma de Mallorca",12687
+https://fbref.com/en/matches/edcc3e7a/Barcelona-Elche-September-17-2022-La-Liga,Barcelona,Elche,1663424100,Xavi,Francisco,"Camp Nou, Barcelona",85073
+https://fbref.com/en/matches/5b51dc48/Valencia-Celta-Vigo-September-17-2022-La-Liga,Valencia,Celta Vigo,1663432200,Gennaro Gattuso,Eduardo Coudet,"Estadio de Mestalla, Valencia",40965
+https://fbref.com/en/matches/dd04c982/Athletic-Club-Rayo-Vallecano-September-17-2022-La-Liga,Athletic Club,Rayo Vallecano,1663441200,Ernesto Valverde,Andoni Iraola,"San Mamés, Bilbao",43484
+https://fbref.com/en/matches/c6483087/Osasuna-Getafe-September-18-2022-La-Liga,Osasuna,Getafe,1663502400,Jagoba Arrasate,Quique Flores,"Estadio El Sadar, Pamplona",18255
+https://fbref.com/en/matches/28815113/Villarreal-Sevilla-September-18-2022-La-Liga,Villarreal,Sevilla,1663510500,Unai Emery,Lopetegui,"Estadio Ciudad de Valencia, Valencia",18292
+https://fbref.com/en/matches/cb6bce1d/Real-Betis-Girona-September-18-2022-La-Liga,Real Betis,Girona,1663518600,Manuel Pellegrini,Michel,"Estadio Benito Villamarín, Sevilla",52229
+https://fbref.com/en/matches/ee1f906d/Real-Sociedad-Espanyol-September-18-2022-La-Liga,Real Sociedad,Espanyol,1663518600,Imanol Alguacil,Diego Martínez ,"Reale Arena, San Sebastián",31511
+https://fbref.com/en/matches/c554c5ac/El-Derbi-Madrileno-Atletico-Madrid-Real-Madrid-September-18-2022-La-Liga,Atlético Madrid,Real Madrid,1663527600,Diego Simeone,Carlo Ancelotti,"Estadio Cívitas Metropolitano, Madrid",66881
+https://fbref.com/en/matches/54d6b3fc/Athletic-Club-Almeria-September-30-2022-La-Liga,Athletic Club,Almería,1664564400,Ernesto Valverde,Rubí,"San Mamés, Bilbao",42110
+https://fbref.com/en/matches/c0d557e1/Cadiz-Villarreal-October-1-2022-La-Liga,Cádiz,Villarreal,1664625600,Sergio,Unai Emery,"Estadio Nuevo Mirandilla, Cádiz",15516
+https://fbref.com/en/matches/09f36184/Getafe-Valladolid-October-1-2022-La-Liga,Getafe,Valladolid,1664633700,Quique Flores,Pacheta,"Coliseum Alfonso Pérez, Getafe",10958
+https://fbref.com/en/matches/069f9f40/Sevilla-Atletico-Madrid-October-1-2022-La-Liga,Sevilla,Atlético Madrid,1664641800,Lopetegui,Diego Simeone,"Estadio Ramón Sánchez Pizjuán, Sevilla",37754
+https://fbref.com/en/matches/5e73ad1a/Mallorca-Barcelona-October-1-2022-La-Liga,Mallorca,Barcelona,1664650800,Javier Aguirre,Xavi,"Iberostar Estadi, Palma de Mallorca",18103
+https://fbref.com/en/matches/841d1e2c/Espanyol-Valencia-October-2-2022-La-Liga,Espanyol,Valencia,1664712000,Diego Martínez ,Gennaro Gattuso,"RCDE Stadium, Cornellà de Llobregat",19766
+https://fbref.com/en/matches/849eee87/Celta-Vigo-Real-Betis-October-2-2022-La-Liga,Celta Vigo,Real Betis,1664720100,Eduardo Coudet,Manuel Pellegrini,"Estadio de Balaídos, Vigo",14344
+https://fbref.com/en/matches/3b56db84/Girona-Real-Sociedad-October-2-2022-La-Liga,Girona,Real Sociedad,1664728200,Michel,Imanol Alguacil,"Estadi Municipal de Montilivi, Girona",12217
+https://fbref.com/en/matches/0665a24f/Real-Madrid-Osasuna-October-2-2022-La-Liga,Real Madrid,Osasuna,1664737200,Carlo Ancelotti,Jagoba Arrasate,"Estadio Santiago Bernabéu, Madrid",55410
+https://fbref.com/en/matches/7044faa9/Rayo-Vallecano-Elche-October-3-2022-La-Liga,Rayo Vallecano,Elche,1664823600,Andoni Iraola,Francisco,"Estadio del Rayo Vallecano, Madrid",11662
+https://fbref.com/en/matches/ad03c9e1/Osasuna-Valencia-October-7-2022-La-Liga,Osasuna,Valencia,1665169200,Jagoba Arrasate,Gennaro Gattuso,"Estadio El Sadar, Pamplona",20260
+https://fbref.com/en/matches/5fd47c38/Almeria-Rayo-Vallecano-October-8-2022-La-Liga,Almería,Rayo Vallecano,1665230400,Rubí,Andoni Iraola,"Power Horse Stadium, Almería",10783
+https://fbref.com/en/matches/87353d2b/Atletico-Madrid-Girona-October-8-2022-La-Liga,Atlético Madrid,Girona,1665238500,Diego Simeone,Michel,"Estadio Cívitas Metropolitano, Madrid",54069
+https://fbref.com/en/matches/6558ecf4/Sevilla-Athletic-Club-October-8-2022-La-Liga,Sevilla,Athletic Club,1665246600,Jorge Sampaoli,Ernesto Valverde,"Estadio Ramón Sánchez Pizjuán, Sevilla",36502
+https://fbref.com/en/matches/3e3f4235/Getafe-Real-Madrid-October-8-2022-La-Liga,Getafe,Real Madrid,1665255600,Quique Flores,Carlo Ancelotti,"Coliseum Alfonso Pérez, Getafe",14502
+https://fbref.com/en/matches/49ec6969/Valladolid-Real-Betis-October-9-2022-La-Liga,Valladolid,Real Betis,1665316800,Pacheta,Manuel Pellegrini,"Estadio Municipal José Zorrilla, Valladolid",22561
+https://fbref.com/en/matches/77173e8b/Cadiz-Espanyol-October-9-2022-La-Liga,Cádiz,Espanyol,1665324900,Sergio,Diego Martínez ,"Estadio Nuevo Mirandilla, Cádiz",16572
+https://fbref.com/en/matches/058c86cf/Real-Sociedad-Villarreal-October-9-2022-La-Liga,Real Sociedad,Villarreal,1665333000,Imanol Alguacil,Unai Emery,"Reale Arena, San Sebastián",32689
+https://fbref.com/en/matches/a32c09d3/Barcelona-Celta-Vigo-October-9-2022-La-Liga,Barcelona,Celta Vigo,1665342000,Xavi,Eduardo Coudet,"Camp Nou, Barcelona",81525
+https://fbref.com/en/matches/d3056cab/Elche-Mallorca-October-10-2022-La-Liga,Elche,Mallorca,1665428400,Alberto Gallego,Javier Aguirre,"Estadio Manuel Martínez Valero, Elche",12000
+https://fbref.com/en/matches/64f3e100/Rayo-Vallecano-Getafe-October-14-2022-La-Liga,Rayo Vallecano,Getafe,1665774000,Andoni Iraola,Quique Flores,"Estadio del Rayo Vallecano, Madrid",13076
+https://fbref.com/en/matches/85293f4f/Girona-Cadiz-October-15-2022-La-Liga,Girona,Cádiz,1665835200,Michel,Sergio,"Estadi Municipal de Montilivi, Girona",9927
+https://fbref.com/en/matches/7493a41f/Valencia-Elche-October-15-2022-La-Liga,Valencia,Elche,1665843300,Gennaro Gattuso,Jorge Almirón,"Estadio de Mestalla, Valencia",41805
+https://fbref.com/en/matches/1019503c/Mallorca-Sevilla-October-15-2022-La-Liga,Mallorca,Sevilla,1665851400,Javier Aguirre,Jorge Sampaoli,"Iberostar Estadi, Palma de Mallorca",15300
+https://fbref.com/en/matches/ca6228b4/Athletic-Club-Atletico-Madrid-October-15-2022-La-Liga,Athletic Club,Atlético Madrid,1665860400,Ernesto Valverde,Diego Simeone,"San Mamés, Bilbao",48391
+https://fbref.com/en/matches/7b270235/Celta-Vigo-Real-Sociedad-October-16-2022-La-Liga,Celta Vigo,Real Sociedad,1665921600,Eduardo Coudet,Imanol Alguacil,"Estadio de Balaídos, Vigo",13101
+https://fbref.com/en/matches/c1875f22/El-Clasico-Real-Madrid-Barcelona-October-16-2022-La-Liga,Real Madrid,Barcelona,1665929700,Carlo Ancelotti,Xavi,"Estadio Santiago Bernabéu, Madrid",62876
+https://fbref.com/en/matches/3f1977ac/Espanyol-Valladolid-October-16-2022-La-Liga,Espanyol,Valladolid,1665937800,Diego Martínez ,Pacheta,"RCDE Stadium, Cornellà de Llobregat",17770
+https://fbref.com/en/matches/6510e441/Real-Betis-Almeria-October-16-2022-La-Liga,Real Betis,Almería,1665946800,Manuel Pellegrini,Rubí,"Estadio Benito Villamarín, Sevilla",46112
+https://fbref.com/en/matches/4760076d/Villarreal-Osasuna-October-17-2022-La-Liga,Villarreal,Osasuna,1666033200,Unai Emery,Jagoba Arrasate,"Estadio Ciudad de Valencia, Valencia",9699
+https://fbref.com/en/matches/a3f2e116/Sevilla-Valencia-October-18-2022-La-Liga,Sevilla,Valencia,1666112400,Jorge Sampaoli,Gennaro Gattuso,"Estadio Ramón Sánchez Pizjuán, Sevilla",37353
+https://fbref.com/en/matches/8b08659c/Getafe-Athletic-Club-October-18-2022-La-Liga,Getafe,Athletic Club,1666116000,Quique Flores,Ernesto Valverde,"Coliseum Alfonso Pérez, Getafe",11395
+https://fbref.com/en/matches/99d51f3f/Atletico-Madrid-Rayo-Vallecano-October-18-2022-La-Liga,Atlético Madrid,Rayo Vallecano,1666119600,Diego Simeone,Andoni Iraola,"Estadio Cívitas Metropolitano, Madrid",46803
+https://fbref.com/en/matches/1a9c7a37/Cadiz-Real-Betis-October-19-2022-La-Liga,Cádiz,Real Betis,1666198800,Sergio,Manuel Pellegrini,"Estadio Nuevo Mirandilla, Cádiz",18505
+https://fbref.com/en/matches/aa565872/Valladolid-Celta-Vigo-October-19-2022-La-Liga,Valladolid,Celta Vigo,1666198800,Pacheta,Eduardo Coudet,"Estadio Municipal José Zorrilla, Valladolid",16547
+https://fbref.com/en/matches/60393b8c/Real-Sociedad-Mallorca-October-19-2022-La-Liga,Real Sociedad,Mallorca,1666202400,Imanol Alguacil,Javier Aguirre,"Reale Arena, San Sebastián",27085
+https://fbref.com/en/matches/8cccf9d8/Elche-Real-Madrid-October-19-2022-La-Liga,Elche,Real Madrid,1666206000,Jorge Almirón,Carlo Ancelotti,"Estadio Manuel Martínez Valero, Elche",30236
+https://fbref.com/en/matches/49912abe/Almeria-Girona-October-20-2022-La-Liga,Almería,Girona,1666285200,Rubí,Michel,"Power Horse Stadium, Almería",11194
+https://fbref.com/en/matches/01037ff0/Osasuna-Espanyol-October-20-2022-La-Liga,Osasuna,Espanyol,1666288800,Jagoba Arrasate,Diego Martínez ,"Estadio El Sadar, Pamplona",17832
+https://fbref.com/en/matches/1fc0e34e/Barcelona-Villarreal-October-20-2022-La-Liga,Barcelona,Villarreal,1666292400,Xavi,Unai Emery,"Camp Nou, Barcelona",73261
+https://fbref.com/en/matches/d30035ab/Rayo-Vallecano-Cadiz-October-22-2022-La-Liga,Rayo Vallecano,Cádiz,1666440000,Andoni Iraola,Sergio,"Estadio del Rayo Vallecano, Madrid",12975
+https://fbref.com/en/matches/8aae24d6/Valladolid-Real-Sociedad-October-22-2022-La-Liga,Valladolid,Real Sociedad,1666448100,Pacheta,Imanol Alguacil,"Estadio Municipal José Zorrilla, Valladolid",21175
+https://fbref.com/en/matches/a9afb44e/Valencia-Mallorca-October-22-2022-La-Liga,Valencia,Mallorca,1666456200,Gennaro Gattuso,Javier Aguirre,"Estadio de Mestalla, Valencia",41199
+https://fbref.com/en/matches/c5d94024/Real-Madrid-Sevilla-October-22-2022-La-Liga,Real Madrid,Sevilla,1666465200,Carlo Ancelotti,Jorge Sampaoli,"Estadio Santiago Bernabéu, Madrid",59625
+https://fbref.com/en/matches/dfc7863c/Espanyol-Elche-October-23-2022-La-Liga,Espanyol,Elche,1666526400,Diego Martínez ,Jorge Almirón,"RCDE Stadium, Cornellà de Llobregat",17560
+https://fbref.com/en/matches/ad6d83f1/Real-Betis-Atletico-Madrid-October-23-2022-La-Liga,Real Betis,Atlético Madrid,1666534500,Manuel Pellegrini,Diego Simeone,"Estadio Benito Villamarín, Sevilla",50179
+https://fbref.com/en/matches/764f1270/Girona-Osasuna-October-23-2022-La-Liga,Girona,Osasuna,1666542600,Michel,Jagoba Arrasate,"Estadi Municipal de Montilivi, Girona",10032
+https://fbref.com/en/matches/fda8965c/Villarreal-Almeria-October-23-2022-La-Liga,Villarreal,Almería,1666542600,Unai Emery,Rubí,"Estadio Ciudad de Valencia, Valencia",13816
+https://fbref.com/en/matches/2fb55ba0/Barcelona-Athletic-Club-October-23-2022-La-Liga,Barcelona,Athletic Club,1666551600,Xavi,Ernesto Valverde,"Camp Nou, Barcelona",84817
+https://fbref.com/en/matches/44682e39/Celta-Vigo-Getafe-October-24-2022-La-Liga,Celta Vigo,Getafe,1666638000,Eduardo Coudet,Quique Flores,"Estadio de Balaídos, Vigo",9774
+https://fbref.com/en/matches/2ce5c331/Mallorca-Espanyol-October-28-2022-La-Liga,Mallorca,Espanyol,1666983600,Javier Aguirre,Diego Martínez ,"Iberostar Estadi, Palma de Mallorca",13982
+https://fbref.com/en/matches/8fd8c270/Almeria-Celta-Vigo-October-29-2022-La-Liga,Almería,Celta Vigo,1667044800,Rubí,Eduardo Coudet,"Power Horse Stadium, Almería",11080
+https://fbref.com/en/matches/bc23d0ab/Cadiz-Atletico-Madrid-October-29-2022-La-Liga,Cádiz,Atlético Madrid,1667052900,Sergio,Diego Simeone,"Estadio Nuevo Mirandilla, Cádiz",18183
+https://fbref.com/en/matches/a8b647af/Sevilla-Rayo-Vallecano-October-29-2022-La-Liga,Sevilla,Rayo Vallecano,1667061000,Jorge Sampaoli,Andoni Iraola,"Estadio Ramón Sánchez Pizjuán, Sevilla",36601
+https://fbref.com/en/matches/9abb9c34/Valencia-Barcelona-October-29-2022-La-Liga,Valencia,Barcelona,1667070000,Gennaro Gattuso,Xavi,"Estadio de Mestalla, Valencia",46007
+https://fbref.com/en/matches/82851200/Osasuna-Valladolid-October-30-2022-La-Liga,Osasuna,Valladolid,1667134800,Jagoba Arrasate,Pacheta,"Estadio El Sadar, Pamplona",19429
+https://fbref.com/en/matches/ffde27ac/Real-Madrid-Girona-October-30-2022-La-Liga,Real Madrid,Girona,1667142900,Carlo Ancelotti,Michel,"Estadio Santiago Bernabéu, Madrid",58367
+https://fbref.com/en/matches/4c9c43b6/Athletic-Club-Villarreal-October-30-2022-La-Liga,Athletic Club,Villarreal,1667151000,Ernesto Valverde,Quique Setién,"San Mamés, Bilbao",46081
+https://fbref.com/en/matches/dad5414f/Real-Sociedad-Real-Betis-October-30-2022-La-Liga,Real Sociedad,Real Betis,1667160000,Imanol Alguacil,Manuel Pellegrini,"Reale Arena, San Sebastián",32435
+https://fbref.com/en/matches/4f0d05ab/Elche-Getafe-October-31-2022-La-Liga,Elche,Getafe,1667246400,Jorge Almirón,Quique Flores,"Estadio Manuel Martínez Valero, Elche",19588
+https://fbref.com/en/matches/fbc9070c/Girona-Athletic-Club-November-4-2022-La-Liga,Girona,Athletic Club,1667592000,Michel,Ernesto Valverde,"Estadi Municipal de Montilivi, Girona",11420
+https://fbref.com/en/matches/70ec6175/Getafe-Cadiz-November-5-2022-La-Liga,Getafe,Cádiz,1667653200,Quique Flores,Sergio,"Coliseum Alfonso Pérez, Getafe",10554
+https://fbref.com/en/matches/db09f5b6/Valladolid-Elche-November-5-2022-La-Liga,Valladolid,Elche,1667661300,Pacheta,Jorge Almirón,"Estadio Municipal José Zorrilla, Valladolid",20176
+https://fbref.com/en/matches/e551bbc8/Celta-Vigo-Osasuna-November-5-2022-La-Liga,Celta Vigo,Osasuna,1667669400,Carlos Carvalhal,Jagoba Arrasate,"Estadio de Balaídos, Vigo",14209
+https://fbref.com/en/matches/b9cc54ac/Barcelona-Almeria-November-5-2022-La-Liga,Barcelona,Almería,1667678400,Xavi,Rubí,"Camp Nou, Barcelona",92605
+https://fbref.com/en/matches/19c1fbec/Atletico-Madrid-Espanyol-November-6-2022-La-Liga,Atlético Madrid,Espanyol,1667739600,Diego Simeone,Diego Martínez ,"Estadio Cívitas Metropolitano, Madrid",50007
+https://fbref.com/en/matches/86ebf3d1/Real-Sociedad-Valencia-November-6-2022-La-Liga,Real Sociedad,Valencia,1667747700,Imanol Alguacil,Gennaro Gattuso,"Reale Arena, San Sebastián",32773
+https://fbref.com/en/matches/610230c8/Villarreal-Mallorca-November-6-2022-La-Liga,Villarreal,Mallorca,1667755800,Quique Setién,Javier Aguirre,"Estadio Ciudad de Valencia, Valencia",16603
+https://fbref.com/en/matches/a8988680/Real-Betis-Sevilla-November-6-2022-La-Liga,Real Betis,Sevilla,1667764800,Manuel Pellegrini,Jorge Sampaoli,"Estadio Benito Villamarín, Sevilla",54034
+https://fbref.com/en/matches/fcff5859/Rayo-Vallecano-Real-Madrid-November-7-2022-La-Liga,Rayo Vallecano,Real Madrid,1667851200,Andoni Iraola,Carlo Ancelotti,"Estadio del Rayo Vallecano, Madrid",14216
+https://fbref.com/en/matches/ebaebf9c/Elche-Girona-November-8-2022-La-Liga,Elche,Girona,1667930400,Sergio Mantecón,Michel,"Estadio Manuel Martínez Valero, Elche",17339
+https://fbref.com/en/matches/daafdb0b/Athletic-Club-Valladolid-November-8-2022-La-Liga,Athletic Club,Valladolid,1667934000,Ernesto Valverde,Pacheta,"San Mamés, Bilbao",40072
+https://fbref.com/en/matches/1eecb0cd/Osasuna-Barcelona-November-8-2022-La-Liga,Osasuna,Barcelona,1667939400,Jagoba Arrasate,Xavi,"Estadio El Sadar, Pamplona",21603
+https://fbref.com/en/matches/28bef8bc/Almeria-Getafe-November-9-2022-La-Liga,Almería,Getafe,1668016800,Rubí,Quique Flores,"Power Horse Stadium, Almería",11454
+https://fbref.com/en/matches/f24d40c6/Sevilla-Real-Sociedad-November-9-2022-La-Liga,Sevilla,Real Sociedad,1668016800,Jorge Sampaoli,Imanol Alguacil,"Estadio Ramón Sánchez Pizjuán, Sevilla",34814
+https://fbref.com/en/matches/bb7701fa/Espanyol-Villarreal-November-9-2022-La-Liga,Espanyol,Villarreal,1668020400,Diego Martínez ,Quique Setién,"RCDE Stadium, Cornellà de Llobregat",17400
+https://fbref.com/en/matches/23d327b5/Mallorca-Atletico-Madrid-November-9-2022-La-Liga,Mallorca,Atlético Madrid,1668025800,Javier Aguirre,Diego Simeone,"Iberostar Estadi, Palma de Mallorca",14475
+https://fbref.com/en/matches/80851b68/Rayo-Vallecano-Celta-Vigo-November-10-2022-La-Liga,Rayo Vallecano,Celta Vigo,1668103200,Andoni Iraola,Carlos Carvalhal,"Estadio del Rayo Vallecano, Madrid",12419
+https://fbref.com/en/matches/daf1e1e7/Valencia-Real-Betis-November-10-2022-La-Liga,Valencia,Real Betis,1668106800,Gennaro Gattuso,Manuel Pellegrini,"Estadio de Mestalla, Valencia",39876
+https://fbref.com/en/matches/8413c8fa/Real-Madrid-Cadiz-November-10-2022-La-Liga,Real Madrid,Cádiz,1668112200,Carlo Ancelotti,Sergio,"Estadio Santiago Bernabéu, Madrid",53190
+https://fbref.com/en/matches/f1fddbae/Girona-Rayo-Vallecano-December-29-2022-La-Liga,Girona,Rayo Vallecano,1672329600,Michel,Andoni Iraola,"Estadi Municipal de Montilivi, Girona",11451
+https://fbref.com/en/matches/348f39ff/Real-Betis-Athletic-Club-December-29-2022-La-Liga,Real Betis,Athletic Club,1672337700,Manuel Pellegrini,Ernesto Valverde,"Estadio Benito Villamarín, Sevilla",53565
+https://fbref.com/en/matches/8fb6eaaa/Atletico-Madrid-Elche-December-29-2022-La-Liga,Atlético Madrid,Elche,1672345800,Diego Simeone,Pablo Machín,"Estadio Cívitas Metropolitano, Madrid",48119
+https://fbref.com/en/matches/c5637fb1/Getafe-Mallorca-December-30-2022-La-Liga,Getafe,Mallorca,1672416000,Quique Flores,Javier Aguirre,"Coliseum Alfonso Pérez, Getafe",9755
+https://fbref.com/en/matches/2f696974/Cadiz-Almeria-December-30-2022-La-Liga,Cádiz,Almería,1672424100,Sergio,Rubí,"Estadio Nuevo Mirandilla, Cádiz",17345
+https://fbref.com/en/matches/6c96832f/Celta-Vigo-Sevilla-December-30-2022-La-Liga,Celta Vigo,Sevilla,1672424100,Carlos Carvalhal,Jorge Sampaoli,"Estadio de Balaídos, Vigo",13653
+https://fbref.com/en/matches/a2d45f55/Valladolid-Real-Madrid-December-30-2022-La-Liga,Valladolid,Real Madrid,1672432200,Pacheta,Carlo Ancelotti,"Estadio Municipal José Zorrilla, Valladolid",25950
+https://fbref.com/en/matches/2af3934b/Barcelona-Espanyol-December-31-2022-La-Liga,Barcelona,Espanyol,1672491600,Xavi,Diego Martínez ,"Camp Nou, Barcelona",88095
+https://fbref.com/en/matches/87d24f61/Real-Sociedad-Osasuna-December-31-2022-La-Liga,Real Sociedad,Osasuna,1672499700,Imanol Alguacil,Jagoba Arrasate,"Reale Arena, San Sebastián",34847
+https://fbref.com/en/matches/a3257da8/Villarreal-Valencia-December-31-2022-La-Liga,Villarreal,Valencia,1672499700,Quique Setién,Gennaro Gattuso,"Estadio Ciudad de Valencia, Valencia",19247
+https://fbref.com/en/matches/c2084c72/Elche-Celta-Vigo-January-6-2023-La-Liga,Elche,Celta Vigo,1673026200,Pablo Machín,Carlos Carvalhal,"Estadio Manuel Martínez Valero, Elche",20121
+https://fbref.com/en/matches/ee927bcc/Valencia-Cadiz-January-6-2023-La-Liga,Valencia,Cádiz,1673035200,Gennaro Gattuso,Sergio,"Estadio de Mestalla, Valencia",39003
+https://fbref.com/en/matches/477d4cdf/Villarreal-Real-Madrid-January-7-2023-La-Liga,Villarreal,Real Madrid,1673104500,Quique Setién,Carlo Ancelotti,"Estadio de la Cerámica, Villarreal",21088
+https://fbref.com/en/matches/6b820d45/Mallorca-Valladolid-January-7-2023-La-Liga,Mallorca,Valladolid,1673112600,Javier Aguirre,Pacheta,"Iberostar Estadi, Palma de Mallorca",14129
+https://fbref.com/en/matches/87fea3c7/Espanyol-Girona-January-7-2023-La-Liga,Espanyol,Girona,1673121600,Diego Martínez ,Michel,"RCDE Stadium, Cornellà de Llobregat",21429
+https://fbref.com/en/matches/10b27265/Almeria-Real-Sociedad-January-8-2023-La-Liga,Almería,Real Sociedad,1673182800,Rubí,Imanol Alguacil,"Power Horse Stadium, Almería",12020
+https://fbref.com/en/matches/9ba59fd7/Rayo-Vallecano-Real-Betis-January-8-2023-La-Liga,Rayo Vallecano,Real Betis,1673190900,Andoni Iraola,Manuel Pellegrini,"Estadio del Rayo Vallecano, Madrid",13119
+https://fbref.com/en/matches/b1dca05d/Sevilla-Getafe-January-8-2023-La-Liga,Sevilla,Getafe,1673199000,Jorge Sampaoli,Quique Flores,"Estadio Ramón Sánchez Pizjuán, Sevilla",35389
+https://fbref.com/en/matches/3169fc9b/Atletico-Madrid-Barcelona-January-8-2023-La-Liga,Atlético Madrid,Barcelona,1673208000,Diego Simeone,Xavi,"Estadio Cívitas Metropolitano, Madrid",63493
+https://fbref.com/en/matches/67f4644f/Athletic-Club-Osasuna-January-9-2023-La-Liga,Athletic Club,Osasuna,1673294400,Ernesto Valverde,Jagoba Arrasate,"San Mamés, Bilbao",39216
+https://fbref.com/en/matches/8257d737/Celta-Vigo-Villarreal-January-13-2023-La-Liga,Celta Vigo,Villarreal,1673640000,Carlos Carvalhal,Quique Setién,"Estadio de Balaídos, Vigo",13931
+https://fbref.com/en/matches/61f4e6c3/Valladolid-Rayo-Vallecano-January-14-2023-La-Liga,Valladolid,Rayo Vallecano,1673701200,Pacheta,Andoni Iraola,"Estadio Municipal José Zorrilla, Valladolid",19969
+https://fbref.com/en/matches/65182979/Girona-Sevilla-January-14-2023-La-Liga,Girona,Sevilla,1673709300,Michel,Jorge Sampaoli,"Estadi Municipal de Montilivi, Girona",12035
+https://fbref.com/en/matches/cd2e3313/Osasuna-Mallorca-January-14-2023-La-Liga,Osasuna,Mallorca,1673717400,Jagoba Arrasate,Javier Aguirre,"Estadio El Sadar, Pamplona",19887
+https://fbref.com/en/matches/53243b91/Real-Sociedad-Athletic-Club-January-14-2023-La-Liga,Real Sociedad,Athletic Club,1673726400,Imanol Alguacil,Ernesto Valverde,"Reale Arena, San Sebastián",38296
+https://fbref.com/en/matches/d5dc8a2c/Getafe-Espanyol-January-15-2023-La-Liga,Getafe,Espanyol,1673787600,Quique Flores,Diego Martínez ,"Coliseum Alfonso Pérez, Getafe",10286
+https://fbref.com/en/matches/aa527e49/Almeria-Atletico-Madrid-January-15-2023-La-Liga,Almería,Atlético Madrid,1673795700,Rubí,Diego Simeone,"Power Horse Stadium, Almería",14128
+https://fbref.com/en/matches/43237dc2/Cadiz-Elche-January-16-2023-La-Liga,Cádiz,Elche,1673899200,Sergio,Pablo Machín,"Estadio Nuevo Mirandilla, Cádiz",17389
+https://fbref.com/en/matches/53d34361/Mallorca-Celta-Vigo-January-20-2023-La-Liga,Mallorca,Celta Vigo,1674244800,Javier Aguirre,Carlos Carvalhal,"Iberostar Estadi, Palma de Mallorca",12253
+https://fbref.com/en/matches/6b5ac953/Rayo-Vallecano-Real-Sociedad-January-21-2023-La-Liga,Rayo Vallecano,Real Sociedad,1674306000,Andoni Iraola,Imanol Alguacil,"Estadio del Rayo Vallecano, Madrid",12874
+https://fbref.com/en/matches/377ddbd2/Espanyol-Real-Betis-January-21-2023-La-Liga,Espanyol,Real Betis,1674314100,Diego Martínez ,Manuel Pellegrini,"RCDE Stadium, Cornellà de Llobregat",20811
+https://fbref.com/en/matches/8b8d6b96/Atletico-Madrid-Valladolid-January-21-2023-La-Liga,Atlético Madrid,Valladolid,1674322200,Diego Simeone,Pacheta,"Estadio Cívitas Metropolitano, Madrid",53253
+https://fbref.com/en/matches/318144c8/Sevilla-Cadiz-January-21-2023-La-Liga,Sevilla,Cádiz,1674331200,Jorge Sampaoli,Sergio,"Estadio Ramón Sánchez Pizjuán, Sevilla",37400
+https://fbref.com/en/matches/f3666d93/Villarreal-Girona-January-22-2023-La-Liga,Villarreal,Girona,1674392400,Quique Setién,Michel,"Estadio de la Cerámica, Villarreal",15129
+https://fbref.com/en/matches/274b9a9c/Elche-Osasuna-January-22-2023-La-Liga,Elche,Osasuna,1674400500,Pablo Machín,Jagoba Arrasate,"Estadio Manuel Martínez Valero, Elche",17589
+https://fbref.com/en/matches/09f83bbc/Barcelona-Getafe-January-22-2023-La-Liga,Barcelona,Getafe,1674408600,Xavi,Quique Flores,"Camp Nou, Barcelona",79814
+https://fbref.com/en/matches/ad94dd60/Athletic-Club-Real-Madrid-January-22-2023-La-Liga,Athletic Club,Real Madrid,1674417600,Ernesto Valverde,Carlo Ancelotti,"San Mamés, Bilbao",49316
+https://fbref.com/en/matches/b944484e/Valencia-Almeria-January-23-2023-La-Liga,Valencia,Almería,1674504000,Gennaro Gattuso,Rubí,"Estadio de Mestalla, Valencia",33442
+https://fbref.com/en/matches/58ddf563/Almeria-Espanyol-January-27-2023-La-Liga,Almería,Espanyol,1674849600,Rubí,Diego Martínez ,"Power Horse Stadium, Almería",11629
+https://fbref.com/en/matches/f80c04f0/Cadiz-Mallorca-January-28-2023-La-Liga,Cádiz,Mallorca,1674910800,Sergio,Javier Aguirre,"Estadio Nuevo Mirandilla, Cádiz",16117
+https://fbref.com/en/matches/05df662a/Girona-Barcelona-January-28-2023-La-Liga,Girona,Barcelona,1674918900,Michel,Xavi,"Estadi Municipal de Montilivi, Girona",13402
+https://fbref.com/en/matches/bb7eb70e/Sevilla-Elche-January-28-2023-La-Liga,Sevilla,Elche,1674927000,Jorge Sampaoli,Pablo Machín,"Estadio Ramón Sánchez Pizjuán, Sevilla",35567
+https://fbref.com/en/matches/2532526d/Getafe-Real-Betis-January-28-2023-La-Liga,Getafe,Real Betis,1674936000,Quique Flores,Manuel Pellegrini,"Coliseum Alfonso Pérez, Getafe",11851
+https://fbref.com/en/matches/7ca28cbe/Valladolid-Valencia-January-29-2023-La-Liga,Valladolid,Valencia,1674997200,Pacheta,Gennaro Gattuso,"Estadio Municipal José Zorrilla, Valladolid",19675
+https://fbref.com/en/matches/7b74b970/Osasuna-Atletico-Madrid-January-29-2023-La-Liga,Osasuna,Atlético Madrid,1675005300,Jagoba Arrasate,Diego Simeone,"Estadio El Sadar, Pamplona",20902
+https://fbref.com/en/matches/897e2175/Celta-Vigo-Athletic-Club-January-29-2023-La-Liga,Celta Vigo,Athletic Club,1675013400,Carlos Carvalhal,Ernesto Valverde,"Estadio de Balaídos, Vigo",14754
+https://fbref.com/en/matches/e75285fb/Real-Madrid-Real-Sociedad-January-29-2023-La-Liga,Real Madrid,Real Sociedad,1675022400,Carlo Ancelotti,Imanol Alguacil,"Estadio Santiago Bernabéu, Madrid",58129
+https://fbref.com/en/matches/0681349c/Villarreal-Rayo-Vallecano-January-30-2023-La-Liga,Villarreal,Rayo Vallecano,1675108800,Quique Setién,Andoni Iraola,"Estadio de la Cerámica, Villarreal",14378
+https://fbref.com/en/matches/1826e512/Real-Betis-Barcelona-February-1-2023-La-Liga,Real Betis,Barcelona,1675281600,Manuel Pellegrini,Xavi,"Estadio Benito Villamarín, Sevilla",48181
+https://fbref.com/en/matches/c8355bdd/Real-Madrid-Valencia-February-2-2023-La-Liga,Real Madrid,Valencia,1675368000,Carlo Ancelotti,Voro,"Estadio Santiago Bernabéu, Madrid",51926
+https://fbref.com/en/matches/4ad25809/Athletic-Club-Cadiz-February-3-2023-La-Liga,Athletic Club,Cádiz,1675454400,Ernesto Valverde,Sergio,"San Mamés, Bilbao",42916
+https://fbref.com/en/matches/0913c358/Espanyol-Osasuna-February-4-2023-La-Liga,Espanyol,Osasuna,1675515600,Diego Martínez ,Jagoba Arrasate,"RCDE Stadium, Cornellà de Llobregat",22438
+https://fbref.com/en/matches/bbd97201/Elche-Villarreal-February-4-2023-La-Liga,Elche,Villarreal,1675523700,Pablo Machín,Quique Setién,"Estadio Manuel Martínez Valero, Elche",18421
+https://fbref.com/en/matches/d98b5875/Atletico-Madrid-Getafe-February-4-2023-La-Liga,Atlético Madrid,Getafe,1675531800,Diego Simeone,Quique Flores,"Estadio Cívitas Metropolitano, Madrid",56079
+https://fbref.com/en/matches/21392431/Real-Betis-Celta-Vigo-February-4-2023-La-Liga,Real Betis,Celta Vigo,1675540800,Manuel Pellegrini,Carlos Carvalhal,"Estadio Benito Villamarín, Sevilla",46595
+https://fbref.com/en/matches/a0914b2e/Mallorca-Real-Madrid-February-5-2023-La-Liga,Mallorca,Real Madrid,1675602000,Javier Aguirre,Carlo Ancelotti,"Iberostar Estadi, Palma de Mallorca",18258
+https://fbref.com/en/matches/7b4e5dae/Girona-Valencia-February-5-2023-La-Liga,Girona,Valencia,1675610100,Michel,Voro,"Estadi Municipal de Montilivi, Girona",10732
+https://fbref.com/en/matches/3eac51cc/Real-Sociedad-Valladolid-February-5-2023-La-Liga,Real Sociedad,Valladolid,1675618200,Imanol Alguacil,Pacheta,"Reale Arena, San Sebastián",32214
+https://fbref.com/en/matches/1ccc0d2c/Barcelona-Sevilla-February-5-2023-La-Liga,Barcelona,Sevilla,1675627200,Xavi,Jorge Sampaoli,"Camp Nou, Barcelona",77987
+https://fbref.com/en/matches/49ebcc28/Rayo-Vallecano-Almeria-February-6-2023-La-Liga,Rayo Vallecano,Almería,1675713600,Andoni Iraola,Rubí,"Estadio del Rayo Vallecano, Madrid",11783
+https://fbref.com/en/matches/dfda9563/Cadiz-Girona-February-10-2023-La-Liga,Cádiz,Girona,1676059200,Sergio,Michel,"Estadio Nuevo Mirandilla, Cádiz",14873
+https://fbref.com/en/matches/6bb56f15/Almeria-Real-Betis-February-11-2023-La-Liga,Almería,Real Betis,1676128500,Rubí,Manuel Pellegrini,"Power Horse Stadium, Almería",14288
+https://fbref.com/en/matches/0792ae6b/Sevilla-Mallorca-February-11-2023-La-Liga,Sevilla,Mallorca,1676136600,Jorge Sampaoli,Javier Aguirre,"Estadio Ramón Sánchez Pizjuán, Sevilla",35150
+https://fbref.com/en/matches/26d50111/Valencia-Athletic-Club-February-11-2023-La-Liga,Valencia,Athletic Club,1676145600,Voro,Ernesto Valverde,"Estadio de Mestalla, Valencia",36688
+https://fbref.com/en/matches/8d4f770b/Getafe-Rayo-Vallecano-February-12-2023-La-Liga,Getafe,Rayo Vallecano,1676206800,Quique Flores,Andoni Iraola,"Coliseum Alfonso Pérez, Getafe",12042
+https://fbref.com/en/matches/a34eae3f/Celta-Vigo-Atletico-Madrid-February-12-2023-La-Liga,Celta Vigo,Atlético Madrid,1676214900,Carlos Carvalhal,Diego Simeone,"Estadio de Balaídos, Vigo",15842
+https://fbref.com/en/matches/315c78f1/Valladolid-Osasuna-February-12-2023-La-Liga,Valladolid,Osasuna,1676223000,Pacheta,Jagoba Arrasate,"Estadio Municipal José Zorrilla, Valladolid",21044
+https://fbref.com/en/matches/44e57939/Villarreal-Barcelona-February-12-2023-La-Liga,Villarreal,Barcelona,1676232000,Quique Setién,Xavi,"Estadio de la Cerámica, Villarreal",21178
+https://fbref.com/en/matches/7ed0a343/Espanyol-Real-Sociedad-February-13-2023-La-Liga,Espanyol,Real Sociedad,1676318400,Diego Martínez ,Imanol Alguacil,"RCDE Stadium, Cornellà de Llobregat",15867
+https://fbref.com/en/matches/aa81febc/Real-Madrid-Elche-February-15-2023-La-Liga,Real Madrid,Elche,1676491200,Carlo Ancelotti,Pablo Machín,"Estadio Santiago Bernabéu, Madrid",44319
+https://fbref.com/en/matches/6dd225f0/Girona-Almeria-February-17-2023-La-Liga,Girona,Almería,1676664000,Michel,Rubí,"Estadi Municipal de Montilivi, Girona",8879
+https://fbref.com/en/matches/312c107a/Real-Sociedad-Celta-Vigo-February-18-2023-La-Liga,Real Sociedad,Celta Vigo,1676725200,Imanol Alguacil,Carlos Carvalhal,"Reale Arena, San Sebastián",29312
+https://fbref.com/en/matches/b5b65432/Real-Betis-Valladolid-February-18-2023-La-Liga,Real Betis,Valladolid,1676733300,Manuel Pellegrini,Pacheta,"Estadio Benito Villamarín, Sevilla",51396
+https://fbref.com/en/matches/abe1a0be/Mallorca-Villarreal-February-18-2023-La-Liga,Mallorca,Villarreal,1676741400,Javier Aguirre,Quique Setién,"Iberostar Estadi, Palma de Mallorca",13957
+https://fbref.com/en/matches/41878242/Osasuna-Real-Madrid-February-18-2023-La-Liga,Osasuna,Real Madrid,1676750400,Jagoba Arrasate,Carlo Ancelotti,"Estadio El Sadar, Pamplona",21668
+https://fbref.com/en/matches/a94a07e1/Elche-Espanyol-February-19-2023-La-Liga,Elche,Espanyol,1676811600,Pablo Machín,Diego Martínez ,"Estadio Manuel Martínez Valero, Elche",18963
+https://fbref.com/en/matches/bf5f27cd/Rayo-Vallecano-Sevilla-February-19-2023-La-Liga,Rayo Vallecano,Sevilla,1676819700,Andoni Iraola,Jorge Sampaoli,"Estadio del Rayo Vallecano, Madrid",13294
+https://fbref.com/en/matches/bc5d03d2/Atletico-Madrid-Athletic-Club-February-19-2023-La-Liga,Atlético Madrid,Athletic Club,1676827800,Diego Simeone,Ernesto Valverde,"Estadio Cívitas Metropolitano, Madrid",61617
+https://fbref.com/en/matches/c3d1d09b/Barcelona-Cadiz-February-19-2023-La-Liga,Barcelona,Cádiz,1676836800,Xavi,Sergio,"Camp Nou, Barcelona",72010
+https://fbref.com/en/matches/2d3fc14f/Getafe-Valencia-February-20-2023-La-Liga,Getafe,Valencia,1676923200,Quique Flores,Rubén Baraja,"Coliseum Alfonso Pérez, Getafe",10112
+https://fbref.com/en/matches/d13590ac/Elche-Real-Betis-February-24-2023-La-Liga,Elche,Real Betis,1677268800,Pablo Machín,Manuel Pellegrini,"Estadio Manuel Martínez Valero, Elche",20643
+https://fbref.com/en/matches/446b1577/Espanyol-Mallorca-February-25-2023-La-Liga,Espanyol,Mallorca,1677330000,Diego Martínez ,Javier Aguirre,"RCDE Stadium, Cornellà de Llobregat",21403
+https://fbref.com/en/matches/1e086908/Cadiz-Rayo-Vallecano-February-25-2023-La-Liga,Cádiz,Rayo Vallecano,1677338100,Sergio,Andoni Iraola,"Estadio Nuevo Mirandilla, Cádiz",16703
+https://fbref.com/en/matches/b51377f8/El-Derbi-Madrileno-Real-Madrid-Atletico-Madrid-February-25-2023-La-Liga,Real Madrid,Atlético Madrid,1677346200,Carlo Ancelotti,Diego Simeone,"Estadio Santiago Bernabéu, Madrid",64721
+https://fbref.com/en/matches/fe69c87b/Valencia-Real-Sociedad-February-25-2023-La-Liga,Valencia,Real Sociedad,1677355200,Rubén Baraja,Imanol Alguacil,"Estadio de Mestalla, Valencia",37465
+https://fbref.com/en/matches/484db82d/Athletic-Club-Girona-February-26-2023-La-Liga,Athletic Club,Girona,1677416400,Ernesto Valverde,Michel,"San Mamés, Bilbao",42816
+https://fbref.com/en/matches/5b7029e3/Celta-Vigo-Valladolid-February-26-2023-La-Liga,Celta Vigo,Valladolid,1677424500,Carlos Carvalhal,Pacheta,"Estadio de Balaídos, Vigo",14755
+https://fbref.com/en/matches/47134469/Almeria-Barcelona-February-26-2023-La-Liga,Almería,Barcelona,1677432600,Rubí,Xavi,"Power Horse Stadium, Almería",15279
+https://fbref.com/en/matches/19bec97a/Sevilla-Osasuna-February-26-2023-La-Liga,Sevilla,Osasuna,1677441600,Jorge Sampaoli,Jagoba Arrasate,"Estadio Ramón Sánchez Pizjuán, Sevilla",34538
+https://fbref.com/en/matches/17268fc9/Villarreal-Getafe-February-27-2023-La-Liga,Villarreal,Getafe,1677528000,Quique Setién,Quique Flores,"Estadio de la Cerámica, Villarreal",13090
+https://fbref.com/en/matches/d76a9b5c/Real-Sociedad-Cadiz-March-3-2023-La-Liga,Real Sociedad,Cádiz,1677873600,Imanol Alguacil,Sergio,"Reale Arena, San Sebastián",28733
+https://fbref.com/en/matches/81393487/Getafe-Girona-March-4-2023-La-Liga,Getafe,Girona,1677934800,Quique Flores,Michel,"Coliseum Alfonso Pérez, Getafe",9802
+https://fbref.com/en/matches/366a3ab1/Almeria-Villarreal-March-4-2023-La-Liga,Almería,Villarreal,1677942900,Rubí,Quique Setién,"Power Horse Stadium, Almería",13311
+https://fbref.com/en/matches/14214742/Mallorca-Elche-March-4-2023-La-Liga,Mallorca,Elche,1677951000,Javier Aguirre,Pablo Machín,"Iberostar Estadi, Palma de Mallorca",14065
+https://fbref.com/en/matches/7bfcaa51/Atletico-Madrid-Sevilla-March-4-2023-La-Liga,Atlético Madrid,Sevilla,1677960000,Diego Simeone,Jorge Sampaoli,"Estadio Cívitas Metropolitano, Madrid",57737
+https://fbref.com/en/matches/f4163c1c/Valladolid-Espanyol-March-5-2023-La-Liga,Valladolid,Espanyol,1678021200,Pacheta,Diego Martínez ,"Estadio Municipal José Zorrilla, Valladolid",19212
+https://fbref.com/en/matches/3dc648e6/Barcelona-Valencia-March-5-2023-La-Liga,Barcelona,Valencia,1678029300,Xavi,Rubén Baraja,"Camp Nou, Barcelona",89644
+https://fbref.com/en/matches/47a1d3f2/Rayo-Vallecano-Athletic-Club-March-5-2023-La-Liga,Rayo Vallecano,Athletic Club,1678037400,Andoni Iraola,Ernesto Valverde,"Estadio del Rayo Vallecano, Madrid",12979
+https://fbref.com/en/matches/971ff4d2/Real-Betis-Real-Madrid-March-5-2023-La-Liga,Real Betis,Real Madrid,1678046400,Manuel Pellegrini,Carlo Ancelotti,"Estadio Benito Villamarín, Sevilla",52212
+https://fbref.com/en/matches/6facd787/Osasuna-Celta-Vigo-March-6-2023-La-Liga,Osasuna,Celta Vigo,1678132800,Jagoba Arrasate,Carlos Carvalhal,"Estadio El Sadar, Pamplona",17684
+https://fbref.com/en/matches/5b5947df/Cadiz-Getafe-March-10-2023-La-Liga,Cádiz,Getafe,1678478400,Sergio,Quique Flores,"Estadio Nuevo Mirandilla, Cádiz",18414
+https://fbref.com/en/matches/f08a0268/Real-Madrid-Espanyol-March-11-2023-La-Liga,Real Madrid,Espanyol,1678539600,Carlo Ancelotti,Diego Martínez ,"Estadio Santiago Bernabéu, Madrid",59872
+https://fbref.com/en/matches/d1648255/Elche-Valladolid-March-11-2023-La-Liga,Elche,Valladolid,1678547700,Pablo Machín,Pacheta,"Estadio Manuel Martínez Valero, Elche",18972
+https://fbref.com/en/matches/db2d843c/Celta-Vigo-Rayo-Vallecano-March-11-2023-La-Liga,Celta Vigo,Rayo Vallecano,1678555800,Carlos Carvalhal,Andoni Iraola,"Estadio de Balaídos, Vigo",14451
+https://fbref.com/en/matches/77b8c292/Valencia-Osasuna-March-11-2023-La-Liga,Valencia,Osasuna,1678564800,Rubén Baraja,Jagoba Arrasate,"Estadio de Mestalla, Valencia",37762
+https://fbref.com/en/matches/9a689249/Mallorca-Real-Sociedad-March-12-2023-La-Liga,Mallorca,Real Sociedad,1678626000,Javier Aguirre,Imanol Alguacil,"Iberostar Estadi, Palma de Mallorca",13840
+https://fbref.com/en/matches/c3d888f5/Sevilla-Almeria-March-12-2023-La-Liga,Sevilla,Almería,1678634100,Jorge Sampaoli,Rubí,"Estadio Ramón Sánchez Pizjuán, Sevilla",37848
+https://fbref.com/en/matches/02eab739/Villarreal-Real-Betis-March-12-2023-La-Liga,Villarreal,Real Betis,1678642200,Quique Setién,Manuel Pellegrini,"Estadio de la Cerámica, Villarreal",19174
+https://fbref.com/en/matches/11efb749/Athletic-Club-Barcelona-March-12-2023-La-Liga,Athletic Club,Barcelona,1678651200,Ernesto Valverde,Xavi,"San Mamés, Bilbao",49741
+https://fbref.com/en/matches/6d438679/Girona-Atletico-Madrid-March-13-2023-La-Liga,Girona,Atlético Madrid,1678737600,Michel,Diego Simeone,"Estadi Municipal de Montilivi, Girona",12499
+https://fbref.com/en/matches/d4c4e1d2/Valladolid-Athletic-Club-March-17-2023-La-Liga,Valladolid,Athletic Club,1679083200,Pacheta,Ernesto Valverde,"Estadio Municipal José Zorrilla, Valladolid",21707
+https://fbref.com/en/matches/e4dabca8/Almeria-Cadiz-March-18-2023-La-Liga,Almería,Cádiz,1679144400,Rubí,Sergio,"Power Horse Stadium, Almería",12183
+https://fbref.com/en/matches/2dc7ac7e/Rayo-Vallecano-Girona-March-18-2023-La-Liga,Rayo Vallecano,Girona,1679152500,Andoni Iraola,Michel,"Estadio del Rayo Vallecano, Madrid",12263
+https://fbref.com/en/matches/c13e375b/Espanyol-Celta-Vigo-March-18-2023-La-Liga,Espanyol,Celta Vigo,1679160600,Diego Martínez ,Carlos Carvalhal,"RCDE Stadium, Cornellà de Llobregat",26231
+https://fbref.com/en/matches/5ca44582/Atletico-Madrid-Valencia-March-18-2023-La-Liga,Atlético Madrid,Valencia,1679169600,Diego Simeone,Rubén Baraja,"Estadio Cívitas Metropolitano, Madrid",58317
+https://fbref.com/en/matches/e668a91a/Real-Betis-Mallorca-March-19-2023-La-Liga,Real Betis,Mallorca,1679230800,Manuel Pellegrini,Javier Aguirre,"Estadio Benito Villamarín, Sevilla",50402
+https://fbref.com/en/matches/83cef2e5/Osasuna-Villarreal-March-19-2023-La-Liga,Osasuna,Villarreal,1679238900,Jagoba Arrasate,Quique Setién,"Estadio El Sadar, Pamplona",20128
+https://fbref.com/en/matches/8b6c5b79/Real-Sociedad-Elche-March-19-2023-La-Liga,Real Sociedad,Elche,1679238900,Imanol Alguacil,Pablo Machín,"Reale Arena, San Sebastián",28496
+https://fbref.com/en/matches/d233dd60/Getafe-Sevilla-March-19-2023-La-Liga,Getafe,Sevilla,1679247000,Quique Flores,Jorge Sampaoli,"Coliseum Alfonso Pérez, Getafe",12253
+https://fbref.com/en/matches/fbf241b4/El-Clasico-Barcelona-Real-Madrid-March-19-2023-La-Liga,Barcelona,Real Madrid,1679256000,Xavi,Carlo Ancelotti,"Camp Nou, Barcelona",95745
+https://fbref.com/en/matches/bb2cc8e7/Mallorca-Osasuna-March-31-2023-La-Liga,Mallorca,Osasuna,1680289200,Javier Aguirre,Jagoba Arrasate,"Iberostar Estadi, Palma de Mallorca",14132
+https://fbref.com/en/matches/1b9ec7de/Girona-Espanyol-April-1-2023-La-Liga,Girona,Espanyol,1680350400,Michel,Diego Martínez ,"Estadi Municipal de Montilivi, Girona",12841
+https://fbref.com/en/matches/e0851269/Athletic-Club-Getafe-April-1-2023-La-Liga,Athletic Club,Getafe,1680358500,Ernesto Valverde,Quique Flores,"San Mamés, Bilbao",43782
+https://fbref.com/en/matches/b57113f8/Cadiz-Sevilla-April-1-2023-La-Liga,Cádiz,Sevilla,1680366600,Sergio,Mendilibar,"Estadio Nuevo Mirandilla, Cádiz",19181
+https://fbref.com/en/matches/15bdf085/Elche-Barcelona-April-1-2023-La-Liga,Elche,Barcelona,1680375600,Sebastián Becaccece,Xavi,"Estadio Manuel Martínez Valero, Elche",28142
+https://fbref.com/en/matches/2cbcebd9/Celta-Vigo-Almeria-April-2-2023-La-Liga,Celta Vigo,Almería,1680436800,Carlos Carvalhal,Rubí,"Estadio de Balaídos, Vigo",14011
+https://fbref.com/en/matches/deb5f8cf/Real-Madrid-Valladolid-April-2-2023-La-Liga,Real Madrid,Valladolid,1680444900,Carlo Ancelotti,Pacheta,"Estadio Santiago Bernabéu, Madrid",59400
+https://fbref.com/en/matches/6d421caf/Villarreal-Real-Sociedad-April-2-2023-La-Liga,Villarreal,Real Sociedad,1680453000,Quique Setién,Imanol Alguacil,"Estadio de la Cerámica, Villarreal",18768
+https://fbref.com/en/matches/42eb1869/Atletico-Madrid-Real-Betis-April-2-2023-La-Liga,Atlético Madrid,Real Betis,1680462000,Diego Simeone,Manuel Pellegrini,"Estadio Cívitas Metropolitano, Madrid",61623
+https://fbref.com/en/matches/c0f06039/Valencia-Rayo-Vallecano-April-3-2023-La-Liga,Valencia,Rayo Vallecano,1680548400,Rubén Baraja,Andoni Iraola,"Estadio de Mestalla, Valencia",39769
+https://fbref.com/en/matches/a10d32b8/Sevilla-Celta-Vigo-April-7-2023-La-Liga,Sevilla,Celta Vigo,1680894000,Mendilibar,Carlos Carvalhal,"Estadio Ramón Sánchez Pizjuán, Sevilla",30778
+https://fbref.com/en/matches/678b0d64/Osasuna-Elche-April-8-2023-La-Liga,Osasuna,Elche,1680955200,Jagoba Arrasate,Sebastián Becaccece,"Estadio El Sadar, Pamplona",16925
+https://fbref.com/en/matches/aeab8412/Espanyol-Athletic-Club-April-8-2023-La-Liga,Espanyol,Athletic Club,1680963300,Luis García,Ernesto Valverde,"RCDE Stadium, Cornellà de Llobregat",24903
+https://fbref.com/en/matches/52679876/Real-Sociedad-Getafe-April-8-2023-La-Liga,Real Sociedad,Getafe,1680971400,Imanol Alguacil,Quique Flores,"Reale Arena, San Sebastián",27606
+https://fbref.com/en/matches/c9cc060c/Real-Madrid-Villarreal-April-8-2023-La-Liga,Real Madrid,Villarreal,1680980400,Carlo Ancelotti,Quique Setién,"Estadio Santiago Bernabéu, Madrid",57887
+https://fbref.com/en/matches/95368d85/Valladolid-Mallorca-April-9-2023-La-Liga,Valladolid,Mallorca,1681041600,Paulo Pezzolano,Javier Aguirre,"Estadio Municipal José Zorrilla, Valladolid",18010
+https://fbref.com/en/matches/ea93d7f3/Real-Betis-Cadiz-April-9-2023-La-Liga,Real Betis,Cádiz,1681049700,Manuel Pellegrini,Sergio,"Estadio Benito Villamarín, Sevilla",51555
+https://fbref.com/en/matches/22adf5a4/Almeria-Valencia-April-9-2023-La-Liga,Almería,Valencia,1681057800,Rubí,Rubén Baraja,"Power Horse Stadium, Almería",14309
+https://fbref.com/en/matches/d530a139/Rayo-Vallecano-Atletico-Madrid-April-9-2023-La-Liga,Rayo Vallecano,Atlético Madrid,1681066800,Andoni Iraola,Diego Simeone,"Estadio del Rayo Vallecano, Madrid",13512
+https://fbref.com/en/matches/495ec163/Barcelona-Girona-April-10-2023-La-Liga,Barcelona,Girona,1681153200,Xavi,Michel,"Camp Nou, Barcelona",78425
+https://fbref.com/en/matches/78e99c13/Rayo-Vallecano-Osasuna-April-14-2023-La-Liga,Rayo Vallecano,Osasuna,1681498800,Andoni Iraola,Jagoba Arrasate,"Estadio del Rayo Vallecano, Madrid",12726
+https://fbref.com/en/matches/6b890537/Villarreal-Valladolid-April-15-2023-La-Liga,Villarreal,Valladolid,1681560000,Quique Setién,Paulo Pezzolano,"Estadio de la Cerámica, Villarreal",14876
+https://fbref.com/en/matches/4c562ec1/Athletic-Club-Real-Sociedad-April-15-2023-La-Liga,Athletic Club,Real Sociedad,1681568100,Ernesto Valverde,Imanol Alguacil,"San Mamés, Bilbao",49287
+https://fbref.com/en/matches/1de90754/Real-Betis-Espanyol-April-15-2023-La-Liga,Real Betis,Espanyol,1681576200,Manuel Pellegrini,Luis García,"Estadio Benito Villamarín, Sevilla",45313
+https://fbref.com/en/matches/2cc94405/Cadiz-Real-Madrid-April-15-2023-La-Liga,Cádiz,Real Madrid,1681585200,Sergio,Carlo Ancelotti,"Estadio Nuevo Mirandilla, Cádiz",19833
+https://fbref.com/en/matches/0691278f/Girona-Elche-April-16-2023-La-Liga,Girona,Elche,1681646400,Michel,Sebastián Becaccece,"Estadi Municipal de Montilivi, Girona",11114
+https://fbref.com/en/matches/acef62b2/Getafe-Barcelona-April-16-2023-La-Liga,Getafe,Barcelona,1681654500,Quique Flores,Xavi,"Coliseum Alfonso Pérez, Getafe",14854
+https://fbref.com/en/matches/c518c3b1/Atletico-Madrid-Almeria-April-16-2023-La-Liga,Atlético Madrid,Almería,1681662600,Diego Simeone,Rubí,"Estadio Cívitas Metropolitano, Madrid",59204
+https://fbref.com/en/matches/722dabd5/Valencia-Sevilla-April-16-2023-La-Liga,Valencia,Sevilla,1681671600,Rubén Baraja,Mendilibar,"Estadio de Mestalla, Valencia",39654
+https://fbref.com/en/matches/3d760d7b/Celta-Vigo-Mallorca-April-17-2023-La-Liga,Celta Vigo,Mallorca,1681758000,Carlos Carvalhal,Javier Aguirre,"Estadio de Balaídos, Vigo",13557
+https://fbref.com/en/matches/e9486908/Espanyol-Cadiz-April-21-2023-La-Liga,Espanyol,Cádiz,1682103600,Luis García,Sergio,"RCDE Stadium, Cornellà de Llobregat",28512
+https://fbref.com/en/matches/184db424/Osasuna-Real-Betis-April-22-2023-La-Liga,Osasuna,Real Betis,1682164800,Jagoba Arrasate,Manuel Pellegrini,"Estadio El Sadar, Pamplona",19723
+https://fbref.com/en/matches/d2c509a2/Almeria-Athletic-Club-April-22-2023-La-Liga,Almería,Athletic Club,1682172900,Rubí,Ernesto Valverde,"Power Horse Stadium, Almería",13271
+https://fbref.com/en/matches/2325006c/Valladolid-Girona-April-22-2023-La-Liga,Valladolid,Girona,1682181000,Paulo Pezzolano,Michel,"Estadio Municipal José Zorrilla, Valladolid",21033
+https://fbref.com/en/matches/bed213b9/Real-Sociedad-Rayo-Vallecano-April-22-2023-La-Liga,Real Sociedad,Rayo Vallecano,1682181000,Imanol Alguacil,Andoni Iraola,"Reale Arena, San Sebastián",32054
+https://fbref.com/en/matches/a33d24ff/Real-Madrid-Celta-Vigo-April-22-2023-La-Liga,Real Madrid,Celta Vigo,1682190000,Carlo Ancelotti,Carlos Carvalhal,"Estadio Santiago Bernabéu, Madrid",60386
+https://fbref.com/en/matches/3db205b4/Elche-Valencia-April-23-2023-La-Liga,Elche,Valencia,1682251200,Sebastián Becaccece,Rubén Baraja,"Estadio Manuel Martínez Valero, Elche",22129
+https://fbref.com/en/matches/92aae030/Barcelona-Atletico-Madrid-April-23-2023-La-Liga,Barcelona,Atlético Madrid,1682259300,Xavi,Diego Simeone,"Camp Nou, Barcelona",80965
+https://fbref.com/en/matches/a5ce019a/Mallorca-Getafe-April-23-2023-La-Liga,Mallorca,Getafe,1682267400,Javier Aguirre,Quique Flores,"Iberostar Estadi, Palma de Mallorca",15687
+https://fbref.com/en/matches/6a46394b/Sevilla-Villarreal-April-23-2023-La-Liga,Sevilla,Villarreal,1682276400,Mendilibar,Quique Setién,"Estadio Ramón Sánchez Pizjuán, Sevilla",29635
+https://fbref.com/en/matches/1a5972e4/Girona-Real-Madrid-April-25-2023-La-Liga,Girona,Real Madrid,1682443800,Michel,Carlo Ancelotti,"Estadi Municipal de Montilivi, Girona",13306
+https://fbref.com/en/matches/514a45ae/Cadiz-Osasuna-April-25-2023-La-Liga,Cádiz,Osasuna,1682443800,Sergio,Jagoba Arrasate,"Estadio Nuevo Mirandilla, Cádiz",18008
+https://fbref.com/en/matches/e2412303/Real-Betis-Real-Sociedad-April-25-2023-La-Liga,Real Betis,Real Sociedad,1682452800,Manuel Pellegrini,Imanol Alguacil,"Estadio Benito Villamarín, Sevilla",42294
+https://fbref.com/en/matches/f5d9346d/Getafe-Almeria-April-26-2023-La-Liga,Getafe,Almería,1682530200,Quique Flores,Rubí,"Coliseum Alfonso Pérez, Getafe",10260
+https://fbref.com/en/matches/f62862aa/Atletico-Madrid-Mallorca-April-26-2023-La-Liga,Atlético Madrid,Mallorca,1682530200,Diego Simeone,Javier Aguirre,"Estadio Cívitas Metropolitano, Madrid",58523
+https://fbref.com/en/matches/06840a85/Rayo-Vallecano-Barcelona-April-26-2023-La-Liga,Rayo Vallecano,Barcelona,1682539200,Andoni Iraola,Xavi,"Estadio del Rayo Vallecano, Madrid",13657
+https://fbref.com/en/matches/e5cc8927/Celta-Vigo-Elche-April-26-2023-La-Liga,Celta Vigo,Elche,1682539200,Carlos Carvalhal,Sebastián Becaccece,"Estadio de Balaídos, Vigo",11649
+https://fbref.com/en/matches/2c36118e/Valencia-Valladolid-April-27-2023-La-Liga,Valencia,Valladolid,1682616600,Rubén Baraja,Paulo Pezzolano,"Estadio de Mestalla, Valencia",42023
+https://fbref.com/en/matches/e7bde085/Villarreal-Espanyol-April-27-2023-La-Liga,Villarreal,Espanyol,1682616600,Quique Setién,Luis García,"Estadio de la Cerámica, Villarreal",16134
+https://fbref.com/en/matches/ab718d01/Athletic-Club-Sevilla-April-27-2023-La-Liga,Athletic Club,Sevilla,1682625600,Ernesto Valverde,Mendilibar,"San Mamés, Bilbao",42716
+https://fbref.com/en/matches/338e2ca8/Osasuna-Real-Sociedad-April-28-2023-La-Liga,Osasuna,Real Sociedad,1682708400,Jagoba Arrasate,Imanol Alguacil,"Estadio El Sadar, Pamplona",21570
+https://fbref.com/en/matches/f24fba48/Elche-Rayo-Vallecano-April-29-2023-La-Liga,Elche,Rayo Vallecano,1682777700,Sebastián Becaccece,Andoni Iraola,"Estadio Manuel Martínez Valero, Elche",11259
+https://fbref.com/en/matches/10736d32/Real-Madrid-Almeria-April-29-2023-La-Liga,Real Madrid,Almería,1682785800,Carlo Ancelotti,Rubí,"Estadio Santiago Bernabéu, Madrid",58036
+https://fbref.com/en/matches/3da68242/Barcelona-Real-Betis-April-29-2023-La-Liga,Barcelona,Real Betis,1682794800,Xavi,Manuel Pellegrini,"Camp Nou, Barcelona",88530
+https://fbref.com/en/matches/4d7b545b/Cadiz-Valencia-April-30-2023-La-Liga,Cádiz,Valencia,1682856000,Sergio,Rubén Baraja,"Estadio Nuevo Mirandilla, Cádiz",18650
+https://fbref.com/en/matches/cb41f210/Villarreal-Celta-Vigo-April-30-2023-La-Liga,Villarreal,Celta Vigo,1682864100,Quique Setién,Carlos Carvalhal,"Estadio de la Cerámica, Villarreal",16123
+https://fbref.com/en/matches/6f312540/Espanyol-Getafe-April-30-2023-La-Liga,Espanyol,Getafe,1682872200,Luis García,Pepe Bordalás,"RCDE Stadium, Cornellà de Llobregat",26953
+https://fbref.com/en/matches/a3190587/Valladolid-Atletico-Madrid-April-30-2023-La-Liga,Valladolid,Atlético Madrid,1682881200,Paulo Pezzolano,Diego Simeone,"Estadio Municipal José Zorrilla, Valladolid",23321
+https://fbref.com/en/matches/3fd34920/Mallorca-Athletic-Club-May-1-2023-La-Liga,Mallorca,Athletic Club,1682960400,Javier Aguirre,Ernesto Valverde,"Iberostar Estadi, Palma de Mallorca",16807
+https://fbref.com/en/matches/fb47fe18/Sevilla-Girona-May-1-2023-La-Liga,Sevilla,Girona,1682967600,Mendilibar,Michel,"Estadio Ramón Sánchez Pizjuán, Sevilla",35560
+https://fbref.com/en/matches/249029a4/Almeria-Elche-May-2-2023-La-Liga,Almería,Elche,1683048600,Rubí,Sebastián Becaccece,"Power Horse Stadium, Almería",13352
+https://fbref.com/en/matches/8bf7a09f/Barcelona-Osasuna-May-2-2023-La-Liga,Barcelona,Osasuna,1683048600,Xavi,Jagoba Arrasate,"Camp Nou, Barcelona",76061
+https://fbref.com/en/matches/0850e242/Real-Sociedad-Real-Madrid-May-2-2023-La-Liga,Real Sociedad,Real Madrid,1683057600,Imanol Alguacil,Carlo Ancelotti,"Reale Arena, San Sebastián",35314
+https://fbref.com/en/matches/1d0024c6/Valencia-Villarreal-May-3-2023-La-Liga,Valencia,Villarreal,1683135000,Rubén Baraja,Quique Setién,"Estadio de Mestalla, Valencia",43634
+https://fbref.com/en/matches/03893917/Getafe-Celta-Vigo-May-3-2023-La-Liga,Getafe,Celta Vigo,1683144000,Pepe Bordalás,Carlos Carvalhal,"Coliseum Alfonso Pérez, Getafe",11022
+https://fbref.com/en/matches/cddeb6bb/Atletico-Madrid-Cadiz-May-3-2023-La-Liga,Atlético Madrid,Cádiz,1683144000,Diego Simeone,Sergio,"Estadio Cívitas Metropolitano, Madrid",42023
+https://fbref.com/en/matches/37d55da6/Girona-Mallorca-May-4-2023-La-Liga,Girona,Mallorca,1683221400,Michel,Javier Aguirre,"Estadi Municipal de Montilivi, Girona",11767
+https://fbref.com/en/matches/87136a5b/Sevilla-Espanyol-May-4-2023-La-Liga,Sevilla,Espanyol,1683221400,Mendilibar,Luis García,"Estadio Ramón Sánchez Pizjuán, Sevilla",35391
+https://fbref.com/en/matches/7cc3bea8/Rayo-Vallecano-Valladolid-May-4-2023-La-Liga,Rayo Vallecano,Valladolid,1683230400,Andoni Iraola,Paulo Pezzolano,"Estadio del Rayo Vallecano, Madrid",11171
+https://fbref.com/en/matches/9943b036/Athletic-Club-Real-Betis-May-4-2023-La-Liga,Athletic Club,Real Betis,1683230400,Ernesto Valverde,Manuel Pellegrini,"San Mamés, Bilbao",43116
+https://fbref.com/en/matches/b8d72170/Mallorca-Cadiz-May-12-2023-La-Liga,Mallorca,Cádiz,1683918000,Javier Aguirre,Sergio,"Iberostar Estadi, Palma de Mallorca",15377
+https://fbref.com/en/matches/012ba4f0/Real-Sociedad-Girona-May-13-2023-La-Liga,Real Sociedad,Girona,1683979200,Imanol Alguacil,Michel,"Reale Arena, San Sebastián",30027
+https://fbref.com/en/matches/6f46c31d/Osasuna-Almeria-May-13-2023-La-Liga,Osasuna,Almería,1683987300,Jagoba Arrasate,Rubí,"Estadio El Sadar, Pamplona",19747
+https://fbref.com/en/matches/5eba4386/Villarreal-Athletic-Club-May-13-2023-La-Liga,Villarreal,Athletic Club,1683995400,Quique Setién,Ernesto Valverde,"Estadio de la Cerámica, Villarreal",16871
+https://fbref.com/en/matches/df985b56/Real-Madrid-Getafe-May-13-2023-La-Liga,Real Madrid,Getafe,1684004400,Carlo Ancelotti,Pepe Bordalás,"Estadio Santiago Bernabéu, Madrid",52201
+https://fbref.com/en/matches/0ed472a5/Celta-Vigo-Valencia-May-14-2023-La-Liga,Celta Vigo,Valencia,1684065600,Carlos Carvalhal,Rubén Baraja,"Estadio de Balaídos, Vigo",14517
+https://fbref.com/en/matches/cf8461b9/Elche-Atletico-Madrid-May-14-2023-La-Liga,Elche,Atlético Madrid,1684073700,Sebastián Becaccece,Diego Simeone,"Estadio Manuel Martínez Valero, Elche",22174
+https://fbref.com/en/matches/7564c64e/Valladolid-Sevilla-May-14-2023-La-Liga,Valladolid,Sevilla,1684081800,Paulo Pezzolano,Mendilibar,"Estadio Municipal José Zorrilla, Valladolid",21580
+https://fbref.com/en/matches/1c37a941/Espanyol-Barcelona-May-14-2023-La-Liga,Espanyol,Barcelona,1684090800,Luis García,Xavi,"RCDE Stadium, Cornellà de Llobregat",27360
+https://fbref.com/en/matches/954c93c1/Real-Betis-Rayo-Vallecano-May-15-2023-La-Liga,Real Betis,Rayo Vallecano,1684177200,Manuel Pellegrini,Andoni Iraola,"Estadio Benito Villamarín, Sevilla",48143
+https://fbref.com/en/matches/60cdc671/Cadiz-Valladolid-May-19-2023-La-Liga,Cádiz,Valladolid,1684522800,Sergio,Paulo Pezzolano,"Estadio Nuevo Mirandilla, Cádiz",18938
+https://fbref.com/en/matches/1778d9c6/Girona-Villarreal-May-20-2023-La-Liga,Girona,Villarreal,1684584000,Michel,Quique Setién,"Estadi Municipal de Montilivi, Girona",11649
+https://fbref.com/en/matches/796943ab/Athletic-Club-Celta-Vigo-May-20-2023-La-Liga,Athletic Club,Celta Vigo,1684592100,Ernesto Valverde,Carlos Carvalhal,"San Mamés, Bilbao",40759
+https://fbref.com/en/matches/007c5123/Getafe-Elche-May-20-2023-La-Liga,Getafe,Elche,1684600200,Pepe Bordalás,Sebastián Becaccece,"Coliseum Alfonso Pérez, Getafe",13927
+https://fbref.com/en/matches/e4f7474b/Almeria-Mallorca-May-20-2023-La-Liga,Almería,Mallorca,1684600200,Rubí,Javier Aguirre,"Power Horse Stadium, Almería",12791
+https://fbref.com/en/matches/e0ef2dea/Barcelona-Real-Sociedad-May-20-2023-La-Liga,Barcelona,Real Sociedad,1684609200,Xavi,Imanol Alguacil,"Camp Nou, Barcelona",88049
+https://fbref.com/en/matches/4bfe0504/Rayo-Vallecano-Espanyol-May-21-2023-La-Liga,Rayo Vallecano,Espanyol,1684670400,Andoni Iraola,Luis García,"Estadio del Rayo Vallecano, Madrid",12142
+https://fbref.com/en/matches/62d82c5a/Atletico-Madrid-Osasuna-May-21-2023-La-Liga,Atlético Madrid,Osasuna,1684678500,Diego Simeone,Jagoba Arrasate,"Estadio Cívitas Metropolitano, Madrid",57012
+https://fbref.com/en/matches/37eaac0c/Valencia-Real-Madrid-May-21-2023-La-Liga,Valencia,Real Madrid,1684686600,Rubén Baraja,Carlo Ancelotti,"Estadio de Mestalla, Valencia",46002
+https://fbref.com/en/matches/f2034421/Sevilla-Real-Betis-May-21-2023-La-Liga,Sevilla,Real Betis,1684695600,Mendilibar,Manuel Pellegrini,"Estadio Ramón Sánchez Pizjuán, Sevilla",41392
+https://fbref.com/en/matches/91e21da1/Celta-Vigo-Girona-May-23-2023-La-Liga,Celta Vigo,Girona,1684863000,Carlos Carvalhal,Michel,"Estadio de Balaídos, Vigo",14117
+https://fbref.com/en/matches/a846550e/Real-Sociedad-Almeria-May-23-2023-La-Liga,Real Sociedad,Almería,1684863000,Imanol Alguacil,Rubí,"Reale Arena, San Sebastián",31574
+https://fbref.com/en/matches/d3913703/Valladolid-Barcelona-May-23-2023-La-Liga,Valladolid,Barcelona,1684872000,Paulo Pezzolano,Xavi,"Estadio Municipal José Zorrilla, Valladolid",22341
+https://fbref.com/en/matches/b5585ff8/Elche-Sevilla-May-24-2023-La-Liga,Elche,Sevilla,1684949400,Sebastián Becaccece,Mendilibar,"Estadio Manuel Martínez Valero, Elche",13263
+https://fbref.com/en/matches/f4bca33a/Real-Madrid-Rayo-Vallecano-May-24-2023-La-Liga,Real Madrid,Rayo Vallecano,1684949400,Carlo Ancelotti,Andoni Iraola,"Estadio Santiago Bernabéu, Madrid",45811
+https://fbref.com/en/matches/fde185f9/Villarreal-Cadiz-May-24-2023-La-Liga,Villarreal,Cádiz,1684949400,Quique Setién,Sergio,"Estadio de la Cerámica, Villarreal",15099
+https://fbref.com/en/matches/5391ec20/Espanyol-Atletico-Madrid-May-24-2023-La-Liga,Espanyol,Atlético Madrid,1684958400,Luis García,Diego Simeone,"RCDE Stadium, Cornellà de Llobregat",25822
+https://fbref.com/en/matches/84529801/Real-Betis-Getafe-May-24-2023-La-Liga,Real Betis,Getafe,1684958400,Manuel Pellegrini,Pepe Bordalás,"Estadio Benito Villamarín, Sevilla",40289
+https://fbref.com/en/matches/c399c435/Mallorca-Valencia-May-25-2023-La-Liga,Mallorca,Valencia,1685035800,Javier Aguirre,Rubén Baraja,"Iberostar Estadi, Palma de Mallorca",14631
+https://fbref.com/en/matches/fd3ed02d/Osasuna-Athletic-Club-May-25-2023-La-Liga,Osasuna,Athletic Club,1685043000,Jagoba Arrasate,Ernesto Valverde,"Estadio El Sadar, Pamplona",19830
+https://fbref.com/en/matches/e7ddd0e2/Sevilla-Real-Madrid-May-27-2023-La-Liga,Sevilla,Real Madrid,1685206800,Mendilibar,Carlo Ancelotti,"Estadio Ramón Sánchez Pizjuán, Sevilla",29856
+https://fbref.com/en/matches/0e195cca/Valencia-Espanyol-May-28-2023-La-Liga,Valencia,Espanyol,1685293200,Rubén Baraja,Luis García,"Estadio de Mestalla, Valencia",44141
+https://fbref.com/en/matches/11953e99/Athletic-Club-Elche-May-28-2023-La-Liga,Athletic Club,Elche,1685293200,Ernesto Valverde,Sebastián Becaccece,"San Mamés, Bilbao",37807
+https://fbref.com/en/matches/36fa46ed/Girona-Real-Betis-May-28-2023-La-Liga,Girona,Real Betis,1685293200,Michel,Manuel Pellegrini,"Estadi Municipal de Montilivi, Girona",12833
+https://fbref.com/en/matches/5272c289/Rayo-Vallecano-Villarreal-May-28-2023-La-Liga,Rayo Vallecano,Villarreal,1685293200,Andoni Iraola,Quique Setién,"Estadio del Rayo Vallecano, Madrid",11085
+https://fbref.com/en/matches/58fd6a94/Almeria-Valladolid-May-28-2023-La-Liga,Almería,Valladolid,1685293200,Rubí,Paulo Pezzolano,"Power Horse Stadium, Almería",14608
+https://fbref.com/en/matches/b3373b5a/Atletico-Madrid-Real-Sociedad-May-28-2023-La-Liga,Atlético Madrid,Real Sociedad,1685293200,Diego Simeone,Imanol Alguacil,"Estadio Cívitas Metropolitano, Madrid",56169
+https://fbref.com/en/matches/b99f8e19/Cadiz-Celta-Vigo-May-28-2023-La-Liga,Cádiz,Celta Vigo,1685293200,Sergio,Carlos Carvalhal,"Estadio Nuevo Mirandilla, Cádiz",19725
+https://fbref.com/en/matches/bfedb115/Barcelona-Mallorca-May-28-2023-La-Liga,Barcelona,Mallorca,1685293200,Xavi,Javier Aguirre,"Camp Nou, Barcelona",88775
+https://fbref.com/en/matches/dd7431ec/Getafe-Osasuna-May-28-2023-La-Liga,Getafe,Osasuna,1685293200,Pepe Bordalás,Jagoba Arrasate,"Coliseum Alfonso Pérez, Getafe",13510
+https://fbref.com/en/matches/53846e71/Villarreal-Atletico-Madrid-June-4-2023-La-Liga,Villarreal,Atlético Madrid,1685896200,Quique Setién,Diego Simeone,"Estadio de la Cerámica, Villarreal",18226
+https://fbref.com/en/matches/77a93c43/Real-Sociedad-Sevilla-June-4-2023-La-Liga,Real Sociedad,Sevilla,1685896200,Imanol Alguacil,Mendilibar,"Reale Arena, San Sebastián",35065
+https://fbref.com/en/matches/ce677ae3/Real-Madrid-Athletic-Club-June-4-2023-La-Liga,Real Madrid,Athletic Club,1685896200,Carlo Ancelotti,Ernesto Valverde,"Estadio Santiago Bernabéu, Madrid",60781
+https://fbref.com/en/matches/d7c28578/Osasuna-Girona-June-4-2023-La-Liga,Osasuna,Girona,1685896200,Jagoba Arrasate,Michel,"Estadio El Sadar, Pamplona",22128
+https://fbref.com/en/matches/e8a7ea12/Mallorca-Rayo-Vallecano-June-4-2023-La-Liga,Mallorca,Rayo Vallecano,1685896200,Javier Aguirre,Andoni Iraola,"Iberostar Estadi, Palma de Mallorca",14521
+https://fbref.com/en/matches/05060e6f/Valladolid-Getafe-June-4-2023-La-Liga,Valladolid,Getafe,1685905200,Paulo Pezzolano,Pepe Bordalás,"Estadio Municipal José Zorrilla, Valladolid",25517
+https://fbref.com/en/matches/5f2fdd0a/Real-Betis-Valencia-June-4-2023-La-Liga,Real Betis,Valencia,1685905200,Manuel Pellegrini,Rubén Baraja,"Estadio Benito Villamarín, Sevilla",54087
+https://fbref.com/en/matches/7b8f18a1/Elche-Cadiz-June-4-2023-La-Liga,Elche,Cádiz,1685905200,Sebastián Becaccece,Sergio,"Estadio Manuel Martínez Valero, Elche",16585
+https://fbref.com/en/matches/93e7ec48/Celta-Vigo-Barcelona-June-4-2023-La-Liga,Celta Vigo,Barcelona,1685905200,Carlos Carvalhal,Xavi,"Estadio de Balaídos, Vigo",23365
+https://fbref.com/en/matches/9a77cbfa/Espanyol-Almeria-June-4-2023-La-Liga,Espanyol,Almería,1685905200,Luis García,Rubí,"RCDE Stadium, Cornellà de Llobregat",14213

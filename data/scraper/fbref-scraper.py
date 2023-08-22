@@ -1,3 +1,10 @@
+package_paths = [r"C:\Users\benja\Documents\projects\goalscorers"]
+import sys
+
+for path in package_paths:
+    sys.path.append(path)
+import goalscorer_package.constants as c
+import goalscorer_package.data_cleaning as dc
 import httpx
 import bs4
 from dataclasses import dataclass, asdict
@@ -11,7 +18,7 @@ pd.set_option("display.max_columns", 1000)
 pd.set_option("display.max_rows", 1000)
 pd.set_option("max_colwidth", 100)
 
-seasons_leagues = [("2018-2019", 9, "Premier-League")]
+# seasons_leagues = [("2018-2019", 9, "Premier-League")]
 
 
 @dataclass
@@ -26,29 +33,48 @@ class Fixture:
     attendance: int = None
 
 
-def request_soup(url: str, max_tries=10) -> bs4.BeautifulSoup:
+# def request_soup(url: str, max_tries=10) -> bs4.BeautifulSoup:
+#     with httpx.Client() as client:
+#         tries = 0
+#         while tries < max_tries:
+#             try:
+#                 resp = client.get(url)
+#                 tries = max_tries
+#             except:
+#                 tries += 1
+#                 time.sleep(10)
+
+#     soup = bs4.BeautifulSoup(resp, "html.parser")
+#     return soup
+
+
+def request_soup(
+    url: str, func_validate_soup=lambda x: True, max_tries=10
+) -> bs4.BeautifulSoup:
     with httpx.Client() as client:
         tries = 0
         while tries < max_tries:
             try:
                 resp = client.get(url)
-                tries = max_tries
+                soup = bs4.BeautifulSoup(resp, "html.parser")
+                if func_validate_soup(soup):
+                    tries = max_tries
+                else:
+                    tries += 1
+                    time.sleep(10)
             except:
                 tries += 1
                 time.sleep(10)
 
-    soup = bs4.BeautifulSoup(resp, "html.parser")
     return soup
 
 
 def create_fixtures(season: str, comp_id: int, comp_name: str) -> list[Fixture]:
     url = f"https://fbref.com/en/comps/{comp_id}/{season}/schedule/{season}-{comp_name}-Scores-and-Fixtures"
     soup = request_soup(url)
-    # print(soup)
 
     # Get soup elements for score
     soup_table = soup.select("div.table_container")[0]
-    print(soup_table)
     soups_score = soup_table.find_all("td", attrs={"data-stat": "score"})
     soups_away_xg = soup_table.find_all("td", attrs={"data-stat": "away_xg"})
 
@@ -70,6 +96,14 @@ def create_fixtures(season: str, comp_id: int, comp_name: str) -> list[Fixture]:
     return fixtures
 
 
+def validate_fixture_soup(soup: bs4.BeautifulSoup) -> bool:
+    try:
+        soup_scorebox = soup.find("div", {"class": "scorebox"})
+        return True
+    except:
+        return False
+
+
 def add_fixture_info(fixture: Fixture, soup: bs4.BeautifulSoup) -> Fixture:
     # Get soup for scorebox
     soup_scorebox = soup.find("div", {"class": "scorebox"})
@@ -83,7 +117,7 @@ def add_fixture_info(fixture: Fixture, soup: bs4.BeautifulSoup) -> Fixture:
         .text.strip()
     )
     fixture.away_team = (
-        soup_home_scorebox.select("div.media-item.logo")[0]
+        soup_away_scorebox.select("div.media-item.logo")[0]
         .findNext("strong")
         .text.strip()
     )
@@ -228,12 +262,18 @@ def export_player_tables(all_player_tables: list, season: str, comp_id: int) -> 
             df["pen"] = np.where(df.player.str.endswith(" (pen)"), True, False)
             df["player"] = np.where(df.pen.values, df.player.str[:-6], df.player.values)
 
-        df.to_csv(f"{season}-league-{comp_id}-{k}.csv", index=False)
+        df.to_csv(
+            c.FilePath.FBREF_RAW + f"{season}-league-{comp_id}-{k}.csv", index=False
+        )
 
 
 def main(seasons_leagues: list) -> None:
     for season_league in seasons_leagues:
-        season, comp_id, comp_name = season_league
+        season, comp_id, comp_name = (
+            season_league.season.season_str,
+            season_league.league.league_id,
+            season_league.league.league_name,
+        )
 
         # Get Url for all games
         fixtures = create_fixtures(season, comp_id, comp_name)
@@ -250,7 +290,7 @@ def main(seasons_leagues: list) -> None:
             time.sleep(3)
 
             # Request fixture soup
-            soup = request_soup(fixture.url)
+            soup = request_soup(fixture.url, validate_fixture_soup)
 
             # Scrape
             fixture, player_tables = scrape(fixture, soup)
@@ -262,10 +302,14 @@ def main(seasons_leagues: list) -> None:
 
         # Export
         pd.DataFrame(all_fixture_info).to_csv(
-            f"{season}-league-{comp_id}-fixture-info.csv", index=False
+            c.FilePath.FBREF_RAW + f"{season}-league-{comp_id}-fixture-info.csv",
+            index=False,
         )
         export_player_tables(all_player_tables, season, comp_id)
 
 
 if __name__ == "__main__":
-    main(seasons_leagues)
+    seaons_leagues = [
+        c.SeasonLeague(c.SEASON_17_18, c.GERMAN_BUNDESLIGA, xg_league_bool=True),
+    ]
+    main(seaons_leagues)
