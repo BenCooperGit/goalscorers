@@ -1,0 +1,693 @@
+home_team,away_team,datetime,nationality,age,minutes,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct,gk_psxg,gk_passes_completed_launched,gk_passes_launched,gk_passes_pct_launched,gk_passes,gk_passes_throws,gk_pct_passes_launched,gk_passes_length_avg,gk_goal_kicks,gk_pct_goal_kicks_launched,gk_goal_kick_length_avg,gk_crosses,gk_crosses_stopped,gk_crosses_stopped_pct,gk_def_actions_outside_pen_area,gk_avg_distance_def_actions,player_id,player,squad,start
+Necaxa,Toluca,1656799200,mx MEX,25-122,90,3,3,0,33.3,1.9,4,7,57.1,25,5,20.0,33.0,3,66.7,61.0,6,1,16.7,0,10.5,48bd91d4,Luis Ángel Malagón,Necaxa,True
+Guadalajara,FC Juárez,1656799200,mx MEX,32-110,90,1,0,1,100.0,0.0,5,7,71.4,13,4,23.1,27.9,11,36.4,35.5,14,2,14.3,1,11.5,9c06f135,Miguel Jiménez Ponce,Guadalajara,True
+Mazatlán,Puebla,1656727500,uy URU,38-086,90,7,4,3,42.9,3.6,5,9,55.6,29,3,20.7,27.1,8,37.5,33.8,8,0,0.0,3,22.6,88f918b9,Nicolás Vikonis,Mazatlán,True
+Pumas UNAM,Tijuana,1656867600,mx MEX,31-071,90,2,1,1,100.0,1.1,2,3,66.7,15,5,6.7,26.1,3,66.7,47.0,7,1,14.3,2,18.0,0124a43a,Julio José González,Pumas UNAM,True
+Atlético,León,1656885600,ar ARG,38-135,90,8,2,6,75.0,2.3,2,3,66.7,9,2,11.1,24.9,8,25.0,27.1,7,0,0.0,0,4.5,868c0f75,Marcelo Barovero,Atlético,True
+UANL,Cruz Azul,1656806700,mx MEX,27-080,90,4,3,1,50.0,2.6,2,10,20.0,24,2,37.5,35.7,4,25.0,34.5,4,0,0.0,0,15.0,aa41e29e,Miguel Ortega,UANL,True
+América,Atlas,1656813900,mx MEX,36-354,90,1,0,1,100.0,0.1,7,17,41.2,41,3,29.3,33.7,10,50.0,48.6,12,1,8.3,3,18.1,1e9bde92,Guillermo Ochoa,América,True
+Santos Laguna,Monterrey,1656893100,mx MEX,26-075,90,8,3,5,75.0,3.4,7,16,43.8,14,2,78.6,49.9,6,83.3,60.7,14,0,0.0,0,10.0,0810e384,Carlos Acevedo,Santos Laguna,True
+Pachuca,Querétaro,1656986400,ar ARG,36-001,45,1,,1,,0.1,2,7,28.6,11,1,45.5,34.2,8,25.0,34.4,4,,,,13.0,40e417fa,Óscar Ustari,Pachuca,True
+Pachuca,Querétaro,1656986400,mx MEX,24-156,45,0,0,0,,0.0,0,5,0.0,11,4,36.4,35.8,3,33.3,25.7,4,0,0.0,2,27.0,b931ac44,Carlos Moreno,Pachuca,True
+Mazatlán,UANL,1657324800,uy URU,38-093,90,6,1,5,83.3,2.6,7,14,50.0,22,4,50.0,36.5,8,37.5,35.6,9,1,11.1,0,4.5,88f918b9,Nicolás Vikonis,Mazatlán,True
+Tijuana,FC Juárez,1657332300,mx MEX,36-057,90,3,2,1,33.3,1.9,4,9,44.4,19,3,31.6,32.6,4,75.0,59.3,17,1,5.9,1,13.0,8c6ca532,Jonathan Orozco,Tijuana,True
+Puebla,Santos Laguna,1657332300,py PAR,38-131,90,1,0,1,100.0,0.1,9,28,32.1,34,4,61.8,47.1,8,87.5,67.5,6,0,0.0,1,8.5,949bc248,Antony Silva,Puebla,True
+Toluca,Atlas,1657472400,br BRA,31-203,90,7,2,5,71.4,2.4,7,18,38.9,30,4,33.3,34.1,11,72.7,57.5,27,2,7.4,1,10.5,fba79ac8,Tiago Volpi,Toluca,True
+Querétaro,Necaxa,1657490400,uy URU,29-078,90,6,2,4,66.7,1.2,5,17,29.4,24,5,45.8,36.3,12,50.0,45.8,15,0,0.0,1,19.0,19da9ece,Washington Aguerre,Querétaro,True
+León,Pumas UNAM,1657411200,mx MEX,35-006,90,7,3,4,71.4,2.5,2,8,25.0,28,6,21.4,29.3,3,66.7,44.7,10,2,20.0,1,13.2,a4a5868e,Rodolfo Cota,León,True
+Guadalajara,Atlético,1657411500,mx MEX,32-117,90,1,1,0,0.0,0.8,3,5,60.0,16,5,25.0,32.1,6,16.7,29.7,8,1,12.5,0,16.0,9c06f135,Miguel Jiménez Ponce,Guadalajara,True
+Monterrey,América,1657418700,mx MEX,28-297,90,3,2,1,33.3,1.4,12,23,52.2,22,2,63.6,43.9,9,100.0,68.3,22,0,0.0,0,7.7,a1dea252,Luis Cárdenas,Monterrey,True
+Cruz Azul,Pachuca,1657418700,mx MEX,24-284,90,6,2,4,66.7,1.4,6,24,25.0,20,0,80.0,52.8,9,88.9,68.9,17,0,0.0,0,6.7,c882a4e6,Sebastián Jurado,Cruz Azul,True
+América,Toluca,1657764000,mx MEX,37-000,90,2,0,2,100.0,0.7,2,7,28.6,14,4,35.7,29.5,5,40.0,39.4,5,0,0.0,1,11.0,1e9bde92,Guillermo Ochoa,América,True
+Atlas,Cruz Azul,1658008800,co COL,33-129,90,4,2,2,50.0,0.7,7,9,77.8,31,5,29.0,28.9,6,0.0,19.2,9,3,33.3,1,7.8,004e3d0f,Camilo Vargas,Atlas,True
+Puebla,León,1657929600,py PAR,38-138,90,3,1,2,66.7,0.7,3,5,60.0,17,4,29.4,30.4,3,0.0,22.0,12,0,0.0,3,20.6,949bc248,Antony Silva,Puebla,True
+FC Juárez,Querétaro,1657937100,mx MEX,39-300,90,3,1,2,66.7,0.4,5,6,83.3,15,8,13.3,29.3,8,50.0,35.6,5,1,20.0,0,10.7,5c7fc905,Alfredo Talavera,FC Juárez,True
+Pumas UNAM,Necaxa,1658077200,mx MEX,31-085,90,2,0,2,100.0,0.1,9,20,45.0,25,5,52.0,40.7,8,87.5,53.4,13,1,7.7,0,10.0,0124a43a,Julio José González,Pumas UNAM,True
+Atlético,Monterrey,1658095200,ar ARG,38-149,90,5,1,4,100.0,1.5,2,9,22.2,11,3,18.2,30.1,14,50.0,47.4,10,0,0.0,0,,868c0f75,Marcelo Barovero,Atlético,True
+Santos Laguna,Guadalajara,1658016300,mx MEX,26-088,90,6,1,5,83.3,1.7,10,19,52.6,22,7,50.0,36.0,11,72.7,53.1,6,0,0.0,0,14.3,0810e384,Carlos Acevedo,Santos Laguna,True
+UANL,Tijuana,1658102400,ar ARG,36-157,90,2,0,2,100.0,0.3,2,6,33.3,26,5,19.2,31.6,4,25.0,26.0,12,0,0.0,2,22.3,d8f11068,Nahuel Guzmán,UANL,True
+Pachuca,Mazatlán,1658188800,ar ARG,36-015,90,6,1,5,83.3,0.5,4,9,44.4,21,4,38.1,37.1,3,33.3,46.3,4,1,25.0,2,17.2,40e417fa,Óscar Ustari,Pachuca,True
+Guadalajara,León,1658369100,mx MEX,32-128,90,4,0,4,100.0,0.9,4,16,25.0,11,2,54.5,46.3,12,83.3,62.8,14,0,0.0,0,11.0,9c06f135,Miguel Jiménez Ponce,Guadalajara,True
+Querétaro,Monterrey,1658455200,uy URU,29-089,90,6,3,3,50.0,1.3,6,12,50.0,22,4,45.5,38.4,9,22.2,27.2,7,1,14.3,0,8.0,19da9ece,Washington Aguerre,Querétaro,True
+Toluca,Santos Laguna,1658613600,br BRA,31-216,90,5,1,4,80.0,0.7,9,17,52.9,39,3,35.9,37.4,4,75.0,73.0,11,0,0.0,0,12.0,fba79ac8,Tiago Volpi,Toluca,True
+Mazatlán,Atlético,1658534400,uy URU,38-107,90,11,1,10,90.9,2.2,1,3,33.3,13,3,23.1,28.8,8,0.0,23.3,23,0,0.0,2,14.2,88f918b9,Nicolás Vikonis,Mazatlán,True
+Necaxa,FC Juárez,1658541900,mx MEX,25-142,90,4,0,4,100.0,1.1,17,26,65.4,28,3,57.1,48.2,11,90.9,69.5,21,0,0.0,0,9.7,48bd91d4,Luis Ángel Malagón,Necaxa,True
+Tijuana,América,1658624700,mx MEX,36-072,90,1,0,1,100.0,0.1,8,20,40.0,31,2,54.8,39.0,3,100.0,59.0,15,0,0.0,0,15.0,8c6ca532,Jonathan Orozco,Tijuana,True
+Cruz Azul,Puebla,1658621100,mx MEX,24-298,90,5,2,3,60.0,1.3,2,9,22.2,25,5,24.0,30.4,6,50.0,42.8,13,0,0.0,0,16.0,c882a4e6,Sebastián Jurado,Cruz Azul,True
+UANL,Atlas,1658628300,ar ARG,36-163,90,0,0,0,,0.0,1,4,25.0,22,3,18.2,26.8,3,0.0,27.0,6,3,50.0,6,22.8,d8f11068,Nahuel Guzmán,UANL,True
+Pachuca,Pumas UNAM,1658707200,ar ARG,36-021,90,3,0,3,100.0,0.5,0,6,0.0,15,3,26.7,31.9,6,33.3,40.5,11,0,0.0,0,9.5,40e417fa,Óscar Ustari,Pachuca,True
+FC Juárez,UANL,1658880000,mx MEX,39-311,90,3,1,2,66.7,0.1,10,17,58.8,20,5,45.0,35.1,14,57.1,52.1,9,0,0.0,0,7.0,5c7fc905,Alfredo Talavera,FC Juárez,True
+Monterrey,Puebla,1658880000,mx MEX,28-314,90,1,0,1,100.0,0.4,3,12,25.0,28,2,21.4,32.5,7,85.7,62.9,21,1,4.8,0,11.0,a1dea252,Luis Cárdenas,Monterrey,True
+Atlas,Tijuana,1658880000,mx MEX,25-086,90,5,2,3,60.0,1.5,4,12,33.3,32,4,34.4,32.6,8,12.5,28.1,6,2,33.3,4,15.2,2a860a40,José Santiago Hernández,Atlas,True
+Atlético,Cruz Azul,1658887500,ar ARG,38-158,90,1,0,1,100.0,0.4,5,10,50.0,14,3,42.9,36.9,9,44.4,41.6,15,1,6.7,2,17.6,868c0f75,Marcelo Barovero,Atlético,True
+León,Toluca,1658887500,mx MEX,35-023,90,6,1,5,83.3,1.4,8,14,57.1,26,3,34.6,33.4,8,62.5,48.0,13,0,0.0,2,23.3,a4a5868e,Rodolfo Cota,León,True
+Necaxa,Pachuca,1658966400,mx MEX,25-147,90,3,0,3,100.0,0.4,11,27,40.7,21,0,90.5,57.2,8,100.0,74.3,24,1,4.2,1,15.3,48bd91d4,Luis Ángel Malagón,Necaxa,True
+Querétaro,Guadalajara,1658966400,mx MEX,30-023,90,4,2,2,75.0,2.0,9,12,75.0,19,3,36.8,32.1,7,71.4,48.3,11,0,0.0,1,12.3,a78c131a,José Antonio Rodríguez,Querétaro,True
+Pumas UNAM,Mazatlán,1658973900,mx MEX,31-095,90,1,1,0,0.0,0.6,0,1,0.0,15,1,6.7,27.5,10,0.0,21.7,11,0,0.0,3,22.5,0124a43a,Julio José González,Pumas UNAM,True
+Cruz Azul,Necaxa,1659218400,mx MEX,24-305,90,3,0,3,100.0,0.5,8,19,42.1,18,3,44.4,43.8,13,84.6,59.6,19,1,5.3,0,12.0,c882a4e6,Sebastián Jurado,Cruz Azul,True
+FC Juárez,Toluca,1659146700,mx MEX,39-314,90,3,1,2,66.7,0.6,3,5,60.0,15,3,26.7,29.3,5,20.0,36.8,3,1,33.3,2,20.0,5c7fc905,Alfredo Talavera,FC Juárez,True
+Pumas UNAM,Monterrey,1659286800,mx MEX,31-099,90,2,1,2,50.0,1.1,2,2,100.0,20,7,10.0,23.2,5,0.0,28.4,11,1,9.1,2,14.2,0124a43a,Julio José González,Pumas UNAM,True
+Tijuana,Mazatlán,1659233100,mx MEX,36-079,90,4,0,4,100.0,0.1,4,14,28.6,28,2,39.3,33.9,5,60.0,41.8,10,0,0.0,0,9.5,8c6ca532,Jonathan Orozco,Tijuana,True
+UANL,Querétaro,1659225900,ar ARG,36-170,90,4,1,3,100.0,1.1,6,13,46.2,22,4,45.5,41.2,9,33.3,27.4,15,3,20.0,0,9.3,d8f11068,Nahuel Guzmán,UANL,True
+Guadalajara,Pachuca,1659233100,mx MEX,32-138,90,4,0,4,100.0,0.4,4,12,33.3,17,4,47.1,44.8,7,57.1,47.9,11,0,0.0,0,9.5,9c06f135,Miguel Jiménez Ponce,Guadalajara,True
+Puebla,Atlético,1659233100,py PAR,38-153,90,4,0,4,100.0,0.4,2,4,50.0,21,5,19.0,29.8,7,0.0,21.7,7,0,0.0,1,12.0,949bc248,Antony Silva,Puebla,True
+Santos Laguna,Atlas,1659312300,mx MEX,26-103,90,2,0,2,100.0,0.1,10,21,47.6,22,5,50.0,40.6,13,76.9,56.2,15,1,6.7,0,5.0,0810e384,Carlos Acevedo,Santos Laguna,True
+León,América,1659319500,mx MEX,35-028,90,3,2,1,33.3,1.2,9,18,50.0,22,8,45.5,41.9,15,53.3,39.9,21,1,4.8,0,5.0,a4a5868e,Rodolfo Cota,León,True
+Toluca,Puebla,1659488400,br BRA,31-226,90,5,1,4,80.0,1.3,7,13,53.8,36,6,36.1,37.7,4,0.0,22.0,13,1,7.7,4,17.2,fba79ac8,Tiago Volpi,Toluca,True
+FC Juárez,Atlético,1659571200,mx MEX,39-319,90,2,1,1,100.0,1.4,3,4,75.0,12,3,33.3,34.4,1,0.0,37.0,5,0,0.0,0,,5c7fc905,Alfredo Talavera,FC Juárez,True
+Atlas,Querétaro,1659664800,co COL,33-148,90,5,1,4,80.0,0.9,10,26,38.5,36,2,63.9,44.3,5,60.0,53.8,13,1,7.7,0,7.5,004e3d0f,Camilo Vargas,Atlas,True
+Mazatlán,Guadalajara,1659751500,uy URU,38-121,90,5,1,3,80.0,1.2,3,11,27.3,19,3,36.8,34.8,6,66.7,45.0,13,0,0.0,0,9.5,88f918b9,Nicolás Vikonis,Mazatlán,True
+Toluca,Tijuana,1659891600,br BRA,31-231,90,6,1,5,83.3,1.1,13,16,81.3,33,5,42.4,35.1,5,40.0,49.2,16,2,12.5,4,17.7,fba79ac8,Tiago Volpi,Toluca,True
+Atlético,Necaxa,1659906000,ar ARG,38-170,90,4,2,2,50.0,1.3,9,17,52.9,29,12,48.3,38.0,9,33.3,33.3,11,2,18.2,0,11.0,868c0f75,Marcelo Barovero,Atlético,True
+Pachuca,UANL,1659913500,ar ARG,36-035,90,3,0,3,100.0,0.5,5,8,62.5,14,5,28.6,31.3,8,50.0,31.0,5,1,20.0,2,16.3,40e417fa,Óscar Ustari,Pachuca,True
+Monterrey,León,1659830700,mx MEX,28-325,90,6,1,5,83.3,1.3,5,11,45.5,15,1,40.0,35.9,6,83.3,51.8,21,0,0.0,0,4.0,a1dea252,Luis Cárdenas,Monterrey,True
+Santos Laguna,Cruz Azul,1659837900,mx MEX,26-109,90,1,0,1,100.0,0.3,5,16,31.3,16,3,62.5,45.3,12,50.0,37.8,10,1,10.0,0,7.0,0810e384,Carlos Acevedo,Santos Laguna,True
+América,FC Juárez,1659920700,mx MEX,37-025,90,4,1,3,75.0,1.4,2,8,25.0,19,3,21.1,27.9,11,36.4,35.7,13,0,0.0,1,23.0,1e9bde92,Guillermo Ochoa,América,True
+Querétaro,Atlético,1660269600,mx MEX,30-038,90,3,1,2,100.0,1.4,11,17,64.7,29,3,37.9,33.5,9,66.7,49.3,8,1,12.5,1,9.8,a78c131a,José Antonio Rodríguez,Querétaro,True
+León,Mazatlán,1660428000,mx MEX,35-041,90,5,3,3,40.0,1.6,6,8,75.0,29,9,24.1,28.8,3,33.3,29.3,5,0,0.0,3,27.0,a4a5868e,Rodolfo Cota,León,True
+Tijuana,Puebla,1660356300,mx MEX,36-092,90,4,3,1,25.0,2.4,5,10,50.0,20,0,45.0,40.8,3,33.3,36.7,14,1,7.1,0,7.8,8c6ca532,Jonathan Orozco,Tijuana,True
+Necaxa,Monterrey,1660356000,mx MEX,25-163,90,6,2,4,66.7,1.2,5,14,35.7,27,2,29.6,34.8,15,40.0,39.5,13,0,0.0,1,14.0,48bd91d4,Luis Ángel Malagón,Necaxa,True
+Cruz Azul,Toluca,1660514400,py PAR,27-042,1,1,1,0,100.0,1.0,0,0,,0,0,,,0,,,0,0,,0,,d48a1284,Juan Escobar,Cruz Azul,True
+Cruz Azul,Toluca,1660514400,mx MEX,24-320,89,7,2,5,71.4,2.8,3,6,50.0,12,4,33.3,37.3,7,28.6,32.6,11,,,,,c882a4e6,Sebastián Jurado,Cruz Azul,True
+Pumas UNAM,América,1660435500,mx MEX,31-112,90,9,3,6,66.7,2.7,3,9,33.3,25,9,20.0,29.9,10,40.0,37.2,13,0,0.0,0,,0124a43a,Julio José González,Pumas UNAM,True
+Guadalajara,Atlas,1660442700,mx MEX,32-152,90,4,1,3,75.0,1.4,2,2,100.0,15,6,6.7,25.3,8,12.5,28.0,8,1,12.5,2,15.0,9c06f135,Miguel Jiménez Ponce,Guadalajara,True
+UANL,Santos Laguna,1660521900,ar ARG,36-185,90,6,0,6,100.0,1.0,7,13,53.8,19,2,42.1,38.6,10,50.0,42.8,12,0,0.0,0,5.0,d8f11068,Nahuel Guzmán,UANL,True
+Mazatlán,Querétaro,1660694400,uy URU,38-132,90,7,1,6,85.7,2.0,6,10,60.0,22,6,31.8,31.6,6,50.0,46.2,22,2,9.1,1,12.6,88f918b9,Nicolás Vikonis,Mazatlán,True
+Atlas,FC Juárez,1660694400,co COL,33-160,90,2,1,1,50.0,1.0,5,8,62.5,35,2,17.1,26.4,9,22.2,31.7,11,0,0.0,2,19.0,004e3d0f,Camilo Vargas,Atlas,True
+Puebla,Necaxa,1660701900,py PAR,38-170,90,4,2,2,50.0,1.2,3,15,20.0,18,4,72.2,53.3,13,15.4,28.2,14,0,0.0,0,18.0,949bc248,Antony Silva,Puebla,True
+Toluca,Monterrey,1660780800,mx MEX,25-289,90,4,1,3,75.0,1.0,7,13,53.8,25,3,36.0,33.4,12,33.3,39.8,11,0,0.0,2,20.0,aaba5eaf,Gustavo Gutiérrez,Toluca,True
+Pachuca,América,1660788300,ar ARG,36-045,90,6,3,3,50.0,2.2,6,12,50.0,18,4,44.4,35.5,8,50.0,36.3,8,0,0.0,2,21.5,40e417fa,Óscar Ustari,Pachuca,True
+Cruz Azul,Tijuana,1660788300,mx MEX,24-323,90,2,2,1,0.0,1.1,1,4,25.0,14,3,28.6,31.0,5,0.0,22.8,8,1,12.5,0,8.3,c882a4e6,Sebastián Jurado,Cruz Azul,True
+Santos Laguna,León,1660867500,mx MEX,26-121,90,1,1,0,0.0,0.3,0,5,0.0,14,3,14.3,25.5,8,37.5,40.5,5,0,0.0,0,12.5,0810e384,Carlos Acevedo,Santos Laguna,True
+Atlético,Pumas UNAM,1660874700,ar ARG,38-181,90,7,2,5,85.7,2.1,5,15,33.3,24,7,50.0,40.2,5,60.0,46.0,18,1,5.6,0,11.5,868c0f75,Marcelo Barovero,Atlético,True
+Querétaro,Tijuana,1661032800,mx MEX,30-047,90,1,0,1,100.0,0.1,13,27,48.1,24,0,87.5,55.5,9,66.7,57.2,24,1,4.2,0,4.0,a78c131a,José Antonio Rodríguez,Querétaro,True
+Necaxa,Guadalajara,1660953600,mx MEX,25-170,90,7,4,3,57.1,3.0,4,7,57.1,29,6,24.1,30.4,6,0.0,24.8,8,0,0.0,0,,48bd91d4,Luis Ángel Malagón,Necaxa,True
+Pumas UNAM,Santos Laguna,1661101200,mx MEX,31-120,90,10,5,5,60.0,4.5,6,11,54.5,17,4,29.4,32.5,8,75.0,53.5,8,0,0.0,0,22.0,0124a43a,Julio José González,Pumas UNAM,True
+Atlético,Toluca,1661119200,ar ARG,38-184,90,4,0,4,100.0,0.9,11,21,52.4,17,7,47.1,43.6,13,100.0,66.2,16,1,6.3,1,13.0,868c0f75,Marcelo Barovero,Atlético,True
+Atlas,Puebla,1661040300,co COL,33-164,90,4,1,3,75.0,1.4,8,19,42.1,33,1,48.5,37.2,7,42.9,43.0,7,1,14.3,4,21.3,004e3d0f,Camilo Vargas,Atlas,True
+Monterrey,UANL,1661040300,ar ARG,31-206,90,3,0,3,100.0,0.6,4,7,57.1,16,0,25.0,30.3,4,75.0,59.3,14,1,7.1,0,8.5,775d365e,Esteban Andrada,Monterrey,True
+FC Juárez,Mazatlán,1661047500,mx MEX,39-336,90,1,1,0,0.0,0.4,7,13,53.8,18,1,33.3,31.3,11,63.6,54.5,18,0,0.0,0,4.0,5c7fc905,Alfredo Talavera,FC Juárez,True
+América,Cruz Azul,1661047500,mx MEX,37-038,90,1,0,1,100.0,0.6,4,9,44.4,24,3,29.2,32.4,3,66.7,48.0,9,0,0.0,0,14.0,1e9bde92,Guillermo Ochoa,América,True
+Pachuca,León,1661126700,ar ARG,36-049,90,3,0,3,100.0,0.2,4,13,30.8,16,2,50.0,44.4,9,55.6,42.9,7,0,0.0,0,11.0,40e417fa,Óscar Ustari,Pachuca,True
+Guadalajara,Monterrey,1661299500,mx MEX,32-162,90,7,0,7,100.0,1.2,3,16,18.8,21,4,57.1,45.1,5,80.0,62.2,23,1,4.3,0,5.5,9c06f135,Miguel Jiménez Ponce,Guadalajara,True
+Querétaro,América,1661306700,mx MEX,30-050,90,4,1,3,75.0,0.7,7,11,63.6,26,3,26.9,30.5,6,66.7,54.2,15,0,0.0,0,7.7,a78c131a,José Antonio Rodríguez,Querétaro,True
+Pumas UNAM,UANL,1661393100,mx MEX,30-026,90,3,1,2,66.7,1.1,9,20,45.0,14,5,42.9,35.4,14,100.0,67.4,27,2,7.4,3,11.9,a1bb9076,Gil Alcalá,Pumas UNAM,True
+Pachuca,Atlas,1661472300,ar ARG,36-053,90,2,1,1,50.0,0.5,3,15,20.0,26,12,42.3,39.7,10,40.0,42.5,10,1,10.0,1,19.5,40e417fa,Óscar Ustari,Pachuca,True
+Tijuana,Santos Laguna,1661479500,mx MEX,36-105,90,7,2,5,71.4,1.3,6,14,42.9,30,3,43.3,37.8,12,8.3,25.3,8,0,0.0,0,5.5,8c6ca532,Jonathan Orozco,Tijuana,True
+Cruz Azul,Querétaro,1661637600,mx MEX,41-213,90,1,1,0,0.0,0.3,11,23,47.8,23,4,52.2,41.7,12,91.7,58.9,22,0,0.0,0,11.5,e39a7e9c,José Corona,Cruz Azul,True
+Puebla,FC Juárez,1661558400,py PAR,38-180,90,2,2,0,0.0,1.0,2,6,33.3,14,4,35.7,33.9,6,16.7,25.3,12,0,0.0,0,13.5,949bc248,Antony Silva,Puebla,True
+Mazatlán,América,1661565900,uy URU,38-142,90,4,3,1,25.0,2.2,7,16,43.8,22,4,36.4,36.9,10,80.0,55.7,21,1,4.8,2,17.8,88f918b9,Nicolás Vikonis,Mazatlán,True
+Toluca,Pachuca,1661706000,br BRA,31-252,90,12,4,8,66.7,4.5,5,17,29.4,36,2,30.6,38.3,8,75.0,60.5,9,0,0.0,4,19.3,fba79ac8,Tiago Volpi,Toluca,True
+UANL,Necaxa,1661645100,ar ARG,36-198,90,1,0,1,100.0,0.1,7,11,63.6,32,4,31.3,32.4,5,20.0,25.0,6,1,16.7,2,23.7,d8f11068,Nahuel Guzmán,UANL,True
+Guadalajara,Pumas UNAM,1661652300,mx MEX,32-166,90,4,1,3,75.0,0.6,5,21,23.8,25,6,60.0,46.3,8,75.0,65.3,10,0,0.0,0,12.0,9c06f135,Miguel Jiménez Ponce,Guadalajara,True
+León,Atlas,1661731200,mx MEX,35-056,90,3,2,0,66.7,1.8,4,19,21.1,30,5,43.3,42.3,7,85.7,59.1,15,1,6.7,1,16.0,a4a5868e,Rodolfo Cota,León,True
+Tijuana,Monterrey,1661738700,mx MEX,36-108,90,6,3,3,66.7,1.9,6,17,35.3,21,4,42.9,40.0,9,88.9,60.6,30,2,6.7,0,9.3,8c6ca532,Jonathan Orozco,Tijuana,True
+Santos Laguna,Atlético,1661731500,mx MEX,26-131,90,4,1,3,75.0,0.7,3,10,30.0,22,4,31.8,36.0,5,60.0,39.8,12,0,0.0,0,11.0,0810e384,Carlos Acevedo,Santos Laguna,True
+Atlético,Tijuana,1662076800,ar ARG,38-195,90,3,0,3,100.0,0.3,7,20,35.0,25,7,48.0,40.3,11,72.7,52.1,23,1,4.3,2,16.3,868c0f75,Marcelo Barovero,Atlético,True
+Querétaro,Puebla,1662084300,uy URU,29-131,90,7,1,6,85.7,1.4,7,22,31.8,21,3,57.1,44.8,13,76.9,58.2,12,1,8.3,0,10.5,19da9ece,Washington Aguerre,Querétaro,True
+Pachuca,Santos Laguna,1662242700,ar ARG,36-062,90,1,0,1,100.0,0.1,13,25,52.0,20,5,70.0,53.2,12,91.7,55.3,8,2,25.0,0,12.3,40e417fa,Óscar Ustari,Pachuca,True
+Necaxa,León,1662163200,mx MEX,25-184,90,8,2,6,75.0,3.2,6,18,33.3,28,4,21.4,31.5,18,66.7,53.5,27,1,3.7,0,12.0,48bd91d4,Luis Ángel Malagón,Necaxa,True
+FC Juárez,Cruz Azul,1662170700,mx MEX,39-349,90,5,2,3,80.0,2.1,5,13,38.5,28,4,32.1,33.5,6,66.7,53.8,6,0,0.0,2,20.8,5c7fc905,Alfredo Talavera,FC Juárez,True
+Toluca,Guadalajara,1662330600,br BRA,31-259,90,5,0,5,100.0,0.9,8,15,53.3,29,4,48.3,43.2,9,11.1,32.7,12,0,0.0,0,11.5,fba79ac8,Tiago Volpi,Toluca,True
+Atlas,Pumas UNAM,1662249900,co COL,33-178,90,4,0,4,100.0,0.9,7,17,41.2,38,3,34.2,32.4,10,40.0,44.1,22,0,0.0,0,11.0,004e3d0f,Camilo Vargas,Atlas,True
+Monterrey,Mazatlán,1662249900,ar ARG,31-220,90,0,0,0,,0.0,6,9,66.7,24,3,20.8,26.8,9,44.4,36.4,12,2,16.7,0,8.5,775d365e,Esteban Andrada,Monterrey,True
+América,UANL,1662257100,mx MEX,37-052,90,4,1,3,75.0,1.1,5,16,31.3,21,2,52.4,48.2,10,50.0,48.6,20,0,0.0,0,13.3,1e9bde92,Guillermo Ochoa,América,True
+León,FC Juárez,1662508800,mx MEX,35-065,90,2,0,2,100.0,0.1,3,8,37.5,19,4,36.8,31.5,4,25.0,32.5,9,0,0.0,3,25.5,a4a5868e,Rodolfo Cota,León,True
+Santos Laguna,Necaxa,1662509100,mx MEX,26-140,90,7,1,6,85.7,1.6,6,14,42.9,24,6,41.7,36.9,10,40.0,39.9,13,1,7.7,1,13.0,0810e384,Carlos Acevedo,Santos Laguna,True
+América,Atlético,1662516300,mx MEX,37-055,90,3,0,3,100.0,0.4,2,5,40.0,19,3,15.8,30.3,8,25.0,30.1,7,0,0.0,0,14.0,1e9bde92,Guillermo Ochoa,América,True
+Monterrey,Cruz Azul,1662516300,ar ARG,31-223,90,2,2,0,0.0,0.8,7,13,53.8,35,3,37.1,32.2,1,0.0,24.0,10,1,10.0,2,17.5,775d365e,Esteban Andrada,Monterrey,True
+Puebla,Pachuca,1662595200,py PAR,38-192,90,11,2,9,81.8,2.1,5,14,35.7,12,1,91.7,60.4,8,37.5,42.9,13,1,7.7,1,8.8,949bc248,Antony Silva,Puebla,True
+UANL,Toluca,1662595200,ar ARG,36-209,90,2,1,1,50.0,1.0,4,9,44.4,24,3,33.3,31.3,4,25.0,25.8,7,0,0.0,0,12.0,d8f11068,Nahuel Guzmán,UANL,True
+Tijuana,Guadalajara,1662602700,mx MEX,36-118,90,4,2,2,50.0,1.4,3,4,75.0,17,3,23.5,27.9,8,0.0,17.1,10,0,0.0,0,,8c6ca532,Jonathan Orozco,Tijuana,True
+Mazatlán,Atlas,1662602400,uy URU,38-154,90,5,0,5,100.0,1.0,6,23,26.1,39,3,33.3,31.9,12,83.3,55.3,21,1,4.8,0,11.8,88f918b9,Nicolás Vikonis,Mazatlán,True
+Pumas UNAM,Querétaro,1662602700,mx MEX,31-137,90,3,1,2,66.7,1.0,5,10,50.0,18,2,33.3,34.3,10,40.0,37.0,13,1,7.7,0,11.8,0124a43a,Julio José González,Pumas UNAM,True
+Querétaro,Santos Laguna,1662847200,uy URU,29-140,90,3,3,0,0.0,1.1,6,16,37.5,16,6,50.0,39.0,8,100.0,70.5,20,2,10.0,2,13.5,19da9ece,Washington Aguerre,Querétaro,True
+FC Juárez,Monterrey,1662775500,mx MEX,39-356,90,5,1,4,80.0,0.8,5,13,38.5,24,7,41.7,41.8,5,60.0,50.8,14,2,14.3,0,9.6,5c7fc905,Alfredo Talavera,FC Juárez,True
+Cruz Azul,Mazatlán,1662930000,mx MEX,41-228,90,0,0,0,,0.0,6,7,85.7,17,3,41.2,37.9,5,0.0,19.0,7,1,14.3,0,12.5,e39a7e9c,José Corona,Cruz Azul,True
+Atlas,Atlético,1662937500,mx MEX,25-133,90,4,3,1,25.0,1.3,1,11,9.1,25,6,32.0,32.7,6,50.0,42.7,20,0,0.0,0,14.0,2a860a40,José Santiago Hernández,Atlas,True
+Necaxa,América,1662854400,mx MEX,25-192,90,7,2,5,71.4,1.5,5,16,31.3,28,6,32.1,35.9,9,77.8,51.1,23,1,4.3,0,10.0,48bd91d4,Luis Ángel Malagón,Necaxa,True
+UANL,León,1662854700,ar ARG,36-212,90,3,1,3,66.7,0.6,2,4,50.0,17,3,17.6,23.7,8,12.5,20.9,9,0,0.0,2,23.5,d8f11068,Nahuel Guzmán,UANL,True
+Guadalajara,Puebla,1662861900,mx MEX,32-180,90,2,0,2,100.0,0.1,6,11,54.5,13,3,30.8,34.5,15,46.7,44.2,13,1,7.7,0,12.0,9c06f135,Miguel Jiménez Ponce,Guadalajara,True
+Toluca,Pumas UNAM,1662861900,br BRA,31-265,90,8,2,6,75.0,1.9,1,9,11.1,21,5,38.1,39.8,5,20.0,26.8,12,0,0.0,0,4.0,fba79ac8,Tiago Volpi,Toluca,True
+Pachuca,Tijuana,1662944700,ar ARG,36-070,90,4,1,2,75.0,1.8,5,13,38.5,22,4,40.9,39.6,6,66.7,47.3,11,0,0.0,2,14.8,40e417fa,Óscar Ustari,Pachuca,True
+Guadalajara,UANL,1663121100,mx MEX,32-183,90,11,4,7,63.6,3.2,3,7,42.9,10,3,50.0,39.3,4,50.0,39.5,13,0,0.0,0,6.8,9c06f135,Miguel Jiménez Ponce,Guadalajara,True
+FC Juárez,Pachuca,1663207500,mx MEX,39-361,90,10,1,9,90.0,0.9,5,14,35.7,19,8,42.1,39.3,9,66.7,45.1,17,2,11.8,0,9.8,5c7fc905,Alfredo Talavera,FC Juárez,True
+América,Santos Laguna,1663207500,mx MEX,37-063,90,8,3,5,62.5,2.1,1,3,33.3,17,8,5.9,26.7,2,100.0,60.5,6,0,0.0,2,24.3,1e9bde92,Guillermo Ochoa,América,True
+Cruz Azul,León,1663286400,mx MEX,41-232,90,1,1,1,0.0,0.0,1,1,100.0,13,3,7.7,27.1,3,0.0,13.0,5,0,0.0,1,17.7,e39a7e9c,José Corona,Cruz Azul,True
+Puebla,UANL,1663372800,py PAR,38-201,90,4,1,3,75.0,1.1,3,9,33.3,9,3,55.6,45.8,7,57.1,52.3,16,0,0.0,0,,949bc248,Antony Silva,Puebla,True
+Mazatlán,Toluca,1663380000,mx MEX,25-091,90,9,1,8,88.9,1.2,11,20,55.0,38,10,47.4,40.4,7,28.6,27.7,9,0,0.0,4,20.3,aab63918,Ricardo Gutiérrez,Mazatlán,True
+Pumas UNAM,Cruz Azul,1663538400,mx MEX,31-148,90,5,2,3,60.0,2.0,1,6,16.7,26,10,19.2,31.9,5,20.0,34.2,12,0,0.0,4,20.3,0124a43a,Julio José González,Pumas UNAM,True
+Monterrey,Atlas,1663459500,ar ARG,31-234,90,5,0,5,100.0,0.8,4,11,36.4,42,7,19.0,27.0,6,50.0,39.5,10,1,10.0,1,14.2,775d365e,Esteban Andrada,Monterrey,True
+América,Guadalajara,1663462800,mx MEX,37-066,90,3,1,2,66.7,1.0,9,16,56.3,16,2,43.8,39.5,12,75.0,54.8,14,0,0.0,0,13.0,1e9bde92,Guillermo Ochoa,América,True
+Santos Laguna,FC Juárez,1663545900,mx MEX,26-152,90,1,0,1,100.0,0.0,4,11,36.4,11,4,54.5,45.0,13,38.5,29.6,18,2,11.1,0,6.5,0810e384,Carlos Acevedo,Santos Laguna,True
+León,Querétaro,1663545900,mx MEX,35-077,90,4,1,3,75.0,1.2,2,10,20.0,19,5,21.1,32.8,7,85.7,57.3,20,1,5.0,1,12.8,a4a5868e,Rodolfo Cota,León,True
+Tijuana,Necaxa,1663553100,mx MEX,36-129,90,6,1,5,83.3,1.8,7,13,53.8,26,4,46.2,36.7,5,20.0,26.2,11,0,0.0,0,,8c6ca532,Jonathan Orozco,Tijuana,True
+Atlético,Pachuca,1663552800,ar ARG,38-212,90,10,2,8,80.0,1.7,4,23,17.4,14,1,85.7,57.9,13,84.6,59.6,6,0,0.0,0,6.0,868c0f75,Marcelo Barovero,Atlético,True
+Necaxa,Mazatlán,1663977600,mx MEX,25-205,90,4,2,2,50.0,1.2,9,17,52.9,36,5,38.9,34.1,9,33.3,35.6,18,1,5.6,1,14.5,48bd91d4,Luis Ángel Malagón,Necaxa,True
+Puebla,Pumas UNAM,1663985100,mx MEX,29-125,90,4,1,3,75.0,0.9,9,19,47.4,18,1,55.6,39.1,13,69.2,49.5,14,0,0.0,0,4.0,ce147009,Jesús Rodríguez,Puebla,True
+Atlético,UANL,1664661600,ar ARG,38-225,90,11,3,8,72.7,1.8,4,10,40.0,17,3,41.2,35.5,5,60.0,38.2,11,0,0.0,0,9.8,868c0f75,Marcelo Barovero,Atlético,True
+Monterrey,Pachuca,1664661900,ar ARG,31-248,90,5,0,5,100.0,0.7,13,26,50.0,35,10,48.6,36.4,10,90.0,58.3,4,3,75.0,0,12.0,775d365e,Esteban Andrada,Monterrey,True
+Puebla,América,1664582400,py PAR,38-215,90,3,2,1,33.3,1.3,3,6,50.0,9,2,44.4,33.9,6,33.3,32.2,8,0,0.0,0,6.0,949bc248,Antony Silva,Puebla,True
+FC Juárez,Pumas UNAM,1664589600,mx MEX,40-012,90,8,1,7,87.5,2.6,9,20,45.0,21,4,61.9,43.2,9,77.8,60.7,19,1,5.3,0,12.0,5c7fc905,Alfredo Talavera,FC Juárez,True
+Toluca,Querétaro,1664730000,br BRA,31-287,90,3,1,1,66.7,1.5,9,16,56.3,25,4,32.0,35.1,10,80.0,62.4,19,1,5.3,1,11.0,fba79ac8,Tiago Volpi,Toluca,True
+Santos Laguna,Mazatlán,1664751900,mx MEX,26-166,90,2,0,2,100.0,0.3,6,15,40.0,15,0,73.3,50.1,11,36.4,29.6,10,0,0.0,0,14.0,0810e384,Carlos Acevedo,Santos Laguna,True
+Atlas,Necaxa,1664669100,co COL,33-206,90,2,0,2,100.0,0.2,10,23,43.5,34,3,50.0,41.7,9,66.7,53.0,11,0,0.0,1,21.0,004e3d0f,Camilo Vargas,Atlas,True
+Cruz Azul,Guadalajara,1664676300,mx MEX,41-248,90,3,1,2,66.7,0.7,3,4,75.0,15,4,20.0,26.9,7,14.3,24.3,13,0,0.0,0,12.8,e39a7e9c,José Corona,Cruz Azul,True
+León,Tijuana,1664758800,mx MEX,35-091,90,2,2,0,0.0,1.4,2,8,25.0,30,6,26.7,28.2,8,0.0,20.4,5,1,20.0,0,14.0,a4a5868e,Rodolfo Cota,León,True
+Toluca,FC Juárez,1665334800,br BRA,31-294,90,5,0,5,100.0,1.0,7,20,35.0,24,2,41.7,42.5,13,76.9,61.6,29,1,3.4,0,9.0,fba79ac8,Tiago Volpi,Toluca,True
+Puebla,Guadalajara,1665351000,py PAR,38-224,90,7,1,6,85.7,1.3,8,15,53.3,19,3,42.1,38.0,10,70.0,51.9,9,0,0.0,0,2.0,949bc248,Antony Silva,Puebla,True
+UANL,Necaxa,1665273600,ar ARG,36-240,90,2,0,2,100.0,0.1,6,19,31.6,39,7,41.0,38.1,3,100.0,66.0,10,2,20.0,0,11.3,d8f11068,Nahuel Guzmán,UANL,True
+Cruz Azul,León,1665281700,mx MEX,41-255,90,1,0,1,100.0,0.0,3,12,25.0,16,3,56.3,45.3,8,37.5,34.9,18,0,0.0,0,13.0,e39a7e9c,José Corona,Cruz Azul,True
+Puebla,América,1665619560,py PAR,38-227,90,11,6,5,45.5,5.4,5,10,50.0,20,2,40.0,36.7,10,20.0,26.5,8,0,0.0,1,10.0,949bc248,Antony Silva,Puebla,True
+Cruz Azul,Monterrey,1665626760,mx MEX,41-259,90,1,0,1,100.0,0.2,4,8,50.0,20,4,30.0,30.8,9,22.2,25.4,13,0,0.0,1,15.7,e39a7e9c,José Corona,Cruz Azul,True
+Toluca,Santos Laguna,1665705960,br BRA,31-298,90,4,3,1,50.0,2.0,9,17,52.9,18,2,44.4,41.9,11,81.8,63.9,9,0,0.0,2,14.2,fba79ac8,Tiago Volpi,Toluca,True
+UANL,Pachuca,1665713160,ar ARG,36-245,90,3,0,3,100.0,0.4,11,20,55.0,20,1,75.0,46.2,11,45.5,43.7,11,2,18.2,0,12.8,d8f11068,Nahuel Guzmán,UANL,True
+Monterrey,Cruz Azul,1665875160,ar ARG,31-262,90,7,0,7,100.0,2.0,9,18,50.0,26,4,38.5,39.8,10,80.0,54.8,27,0,0.0,1,10.5,775d365e,Esteban Andrada,Monterrey,True
+América,Puebla,1665882360,mx MEX,37-094,90,6,1,5,83.3,1.8,4,6,66.7,26,4,15.4,25.1,6,33.3,37.5,9,0,0.0,0,9.0,1e9bde92,Guillermo Ochoa,América,True
+Santos Laguna,Toluca,1665965160,mx MEX,26-180,90,3,2,1,33.3,1.5,1,3,33.3,10,2,20.0,23.7,5,20.0,17.2,4,0,0.0,2,27.3,0810e384,Carlos Acevedo,Santos Laguna,True
+Pachuca,UANL,1665972360,ar ARG,36-105,90,1,1,0,0.0,0.7,10,32,31.3,25,1,88.0,60.2,12,83.3,60.1,18,3,16.7,1,13.0,40e417fa,Óscar Ustari,Pachuca,True
+Toluca,América,1666231560,br BRA,31-304,90,5,1,4,80.0,1.4,6,24,25.0,25,2,60.0,47.2,9,100.0,75.8,12,0,0.0,0,10.0,fba79ac8,Tiago Volpi,Toluca,True
+Pachuca,Monterrey,1666317960,ar ARG,36-109,90,5,2,2,60.0,2.0,8,16,50.0,16,1,56.3,45.4,12,58.3,48.6,12,0,0.0,0,16.5,40e417fa,Óscar Ustari,Pachuca,True
+América,Toluca,1666487160,mx MEX,37-101,90,2,1,1,50.0,1.1,4,11,36.4,21,4,23.8,32.5,7,85.7,60.1,7,0,0.0,3,27.3,1e9bde92,Guillermo Ochoa,América,True
+Monterrey,Pachuca,1666573560,ar ARG,31-270,90,2,1,1,100.0,1.1,9,15,60.0,41,5,31.7,29.0,3,66.7,56.7,2,0,0.0,10,27.5,775d365e,Esteban Andrada,Monterrey,True
+Toluca,Pachuca,1666919160,br BRA,31-312,90,6,5,1,16.7,2.2,4,12,33.3,23,0,39.1,36.1,7,42.9,32.7,9,0,0.0,1,15.0,fba79ac8,Tiago Volpi,Toluca,True
+Pachuca,Toluca,1667180160,ar ARG,36-119,90,2,1,1,50.0,0.3,2,10,20.0,9,2,66.7,51.8,5,80.0,53.6,7,0,0.0,1,15.0,40e417fa,Óscar Ustari,Pachuca,True
+América,Querétaro,1673132400,mx MEX,34-087,90,2,0,2,100.0,0.5,3,5,60.0,19,9,10.5,22.2,5,60.0,51.0,12,0,0.0,2,15.7,363ba1be,Oscar Jiménez,América,True
+Necaxa,Atlético,1673053200,mx MEX,32-158,90,6,3,3,50.0,1.4,8,15,53.3,38,6,28.9,30.5,5,80.0,54.0,18,2,11.1,1,14.8,24c6fb79,Hugo González Durán,Necaxa,True
+Pumas UNAM,FC Juárez,1673200800,uy URU,36-142,90,3,1,2,66.7,0.9,1,7,14.3,21,8,23.8,27.9,6,33.3,31.2,9,3,33.3,0,10.2,34074967,Sebastián Sosa,Pumas UNAM,True
+Monterrey,Guadalajara,1673147400,ar ARG,31-346,90,2,1,1,50.0,0.3,4,8,50.0,21,5,28.6,32.9,7,28.6,27.4,5,1,20.0,3,17.6,775d365e,Esteban Andrada,Monterrey,True
+Santos Laguna,UANL,1673226000,mx MEX,26-264,90,6,3,3,50.0,2.2,1,5,20.0,22,4,18.2,26.2,7,14.3,29.3,12,0,0.0,3,13.9,0810e384,Carlos Acevedo,Santos Laguna,True
+Tijuana,Cruz Azul,1673233800,mx MEX,30-188,90,3,1,2,66.7,0.7,7,19,36.8,19,1,73.7,48.9,8,62.5,47.0,21,1,4.8,2,13.4,a78c131a,José Antonio Rodríguez,Tijuana,True
+Pachuca,Puebla,1673320200,ar ARG,36-190,90,3,1,2,100.0,1.0,4,17,23.5,25,2,52.0,42.0,7,57.1,51.6,3,1,33.3,0,8.0,40e417fa,Óscar Ustari,Pachuca,True
+Atlas,Mazatlán,1673579100,co COL,33-309,90,3,1,2,66.7,0.9,7,16,43.8,37,4,24.3,29.7,10,70.0,49.4,9,0,0.0,1,27.0,004e3d0f,Camilo Vargas,Atlas,True
+Cruz Azul,Monterrey,1673737200,mx MEX,41-353,90,8,3,5,62.5,2.7,2,8,25.0,14,5,28.6,34.5,11,36.4,35.0,21,0,0.0,0,2.0,e39a7e9c,José Corona,Cruz Azul,True
+Atlético,Guadalajara,1673658300,ar ARG,38-329,90,5,0,5,100.0,0.6,7,20,35.0,11,0,90.9,50.7,11,90.9,57.6,30,0,0.0,0,,868c0f75,Marcelo Barovero,Atlético,True
+Puebla,Querétaro,1673665500,py PAR,38-320,90,5,0,5,100.0,0.5,1,2,50.0,17,4,5.9,24.6,9,11.1,18.6,13,1,7.7,0,6.0,949bc248,Antony Silva,Puebla,True
+FC Juárez,Tijuana,1673744700,mx MEX,40-118,90,3,0,3,100.0,0.6,8,14,57.1,28,8,21.4,28.1,9,88.9,54.8,18,1,5.6,0,10.5,5c7fc905,Alfredo Talavera,FC Juárez,True
+Toluca,América,1673744700,br BRA,32-026,90,4,2,2,75.0,1.8,10,17,58.8,35,2,37.1,39.6,10,40.0,43.7,20,0,0.0,0,,fba79ac8,Tiago Volpi,Toluca,True
+Santos Laguna,Pumas UNAM,1673751900,mx MEX,26-270,90,8,0,8,100.0,1.6,7,24,29.2,20,4,50.0,40.7,15,93.3,63.1,22,2,9.1,1,10.2,0810e384,Carlos Acevedo,Santos Laguna,True
+UANL,Pachuca,1673831100,ar ARG,36-339,90,3,1,2,66.7,1.5,8,15,53.3,27,2,48.1,42.5,6,33.3,34.7,10,1,10.0,0,8.8,d8f11068,Nahuel Guzmán,UANL,True
+León,Necaxa,1673924700,mx MEX,35-197,90,3,1,2,100.0,1.5,4,6,66.7,22,7,22.7,27.0,3,33.3,34.3,8,0,0.0,0,7.0,a4a5868e,Rodolfo Cota,León,True
+Monterrey,Atlético,1674342360,ar ARG,31-360,90,3,1,2,66.7,1.1,12,28,42.9,43,2,51.2,37.7,7,85.7,62.6,20,0,0.0,0,,775d365e,Esteban Andrada,Monterrey,True
+Tijuana,UANL,1674270600,mx MEX,30-200,90,5,1,4,80.0,0.5,6,17,35.3,21,4,61.9,41.4,6,66.7,46.2,11,1,9.1,0,10.0,a78c131a,José Antonio Rodríguez,Tijuana,True
+Mazatlán,Santos Laguna,1674270000,mx MEX,25-217,90,12,2,10,83.3,2.5,7,17,41.2,30,4,43.3,37.2,8,50.0,43.3,19,0,0.0,0,11.0,aab63918,Ricardo Gutiérrez,Mazatlán,True
+Pumas UNAM,León,1674410400,uy URU,36-156,90,2,1,1,50.0,1.1,7,13,53.8,14,2,35.7,34.1,11,72.7,59.3,18,1,5.6,0,9.0,34074967,Sebastián Sosa,Pumas UNAM,True
+Querétaro,Atlas,1674428400,mx MEX,30-177,90,7,3,4,57.1,3.4,6,16,37.5,28,5,28.6,35.4,13,61.5,47.9,14,0,0.0,0,11.0,a1bb9076,Gil Alcalá,Querétaro,True
+América,Puebla,1674349800,mx MEX,34-101,90,5,2,3,60.0,1.0,0,2,0.0,21,6,9.5,22.2,5,0.0,19.0,10,0,0.0,3,18.8,363ba1be,Oscar Jiménez,América,True
+Guadalajara,Toluca,1674357000,mx MEX,32-313,90,4,2,2,50.0,2.6,7,17,41.2,19,3,42.1,39.5,11,81.8,62.9,11,0,0.0,1,14.5,9c06f135,Miguel Jiménez Ponce,Guadalajara,True
+Necaxa,Cruz Azul,1674357000,mx MEX,32-173,90,3,0,3,100.0,0.2,8,28,28.6,18,3,77.8,51.1,14,100.0,64.4,25,3,12.0,4,14.4,24c6fb79,Hugo González Durán,Necaxa,True
+Pachuca,FC Juárez,1674436200,ar ARG,36-203,90,4,1,3,75.0,0.8,4,11,36.4,18,3,38.9,37.7,7,57.1,41.3,13,1,7.7,0,6.8,40e417fa,Óscar Ustari,Pachuca,True
+Atlas,Santos Laguna,1674788700,co COL,33-323,90,2,2,0,0.0,1.0,4,14,28.6,38,5,34.2,34.8,8,12.5,32.1,4,0,0.0,2,15.6,004e3d0f,Camilo Vargas,Atlas,True
+Tijuana,Pumas UNAM,1674875100,mx MEX,30-207,90,2,0,2,100.0,0.2,1,1,100.0,11,1,9.1,23.5,1,0.0,13.0,8,1,12.5,1,14.3,a78c131a,José Antonio Rodríguez,Tijuana,True
+Puebla,Monterrey,1674867900,py PAR,38-334,90,3,2,1,33.3,1.2,5,20,25.0,17,4,52.9,43.6,16,68.8,50.6,13,0,0.0,0,5.0,949bc248,Antony Silva,Puebla,True
+Toluca,León,1675015200,br BRA,32-041,90,1,0,1,100.0,0.0,5,6,83.3,21,7,14.3,26.8,7,42.9,39.6,5,0,0.0,0,5.0,fba79ac8,Tiago Volpi,Toluca,True
+UANL,Atlético,1674954300,ar ARG,36-352,90,0,0,0,,0.0,1,3,33.3,18,2,5.6,20.2,8,25.0,30.8,3,0,0.0,4,29.2,d8f11068,Nahuel Guzmán,UANL,True
+FC Juárez,Guadalajara,1674961500,mx MEX,40-132,90,2,2,0,50.0,2.0,2,7,28.6,29,4,20.7,26.7,8,12.5,31.6,6,0,0.0,0,14.0,5c7fc905,Alfredo Talavera,FC Juárez,True
+América,Mazatlán,1674961500,mx MEX,34-108,90,2,0,2,100.0,0.3,3,9,33.3,23,5,26.1,31.3,8,37.5,31.0,17,1,5.9,1,12.0,363ba1be,Oscar Jiménez,América,True
+Pachuca,Necaxa,1675040400,ar ARG,36-210,90,3,1,2,100.0,1.3,4,10,40.0,23,7,26.1,30.0,7,57.1,47.0,14,0,0.0,2,18.3,40e417fa,Óscar Ustari,Pachuca,True
+Atlas,Toluca,1675303500,co COL,33-329,90,4,0,4,100.0,0.2,14,22,63.6,29,3,69.0,50.7,5,40.0,40.4,15,0,0.0,4,19.0,004e3d0f,Camilo Vargas,Atlas,True
+Atlético,Puebla,1675393200,ar ARG,38-349,90,4,0,4,100.0,0.4,4,16,25.0,17,6,52.9,39.4,12,58.3,47.8,21,3,14.3,1,11.5,868c0f75,Marcelo Barovero,Atlético,True
+León,Pachuca,1675551600,mx MEX,35-216,90,2,1,1,50.0,0.5,7,18,38.9,21,3,61.9,46.0,7,71.4,51.1,4,1,25.0,2,13.7,a4a5868e,Rodolfo Cota,León,True
+Necaxa,Tijuana,1675472400,mx MEX,32-186,90,2,1,2,50.0,0.5,5,14,35.7,34,9,32.4,31.9,10,30.0,32.8,10,4,40.0,3,14.7,24c6fb79,Hugo González Durán,Necaxa,True
+Mazatlán,FC Juárez,1675479900,uy URU,38-303,90,4,3,1,25.0,1.6,1,5,20.0,17,3,29.4,34.2,4,0.0,21.3,8,1,12.5,1,15.0,88f918b9,Nicolás Vikonis,Mazatlán,True
+Pumas UNAM,Atlas,1675620000,uy URU,36-170,90,2,2,0,0.0,1.1,6,18,33.3,17,5,41.2,39.6,12,91.7,62.2,19,1,5.3,0,4.0,34074967,Sebastián Sosa,Pumas UNAM,True
+Guadalajara,Querétaro,1675638300,mx MEX,32-328,90,1,1,0,0.0,0.3,1,9,11.1,18,3,38.9,35.4,9,22.2,33.8,11,0,0.0,0,3.5,9c06f135,Miguel Jiménez Ponce,Guadalajara,True
+Cruz Azul,UANL,1675559100,mx MEX,42-009,90,3,1,2,66.7,0.5,2,7,28.6,22,3,13.6,25.2,13,30.8,37.3,8,0,0.0,4,20.6,e39a7e9c,José Corona,Cruz Azul,True
+Santos Laguna,América,1675566300,mx MEX,26-291,90,8,2,6,87.5,3.0,11,21,52.4,17,0,70.6,50.6,12,75.0,53.0,27,0,0.0,1,13.5,0810e384,Carlos Acevedo,Santos Laguna,True
+Monterrey,Toluca,1675645800,ar ARG,32-010,90,7,1,6,85.7,1.3,7,16,43.8,27,6,51.9,40.5,2,100.0,84.5,17,2,11.8,2,13.1,775d365e,Esteban Andrada,Monterrey,True
+Querétaro,León,1675991100,mx MEX,30-195,90,6,3,3,66.7,1.9,8,15,53.3,22,1,40.9,39.2,12,50.0,45.9,14,0,0.0,0,3.0,a1bb9076,Gil Alcalá,Querétaro,True
+Atlas,Monterrey,1675998300,co COL,33-337,90,6,2,4,66.7,1.8,7,15,46.7,23,4,52.2,38.7,7,42.9,45.7,11,0,0.0,1,16.5,004e3d0f,Camilo Vargas,Atlas,True
+América,Necaxa,1676156400,mx MEX,34-122,90,1,1,0,0.0,0.8,6,17,35.3,23,2,43.5,38.0,12,58.3,51.4,12,1,8.3,1,13.6,363ba1be,Oscar Jiménez,América,True
+Puebla,Mazatlán,1676077200,py PAR,38-348,90,3,1,2,66.7,1.0,5,16,31.3,16,2,37.5,37.6,18,55.6,46.3,24,0,0.0,0,7.5,949bc248,Antony Silva,Puebla,True
+Tijuana,Atlético,1676085000,mx MEX,30-221,90,1,0,1,100.0,0.1,1,4,25.0,10,4,20.0,23.9,3,66.7,50.3,9,0,0.0,1,19.0,a78c131a,José Antonio Rodríguez,Tijuana,True
+Toluca,Cruz Azul,1676224800,br BRA,32-055,90,5,1,4,80.0,1.3,8,18,44.4,27,2,37.0,39.0,10,80.0,58.4,18,1,5.6,3,16.2,fba79ac8,Tiago Volpi,Toluca,True
+FC Juárez,Santos Laguna,1676163900,mx MEX,40-146,90,3,1,2,66.7,1.3,13,20,65.0,22,3,68.2,46.4,6,83.3,58.0,9,1,11.1,0,7.0,5c7fc905,Alfredo Talavera,FC Juárez,True
+UANL,Pumas UNAM,1676163900,ar ARG,37-001,90,7,2,5,71.4,1.8,10,15,66.7,23,1,47.8,38.4,6,66.7,41.0,15,1,6.7,0,11.5,d8f11068,Nahuel Guzmán,UANL,True
+Pachuca,Guadalajara,1676171100,ar ARG,36-223,90,9,1,8,88.9,2.3,16,24,66.7,31,8,54.8,42.4,12,58.3,47.9,18,2,11.1,3,16.9,40e417fa,Óscar Ustari,Pachuca,True
+León,Puebla,1676423100,mx MEX,35-226,90,0,0,0,,0.0,0,3,0.0,11,2,27.3,32.3,3,0.0,28.0,9,0,0.0,1,11.5,a4a5868e,Rodolfo Cota,León,True
+UANL,FC Juárez,1676423100,ar ARG,37-004,90,4,0,4,100.0,0.5,1,6,16.7,27,5,22.2,27.8,6,0.0,20.7,17,1,5.9,0,12.0,d8f11068,Nahuel Guzmán,UANL,True
+Atlético,América,1676430300,ar ARG,38-361,90,9,3,6,66.7,3.9,2,5,40.0,18,4,27.8,29.2,8,0.0,12.8,16,0,0.0,0,17.0,868c0f75,Marcelo Barovero,Atlético,True
+Guadalajara,Tijuana,1676509500,mx MEX,32-338,90,3,1,2,66.7,0.3,4,10,40.0,16,5,25.0,30.3,10,60.0,51.9,12,0,0.0,2,15.0,9c06f135,Miguel Jiménez Ponce,Guadalajara,True
+Monterrey,Querétaro,1676509500,ar ARG,32-020,90,0,0,0,,0.0,6,16,37.5,33,7,36.4,34.6,7,57.1,47.9,22,1,4.5,0,12.5,775d365e,Esteban Andrada,Monterrey,True
+Necaxa,Pumas UNAM,1676516700,mx MEX,32-198,90,8,1,7,87.5,1.4,3,20,15.0,23,6,47.8,44.8,9,100.0,68.9,24,1,4.2,0,9.2,24c6fb79,Hugo González Durán,Necaxa,True
+Mazatlán,Pachuca,1676602800,uy URU,38-316,90,5,3,2,40.0,1.3,3,11,27.3,16,3,43.8,41.5,10,40.0,38.1,7,1,14.3,0,16.0,88f918b9,Nicolás Vikonis,Mazatlán,True
+Atlético,Santos Laguna,1676761200,ar ARG,39-000,90,5,1,4,80.0,2.1,9,21,42.9,17,3,70.6,46.6,12,75.0,46.7,25,0,0.0,1,7.5,868c0f75,Marcelo Barovero,Atlético,True
+Monterrey,Necaxa,1676761560,ar ARG,32-023,90,2,1,1,100.0,1.0,4,13,30.8,40,6,27.5,28.0,6,33.3,30.7,13,2,15.4,2,14.5,775d365e,Esteban Andrada,Monterrey,True
+FC Juárez,León,1676682360,mx MEX,40-152,90,1,0,1,100.0,0.0,5,9,55.6,37,6,18.9,31.2,5,40.0,40.4,15,2,13.3,2,13.8,5c7fc905,Alfredo Talavera,FC Juárez,True
+Puebla,Cruz Azul,1676689500,py PAR,38-355,90,4,3,1,50.0,1.8,5,13,38.5,24,7,41.7,35.0,12,25.0,26.8,11,1,9.1,0,7.0,949bc248,Antony Silva,Puebla,True
+Querétaro,Mazatlán,1676847600,mx MEX,30-205,90,3,1,2,66.7,0.7,3,16,18.8,23,4,43.5,36.7,9,66.7,63.7,6,0,0.0,0,15.0,a1bb9076,Gil Alcalá,Querétaro,True
+Atlas,UANL,1676768700,co COL,33-346,90,4,1,2,75.0,1.5,7,18,38.9,25,0,48.0,39.2,7,85.7,68.3,10,0,0.0,2,22.0,004e3d0f,Camilo Vargas,Atlas,True
+Pumas UNAM,Guadalajara,1676775900,uy URU,36-183,90,3,2,1,33.3,1.6,5,10,50.0,31,11,25.8,30.9,9,22.2,24.0,15,0,0.0,2,17.3,34074967,Sebastián Sosa,Pumas UNAM,True
+América,Tijuana,1676855100,mx MEX,34-130,90,4,1,3,75.0,0.9,2,9,22.2,17,5,29.4,31.4,13,30.8,36.2,12,1,8.3,0,4.0,363ba1be,Oscar Jiménez,América,True
+Pachuca,Toluca,1676862300,mx MEX,25-021,90,6,2,4,66.7,2.5,4,8,50.0,21,3,28.6,31.4,11,18.2,28.3,9,0,0.0,3,27.3,b931ac44,Carlos Moreno,Pachuca,True
+Cruz Azul,Atlas,1677117900,mx MEX,42-027,90,3,0,3,100.0,0.2,5,21,23.8,23,4,65.2,45.8,11,54.5,47.1,15,1,6.7,1,13.6,e39a7e9c,José Corona,Cruz Azul,True
+Santos Laguna,Toluca,1677204300,mx MEX,26-310,90,8,5,3,37.5,2.5,2,5,40.0,17,4,23.5,33.9,4,25.0,28.0,5,1,20.0,0,3.0,0810e384,Carlos Acevedo,Santos Laguna,True
+Cruz Azul,FC Juárez,1677366000,mx MEX,42-030,90,1,0,1,100.0,0.1,6,11,54.5,12,3,33.3,37.4,8,87.5,53.9,22,0,0.0,0,,e39a7e9c,José Corona,Cruz Azul,True
+Necaxa,Querétaro,1677287100,mx MEX,32-207,90,3,1,2,66.7,0.2,11,29,37.9,21,4,66.7,46.2,17,88.2,66.2,20,1,5.0,0,15.5,24c6fb79,Hugo González Durán,Necaxa,True
+Mazatlán,Pumas UNAM,1677294600,uy URU,38-324,90,8,2,6,75.0,2.8,6,8,75.0,17,4,29.4,33.9,8,37.5,28.0,16,1,6.3,2,15.7,88f918b9,Nicolás Vikonis,Mazatlán,True
+Toluca,Atlético,1677434400,br BRA,32-069,90,6,0,6,100.0,1.6,3,5,60.0,33,8,12.1,26.6,2,50.0,44.0,15,1,6.7,1,14.5,fba79ac8,Tiago Volpi,Toluca,True
+UANL,Guadalajara,1677373500,ar ARG,37-015,90,4,2,2,50.0,2.6,4,9,44.4,25,0,32.0,30.4,6,16.7,27.5,7,1,14.3,0,12.0,d8f11068,Nahuel Guzmán,UANL,True
+Atlas,América,1677380700,co COL,33-353,90,5,2,3,60.0,1.2,9,26,34.6,30,2,60.0,46.4,10,80.0,62.9,22,0,0.0,3,21.1,004e3d0f,Camilo Vargas,Atlas,True
+Santos Laguna,Puebla,1677459900,mx MEX,26-313,90,3,2,1,66.7,1.3,3,10,30.0,21,5,38.1,35.7,4,50.0,39.8,17,1,5.9,2,16.0,0810e384,Carlos Acevedo,Santos Laguna,True
+Tijuana,Pachuca,1677467100,mx MEX,30-237,90,5,0,5,100.0,0.9,7,21,33.3,18,0,77.8,49.6,10,70.0,49.1,20,1,5.0,0,5.0,a78c131a,José Antonio Rodríguez,Tijuana,True
+León,Monterrey,1677553800,mx MEX,35-239,90,5,1,4,100.0,1.3,3,13,23.1,21,3,38.1,40.1,9,55.6,45.2,8,0,0.0,0,8.0,a4a5868e,Rodolfo Cota,León,True
+León,Atlético,1677970800,mx MEX,35-244,90,2,0,2,100.0,0.2,3,9,33.3,15,1,33.3,33.5,9,44.4,40.6,6,1,16.7,1,11.7,a4a5868e,Rodolfo Cota,León,True
+Mazatlán,Cruz Azul,1677891900,uy URU,38-331,90,3,1,2,66.7,0.5,7,19,36.8,33,3,45.5,36.5,6,66.7,45.7,9,0,0.0,0,9.5,88f918b9,Nicolás Vikonis,Mazatlán,True
+Necaxa,UANL,1677891900,mx MEX,32-214,90,4,1,3,75.0,0.4,2,10,20.0,27,5,29.6,30.2,9,22.2,36.0,11,0,0.0,3,32.3,24c6fb79,Hugo González Durán,Necaxa,True
+Tijuana,Atlas,1677899700,mx MEX,30-242,90,6,1,5,83.3,2.0,3,4,75.0,25,4,8.0,27.4,7,28.6,35.6,18,0,0.0,0,20.0,a78c131a,José Antonio Rodríguez,Tijuana,True
+Pumas UNAM,Puebla,1678039200,uy URU,36-198,90,9,4,5,55.6,3.2,7,14,50.0,31,6,35.5,33.2,9,33.3,39.6,19,2,10.5,2,18.6,34074967,Sebastián Sosa,Pumas UNAM,True
+América,Pachuca,1677978300,mx MEX,34-143,90,6,3,3,50.0,2.6,5,9,55.6,19,4,26.3,31.9,5,80.0,58.4,9,0,0.0,0,,363ba1be,Oscar Jiménez,América,True
+Monterrey,FC Juárez,1677978600,ar ARG,32-037,90,2,0,2,100.0,0.2,7,17,41.2,34,5,41.2,36.7,5,60.0,48.0,14,2,14.3,2,15.3,775d365e,Esteban Andrada,Monterrey,True
+Guadalajara,Santos Laguna,1677985500,mx MEX,32-355,90,2,0,2,100.0,0.2,7,18,38.9,18,1,72.2,48.6,8,62.5,51.5,16,1,6.3,1,11.0,9c06f135,Miguel Jiménez Ponce,Guadalajara,True
+Querétaro,Toluca,1678064700,mx MEX,30-219,90,7,0,7,100.0,1.1,10,25,40.0,22,5,63.6,46.5,11,100.0,63.1,21,1,4.8,0,6.3,a1bb9076,Gil Alcalá,Querétaro,True
+Atlas,León,1678575600,co COL,34-002,90,5,1,4,80.0,0.8,9,14,64.3,21,3,42.9,38.1,14,35.7,35.0,8,1,12.5,2,15.4,004e3d0f,Camilo Vargas,Atlas,True
+Atlético,Querétaro,1678496700,ar ARG,39-020,90,1,0,1,100.0,0.1,4,11,36.4,14,5,50.0,43.5,7,57.1,41.1,19,2,10.5,3,19.0,868c0f75,Marcelo Barovero,Atlético,True
+Puebla,Guadalajara,1678503900,py PAR,39-011,90,2,0,2,100.0,0.2,6,16,37.5,21,3,47.6,42.1,16,37.5,28.9,34,1,2.9,0,5.5,949bc248,Antony Silva,Puebla,True
+Toluca,Mazatlán,1678644000,br BRA,32-083,90,1,1,0,0.0,0.2,4,7,57.1,18,3,27.8,32.3,4,50.0,42.5,4,0,0.0,3,20.2,fba79ac8,Tiago Volpi,Toluca,True
+Cruz Azul,Pumas UNAM,1678583100,mx MEX,42-044,90,1,0,1,100.0,0.0,1,9,11.1,22,4,40.9,39.5,6,0.0,21.7,6,0,0.0,0,11.0,e39a7e9c,José Corona,Cruz Azul,True
+UANL,América,1678590600,ar ARG,37-029,90,5,2,3,60.0,1.6,0,3,0.0,31,11,9.7,25.7,7,0.0,16.4,8,1,12.5,0,13.0,d8f11068,Nahuel Guzmán,UANL,True
+Santos Laguna,Tijuana,1678669500,mx MEX,26-327,90,5,2,3,60.0,1.5,3,12,25.0,18,3,33.3,41.3,12,50.0,44.5,20,0,0.0,0,5.5,0810e384,Carlos Acevedo,Santos Laguna,True
+Pachuca,Monterrey,1678669500,ar ARG,36-252,90,5,2,3,60.0,1.0,6,12,50.0,29,11,24.1,32.0,11,45.5,32.5,8,1,12.5,3,19.8,40e417fa,Óscar Ustari,Pachuca,True
+FC Juárez,Necaxa,1678677300,mx MEX,40-175,90,4,1,3,75.0,1.2,9,15,60.0,26,8,30.8,35.0,14,50.0,41.9,14,3,21.4,0,7.8,5c7fc905,Alfredo Talavera,FC Juárez,True
+Cruz Azul,Atlético,1679180400,mx MEX,42-051,90,0,0,0,,0.0,1,7,14.3,17,4,23.5,28.5,11,27.3,30.5,13,0,0.0,2,25.0,e39a7e9c,José Corona,Cruz Azul,True
+Puebla,Atlas,1679101200,py PAR,39-018,90,5,4,2,20.0,1.4,4,8,50.0,18,4,33.3,34.4,8,25.0,28.5,5,0,0.0,2,25.3,949bc248,Antony Silva,Puebla,True
+Mazatlán,Necaxa,1679108700,mx MEX,25-273,90,1,1,0,0.0,0.6,5,10,50.0,30,6,26.7,30.0,10,20.0,25.7,14,0,0.0,0,,aab63918,Ricardo Gutiérrez,Mazatlán,True
+Tijuana,Toluca,1679108700,mx MEX,30-256,90,5,3,2,40.0,1.3,3,7,42.9,23,2,26.1,34.3,4,25.0,37.3,10,1,10.0,0,15.5,a78c131a,José Antonio Rodríguez,Tijuana,True
+Pumas UNAM,Pachuca,1679248800,uy URU,36-212,90,8,2,6,75.0,2.4,12,32,37.5,28,2,82.1,52.3,10,90.0,69.6,15,0,0.0,3,18.5,34074967,Sebastián Sosa,Pumas UNAM,True
+UANL,Monterrey,1679187900,ar ARG,37-036,90,2,1,1,50.0,0.5,8,24,33.3,45,3,44.4,38.5,9,44.4,37.4,17,1,5.9,5,24.3,d8f11068,Nahuel Guzmán,UANL,True
+Guadalajara,América,1679195400,mx MEX,33-004,90,7,4,3,42.9,3.0,1,7,14.3,24,6,25.0,36.4,7,14.3,36.7,10,0,0.0,0,15.0,9c06f135,Miguel Jiménez Ponce,Guadalajara,True
+Querétaro,FC Juárez,1679274300,mx MEX,30-233,90,4,2,2,50.0,1.4,5,14,35.7,20,5,35.0,35.0,8,87.5,59.6,10,0,0.0,0,5.0,a1bb9076,Gil Alcalá,Querétaro,True
+León,Santos Laguna,1679281500,mx MEX,35-259,90,7,1,6,85.7,2.1,3,4,75.0,21,5,19.0,27.6,3,0.0,10.0,4,0,0.0,0,4.0,a4a5868e,Rodolfo Cota,León,True
+Mazatlán,León,1679713500,mx MEX,25-280,90,6,2,4,66.7,1.7,10,18,55.6,31,8,48.4,38.1,8,37.5,38.5,8,3,37.5,0,8.0,aab63918,Ricardo Gutiérrez,Mazatlán,True
+Querétaro,Cruz Azul,1680145500,mx MEX,30-243,90,5,2,3,60.0,1.9,6,10,60.0,20,2,30.0,32.4,8,50.0,45.0,6,0,0.0,0,6.0,a1bb9076,Gil Alcalá,Querétaro,True
+Pachuca,Cruz Azul,1680390000,ar ARG,36-272,90,5,2,3,60.0,1.3,5,7,71.4,19,8,26.3,31.2,5,40.0,37.2,3,0,0.0,3,23.0,40e417fa,Óscar Ustari,Pachuca,True
+Necaxa,Santos Laguna,1680311100,mx MEX,32-242,90,2,0,2,100.0,0.1,8,23,34.8,24,5,54.2,45.0,12,83.3,68.0,7,0,0.0,2,19.5,24c6fb79,Hugo González Durán,Necaxa,True
+FC Juárez,Puebla,1680318000,mx MEX,40-194,90,3,2,1,66.7,1.9,7,9,77.8,18,3,33.3,31.6,5,60.0,48.2,4,0,0.0,1,16.0,5c7fc905,Alfredo Talavera,FC Juárez,True
+Toluca,UANL,1680458400,br BRA,32-104,90,2,2,0,50.0,1.7,4,9,44.4,16,0,37.5,37.9,9,33.3,34.6,13,0,0.0,0,,fba79ac8,Tiago Volpi,Toluca,True
+Atlético,Mazatlán,1680476400,ar ARG,39-043,57,6,1,5,83.3,1.1,2,5,40.0,13,6,30.8,36.5,5,20.0,21.0,4,1,25.0,3,19.3,868c0f75,Marcelo Barovero,Atlético,True
+Atlético,Mazatlán,1680476400,us USA,22-076,33,1,0,1,100.0,0.1,5,9,55.6,9,0,88.9,61.9,3,33.3,27.7,12,0,0.0,0,10.5,dba6b279,David Ochoa,Atlético,True
+América,León,1680397500,mx MEX,26-030,90,3,2,1,33.3,0.8,4,18,22.2,23,3,47.8,46.5,12,58.3,50.5,11,0,0.0,1,17.3,48bd91d4,Luis Ángel Malagón,América,True
+Monterrey,Tijuana,1680398100,ar ARG,32-065,90,1,0,1,100.0,0.1,7,18,38.9,28,9,50.0,40.8,8,50.0,39.0,20,3,15.0,0,8.7,775d365e,Esteban Andrada,Monterrey,True
+Atlas,Guadalajara,1680405000,co COL,34-023,90,11,3,8,72.7,2.8,4,9,44.4,15,4,33.3,36.4,11,36.4,39.4,8,1,12.5,0,9.0,004e3d0f,Camilo Vargas,Atlas,True
+Querétaro,Pumas UNAM,1680483900,mx MEX,30-247,90,6,0,6,100.0,0.9,9,15,60.0,26,4,38.5,36.7,8,62.5,55.9,10,0,0.0,4,16.1,a1bb9076,Gil Alcalá,Querétaro,True
+Guadalajara,Necaxa,1680994800,mx MEX,33-025,90,3,0,3,100.0,0.5,3,11,27.3,16,4,37.5,37.3,11,45.5,42.9,12,0,0.0,0,12.0,9c06f135,Miguel Jiménez Ponce,Guadalajara,True
+Puebla,Toluca,1680915900,py PAR,39-039,90,4,2,2,75.0,2.2,1,5,20.0,13,4,38.5,33.6,8,0.0,16.8,5,0,0.0,1,10.0,949bc248,Antony Silva,Puebla,True
+Tijuana,Querétaro,1680923400,mx MEX,30-277,90,3,2,1,33.3,1.8,5,9,55.6,12,1,33.3,29.2,12,41.7,40.0,11,0,0.0,0,,a78c131a,José Antonio Rodríguez,Tijuana,True
+Pumas UNAM,Atlético,1681063200,mx MEX,31-351,90,6,1,5,83.3,1.2,8,15,53.3,21,9,38.1,33.3,8,87.5,56.9,30,5,16.7,2,10.5,0124a43a,Julio José González,Pumas UNAM,True
+León,Cruz Azul,1681002300,mx MEX,35-279,90,2,0,2,100.0,0.4,1,2,50.0,19,4,5.3,19.3,7,14.3,26.6,11,0,0.0,0,9.0,a4a5868e,Rodolfo Cota,León,True
+UANL,Mazatlán,1681002300,ar ARG,37-057,90,6,2,4,66.7,1.8,2,4,50.0,30,10,13.3,24.0,2,0.0,20.0,9,2,22.2,3,17.0,d8f11068,Nahuel Guzmán,UANL,True
+América,Monterrey,1681009800,mx MEX,26-037,90,4,1,2,75.0,2.3,6,17,35.3,24,1,54.2,42.5,7,57.1,46.3,13,0,0.0,0,11.3,48bd91d4,Luis Ángel Malagón,América,True
+Santos Laguna,Pachuca,1681085100,mx MEX,26-355,90,6,4,3,33.3,1.3,11,22,50.0,22,3,59.1,45.6,11,81.8,57.0,12,0,0.0,2,21.0,0810e384,Carlos Acevedo,Santos Laguna,True
+FC Juárez,Atlas,1681092600,mx MEX,40-203,90,3,1,2,66.7,1.0,3,17,17.6,27,3,37.0,37.0,10,70.0,60.6,23,3,13.0,0,10.1,5c7fc905,Alfredo Talavera,FC Juárez,True
+Atlético,FC Juárez,1681441500,ar ARG,39-054,90,2,0,1,100.0,1.3,5,11,45.5,14,4,50.0,38.4,8,50.0,34.8,10,0,0.0,0,2.0,868c0f75,Marcelo Barovero,Atlético,True
+Atlas,Pachuca,1681599600,mx MEX,25-349,90,5,1,4,80.0,1.2,7,26,26.9,28,3,57.1,46.5,11,90.9,65.8,22,1,4.5,3,17.0,2a860a40,José Santiago Hernández,Atlas,True
+Necaxa,Puebla,1681520700,mx MEX,32-256,90,1,1,0,0.0,0.8,6,11,54.5,34,6,17.6,29.4,15,33.3,42.1,11,1,9.1,2,17.8,24c6fb79,Hugo González Durán,Necaxa,True
+Mazatlán,Tijuana,1681527900,mx MEX,25-301,90,5,2,3,100.0,3.0,0,7,0.0,25,7,28.0,27.6,8,0.0,16.9,19,1,5.3,2,13.5,aab63918,Ricardo Gutiérrez,Mazatlán,True
+Pumas UNAM,Toluca,1681668000,mx MEX,31-358,90,3,1,2,100.0,1.1,7,13,53.8,15,3,53.3,41.6,5,100.0,66.8,12,3,25.0,0,9.2,0124a43a,Julio José González,Pumas UNAM,True
+Querétaro,UANL,1681686000,mx MEX,30-261,90,2,0,2,100.0,0.3,6,16,37.5,23,4,43.5,40.2,7,85.7,62.6,11,0,0.0,0,,a1bb9076,Gil Alcalá,Querétaro,True
+León,Guadalajara,1681607100,mx MEX,35-286,90,4,2,2,50.0,1.4,2,11,18.2,21,4,23.8,32.0,17,35.3,32.4,16,0,0.0,0,10.5,a4a5868e,Rodolfo Cota,León,True
+Cruz Azul,América,1681614600,mx MEX,42-079,90,8,3,5,62.5,3.4,9,25,36.0,40,5,50.0,43.3,8,62.5,52.0,17,3,17.6,2,12.6,e39a7e9c,José Corona,Cruz Azul,True
+Monterrey,Santos Laguna,1681693800,mx MEX,29-213,45,1,1,,0.0,0.7,2,5,40.0,14,,21.4,25.5,2,100.0,72.0,1,,,,6.0,a1dea252,Luis Cárdenas,Monterrey,True
+Monterrey,Santos Laguna,1681693800,mx MEX,25-104,45,3,1,2,100.0,1.7,1,2,50.0,7,2,28.6,31.9,3,0.0,19.3,3,0,0.0,1,22.0,46beb4b3,Fernando Hernández,Monterrey,True
+UANL,Puebla,1682042700,ar ARG,37-069,90,2,0,2,100.0,0.1,3,9,33.3,34,8,17.6,28.2,8,37.5,39.5,16,2,12.5,3,18.6,d8f11068,Nahuel Guzmán,UANL,True
+Pachuca,Atlético,1682204400,ar ARG,36-293,90,5,1,4,80.0,1.3,10,24,41.7,27,4,74.1,49.7,7,57.1,44.7,7,0,0.0,4,26.3,40e417fa,Óscar Ustari,Pachuca,True
+Mazatlán,Monterrey,1682125200,mx MEX,25-308,90,8,2,6,75.0,3.3,1,5,20.0,24,7,12.5,28.0,10,20.0,30.3,7,0,0.0,2,19.3,aab63918,Ricardo Gutiérrez,Mazatlán,True
+Necaxa,Atlas,1682125500,mx MEX,32-263,90,6,3,3,50.0,1.9,3,4,75.0,13,3,30.8,35.5,6,0.0,24.8,4,0,0.0,3,24.5,24c6fb79,Hugo González Durán,Necaxa,True
+Tijuana,León,1682133300,mx MEX,30-291,90,8,0,8,100.0,0.8,5,6,83.3,18,7,16.7,26.8,9,33.3,33.6,10,1,10.0,0,14.0,a78c131a,José Antonio Rodríguez,Tijuana,True
+Toluca,FC Juárez,1682272800,br BRA,32-125,90,2,1,1,50.0,0.8,5,14,35.7,31,4,35.5,40.0,8,37.5,43.0,13,0,0.0,0,17.0,fba79ac8,Tiago Volpi,Toluca,True
+Guadalajara,Cruz Azul,1682211900,mx MEX,33-039,90,6,1,5,83.3,1.1,3,14,21.4,18,2,33.3,32.5,11,72.7,58.5,14,1,7.1,3,21.6,9c06f135,Miguel Jiménez Ponce,Guadalajara,True
+América,Pumas UNAM,1682219400,mx MEX,26-051,90,4,1,4,75.0,0.8,6,12,50.0,22,2,22.7,33.3,8,87.5,60.4,12,0,0.0,1,16.3,48bd91d4,Luis Ángel Malagón,América,True
+Santos Laguna,Querétaro,1682298300,mx MEX,27-004,90,3,2,1,33.3,0.8,6,18,33.3,21,2,57.1,46.7,7,85.7,61.9,15,1,6.7,1,12.0,0810e384,Carlos Acevedo,Santos Laguna,True
+Puebla,Tijuana,1682809200,py PAR,39-061,90,4,2,3,50.0,0.9,5,8,62.5,11,2,54.5,44.0,9,22.2,31.7,19,0,0.0,2,21.5,949bc248,Antony Silva,Puebla,True
+FC Juárez,América,1682737500,mx MEX,40-222,90,5,1,4,80.0,1.1,3,3,100.0,22,8,4.5,24.5,6,33.3,35.5,9,2,22.2,0,11.3,5c7fc905,Alfredo Talavera,FC Juárez,True
+Toluca,Necaxa,1682877600,br BRA,32-132,90,3,0,3,100.0,0.7,4,10,40.0,30,1,30.0,34.3,4,25.0,26.3,13,1,7.7,0,8.7,fba79ac8,Tiago Volpi,Toluca,True
+Querétaro,Pachuca,1682895600,mx MEX,30-275,90,7,1,6,100.0,1.7,8,27,29.6,30,2,60.0,42.2,11,81.8,63.8,7,1,14.3,0,10.0,a1bb9076,Gil Alcalá,Querétaro,True
+Atlético,Atlas,1682816400,ar ARG,39-070,90,1,0,1,100.0,0.0,2,4,50.0,10,6,20.0,29.1,12,16.7,28.5,10,1,10.0,0,14.3,868c0f75,Marcelo Barovero,Atlético,True
+Guadalajara,Mazatlán,1682816700,mx MEX,33-046,90,5,1,4,80.0,0.7,2,7,28.6,19,4,36.8,41.0,2,0.0,30.5,13,0,0.0,1,15.5,9c06f135,Miguel Jiménez Ponce,Guadalajara,True
+Monterrey,Pumas UNAM,1682816700,ar ARG,32-093,90,4,1,3,75.0,1.3,15,18,83.3,37,5,45.9,36.7,5,20.0,26.8,11,3,27.3,0,9.7,775d365e,Esteban Andrada,Monterrey,True
+Cruz Azul,Santos Laguna,1682823900,mx MEX,42-093,90,7,2,5,85.7,2.2,5,13,38.5,30,5,20.0,27.7,10,70.0,45.7,13,1,7.7,0,16.3,e39a7e9c,José Corona,Cruz Azul,True
+León,UANL,1682903100,mx MEX,35-301,90,2,0,2,100.0,0.4,2,5,40.0,26,7,19.2,31.2,15,0.0,16.9,13,2,15.4,1,13.4,a4a5868e,Rodolfo Cota,León,True
+Cruz Azul,Atlas,1683414000,mx MEX,42-100,90,2,1,1,50.0,0.5,1,2,50.0,20,8,10.0,29.1,6,0.0,16.8,5,0,0.0,0,12.5,e39a7e9c,José Corona,Cruz Azul,True
+Pachuca,Santos Laguna,1683421800,ar ARG,36-307,90,7,4,3,42.9,3.3,9,21,42.9,22,7,68.2,47.3,7,85.7,57.4,12,4,33.3,2,10.1,40e417fa,Óscar Ustari,Pachuca,True
+León,Atlético,1683507960,mx MEX,35-308,90,4,3,1,25.0,1.0,0,1,0.0,31,8,3.2,19.7,5,0.0,15.4,4,0,0.0,6,22.7,a4a5868e,Rodolfo Cota,León,True
+UANL,Puebla,1683515400,ar ARG,37-086,90,2,0,2,100.0,0.1,3,17,17.6,38,1,28.9,31.5,9,66.7,45.7,14,0,0.0,0,11.0,d8f11068,Nahuel Guzmán,UANL,True
+Santos Laguna,Monterrey,1683766800,mx MEX,27-021,90,3,2,1,33.3,0.9,3,13,23.1,22,8,27.3,35.1,11,63.6,45.5,12,0,0.0,2,20.3,0810e384,Carlos Acevedo,Santos Laguna,True
+Atlético,América,1683774600,mx MEX,25-219,90,11,1,10,90.9,1.4,2,8,25.0,19,9,26.3,30.9,10,30.0,29.4,21,1,4.8,2,17.5,2d43706b,Andrés Sánchez,Atlético,True
+Atlas,Guadalajara,1683853200,co COL,34-063,90,6,0,5,100.0,1.5,10,28,35.7,26,4,73.1,55.2,10,90.0,70.3,20,0,0.0,1,14.0,004e3d0f,Camilo Vargas,Atlas,True
+UANL,Toluca,1683861000,ar ARG,37-090,90,4,3,1,25.0,1.3,9,18,50.0,26,3,38.5,38.4,13,61.5,46.1,10,3,30.0,1,10.8,d8f11068,Nahuel Guzmán,UANL,True
+Toluca,UANL,1684087200,br BRA,32-146,90,6,4,2,50.0,3.8,4,9,44.4,22,4,31.8,35.4,6,33.3,50.2,10,1,10.0,0,3.5,fba79ac8,Tiago Volpi,Toluca,True
+Monterrey,Santos Laguna,1684026360,ar ARG,32-107,90,1,0,1,100.0,0.1,9,22,40.9,36,3,50.0,43.4,5,80.0,62.6,13,1,7.7,1,14.3,775d365e,Esteban Andrada,Monterrey,True
+América,Atlético,1684034160,mx MEX,26-072,90,2,1,1,50.0,1.0,11,27,40.7,30,2,50.0,43.4,13,92.3,63.5,17,0,0.0,0,8.0,48bd91d4,Luis Ángel Malagón,América,True
+Guadalajara,Atlas,1684112700,mx MEX,33-061,90,1,0,1,100.0,0.2,1,8,12.5,15,1,40.0,42.4,7,28.6,36.0,14,1,7.1,1,9.6,9c06f135,Miguel Jiménez Ponce,Guadalajara,True
+UANL,Monterrey,1684378800,ar ARG,37-096,90,4,1,3,75.0,0.4,3,9,33.3,42,7,21.4,28.5,9,0.0,17.3,12,0,0.0,1,14.0,d8f11068,Nahuel Guzmán,UANL,True
+Guadalajara,América,1684462200,mx MEX,33-065,90,6,1,5,83.3,0.9,2,13,15.4,18,1,33.3,36.8,10,70.0,55.5,15,0,0.0,2,23.8,9c06f135,Miguel Jiménez Ponce,Guadalajara,True
+Monterrey,UANL,1684631160,ar ARG,32-114,90,2,1,1,50.0,0.5,3,11,27.3,26,6,34.6,33.0,5,40.0,40.0,13,1,7.7,2,21.0,775d365e,Esteban Andrada,Monterrey,True
+América,Guadalajara,1684720800,mx MEX,26-080,90,6,3,3,50.0,2.3,10,27,37.0,29,4,75.9,50.8,5,100.0,63.2,14,1,7.1,0,3.0,48bd91d4,Luis Ángel Malagón,América,True
+UANL,Guadalajara,1685066400,ar ARG,37-104,90,1,0,1,100.0,0.1,8,13,61.5,39,6,28.2,30.2,6,33.3,30.5,6,0,0.0,1,17.3,d8f11068,Nahuel Guzmán,UANL,True
+Guadalajara,UANL,1685324100,mx MEX,33-075,90,8,3,5,75.0,2.5,3,23,13.0,17,4,76.5,55.9,12,83.3,63.6,33,2,6.1,1,11.2,9c06f135,Miguel Jiménez Ponce,Guadalajara,True
+Necaxa,Toluca,1656799200,br BRA,31-195,90,4,1,2,75.0,1.3,8,26,30.8,39,5,51.3,43.9,10,60.0,50.4,30,1,3.3,0,6.5,fba79ac8,Tiago Volpi,,True
+Guadalajara,FC Juárez,1656799200,mx MEX,39-287,90,5,0,5,100.0,1.0,2,8,25.0,28,8,10.7,26.8,6,83.3,58.8,21,1,4.8,0,14.3,5c7fc905,Alfredo Talavera,,True
+Mazatlán,Puebla,1656727500,py PAR,38-124,90,6,2,4,66.7,1.4,7,14,50.0,16,5,50.0,38.4,9,66.7,45.1,20,0,0.0,0,14.0,949bc248,Antony Silva,,True
+Pumas UNAM,Tijuana,1656867600,mx MEX,36-052,90,4,1,3,75.0,0.7,8,17,47.1,38,3,39.5,34.1,5,40.0,39.2,18,2,11.1,0,11.0,8c6ca532,Jonathan Orozco,,True
+Atlético,León,1656885600,mx MEX,35-000,90,2,1,2,50.0,0.5,10,22,45.5,36,7,36.1,35.1,10,90.0,58.4,26,4,15.4,0,6.5,a4a5868e,Rodolfo Cota,,True
+UANL,Cruz Azul,1656806700,mx MEX,24-277,90,6,2,4,66.7,1.8,11,31,35.5,18,2,72.2,50.5,19,94.7,64.2,17,0,0.0,0,7.3,c882a4e6,Sebastián Jurado,,True
+América,Atlas,1656813900,co COL,33-115,90,3,0,3,100.0,0.8,5,27,18.5,24,1,62.5,50.3,15,80.0,54.8,12,1,8.3,2,14.8,004e3d0f,Camilo Vargas,,True
+Santos Laguna,Monterrey,1656893100,mx MEX,28-291,90,5,4,1,60.0,3.1,10,22,45.5,23,2,65.2,43.2,9,77.8,56.4,16,1,6.3,0,2.0,a1dea252,Luis Cárdenas,,True
+Pachuca,Querétaro,1656986400,uy URU,29-072,90,5,2,3,60.0,2.2,4,17,23.5,16,3,43.8,40.8,15,66.7,50.7,7,0,0.0,2,23.3,19da9ece,Washington Aguerre,,True
+Mazatlán,UANL,1657324800,ar ARG,36-148,90,2,0,2,100.0,0.5,8,19,42.1,27,6,59.3,43.0,6,50.0,39.0,23,1,4.3,0,8.0,d8f11068,Nahuel Guzmán,,True
+Tijuana,FC Juárez,1657332300,mx MEX,39-293,90,3,0,3,100.0,0.4,3,6,50.0,20,4,30.0,31.3,4,0.0,22.3,9,0,0.0,0,,5c7fc905,Alfredo Talavera,,True
+Puebla,Santos Laguna,1657332300,mx MEX,26-080,90,7,1,6,85.7,1.4,8,11,72.7,20,7,40.0,38.4,10,30.0,31.1,23,0,0.0,0,2.0,0810e384,Carlos Acevedo,,True
+Toluca,Atlas,1657472400,co COL,33-123,90,9,3,6,66.7,3.3,2,5,40.0,27,7,18.5,24.5,6,0.0,14.8,7,0,0.0,6,25.3,004e3d0f,Camilo Vargas,,True
+Querétaro,Necaxa,1657490400,mx MEX,25-130,90,5,1,5,80.0,0.6,9,18,50.0,37,4,35.1,36.6,9,55.6,49.4,17,1,5.9,0,6.0,48bd91d4,Luis Ángel Malagón,,True
+León,Pumas UNAM,1657411200,mx MEX,31-077,90,4,3,1,25.0,1.6,1,4,25.0,10,4,20.0,26.0,11,18.2,28.5,16,0,0.0,0,,0124a43a,Julio José González,,True
+Guadalajara,Atlético,1657411500,ar ARG,38-141,90,4,0,4,100.0,0.3,4,20,20.0,14,7,35.7,38.8,16,93.8,57.4,19,1,5.3,0,9.0,868c0f75,Marcelo Barovero,,True
+Monterrey,América,1657418700,mx MEX,36-361,90,8,3,5,62.5,2.8,13,19,68.4,24,5,62.5,39.8,5,80.0,50.4,13,0,0.0,0,5.0,1e9bde92,Guillermo Ochoa,,True
+Cruz Azul,Pachuca,1657418700,mx MEX,24-161,90,2,1,1,100.0,1.0,3,12,25.0,15,4,40.0,38.7,8,75.0,56.3,11,0,0.0,0,7.5,b931ac44,Carlos Moreno,,True
+América,Toluca,1657764000,br BRA,31-206,90,2,1,1,50.0,0.6,19,36,52.8,31,0,58.1,47.9,22,81.8,62.9,30,1,3.3,3,23.3,fba79ac8,Tiago Volpi,,True
+Atlas,Cruz Azul,1658008800,mx MEX,24-291,90,4,3,1,25.0,2.1,4,21,19.0,20,0,65.0,48.3,12,66.7,50.8,13,1,7.7,0,7.0,c882a4e6,Sebastián Jurado,,True
+Puebla,León,1657929600,mx MEX,35-012,90,5,1,4,80.0,1.1,1,5,20.0,30,8,13.3,30.3,8,12.5,23.3,11,2,18.2,1,11.2,a4a5868e,Rodolfo Cota,,True
+FC Juárez,Querétaro,1657937100,uy URU,29-083,90,4,1,2,75.0,2.0,4,11,36.4,9,0,66.7,54.9,6,83.3,64.5,20,0,0.0,0,5.3,19da9ece,Washington Aguerre,,True
+Pumas UNAM,Necaxa,1658077200,mx MEX,25-137,90,6,1,5,83.3,1.6,2,7,28.6,34,6,14.7,28.1,6,33.3,32.2,13,0,0.0,0,15.0,48bd91d4,Luis Ángel Malagón,,True
+Atlético,Monterrey,1658095200,mx MEX,28-305,90,1,0,1,100.0,0.0,6,11,54.5,19,1,47.4,39.5,6,33.3,34.3,13,1,7.7,1,14.2,a1dea252,Luis Cárdenas,,True
+Santos Laguna,Guadalajara,1658016300,mx MEX,32-124,90,5,1,4,80.0,0.9,3,16,18.8,20,10,45.0,42.1,8,87.5,67.8,21,3,14.3,0,8.9,9c06f135,Miguel Jiménez Ponce,,True
+UANL,Tijuana,1658102400,mx MEX,36-066,90,3,1,2,66.7,1.2,5,17,29.4,27,3,48.1,38.4,5,80.0,51.8,18,2,11.1,0,6.3,8c6ca532,Jonathan Orozco,,True
+Pachuca,Mazatlán,1658188800,uy URU,38-103,90,4,1,3,75.0,1.5,13,34,38.2,23,2,82.6,55.0,15,100.0,69.1,21,1,4.8,1,21.0,88f918b9,Nicolás Vikonis,,True
+Guadalajara,León,1658369100,mx MEX,35-017,90,3,0,2,100.0,1.5,3,4,75.0,24,5,12.5,25.6,9,11.1,32.3,16,1,6.3,1,11.3,a4a5868e,Rodolfo Cota,,True
+Querétaro,Monterrey,1658455200,mx MEX,28-309,90,5,0,5,100.0,0.4,6,14,42.9,33,5,36.4,36.5,3,66.7,45.7,9,0,0.0,0,,a1dea252,Luis Cárdenas,,True
+Toluca,Santos Laguna,1658613600,mx MEX,26-095,90,9,2,7,88.9,3.6,4,12,33.3,15,2,46.7,35.5,9,55.6,45.7,11,0,0.0,0,15.0,0810e384,Carlos Acevedo,,True
+Mazatlán,Atlético,1658534400,ar ARG,38-154,90,4,1,3,100.0,1.7,4,10,40.0,10,5,50.0,38.7,9,55.6,45.7,21,1,4.8,0,6.0,868c0f75,Marcelo Barovero,,True
+Necaxa,FC Juárez,1658541900,mx MEX,39-307,90,3,1,2,66.7,0.6,1,7,14.3,21,3,28.6,32.6,5,20.0,32.6,8,0,0.0,0,9.7,5c7fc905,Alfredo Talavera,,True
+Tijuana,América,1658624700,mx MEX,37-010,90,4,2,2,75.0,1.5,8,11,72.7,19,5,36.8,34.3,8,50.0,40.3,11,1,9.1,1,15.7,1e9bde92,Guillermo Ochoa,,True
+Cruz Azul,Puebla,1658621100,py PAR,38-146,90,6,2,4,83.3,1.6,7,12,58.3,18,4,44.4,42.0,11,36.4,30.6,18,0,0.0,0,2.0,949bc248,Antony Silva,,True
+UANL,Atlas,1658628300,co COL,33-136,5,1,,1,,0.1,,,,,,,,,,,1,,,,,004e3d0f,Camilo Vargas,,True
+UANL,Atlas,1658628300,mx MEX,25-083,80,12,2,10,83.3,2.0,11,31,35.5,20,2,85.0,53.7,14,100.0,71.9,26,0,0.0,0,9.6,2a860a40,José Santiago Hernández,,True
+Pachuca,Pumas UNAM,1658707200,mx MEX,31-092,90,4,0,4,100.0,1.0,12,30,40.0,17,0,94.1,59.8,16,87.5,57.8,25,0,0.0,0,,0124a43a,Julio José González,,True
+FC Juárez,UANL,1658880000,ar ARG,36-166,90,2,0,2,100.0,0.2,5,17,29.4,20,2,60.0,46.0,8,62.5,46.4,22,2,9.1,2,19.3,d8f11068,Nahuel Guzmán,,True
+Monterrey,Puebla,1658880000,py PAR,38-149,90,7,1,6,85.7,2.2,3,10,30.0,19,5,47.4,40.8,9,11.1,27.8,10,1,10.0,0,14.2,949bc248,Antony Silva,,True
+Atlas,Tijuana,1658880000,mx MEX,36-075,90,4,1,3,75.0,1.3,3,16,18.8,28,2,28.6,32.9,13,61.5,47.8,25,1,4.0,1,18.5,8c6ca532,Jonathan Orozco,,True
+Atlético,Cruz Azul,1658887500,mx MEX,24-301,90,4,0,4,100.0,1.0,5,10,50.0,18,1,27.8,36.2,14,35.7,38.5,20,0,0.0,2,15.2,c882a4e6,Sebastián Jurado,,True
+León,Toluca,1658887500,br BRA,31-219,90,2,0,2,100.0,0.2,5,9,55.6,23,4,21.7,31.0,9,44.4,38.9,15,1,6.7,2,16.2,fba79ac8,Tiago Volpi,,True
+Necaxa,Pachuca,1658966400,ar ARG,36-024,90,3,2,1,33.3,1.6,3,11,27.3,17,2,47.1,39.8,8,37.5,35.0,9,0,0.0,0,15.0,40e417fa,Óscar Ustari,,True
+Querétaro,Guadalajara,1658966400,mx MEX,32-135,90,8,2,6,87.5,1.8,1,10,10.0,17,6,35.3,39.5,4,100.0,75.3,28,0,0.0,0,8.3,9c06f135,Miguel Jiménez Ponce,,True
+Pumas UNAM,Mazatlán,1658973900,uy URU,38-112,90,8,1,7,87.5,0.8,10,18,55.6,24,6,41.7,36.9,13,61.5,50.0,24,1,4.2,0,10.5,88f918b9,Nicolás Vikonis,,True
+Cruz Azul,Necaxa,1659218400,mx MEX,25-150,90,4,1,3,75.0,0.4,9,17,52.9,37,5,40.5,36.5,6,33.3,38.3,9,0,0.0,1,16.3,48bd91d4,Luis Ángel Malagón,,True
+FC Juárez,Toluca,1659146700,br BRA,31-222,90,2,1,1,50.0,0.6,4,14,28.6,32,3,28.1,32.0,8,62.5,52.6,16,0,0.0,0,13.5,fba79ac8,Tiago Volpi,,True
+Pumas UNAM,Monterrey,1659286800,mx MEX,28-319,90,7,1,6,85.7,1.1,10,15,66.7,38,6,21.1,30.1,12,58.3,48.4,21,1,4.8,0,9.0,a1dea252,Luis Cárdenas,,True
+Tijuana,Mazatlán,1659233100,uy URU,38-115,90,5,2,4,60.0,1.4,6,9,66.7,21,4,33.3,31.5,8,25.0,28.5,20,2,10.0,1,13.4,88f918b9,Nicolás Vikonis,,True
+UANL,Querétaro,1659225900,mx MEX,30-026,90,3,2,1,33.3,1.2,8,15,53.3,8,2,50.0,39.4,12,91.7,61.8,12,0,0.0,1,18.0,a78c131a,José Antonio Rodríguez,,True
+Guadalajara,Pachuca,1659233100,ar ARG,36-027,90,4,0,4,100.0,0.5,6,19,31.6,21,2,76.2,51.0,8,37.5,34.3,15,1,6.7,0,9.3,40e417fa,Óscar Ustari,,True
+Puebla,Atlético,1659233100,ar ARG,38-162,90,2,0,2,100.0,0.1,2,16,12.5,13,2,38.5,37.1,17,64.7,46.7,27,0,0.0,0,4.0,868c0f75,Marcelo Barovero,,True
+Santos Laguna,Atlas,1659312300,co COL,33-144,90,2,1,1,50.0,0.6,11,25,44.0,35,2,51.4,43.5,8,87.5,59.6,12,1,8.3,2,20.0,004e3d0f,Camilo Vargas,,True
+León,América,1659319500,mx MEX,37-018,90,7,3,4,71.4,2.2,7,16,43.8,27,2,44.4,41.3,6,66.7,40.7,13,0,0.0,1,22.5,1e9bde92,Guillermo Ochoa,,True
+Toluca,Puebla,1659488400,py PAR,38-156,90,7,1,6,85.7,1.0,5,9,55.6,16,6,37.5,38.6,8,37.5,38.5,17,0,0.0,0,9.0,949bc248,Antony Silva,,True
+FC Juárez,Atlético,1659571200,ar ARG,38-166,90,5,1,4,80.0,1.2,9,21,42.9,17,4,76.5,49.6,9,88.9,59.7,29,1,3.4,0,9.0,868c0f75,Marcelo Barovero,,True
+Atlas,Querétaro,1659664800,mx MEX,30-031,90,5,3,2,60.0,2.5,8,14,57.1,19,3,42.1,40.6,8,75.0,57.4,10,1,10.0,0,12.0,a78c131a,José Antonio Rodríguez,,True
+Mazatlán,Guadalajara,1659751500,mx MEX,32-144,90,4,2,2,50.0,0.5,4,15,26.7,16,4,25.0,36.6,11,100.0,70.7,11,0,0.0,1,18.4,9c06f135,Miguel Jiménez Ponce,,True
+Toluca,Tijuana,1659891600,mx MEX,36-087,90,11,3,8,81.8,3.6,6,16,37.5,28,3,35.7,33.3,12,50.0,48.8,18,1,5.6,2,20.8,8c6ca532,Jonathan Orozco,,True
+Atlético,Necaxa,1659906000,mx MEX,25-158,90,3,1,3,66.7,1.2,8,25,32.0,27,2,55.6,42.4,12,83.3,60.7,23,2,8.7,1,13.7,48bd91d4,Luis Ángel Malagón,,True
+Pachuca,UANL,1659913500,ar ARG,36-178,90,6,2,4,66.7,2.2,11,27,40.7,29,5,51.7,43.0,16,75.0,50.1,10,1,10.0,2,15.0,d8f11068,Nahuel Guzmán,,True
+Monterrey,León,1659830700,mx MEX,35-034,90,10,5,4,50.0,5.0,4,6,66.7,28,5,14.3,29.6,6,33.3,31.5,14,1,7.1,1,16.0,a4a5868e,Rodolfo Cota,,True
+Santos Laguna,Cruz Azul,1659837900,mx MEX,24-312,90,9,4,5,55.6,3.1,6,23,26.1,24,3,62.5,44.5,9,88.9,63.4,14,0,0.0,1,15.0,c882a4e6,Sebastián Jurado,,True
+América,FC Juárez,1659920700,mx MEX,39-323,90,6,2,4,66.7,0.9,5,17,29.4,28,4,39.3,36.5,11,54.5,47.1,12,0,0.0,0,,5c7fc905,Alfredo Talavera,,True
+Querétaro,Atlético,1660269600,ar ARG,38-174,90,6,1,5,83.3,1.3,6,18,33.3,22,7,54.5,42.1,8,75.0,59.6,17,0,0.0,0,11.5,868c0f75,Marcelo Barovero,,True
+León,Mazatlán,1660428000,uy URU,38-129,90,1,0,1,100.0,0.1,8,23,34.8,13,0,84.6,62.8,13,92.3,62.8,25,1,4.0,0,11.3,88f918b9,Nicolás Vikonis,,True
+Tijuana,Puebla,1660356300,py PAR,38-166,90,5,3,1,40.0,1.9,3,7,42.9,19,6,31.6,31.7,4,25.0,31.5,13,1,7.7,0,9.7,949bc248,Antony Silva,,True
+Necaxa,Monterrey,1660356000,mx MEX,28-331,90,4,1,3,75.0,0.6,10,19,52.6,33,7,42.4,37.3,9,55.6,46.9,12,0,0.0,1,18.3,a1dea252,Luis Cárdenas,,True
+Cruz Azul,Toluca,1660514400,br BRA,31-238,90,5,2,3,60.0,1.4,1,7,14.3,31,4,9.7,26.5,5,80.0,68.2,23,1,4.3,5,18.2,fba79ac8,Tiago Volpi,,True
+Pumas UNAM,América,1660435500,mx MEX,37-031,90,2,0,2,100.0,0.2,7,16,43.8,21,2,47.6,40.0,12,50.0,44.3,7,0,0.0,1,14.5,1e9bde92,Guillermo Ochoa,,True
+Guadalajara,Atlas,1660442700,co COL,33-157,90,6,1,5,83.3,1.2,8,31,25.8,36,2,47.2,39.3,14,100.0,70.5,17,0,0.0,1,19.0,004e3d0f,Camilo Vargas,,True
+UANL,Santos Laguna,1660521900,mx MEX,26-117,90,7,2,5,71.4,2.2,4,9,44.4,17,5,29.4,28.1,11,36.4,32.3,14,0,0.0,1,14.6,0810e384,Carlos Acevedo,,True
+Mazatlán,Querétaro,1660694400,mx MEX,30-043,90,2,1,1,50.0,0.5,6,18,33.3,26,3,42.3,35.8,8,87.5,62.6,12,1,8.3,1,12.8,a78c131a,José Antonio Rodríguez,,True
+Atlas,FC Juárez,1660694400,mx MEX,39-332,90,3,0,3,100.0,0.5,4,9,44.4,17,8,17.6,29.8,7,85.7,60.1,17,3,17.6,0,10.0,5c7fc905,Alfredo Talavera,,True
+Puebla,Necaxa,1660701900,mx MEX,25-167,90,6,2,4,66.7,1.6,9,11,81.8,37,6,27.0,36.3,6,16.7,37.8,14,1,7.1,0,7.4,48bd91d4,Luis Ángel Malagón,,True
+Toluca,Monterrey,1660780800,ar ARG,31-203,90,2,1,1,50.0,0.1,4,9,44.4,22,8,27.3,33.1,4,75.0,59.3,16,1,6.3,0,5.3,775d365e,Esteban Andrada,,True
+Pachuca,América,1660788300,mx MEX,37-035,90,4,0,4,100.0,0.9,4,15,26.7,17,3,52.9,45.0,8,75.0,51.5,15,1,6.7,0,1.0,1e9bde92,Guillermo Ochoa,,True
+Cruz Azul,Tijuana,1660788300,mx MEX,36-097,90,3,1,2,66.7,0.2,10,22,45.5,34,10,29.4,31.0,17,70.6,53.0,28,2,7.1,0,13.3,8c6ca532,Jonathan Orozco,,True
+Santos Laguna,León,1660867500,mx MEX,35-046,90,6,2,4,66.7,1.9,9,20,45.0,29,11,34.5,34.8,13,76.9,55.2,15,0,0.0,1,23.0,a4a5868e,Rodolfo Cota,,True
+Atlético,Pumas UNAM,1660874700,mx MEX,31-117,90,5,3,2,60.0,2.2,6,14,42.9,25,6,32.0,34.0,10,60.0,45.3,9,0,0.0,1,20.0,0124a43a,Julio José González,,True
+Querétaro,Tijuana,1661032800,mx MEX,36-100,90,4,2,2,50.0,1.1,2,5,40.0,24,6,12.5,25.5,9,22.2,27.6,14,0,0.0,1,21.0,8c6ca532,Jonathan Orozco,,True
+Necaxa,Guadalajara,1660953600,mx MEX,32-158,90,1,0,1,100.0,0.0,2,17,11.8,15,4,40.0,38.4,13,84.6,71.7,15,2,13.3,0,6.7,9c06f135,Miguel Jiménez Ponce,,True
+Pumas UNAM,Santos Laguna,1661101200,mx MEX,26-124,90,5,1,4,80.0,0.5,10,12,83.3,12,5,50.0,41.8,17,35.3,35.0,24,3,12.5,0,8.3,0810e384,Carlos Acevedo,,True
+Atlético,Toluca,1661119200,mx MEX,25-293,90,4,1,3,75.0,1.3,4,11,36.4,23,1,39.1,34.8,7,28.6,32.3,17,0,0.0,2,15.5,aaba5eaf,Gustavo Gutiérrez,,True
+Atlas,Puebla,1661040300,py PAR,38-174,90,5,1,4,80.0,1.3,4,9,44.4,14,7,42.9,38.2,4,75.0,53.3,17,0,0.0,0,8.0,949bc248,Antony Silva,,True
+Monterrey,UANL,1661040300,ar ARG,36-191,90,1,0,1,100.0,0.0,3,11,27.3,20,3,45.0,38.8,8,25.0,21.8,15,0,0.0,2,19.7,d8f11068,Nahuel Guzmán,,True
+FC Juárez,Mazatlán,1661047500,uy URU,38-136,90,2,1,1,50.0,1.0,6,10,60.0,25,8,36.0,33.7,7,14.3,25.0,16,3,18.8,2,15.8,88f918b9,Nicolás Vikonis,,True
+América,Cruz Azul,1661047500,mx MEX,24-326,90,7,7,0,0.0,2.8,7,18,38.9,20,1,55.0,38.8,13,53.8,49.0,13,0,0.0,0,,c882a4e6,Sebastián Jurado,,True
+Pachuca,León,1661126700,mx MEX,35-049,90,6,1,5,83.3,2.0,10,22,45.5,27,4,48.1,42.7,12,75.0,59.4,24,2,8.3,3,15.0,a4a5868e,Rodolfo Cota,,True
+Guadalajara,Monterrey,1661299500,ar ARG,31-209,90,3,1,2,66.7,1.1,1,11,9.1,35,2,28.6,31.6,7,14.3,28.0,13,0,0.0,0,7.3,775d365e,Esteban Andrada,,True
+Querétaro,América,1661306700,mx MEX,37-041,90,2,0,2,100.0,0.2,9,20,45.0,27,2,33.3,34.3,13,84.6,60.8,19,0,0.0,0,,1e9bde92,Guillermo Ochoa,,True
+Pumas UNAM,UANL,1661393100,ar ARG,36-195,90,3,1,2,66.7,0.9,7,15,46.7,38,5,36.8,34.6,6,16.7,26.0,3,1,33.3,3,25.7,d8f11068,Nahuel Guzmán,,True
+Pachuca,Atlas,1661472300,co COL,33-169,90,9,3,6,77.8,2.5,10,31,32.3,24,0,87.5,62.4,10,100.0,77.3,10,1,10.0,1,17.5,004e3d0f,Camilo Vargas,,True
+Tijuana,Santos Laguna,1661479500,mx MEX,26-128,90,4,0,4,100.0,1.0,3,8,37.5,17,6,23.5,34.5,12,33.3,32.6,24,1,4.2,0,9.8,0810e384,Carlos Acevedo,,True
+Cruz Azul,Querétaro,1661637600,uy URU,29-126,90,4,2,2,50.0,1.6,5,9,55.6,29,3,27.6,35.3,2,50.0,46.5,7,4,57.1,2,11.4,19da9ece,Washington Aguerre,,True
+Puebla,FC Juárez,1661558400,mx MEX,39-342,90,6,2,4,66.7,2.8,8,15,53.3,17,4,41.2,37.0,11,72.7,55.8,14,2,14.3,3,20.0,5c7fc905,Alfredo Talavera,,True
+Mazatlán,América,1661565900,mx MEX,37-044,90,2,1,2,50.0,0.1,3,9,33.3,19,4,36.8,37.4,5,40.0,44.4,5,1,20.0,0,6.0,1e9bde92,Guillermo Ochoa,,True
+Toluca,Pachuca,1661706000,ar ARG,36-056,90,4,1,3,75.0,1.1,8,22,36.4,25,1,76.0,49.6,7,42.9,35.1,15,2,13.3,0,12.5,40e417fa,Óscar Ustari,,True
+UANL,Necaxa,1661645100,mx MEX,25-178,90,2,0,2,100.0,0.3,11,24,45.8,29,2,58.6,42.7,8,87.5,61.4,24,2,8.3,0,5.4,48bd91d4,Luis Ángel Malagón,,True
+Guadalajara,Pumas UNAM,1661652300,mx MEX,30-029,90,6,3,4,50.0,2.1,5,11,45.5,15,5,33.3,32.5,7,85.7,61.9,6,0,0.0,0,3.0,a1bb9076,Gil Alcalá,,True
+León,Atlas,1661731200,co COL,33-172,90,5,4,1,20.0,2.7,7,17,41.2,32,3,50.0,38.3,3,33.3,38.0,8,1,12.5,0,8.0,004e3d0f,Camilo Vargas,,True
+Tijuana,Monterrey,1661738700,ar ARG,31-214,90,5,0,5,100.0,0.6,3,7,42.9,24,6,16.7,27.5,5,60.0,51.8,18,0,0.0,0,,775d365e,Esteban Andrada,,True
+Santos Laguna,Atlético,1661731500,ar ARG,38-191,90,8,4,4,62.5,3.0,6,15,40.0,13,2,53.8,40.7,13,61.5,46.4,13,0,0.0,1,27.0,868c0f75,Marcelo Barovero,,True
+Atlético,Tijuana,1662076800,mx MEX,36-112,90,1,0,1,100.0,0.2,5,16,31.3,24,7,33.3,36.0,13,61.5,53.2,6,1,16.7,0,12.0,8c6ca532,Jonathan Orozco,,True
+Querétaro,Puebla,1662084300,mx MEX,29-103,90,6,1,5,83.3,1.4,1,3,33.3,17,1,5.9,24.4,6,33.3,33.7,10,0,0.0,0,11.0,ce147009,Jesús Rodríguez,,True
+Pachuca,Santos Laguna,1662242700,mx MEX,26-137,90,6,2,4,66.7,1.4,4,20,20.0,19,2,36.8,38.8,17,76.5,50.2,27,0,0.0,0,9.0,0810e384,Carlos Acevedo,,True
+Necaxa,León,1662163200,mx MEX,35-061,90,3,3,1,0.0,1.1,5,8,62.5,23,5,26.1,33.8,6,33.3,41.0,10,0,0.0,1,17.0,a4a5868e,Rodolfo Cota,,True
+FC Juárez,Cruz Azul,1662170700,mx MEX,41-219,90,5,2,3,80.0,2.2,2,4,50.0,8,3,25.0,36.1,7,28.6,30.4,18,0,0.0,1,15.0,e39a7e9c,José Corona,,True
+Toluca,Guadalajara,1662330600,mx MEX,32-174,90,3,0,3,100.0,0.4,1,12,8.3,15,5,46.7,43.3,7,71.4,56.9,16,1,6.3,0,3.0,9c06f135,Miguel Jiménez Ponce,,True
+Atlas,Pumas UNAM,1662249900,mx MEX,31-133,90,0,0,0,,0.0,6,15,40.0,22,4,50.0,36.0,6,66.7,52.3,13,1,7.7,1,17.0,0124a43a,Julio José González,,True
+Monterrey,Mazatlán,1662249900,uy URU,38-150,90,3,0,3,100.0,0.5,14,29,48.3,32,8,65.6,44.8,10,80.0,51.2,21,0,0.0,0,8.0,88f918b9,Nicolás Vikonis,,True
+América,UANL,1662257100,ar ARG,36-205,90,9,2,7,77.8,2.5,2,11,18.2,36,6,22.2,28.2,12,25.0,32.4,9,1,11.1,2,26.0,d8f11068,Nahuel Guzmán,,True
+León,FC Juárez,1662508800,mx MEX,39-353,90,5,1,4,80.0,1.4,8,13,61.5,17,3,29.4,33.9,10,80.0,59.0,10,1,10.0,0,12.3,5c7fc905,Alfredo Talavera,,True
+Santos Laguna,Necaxa,1662509100,mx MEX,25-188,90,6,3,3,50.0,1.9,7,17,41.2,33,3,36.4,36.1,12,41.7,39.3,13,0,0.0,0,17.0,48bd91d4,Luis Ángel Malagón,,True
+América,Atlético,1662516300,ar ARG,38-200,90,7,3,3,57.1,3.5,7,17,41.2,15,3,40.0,40.7,12,91.7,60.2,20,2,10.0,0,10.5,868c0f75,Marcelo Barovero,,True
+Monterrey,Cruz Azul,1662516300,mx MEX,41-223,90,11,3,8,72.7,1.8,1,5,20.0,19,5,21.1,32.5,4,25.0,33.0,9,0,0.0,0,3.0,e39a7e9c,José Corona,,True
+Puebla,Pachuca,1662595200,ar ARG,36-066,90,3,2,1,33.3,1.5,8,19,42.1,15,3,73.3,50.2,9,88.9,60.4,8,0,0.0,2,18.7,40e417fa,Óscar Ustari,,True
+UANL,Toluca,1662595200,br BRA,31-262,90,7,3,4,57.1,1.9,7,14,50.0,26,2,38.5,35.8,9,44.4,43.3,14,0,0.0,0,3.0,fba79ac8,Tiago Volpi,,True
+Tijuana,Guadalajara,1662602700,mx MEX,32-177,90,3,1,2,66.7,0.4,3,13,23.1,14,5,42.9,39.3,11,63.6,53.5,16,1,6.3,0,7.0,9c06f135,Miguel Jiménez Ponce,,True
+Mazatlán,Atlas,1662602400,co COL,33-182,90,6,1,5,83.3,0.7,7,15,46.7,32,4,37.5,33.3,8,37.5,36.6,6,0,0.0,0,13.5,004e3d0f,Camilo Vargas,,True
+Pumas UNAM,Querétaro,1662602700,uy URU,29-137,90,6,4,2,33.3,2.6,5,21,23.8,28,7,46.4,38.9,12,66.7,52.8,12,3,25.0,0,8.3,19da9ece,Washington Aguerre,,True
+Querétaro,Santos Laguna,1662847200,mx MEX,26-144,90,9,3,6,66.7,2.6,6,14,42.9,19,4,47.4,38.0,13,38.5,35.4,20,1,5.0,0,8.7,0810e384,Carlos Acevedo,,True
+FC Juárez,Monterrey,1662775500,ar ARG,31-226,90,2,0,2,100.0,0.2,5,11,45.5,24,4,33.3,36.3,6,50.0,41.3,14,0,0.0,1,15.0,775d365e,Esteban Andrada,,True
+Cruz Azul,Mazatlán,1662930000,uy URU,38-158,45,2,2,,50.0,2.0,5,9,55.6,22,2,27.3,27.8,8,37.5,32.8,5,,,1,18.0,88f918b9,Nicolás Vikonis,,True
+Cruz Azul,Mazatlán,1662930000,mx MEX,25-086,45,2,0,2,100.0,1.3,2,8,25.0,12,3,33.3,30.8,7,57.1,49.3,7,0,0.0,0,,aab63918,Ricardo Gutiérrez,,True
+Atlas,Atlético,1662937500,ar ARG,38-205,90,3,1,2,66.7,0.2,6,9,66.7,16,5,25.0,29.3,9,55.6,51.1,16,1,6.3,0,5.5,868c0f75,Marcelo Barovero,,True
+Necaxa,América,1662854400,mx MEX,33-333,90,6,1,5,83.3,1.2,5,8,62.5,16,8,18.8,28.8,6,83.3,64.8,8,0,0.0,1,30.0,363ba1be,Oscar Jiménez,,True
+UANL,León,1662854700,mx MEX,35-069,90,3,0,3,100.0,1.0,10,23,43.5,19,7,63.2,42.9,15,73.3,57.5,32,1,3.1,0,7.0,a4a5868e,Rodolfo Cota,,True
+Guadalajara,Puebla,1662861900,py PAR,38-195,90,4,1,3,75.0,0.8,4,6,66.7,7,2,28.6,29.1,8,50.0,37.1,8,0,0.0,0,,949bc248,Antony Silva,,True
+Toluca,Pumas UNAM,1662861900,mx MEX,31-140,90,5,2,3,60.0,1.1,10,17,58.8,27,8,40.7,36.0,9,66.7,49.4,9,2,22.2,1,8.7,0124a43a,Julio José González,,True
+Pachuca,Tijuana,1662944700,mx MEX,36-122,90,7,6,1,14.3,3.0,5,10,50.0,24,7,37.5,34.4,11,9.1,17.5,15,1,6.7,0,8.5,8c6ca532,Jonathan Orozco,,True
+Guadalajara,UANL,1663121100,ar ARG,36-215,90,8,1,7,87.5,1.8,3,7,42.9,25,5,24.0,31.5,12,8.3,26.3,25,1,4.0,0,7.0,d8f11068,Nahuel Guzmán,,True
+FC Juárez,Pachuca,1663207500,mx MEX,24-228,90,3,2,1,33.3,1.2,3,5,60.0,13,4,15.4,22.3,5,60.0,42.0,10,1,10.0,1,19.5,b931ac44,Carlos Moreno,,True
+América,Santos Laguna,1663207500,mx MEX,26-148,90,8,3,6,62.5,2.3,9,18,50.0,13,3,76.9,56.4,14,57.1,51.4,29,0,0.0,0,5.0,0810e384,Carlos Acevedo,,True
+Cruz Azul,León,1663286400,mx MEX,35-074,90,5,2,3,60.0,0.9,5,21,23.8,25,2,40.0,40.1,15,73.3,56.9,36,0,0.0,0,5.5,a4a5868e,Rodolfo Cota,,True
+Puebla,UANL,1663372800,ar ARG,36-218,90,6,2,4,66.7,1.6,3,6,50.0,25,2,16.0,26.9,5,40.0,39.4,11,1,9.1,3,18.5,d8f11068,Nahuel Guzmán,,True
+Mazatlán,Toluca,1663380000,br BRA,31-271,90,6,1,5,83.3,2.8,10,20,50.0,31,3,51.6,40.7,5,80.0,64.8,19,0,0.0,5,24.8,fba79ac8,Tiago Volpi,,True
+Pumas UNAM,Cruz Azul,1663538400,mx MEX,41-235,90,11,1,10,90.9,3.3,3,11,27.3,18,6,33.3,33.8,13,38.5,31.5,13,0,0.0,0,9.6,e39a7e9c,José Corona,,True
+Monterrey,Atlas,1663459500,co COL,33-192,90,4,2,2,50.0,0.4,6,17,35.3,27,3,40.7,36.9,9,66.7,46.9,12,0,0.0,0,,004e3d0f,Camilo Vargas,,True
+América,Guadalajara,1663462800,mx MEX,32-187,90,5,2,3,80.0,1.9,3,6,50.0,16,3,12.5,25.2,5,80.0,61.2,9,1,11.1,1,18.0,9c06f135,Miguel Jiménez Ponce,,True
+Santos Laguna,FC Juárez,1663545900,mx MEX,40-000,90,5,2,3,80.0,1.9,3,9,33.3,19,5,21.1,29.5,12,41.7,43.1,17,0,0.0,1,12.3,5c7fc905,Alfredo Talavera,,True
+León,Querétaro,1663545900,uy URU,29-148,90,4,3,1,25.0,1.6,9,17,52.9,14,5,57.1,40.4,10,90.0,63.8,10,1,10.0,0,4.0,19da9ece,Washington Aguerre,,True
+Tijuana,Necaxa,1663553100,mx MEX,25-200,90,7,1,6,85.7,2.6,7,17,41.2,31,6,35.5,34.5,12,50.0,52.4,22,2,9.1,0,9.2,48bd91d4,Luis Ángel Malagón,,True
+Atlético,Pachuca,1663552800,ar ARG,36-077,90,1,1,0,0.0,0.7,5,10,50.0,8,3,25.0,35.8,9,88.9,61.0,11,2,18.2,0,13.7,40e417fa,Óscar Ustari,,True
+Necaxa,Mazatlán,1663977600,mx MEX,25-098,90,6,2,4,66.7,1.5,5,19,26.3,29,9,48.3,44.0,12,41.7,35.9,21,4,19.0,1,13.0,aab63918,Ricardo Gutiérrez,,True
+Puebla,Pumas UNAM,1663985100,mx MEX,31-153,90,2,2,1,0.0,1.0,1,3,33.3,23,6,13.0,27.0,5,0.0,18.2,7,0,0.0,2,21.0,0124a43a,Julio José González,,True
+Atlético,UANL,1664661600,ar ARG,36-233,90,4,0,4,100.0,0.6,2,10,20.0,26,1,26.9,31.6,11,27.3,29.5,8,0,0.0,0,16.0,d8f11068,Nahuel Guzmán,,True
+Monterrey,Pachuca,1664661900,ar ARG,36-090,90,4,0,4,100.0,0.5,6,14,42.9,22,8,40.9,37.2,7,71.4,46.9,11,1,9.1,1,14.0,40e417fa,Óscar Ustari,,True
+Puebla,América,1664582400,mx MEX,37-079,90,3,1,2,66.7,1.1,5,13,38.5,25,4,32.0,36.5,9,55.6,50.1,12,1,8.3,0,7.5,1e9bde92,Guillermo Ochoa,,True
+FC Juárez,Pumas UNAM,1664589600,mx MEX,31-160,90,5,3,2,40.0,2.1,5,8,62.5,13,3,46.2,37.9,5,40.0,34.2,6,1,16.7,0,9.3,0124a43a,Julio José González,,True
+Toluca,Querétaro,1664730000,mx MEX,30-090,90,6,4,2,66.7,2.7,4,6,66.7,12,1,16.7,27.2,8,50.0,48.6,13,0,0.0,0,5.0,a78c131a,José Antonio Rodríguez,,True
+Santos Laguna,Mazatlán,1664751900,uy URU,38-179,90,6,3,3,66.7,2.3,15,20,75.0,22,7,59.1,38.3,11,63.6,49.7,10,0,0.0,0,9.8,88f918b9,Nicolás Vikonis,,True
+Atlas,Necaxa,1664669100,mx MEX,25-213,90,2,1,1,50.0,0.2,1,15,6.7,30,5,33.3,36.9,5,100.0,67.6,8,0,0.0,1,16.0,48bd91d4,Luis Ángel Malagón,,True
+Cruz Azul,Guadalajara,1664676300,mx MEX,32-201,90,4,2,2,50.0,1.3,1,8,12.5,17,6,29.4,30.5,7,42.9,44.6,15,1,6.7,0,8.5,9c06f135,Miguel Jiménez Ponce,,True
+León,Tijuana,1664758800,mx MEX,36-143,90,6,2,4,66.7,2.1,8,17,47.1,32,5,43.8,36.1,13,23.1,21.7,13,1,7.7,0,8.0,8c6ca532,Jonathan Orozco,,True
+Toluca,FC Juárez,1665334800,mx MEX,40-021,90,5,3,2,40.0,2.0,2,2,100.0,14,6,14.3,27.5,6,0.0,29.7,4,0,0.0,0,14.0,5c7fc905,Alfredo Talavera,,True
+Puebla,Guadalajara,1665351000,mx MEX,32-209,90,2,1,1,50.0,0.2,3,8,37.5,19,4,21.1,30.1,10,40.0,42.4,11,0,0.0,0,9.0,9c06f135,Miguel Jiménez Ponce,,True
+UANL,Necaxa,1665273600,mx MEX,25-220,90,5,2,3,60.0,1.3,3,9,33.3,26,7,23.1,29.1,5,60.0,48.6,18,1,5.6,0,10.0,48bd91d4,Luis Ángel Malagón,,True
+Cruz Azul,León,1665281700,mx MEX,35-097,90,8,1,7,87.5,2.9,9,18,50.0,28,6,35.7,33.4,14,57.1,46.8,11,0,0.0,2,12.9,a4a5868e,Rodolfo Cota,,True
+Puebla,América,1665619560,mx MEX,37-091,90,1,1,0,0.0,0.2,9,12,75.0,29,5,27.6,31.7,6,66.7,49.2,8,1,12.5,0,4.7,1e9bde92,Guillermo Ochoa,,True
+Cruz Azul,Monterrey,1665626760,ar ARG,31-259,90,1,0,1,100.0,0.0,5,13,38.5,29,5,34.5,34.2,5,60.0,51.6,21,2,9.5,0,8.7,775d365e,Esteban Andrada,,True
+Toluca,Santos Laguna,1665705960,mx MEX,26-177,90,7,4,3,57.1,3.6,2,10,20.0,13,2,53.8,39.2,7,42.9,40.9,15,0,0.0,0,8.5,0810e384,Carlos Acevedo,,True
+UANL,Pachuca,1665713160,ar ARG,36-102,90,3,1,2,100.0,1.2,9,21,42.9,23,6,73.9,50.8,5,80.0,52.6,13,2,15.4,0,10.7,40e417fa,Óscar Ustari,,True
+Monterrey,Cruz Azul,1665875160,mx MEX,41-262,90,5,3,2,40.0,1.9,3,4,75.0,13,5,23.1,26.9,7,14.3,20.0,10,0,0.0,0,9.0,e39a7e9c,José Corona,,True
+América,Puebla,1665882360,py PAR,38-230,90,7,5,2,42.9,3.1,2,5,40.0,18,4,16.7,30.4,10,20.0,27.0,10,0,0.0,1,13.5,949bc248,Antony Silva,,True
+Santos Laguna,Toluca,1665965160,br BRA,31-301,90,6,1,5,83.3,1.7,18,39,46.2,23,3,73.9,62.8,22,100.0,74.5,27,0,0.0,3,14.9,fba79ac8,Tiago Volpi,,True
+Pachuca,UANL,1665972360,ar ARG,36-248,90,8,2,6,75.0,2.5,10,21,47.6,29,4,44.8,38.2,11,72.7,52.5,5,0,0.0,0,22.0,d8f11068,Nahuel Guzmán,,True
+Toluca,América,1666231560,mx MEX,37-098,90,4,2,2,75.0,2.2,1,6,16.7,19,6,21.1,31.3,6,33.3,38.3,5,0,0.0,1,12.6,1e9bde92,Guillermo Ochoa,,True
+Pachuca,Monterrey,1666317960,ar ARG,31-267,90,8,5,3,50.0,3.8,6,16,37.5,19,2,42.1,38.3,11,72.7,52.8,17,1,5.9,0,4.5,775d365e,Esteban Andrada,,True
+América,Toluca,1666487160,br BRA,31-307,90,4,1,3,75.0,1.3,10,32,31.3,23,0,95.7,67.7,10,100.0,71.7,23,0,0.0,0,5.0,fba79ac8,Tiago Volpi,,True
+Monterrey,Pachuca,1666573560,ar ARG,36-112,90,11,0,11,100.0,2.6,10,31,32.3,28,6,75.0,51.3,11,90.9,57.7,33,3,9.1,1,8.9,40e417fa,Óscar Ustari,,True
+Toluca,Pachuca,1666919160,ar ARG,36-116,90,5,1,3,80.0,2.4,12,24,50.0,16,3,87.5,52.4,12,83.3,56.7,21,4,19.0,3,13.6,40e417fa,Óscar Ustari,,True
+Pachuca,Toluca,1667180160,br BRA,31-315,90,8,3,4,75.0,3.2,9,16,56.3,25,4,44.0,41.3,10,50.0,50.2,17,0,0.0,0,6.0,fba79ac8,Tiago Volpi,,True
+América,Querétaro,1673132400,mx MEX,30-162,90,6,0,6,100.0,1.2,8,18,44.4,16,4,50.0,44.4,10,100.0,75.1,43,1,2.3,0,5.5,a1bb9076,Gil Alcalá,,True
+Necaxa,Atlético,1673053200,ar ARG,38-322,90,6,2,4,66.7,0.5,4,10,40.0,11,3,45.5,34.3,6,83.3,42.0,18,0,0.0,0,,868c0f75,Marcelo Barovero,,True
+Pumas UNAM,FC Juárez,1673200800,mx MEX,40-112,90,5,2,3,80.0,1.9,8,21,38.1,18,10,44.4,38.7,15,86.7,67.9,15,2,13.3,0,7.0,5c7fc905,Alfredo Talavera,,True
+Monterrey,Guadalajara,1673147400,mx MEX,32-299,90,8,0,8,100.0,1.1,11,28,39.3,25,3,56.0,42.7,16,87.5,60.4,18,0,0.0,2,15.3,9c06f135,Miguel Jiménez Ponce,,True
+Santos Laguna,UANL,1673226000,ar ARG,36-332,90,7,0,7,100.0,1.3,4,15,26.7,15,1,66.7,47.5,8,62.5,43.3,17,1,5.9,0,7.0,d8f11068,Nahuel Guzmán,,True
+Tijuana,Cruz Azul,1673233800,mx MEX,41-347,90,9,1,8,100.0,1.8,0,4,0.0,22,6,18.2,24.5,7,0.0,19.7,18,0,0.0,0,16.5,e39a7e9c,José Corona,,True
+Pachuca,Puebla,1673320200,py PAR,38-316,90,10,5,4,50.0,4.3,5,11,45.5,11,3,27.3,36.9,10,80.0,57.7,16,1,6.3,0,3.0,949bc248,Antony Silva,,True
+Atlas,Mazatlán,1673579100,mx MEX,25-209,90,10,2,8,90.0,3.1,5,15,33.3,40,5,35.0,32.6,6,16.7,29.5,15,3,20.0,2,15.0,aab63918,Ricardo Gutiérrez,,True
+Cruz Azul,Monterrey,1673737200,ar ARG,31-353,90,5,2,4,60.0,1.2,3,16,18.8,43,7,30.2,31.7,6,50.0,46.8,18,2,11.1,0,12.0,775d365e,Esteban Andrada,,True
+Atlético,Guadalajara,1673658300,mx MEX,32-305,90,1,0,1,100.0,0.0,2,5,40.0,19,2,26.3,33.9,4,0.0,20.8,7,0,0.0,2,20.0,9c06f135,Miguel Jiménez Ponce,,True
+Puebla,Querétaro,1673665500,mx MEX,30-168,90,5,2,3,60.0,1.7,3,12,25.0,18,4,22.2,31.8,8,100.0,69.1,19,0,0.0,0,,a1bb9076,Gil Alcalá,,True
+FC Juárez,Tijuana,1673744700,mx MEX,30-194,90,4,3,1,50.0,1.7,3,9,33.3,14,3,35.7,30.5,13,30.8,31.5,9,0,0.0,2,20.0,a78c131a,José Antonio Rodríguez,,True
+Toluca,América,1673744700,mx MEX,34-094,90,12,2,10,83.3,3.1,8,11,72.7,28,8,28.6,28.5,3,100.0,68.7,18,1,5.6,2,13.3,363ba1be,Oscar Jiménez,,True
+Santos Laguna,Pumas UNAM,1673751900,uy URU,36-148,90,19,3,16,89.5,5.8,4,10,40.0,19,6,36.8,33.3,5,60.0,44.4,15,2,13.3,0,7.0,34074967,Sebastián Sosa,,True
+UANL,Pachuca,1673831100,ar ARG,36-196,90,7,4,3,42.9,3.5,7,14,50.0,21,6,28.6,29.9,11,72.7,48.7,13,0,0.0,1,23.0,40e417fa,Óscar Ustari,,True
+León,Necaxa,1673924700,mx MEX,32-168,90,2,2,0,0.0,0.9,5,22,22.7,22,3,50.0,37.5,14,78.6,53.6,15,1,6.7,2,15.3,24c6fb79,Hugo González Durán,,True
+Monterrey,Atlético,1674342360,ar ARG,38-337,90,3,3,0,0.0,1.6,2,9,22.2,16,3,37.5,33.1,8,37.5,29.0,9,1,11.1,3,15.7,868c0f75,Marcelo Barovero,,True
+Tijuana,UANL,1674270600,ar ARG,36-344,90,2,1,1,50.0,1.1,8,23,34.8,38,5,50.0,37.5,9,44.4,38.0,11,0,0.0,0,15.0,d8f11068,Nahuel Guzmán,,True
+Mazatlán,Santos Laguna,1674270000,mx MEX,26-276,90,5,1,4,80.0,2.1,5,17,29.4,13,4,53.8,42.3,13,76.9,50.5,27,0,0.0,0,7.0,0810e384,Carlos Acevedo,,True
+Pumas UNAM,León,1674410400,mx MEX,35-203,90,5,4,1,20.0,2.1,3,6,50.0,13,5,30.8,32.9,7,28.6,31.1,6,1,16.7,3,21.2,a4a5868e,Rodolfo Cota,,True
+Querétaro,Atlas,1674428400,co COL,33-319,90,5,3,2,60.0,2.4,8,22,36.4,25,4,56.0,43.3,8,100.0,69.5,13,3,23.1,0,6.0,004e3d0f,Camilo Vargas,,True
+América,Puebla,1674349800,py PAR,38-328,90,6,2,4,66.7,1.7,9,18,50.0,15,2,66.7,48.5,9,88.9,63.8,31,0,0.0,0,4.0,949bc248,Antony Silva,,True
+Guadalajara,Toluca,1674357000,br BRA,32-033,90,2,1,2,50.0,0.5,9,24,37.5,31,0,48.4,40.3,13,69.2,56.2,19,0,0.0,0,8.0,fba79ac8,Tiago Volpi,,True
+Necaxa,Cruz Azul,1674357000,mx MEX,41-360,90,3,1,2,66.7,1.0,1,3,33.3,14,4,21.4,26.4,8,0.0,21.6,6,1,16.7,0,8.5,e39a7e9c,José Corona,,True
+Pachuca,FC Juárez,1674436200,mx MEX,40-126,90,5,4,2,40.0,1.2,7,17,41.2,29,3,41.4,34.9,13,38.5,36.7,10,0,0.0,2,27.5,5c7fc905,Alfredo Talavera,,True
+Atlas,Santos Laguna,1674788700,mx MEX,26-282,90,4,2,2,50.0,1.1,7,14,50.0,12,3,58.3,46.6,11,63.6,46.9,19,2,10.5,1,14.0,0810e384,Carlos Acevedo,,True
+Tijuana,Pumas UNAM,1674875100,uy URU,36-161,90,6,0,6,100.0,1.1,7,21,33.3,24,2,66.7,47.0,7,71.4,46.6,33,2,6.1,0,6.0,34074967,Sebastián Sosa,,True
+Puebla,Monterrey,1674867900,ar ARG,32-001,90,8,1,7,87.5,1.4,4,16,25.0,27,7,40.7,37.7,6,83.3,56.7,19,1,5.3,1,18.5,775d365e,Esteban Andrada,,True
+Toluca,León,1675015200,mx MEX,35-210,90,9,0,9,100.0,1.2,14,30,46.7,32,3,56.3,42.3,15,80.0,58.6,31,0,0.0,0,7.5,a4a5868e,Rodolfo Cota,,True
+UANL,Atlético,1674954300,ar ARG,38-344,90,3,0,3,100.0,1.1,8,20,40.0,19,2,73.7,45.5,10,60.0,44.6,43,1,2.3,0,3.5,868c0f75,Marcelo Barovero,,True
+FC Juárez,Guadalajara,1674961500,mx MEX,32-320,90,5,1,4,80.0,1.9,5,15,33.3,6,1,33.3,36.8,15,86.7,57.4,31,1,3.2,2,11.3,9c06f135,Miguel Jiménez Ponce,,True
+América,Mazatlán,1674961500,mx MEX,25-225,90,8,6,2,25.0,4.1,3,11,27.3,23,5,34.8,33.7,5,60.0,49.6,14,0,0.0,0,12.0,aab63918,Ricardo Gutiérrez,,True
+Pachuca,Necaxa,1675040400,mx MEX,32-181,90,12,2,10,91.7,3.4,8,28,28.6,26,4,69.2,47.5,11,90.9,65.0,26,1,3.8,2,10.6,24c6fb79,Hugo González Durán,,True
+Atlas,Toluca,1675303500,br BRA,32-044,90,2,0,2,100.0,0.2,6,17,35.3,29,3,44.8,40.4,5,80.0,61.0,16,2,12.5,2,14.4,fba79ac8,Tiago Volpi,,True
+Atlético,Puebla,1675393200,py PAR,38-340,90,4,2,3,50.0,0.4,3,10,30.0,15,7,26.7,29.5,12,50.0,41.1,18,1,5.6,0,8.0,949bc248,Antony Silva,,True
+León,Pachuca,1675551600,ar ARG,36-216,90,4,0,4,100.0,0.4,12,26,46.2,25,5,68.0,47.7,13,69.2,50.2,17,2,11.8,0,6.7,40e417fa,Óscar Ustari,,True
+Necaxa,Tijuana,1675472400,mx MEX,30-214,90,6,1,5,83.3,1.6,7,28,25.0,25,5,80.0,52.7,10,80.0,55.3,25,4,16.0,0,7.0,a78c131a,José Antonio Rodríguez,,True
+Mazatlán,FC Juárez,1675479900,mx MEX,40-138,90,8,2,6,75.0,1.8,4,20,20.0,33,5,39.4,38.8,7,100.0,65.7,29,4,13.8,0,5.0,5c7fc905,Alfredo Talavera,,True
+Pumas UNAM,Atlas,1675620000,co COL,33-333,90,5,2,2,60.0,2.2,1,13,7.7,25,1,36.0,38.8,8,50.0,41.5,8,0,0.0,0,14.9,004e3d0f,Camilo Vargas,,True
+Guadalajara,Querétaro,1675638300,mx MEX,30-191,90,4,1,3,75.0,1.3,12,25,48.0,22,5,63.6,47.7,14,78.6,58.7,21,3,14.3,0,5.5,a1bb9076,Gil Alcalá,,True
+Cruz Azul,UANL,1675559100,ar ARG,36-359,90,3,0,3,100.0,0.5,10,24,41.7,35,3,42.9,36.7,12,75.0,53.3,20,1,5.0,3,18.8,d8f11068,Nahuel Guzmán,,True
+Santos Laguna,América,1675566300,mx MEX,34-115,90,6,2,4,66.7,0.6,6,8,75.0,15,7,33.3,33.7,4,75.0,46.5,11,0,0.0,0,4.3,363ba1be,Oscar Jiménez,,True
+Monterrey,Toluca,1675645800,br BRA,32-048,90,5,2,3,60.0,1.8,8,11,72.7,30,6,30.0,35.9,6,33.3,28.8,6,2,33.3,1,12.9,fba79ac8,Tiago Volpi,,True
+Querétaro,León,1675991100,mx MEX,35-221,90,3,0,3,100.0,0.1,8,16,50.0,34,10,35.3,34.2,9,44.4,45.8,16,4,25.0,0,7.1,a4a5868e,Rodolfo Cota,,True
+Atlas,Monterrey,1675998300,ar ARG,32-014,90,4,0,4,100.0,0.3,11,21,52.4,35,3,42.9,37.2,8,75.0,58.0,20,1,5.0,0,11.8,775d365e,Esteban Andrada,,True
+América,Necaxa,1676156400,mx MEX,32-194,90,5,2,3,80.0,3.0,4,7,57.1,25,5,16.0,31.8,12,25.0,30.5,14,1,7.1,0,10.3,24c6fb79,Hugo González Durán,,True
+Puebla,Mazatlán,1676077200,uy URU,38-310,90,4,3,1,25.0,1.6,4,8,50.0,20,6,15.0,28.4,7,71.4,50.0,12,0,0.0,2,15.0,88f918b9,Nicolás Vikonis,,True
+Tijuana,Atlético,1676085000,ar ARG,38-357,90,5,1,5,80.0,0.6,16,40,40.0,26,0,84.6,49.6,19,94.7,57.5,30,0,0.0,2,31.5,868c0f75,Marcelo Barovero,,True
+Toluca,Cruz Azul,1676224800,mx MEX,42-017,89,6,3,3,50.0,1.5,2,4,50.0,22,11,4.5,25.2,9,33.3,33.3,10,1,10.0,1,15.3,e39a7e9c,José Corona,,True
+FC Juárez,Santos Laguna,1676163900,mx MEX,26-298,90,8,3,5,62.5,1.8,5,16,31.3,18,2,55.6,43.1,13,46.2,39.5,25,4,16.0,0,6.2,0810e384,Carlos Acevedo,,True
+UANL,Pumas UNAM,1676163900,uy URU,36-176,90,5,4,2,40.0,2.0,6,11,54.5,21,3,23.8,24.5,8,75.0,45.0,16,0,0.0,1,17.0,34074967,Sebastián Sosa,,True
+Pachuca,Guadalajara,1676171100,mx MEX,32-334,90,4,1,3,75.0,0.5,7,19,36.8,20,2,40.0,39.6,13,84.6,55.8,15,1,6.7,0,10.0,9c06f135,Miguel Jiménez Ponce,,True
+León,Puebla,1676423100,py PAR,38-352,90,12,2,10,83.3,3.3,7,26,26.9,23,1,60.9,46.0,17,70.6,56.3,21,0,0.0,0,3.5,949bc248,Antony Silva,,True
+UANL,FC Juárez,1676423100,mx MEX,40-149,90,3,0,3,100.0,0.2,2,13,15.4,21,5,33.3,37.3,14,42.9,44.6,16,1,6.3,1,13.8,5c7fc905,Alfredo Talavera,,True
+Atlético,América,1676430300,mx MEX,34-125,90,4,1,3,75.0,0.6,6,15,40.0,28,4,39.3,33.6,7,57.1,42.9,18,1,5.6,2,20.6,363ba1be,Oscar Jiménez,,True
+Guadalajara,Tijuana,1676509500,mx MEX,30-226,90,2,2,0,100.0,1.9,7,20,35.0,29,5,48.3,35.4,8,75.0,54.1,23,0,0.0,1,22.0,a78c131a,José Antonio Rodríguez,,True
+Monterrey,Querétaro,1676509500,mx MEX,30-201,90,5,2,3,60.0,1.9,8,14,57.1,22,7,36.4,32.5,10,60.0,48.0,12,0,0.0,0,6.0,a1bb9076,Gil Alcalá,,True
+Necaxa,Pumas UNAM,1676516700,uy URU,36-180,90,3,3,0,0.0,1.0,3,7,42.9,27,3,22.2,27.1,5,20.0,25.8,14,0,0.0,3,29.8,34074967,Sebastián Sosa,,True
+Mazatlán,Pachuca,1676602800,ar ARG,36-228,90,5,2,3,60.0,0.7,7,10,70.0,17,6,23.5,29.3,9,66.7,42.4,9,0,0.0,3,28.5,40e417fa,Óscar Ustari,,True
+Atlético,Santos Laguna,1676761200,mx MEX,26-305,90,4,1,3,75.0,0.4,2,13,15.4,22,5,45.5,37.6,4,75.0,54.0,14,0,0.0,0,,0810e384,Carlos Acevedo,,True
+Monterrey,Necaxa,1676761560,mx MEX,32-201,90,9,2,7,77.8,2.7,9,18,50.0,22,3,68.2,47.0,9,33.3,32.3,11,0,0.0,0,5.0,24c6fb79,Hugo González Durán,,True
+FC Juárez,León,1676682360,mx MEX,35-229,90,0,0,0,,0.0,2,3,66.7,19,2,10.5,29.9,5,20.0,33.8,15,0,0.0,0,8.0,a4a5868e,Rodolfo Cota,,True
+Puebla,Cruz Azul,1676689500,mx MEX,25-142,90,5,1,4,80.0,2.4,4,13,30.8,15,3,33.3,37.5,12,66.7,55.9,13,1,7.7,0,7.7,c882a4e6,Sebastián Jurado,,True
+Querétaro,Mazatlán,1676847600,uy URU,38-319,90,6,1,5,83.3,0.8,4,16,25.0,24,7,33.3,37.2,11,72.7,51.6,21,2,9.5,0,7.0,88f918b9,Nicolás Vikonis,,True
+Atlas,UANL,1676768700,ar ARG,37-008,90,2,0,2,100.0,0.6,10,29,34.5,37,1,67.6,46.5,6,66.7,46.7,14,2,14.3,0,9.4,d8f11068,Nahuel Guzmán,,True
+Pumas UNAM,Guadalajara,1676775900,mx MEX,32-341,90,5,1,4,80.0,1.9,6,20,30.0,26,6,23.1,30.5,18,77.8,60.3,32,4,12.5,0,8.8,9c06f135,Miguel Jiménez Ponce,,True
+América,Tijuana,1676855100,mx MEX,30-230,90,7,2,5,71.4,2.3,1,11,9.1,18,4,44.4,37.7,9,33.3,29.3,18,0,0.0,1,16.3,a78c131a,José Antonio Rodríguez,,True
+Pachuca,Toluca,1676862300,br BRA,32-062,90,7,1,6,85.7,0.5,8,29,27.6,30,1,73.3,55.6,9,77.8,60.8,22,2,9.1,3,12.7,fba79ac8,Tiago Volpi,,True
+Cruz Azul,Atlas,1677117900,co COL,33-350,90,3,1,2,66.7,0.9,15,27,55.6,34,6,55.9,41.6,13,61.5,55.2,18,0,0.0,2,14.8,004e3d0f,Camilo Vargas,,True
+Santos Laguna,Toluca,1677204300,br BRA,32-066,90,4,0,4,100.0,0.3,12,27,44.4,28,2,75.0,47.3,7,85.7,55.3,13,0,0.0,0,3.0,fba79ac8,Tiago Volpi,,True
+Cruz Azul,FC Juárez,1677366000,mx MEX,40-160,90,6,1,5,83.3,1.7,6,10,60.0,29,6,24.1,29.4,4,75.0,46.5,4,0,0.0,3,19.5,5c7fc905,Alfredo Talavera,,True
+Necaxa,Querétaro,1677287100,mx MEX,30-210,90,3,1,2,66.7,0.4,9,12,75.0,13,2,23.1,26.5,10,90.0,55.1,18,0,0.0,0,2.0,a1bb9076,Gil Alcalá,,True
+Mazatlán,Pumas UNAM,1677294600,uy URU,36-189,90,2,1,1,50.0,0.9,2,14,14.3,28,4,35.7,31.0,5,80.0,55.2,14,1,7.1,1,15.3,34074967,Sebastián Sosa,,True
+Toluca,Atlético,1677434400,ar ARG,39-008,90,4,2,2,50.0,0.8,4,9,44.4,17,7,41.2,40.8,8,25.0,33.3,7,0,0.0,0,12.3,868c0f75,Marcelo Barovero,,True
+UANL,Guadalajara,1677373500,mx MEX,32-348,90,3,1,2,100.0,0.9,7,20,35.0,17,4,52.9,42.8,16,68.8,55.5,29,1,3.4,0,3.0,9c06f135,Miguel Jiménez Ponce,,True
+Atlas,América,1677380700,mx MEX,34-136,90,4,2,2,50.0,1.1,8,21,38.1,23,2,60.9,45.5,7,100.0,57.7,11,0,0.0,0,11.7,363ba1be,Oscar Jiménez,,True
+Santos Laguna,Puebla,1677459900,py PAR,38-364,90,8,3,5,75.0,3.0,3,12,25.0,20,5,40.0,34.8,14,28.6,29.7,12,0,0.0,0,5.3,949bc248,Antony Silva,,True
+Tijuana,Pachuca,1677467100,ar ARG,36-238,90,5,2,3,60.0,1.9,6,12,50.0,25,7,48.0,36.3,3,0.0,18.3,11,1,9.1,1,7.8,40e417fa,Óscar Ustari,,True
+León,Monterrey,1677553800,ar ARG,32-032,90,3,1,2,66.7,0.4,4,13,30.8,42,2,23.8,29.7,5,60.0,49.2,14,1,7.1,3,13.7,775d365e,Esteban Andrada,,True
+León,Atlético,1677970800,ar ARG,39-014,90,10,2,8,80.0,1.9,8,17,47.1,24,9,45.8,38.3,11,54.5,38.6,18,0,0.0,2,15.2,868c0f75,Marcelo Barovero,,True
+Mazatlán,Cruz Azul,1677891900,mx MEX,42-036,90,7,3,4,57.1,2.7,4,5,80.0,16,4,12.5,25.4,6,50.0,36.8,15,1,6.7,0,9.5,e39a7e9c,José Corona,,True
+Necaxa,UANL,1677891900,ar ARG,37-021,90,2,0,2,100.0,0.2,7,22,31.8,38,4,47.4,37.7,10,40.0,42.0,11,1,9.1,2,18.8,d8f11068,Nahuel Guzmán,,True
+Tijuana,Atlas,1677899700,co COL,33-359,90,2,1,1,50.0,0.6,8,19,42.1,20,2,65.0,43.3,9,66.7,47.2,20,0,0.0,0,12.0,004e3d0f,Camilo Vargas,,True
+Pumas UNAM,Puebla,1678039200,py PAR,39-006,90,5,2,3,60.0,2.9,2,6,33.3,13,3,38.5,31.5,12,8.3,19.8,9,0,0.0,1,10.5,949bc248,Antony Silva,,True
+América,Pachuca,1677978300,ar ARG,36-244,90,5,0,5,100.0,0.3,12,25,48.0,26,6,61.5,43.1,9,100.0,59.9,31,4,12.9,0,10.3,40e417fa,Óscar Ustari,,True
+Monterrey,FC Juárez,1677978600,mx MEX,40-167,90,7,3,4,57.1,0.9,6,12,50.0,29,8,37.9,32.6,5,20.0,39.4,23,0,0.0,0,8.3,5c7fc905,Alfredo Talavera,,True
+Guadalajara,Santos Laguna,1677985500,mx MEX,26-319,90,7,2,5,71.4,2.0,4,7,57.1,20,5,25.0,33.5,8,25.0,34.4,14,0,0.0,0,10.3,0810e384,Carlos Acevedo,,True
+Querétaro,Toluca,1678064700,br BRA,32-076,90,5,1,4,80.0,1.0,4,6,66.7,34,6,14.7,29.0,2,50.0,33.5,7,1,14.3,1,20.3,fba79ac8,Tiago Volpi,,True
+Atlas,León,1678575600,mx MEX,35-251,90,4,0,4,100.0,0.4,5,18,27.8,24,4,45.8,41.5,15,46.7,37.5,20,0,0.0,0,7.7,a4a5868e,Rodolfo Cota,,True
+Atlético,Querétaro,1678496700,mx MEX,30-224,90,6,2,4,66.7,1.6,3,7,42.9,15,3,26.7,30.9,11,27.3,36.2,19,1,5.3,0,7.0,a1bb9076,Gil Alcalá,,True
+Puebla,Guadalajara,1678503900,mx MEX,32-361,90,2,1,1,50.0,0.2,2,6,33.3,29,8,13.8,30.4,8,25.0,34.5,6,0,0.0,4,23.6,9c06f135,Miguel Jiménez Ponce,,True
+Toluca,Mazatlán,1678644000,uy URU,38-340,90,11,4,7,63.6,2.8,6,19,31.6,28,7,39.3,39.5,9,88.9,57.8,13,0,0.0,2,14.0,88f918b9,Nicolás Vikonis,,True
+Cruz Azul,Pumas UNAM,1678583100,uy URU,36-204,90,3,1,2,66.7,0.3,5,15,33.3,28,8,25.0,33.7,15,53.3,46.4,19,0,0.0,0,17.0,34074967,Sebastián Sosa,,True
+UANL,América,1678590600,mx MEX,26-009,90,2,0,2,100.0,0.3,6,20,30.0,28,4,50.0,38.9,7,85.7,60.0,16,0,0.0,0,8.3,48bd91d4,Luis Ángel Malagón,,True
+Santos Laguna,Tijuana,1678669500,mx MEX,30-251,90,7,3,4,57.1,2.9,4,11,36.4,25,6,44.0,37.8,9,0.0,14.9,24,1,4.2,1,9.3,a78c131a,José Antonio Rodríguez,,True
+Pachuca,Monterrey,1678669500,ar ARG,32-045,90,4,1,3,75.0,0.7,11,27,40.7,30,1,60.0,43.9,12,75.0,59.6,19,2,10.5,0,9.0,775d365e,Esteban Andrada,,True
+FC Juárez,Necaxa,1678677300,mx MEX,32-223,90,3,1,2,66.7,1.0,6,18,33.3,19,3,57.9,44.6,10,70.0,55.0,17,1,5.9,1,14.0,24c6fb79,Hugo González Durán,,True
+Cruz Azul,Atlético,1679180400,ar ARG,39-028,90,8,1,7,100.0,2.3,3,11,27.3,17,3,52.9,41.6,8,25.0,28.0,14,0,0.0,0,12.3,868c0f75,Marcelo Barovero,,True
+Puebla,Atlas,1679101200,co COL,34-008,90,6,0,6,100.0,1.3,7,18,38.9,30,4,36.7,35.7,14,50.0,40.3,14,0,0.0,0,,004e3d0f,Camilo Vargas,,True
+Mazatlán,Necaxa,1679108700,mx MEX,32-228,90,2,0,2,100.0,0.1,5,22,22.7,27,4,63.0,44.0,8,62.5,45.4,15,1,6.7,0,11.7,24c6fb79,Hugo González Durán,,True
+Tijuana,Toluca,1679108700,br BRA,32-088,90,9,3,6,66.7,2.2,10,20,50.0,27,3,44.4,40.4,8,100.0,65.0,23,0,0.0,0,6.0,fba79ac8,Tiago Volpi,,True
+Pumas UNAM,Pachuca,1679248800,ar ARG,36-259,90,2,0,2,100.0,0.8,4,12,33.3,26,9,30.8,32.8,8,50.0,38.3,7,0,0.0,4,35.5,40e417fa,Óscar Ustari,,True
+UANL,Monterrey,1679187900,ar ARG,32-051,90,8,0,8,100.0,1.6,11,26,42.3,31,3,67.7,49.5,5,100.0,72.2,17,0,0.0,3,18.6,775d365e,Esteban Andrada,,True
+Guadalajara,América,1679195400,mx MEX,26-016,90,3,2,2,33.3,0.9,8,27,29.6,24,2,50.0,43.2,16,93.8,62.3,28,2,7.1,0,9.3,48bd91d4,Luis Ángel Malagón,,True
+Querétaro,FC Juárez,1679274300,mx MEX,40-182,90,4,2,2,75.0,2.9,5,10,50.0,15,7,26.7,33.5,9,66.7,49.2,21,0,0.0,0,17.0,5c7fc905,Alfredo Talavera,,True
+León,Santos Laguna,1679281500,mx MEX,26-334,90,9,4,5,55.6,2.2,6,19,31.6,13,2,61.5,38.7,14,78.6,57.9,15,0,0.0,0,,0810e384,Carlos Acevedo,,True
+Mazatlán,León,1679713500,mx MEX,35-264,90,3,1,2,66.7,1.0,10,21,47.6,33,2,45.5,37.9,13,46.2,34.2,7,1,14.3,3,20.2,a4a5868e,Rodolfo Cota,,True
+Querétaro,Cruz Azul,1680145500,mx MEX,42-062,90,7,2,5,71.4,1.4,6,14,42.9,21,6,33.3,34.9,11,63.6,51.7,13,0,0.0,0,13.0,e39a7e9c,José Corona,,True
+Pachuca,Cruz Azul,1680390000,mx MEX,42-065,90,5,0,5,100.0,0.5,6,13,46.2,26,4,38.5,39.5,13,23.1,31.8,30,2,6.7,0,3.0,e39a7e9c,José Corona,,True
+Necaxa,Santos Laguna,1680311100,mx MEX,26-346,90,4,0,4,100.0,0.5,5,18,27.8,25,4,56.0,43.0,8,50.0,35.9,20,1,5.0,0,12.0,0810e384,Carlos Acevedo,,True
+FC Juárez,Puebla,1680318000,mx MEX,29-314,90,4,0,4,100.0,0.7,4,14,28.6,40,5,20.0,26.4,7,85.7,59.4,25,1,4.0,3,14.2,ce147009,Jesús Rodríguez,,True
+Toluca,UANL,1680458400,ar ARG,37-051,90,5,3,3,40.0,0.6,7,12,58.3,29,5,31.0,31.1,10,30.0,30.8,8,1,12.5,2,19.5,d8f11068,Nahuel Guzmán,,True
+Atlético,Mazatlán,1680476400,mx MEX,25-289,90,5,2,4,80.0,1.9,4,16,25.0,24,3,50.0,45.6,10,40.0,39.0,8,0,0.0,2,23.0,aab63918,Ricardo Gutiérrez,,True
+América,León,1680397500,mx MEX,35-272,90,5,2,3,60.0,2.1,3,6,50.0,21,4,28.6,30.3,2,0.0,8.5,9,0,0.0,1,18.0,a4a5868e,Rodolfo Cota,,True
+Monterrey,Tijuana,1680398100,mx MEX,30-271,90,10,4,6,60.0,4.1,4,8,50.0,22,8,18.2,26.5,8,50.0,42.6,16,0,0.0,6,20.2,a78c131a,José Antonio Rodríguez,,True
+Atlas,Guadalajara,1680405000,mx MEX,33-018,90,11,3,8,72.7,3.5,3,10,30.0,15,4,33.3,39.5,10,50.0,47.1,18,0,0.0,1,13.3,9c06f135,Miguel Jiménez Ponce,,True
+Querétaro,Pumas UNAM,1680483900,mx MEX,31-344,90,1,1,0,0.0,1.0,5,19,26.3,18,4,44.4,37.1,19,57.9,45.9,16,0,0.0,1,16.5,0124a43a,Julio José González,,True
+Guadalajara,Necaxa,1680994800,mx MEX,32-250,90,5,1,4,80.0,1.7,6,15,40.0,30,8,30.0,36.0,13,46.2,43.2,16,2,12.5,1,18.0,24c6fb79,Hugo González Durán,,True
+Puebla,Toluca,1680915900,br BRA,32-109,90,9,1,8,88.9,2.4,10,21,47.6,31,3,48.4,44.6,7,85.7,65.1,21,0,0.0,0,8.5,fba79ac8,Tiago Volpi,,True
+Tijuana,Querétaro,1680923400,mx MEX,30-252,90,4,1,3,75.0,1.3,11,24,45.8,17,3,52.9,43.1,17,88.2,58.8,36,4,11.1,0,4.4,a1bb9076,Gil Alcalá,,True
+Pumas UNAM,Atlético,1681063200,mx MEX,25-188,90,5,3,2,40.0,2.0,4,9,44.4,24,10,33.3,30.7,3,33.3,18.3,6,2,33.3,5,21.0,2d43706b,Andrés Sánchez,,True
+León,Cruz Azul,1681002300,mx MEX,42-072,90,3,0,3,100.0,0.1,5,13,38.5,24,4,41.7,35.7,12,25.0,32.1,22,2,9.1,0,9.0,e39a7e9c,José Corona,,True
+UANL,Mazatlán,1681002300,mx MEX,25-295,90,12,1,11,91.7,2.4,5,23,21.7,23,9,30.4,34.1,18,88.9,58.6,31,2,6.5,0,8.6,aab63918,Ricardo Gutiérrez,,True
+América,Monterrey,1681009800,ar ARG,32-072,89,5,2,3,60.0,2.1,5,22,22.7,33,5,48.5,38.8,6,100.0,81.7,19,2,10.5,,9.1,775d365e,Esteban Andrada,,True
+América,Monterrey,1681009800,co COL,30-298,1,0,0,0,,0.0,0,0,,0,0,,,0,,,0,0,,0,,a7104778,Stefan Medina,,True
+Santos Laguna,Pachuca,1681085100,ar ARG,36-280,90,6,1,5,83.3,2.1,9,22,40.9,29,9,55.2,42.1,9,66.7,55.9,13,2,15.4,0,9.3,40e417fa,Óscar Ustari,,True
+FC Juárez,Atlas,1681092600,co COL,34-031,90,3,1,2,66.7,1.4,5,5,100.0,29,7,10.3,25.7,6,33.3,38.7,9,0,0.0,2,22.0,004e3d0f,Camilo Vargas,,True
+Atlético,FC Juárez,1681441500,mx MEX,40-207,90,5,2,3,60.0,2.3,5,14,35.7,26,3,34.6,34.3,6,83.3,49.3,14,1,7.1,0,12.3,5c7fc905,Alfredo Talavera,,True
+Atlas,Pachuca,1681599600,ar ARG,36-286,90,5,4,1,40.0,3.5,1,7,14.3,17,2,41.2,35.2,8,0.0,18.4,5,1,20.0,1,13.6,40e417fa,Óscar Ustari,,True
+Necaxa,Puebla,1681520700,py PAR,39-046,90,5,1,5,80.0,0.8,7,14,50.0,19,7,52.6,44.1,12,33.3,30.3,28,2,7.1,0,7.0,949bc248,Antony Silva,,True
+Mazatlán,Tijuana,1681527900,mx MEX,30-284,90,4,1,4,75.0,0.3,6,8,75.0,10,3,20.0,32.3,12,50.0,39.7,9,1,11.1,0,9.5,a78c131a,José Antonio Rodríguez,,True
+Pumas UNAM,Toluca,1681668000,br BRA,32-118,90,5,3,2,60.0,3.2,3,12,25.0,19,3,36.8,34.2,11,45.5,43.7,8,0,0.0,4,26.4,fba79ac8,Tiago Volpi,,True
+Querétaro,UANL,1681686000,ar ARG,37-065,90,0,0,0,,0.0,7,12,58.3,29,3,31.0,30.8,10,30.0,36.5,12,0,0.0,3,25.7,d8f11068,Nahuel Guzmán,,True
+León,Guadalajara,1681607100,mx MEX,33-032,90,5,0,5,100.0,1.0,9,21,42.9,23,3,56.5,45.9,9,88.9,63.8,15,0,0.0,0,9.0,9c06f135,Miguel Jiménez Ponce,,True
+Cruz Azul,América,1681614600,mx MEX,26-044,90,2,1,1,50.0,1.2,3,5,60.0,11,3,27.3,29.6,7,28.6,31.6,4,0,0.0,0,13.0,48bd91d4,Luis Ángel Malagón,,True
+Monterrey,Santos Laguna,1681693800,mx MEX,26-362,90,7,1,6,85.7,1.9,9,21,42.9,29,7,37.9,35.0,11,90.9,65.3,16,1,6.3,0,12.0,0810e384,Carlos Acevedo,,True
+UANL,Puebla,1682042700,py PAR,39-052,90,6,1,5,100.0,2.8,5,14,35.7,21,8,33.3,31.7,15,46.7,39.4,16,1,6.3,0,4.5,949bc248,Antony Silva,,True
+Pachuca,Atlético,1682204400,ar ARG,39-063,90,8,2,6,87.5,3.6,3,15,20.0,15,2,60.0,42.8,14,42.9,34.9,17,1,5.9,2,21.0,868c0f75,Marcelo Barovero,,True
+Mazatlán,Monterrey,1682125200,ar ARG,32-085,90,2,0,2,100.0,0.2,5,15,33.3,28,6,39.3,36.1,4,100.0,68.8,19,2,10.5,0,8.0,775d365e,Esteban Andrada,,True
+Necaxa,Atlas,1682125500,mx MEX,25-355,90,4,1,3,75.0,0.9,9,24,37.5,39,9,38.5,35.6,11,81.8,58.8,20,2,10.0,1,11.8,2a860a40,José Santiago Hernández,,True
+Tijuana,León,1682133300,mx MEX,35-292,90,3,0,3,100.0,0.5,4,22,18.2,17,3,70.6,45.4,13,76.9,52.9,19,0,0.0,0,4.0,a4a5868e,Rodolfo Cota,,True
+Toluca,FC Juárez,1682272800,mx MEX,40-217,90,6,1,5,100.0,2.6,5,12,41.7,27,12,22.2,34.3,11,54.5,43.8,18,1,5.6,0,7.0,5c7fc905,Alfredo Talavera,,True
+Guadalajara,Cruz Azul,1682211900,mx MEX,42-086,90,6,2,4,66.7,1.6,4,18,22.2,29,10,27.6,33.8,15,66.7,50.2,5,1,20.0,0,5.0,e39a7e9c,José Corona,,True
+América,Pumas UNAM,1682219400,mx MEX,31-364,90,1,1,0,100.0,1.0,8,22,36.4,20,5,60.0,45.3,11,90.9,57.7,16,0,0.0,0,7.8,0124a43a,Julio José González,,True
+Santos Laguna,Querétaro,1682298300,mx MEX,30-268,90,2,0,2,100.0,0.6,9,18,50.0,19,2,52.6,42.2,9,88.9,55.7,15,0,0.0,0,4.7,a1bb9076,Gil Alcalá,,True
+Puebla,Tijuana,1682809200,mx MEX,30-299,90,11,5,6,63.6,4.1,8,13,61.5,24,4,33.3,35.4,13,38.5,42.7,18,0,0.0,1,11.5,a78c131a,José Antonio Rodríguez,,True
+FC Juárez,América,1682737500,mx MEX,26-057,90,6,0,6,100.0,2.0,2,19,10.5,23,3,52.2,39.8,11,63.6,47.2,24,0,0.0,1,11.7,48bd91d4,Luis Ángel Malagón,,True
+Toluca,Necaxa,1682877600,mx MEX,30-165,90,4,3,1,75.0,2.7,5,11,45.5,17,2,52.9,42.7,7,28.6,33.4,11,0,0.0,3,24.3,841c78f2,Rafael Ramírez,,True
+Querétaro,Pachuca,1682895600,ar ARG,36-301,90,6,0,6,100.0,0.7,6,18,33.3,22,5,45.5,40.3,9,88.9,57.4,15,1,6.7,0,12.5,40e417fa,Óscar Ustari,,True
+Atlético,Atlas,1682816400,co COL,34-051,90,3,0,3,100.0,0.8,9,34,26.5,28,2,64.3,47.9,17,94.1,66.2,23,0,0.0,0,12.7,004e3d0f,Camilo Vargas,,True
+Guadalajara,Mazatlán,1682816700,mx MEX,25-316,90,7,4,3,42.9,1.5,2,9,22.2,20,5,30.0,31.2,10,30.0,27.4,19,1,5.3,2,11.5,aab63918,Ricardo Gutiérrez,,True
+Monterrey,Pumas UNAM,1682816700,mx MEX,32-006,90,9,4,5,66.7,3.3,3,6,50.0,17,5,29.4,29.8,6,16.7,30.5,14,1,7.1,3,13.3,0124a43a,Julio José González,,True
+Cruz Azul,Santos Laguna,1682823900,mx MEX,29-125,90,5,3,2,40.0,2.0,2,9,22.2,20,7,30.0,32.4,9,33.3,37.6,7,0,0.0,0,10.0,d8b7afc2,Gibran Lajud,,True
+León,UANL,1682903100,ar ARG,37-079,45,5,2,3,60.0,1.1,4,8,50.0,20,4,30.0,35.2,3,66.7,43.7,5,1,20.0,,13.0,d8f11068,Nahuel Guzmán,,True
+León,UANL,1682903100,mx MEX,21-071,45,2,1,1,50.0,0.3,1,5,20.0,11,4,36.4,40.1,3,33.3,40.7,8,1,12.5,1,12.0,70e6a77e,Arturo Delgado,,True
+Cruz Azul,Atlas,1683414000,co COL,34-058,90,4,0,4,100.0,1.7,8,33,24.2,16,0,87.5,65.4,19,100.0,66.4,18,0,0.0,2,20.3,004e3d0f,Camilo Vargas,,True
+Pachuca,Santos Laguna,1683421800,mx MEX,29-132,90,10,4,6,70.0,4.1,5,23,21.7,15,2,86.7,58.7,10,100.0,66.3,18,0,0.0,0,4.0,d8b7afc2,Gibran Lajud,,True
+León,Atlético,1683507960,mx MEX,25-216,90,8,1,7,87.5,2.1,5,24,20.8,21,1,81.0,62.8,12,58.3,45.0,27,2,7.4,3,12.8,2d43706b,Andrés Sánchez,,True
+UANL,Puebla,1683515400,py PAR,39-069,90,9,1,8,88.9,2.0,5,13,38.5,24,7,41.7,37.0,11,27.3,29.9,13,1,7.7,1,11.8,949bc248,Antony Silva,,True
+Santos Laguna,Monterrey,1683766800,ar ARG,32-104,90,3,0,3,100.0,0.5,12,26,46.2,32,4,53.1,43.1,10,90.0,60.9,12,0,0.0,0,5.0,775d365e,Esteban Andrada,,True
+Atlético,América,1683774600,mx MEX,26-069,90,4,2,2,50.0,1.3,6,13,46.2,23,2,34.8,35.7,5,100.0,79.0,8,1,12.5,0,11.5,48bd91d4,Luis Ángel Malagón,,True
+Atlas,Guadalajara,1683853200,mx MEX,33-058,90,3,1,2,66.7,1.0,6,12,50.0,19,6,31.6,33.9,11,54.5,47.9,6,1,16.7,1,11.8,9c06f135,Miguel Jiménez Ponce,,True
+UANL,Toluca,1683861000,br BRA,32-143,90,4,1,3,75.0,0.8,5,12,41.7,22,6,22.7,29.0,11,63.6,54.4,16,1,6.3,5,32.3,fba79ac8,Tiago Volpi,,True
+Toluca,UANL,1684087200,ar ARG,37-093,90,2,1,1,50.0,0.2,14,30,46.7,43,5,65.1,44.9,6,33.3,35.7,13,2,15.4,1,16.3,d8f11068,Nahuel Guzmán,,True
+Monterrey,Santos Laguna,1684026360,mx MEX,27-024,90,2,0,2,100.0,0.1,7,14,50.0,20,6,35.0,35.8,9,77.8,54.1,17,2,11.8,0,6.0,0810e384,Carlos Acevedo,,True
+América,Atlético,1684034160,mx MEX,25-222,90,12,3,9,75.0,1.4,2,6,33.3,22,12,22.7,30.0,6,16.7,26.0,11,0,0.0,0,9.0,2d43706b,Andrés Sánchez,,True
+Guadalajara,Atlas,1684112700,co COL,34-066,90,3,1,2,66.7,1.5,9,30,30.0,26,3,76.9,54.0,12,83.3,62.3,13,1,7.7,3,23.3,004e3d0f,Camilo Vargas,,True
+UANL,Monterrey,1684378800,ar ARG,32-111,90,2,1,1,50.0,1.0,9,14,64.3,23,5,43.5,34.7,4,100.0,70.3,21,2,9.5,0,6.0,775d365e,Esteban Andrada,,True
+Guadalajara,América,1684462200,mx MEX,26-077,90,5,0,5,100.0,1.0,4,14,28.6,13,0,61.5,45.0,8,75.0,53.0,11,0,0.0,0,8.8,48bd91d4,Luis Ángel Malagón,,True
+Monterrey,UANL,1684631160,ar ARG,37-099,90,1,0,1,100.0,0.0,2,9,22.2,28,7,21.4,31.1,7,42.9,39.1,18,2,11.1,0,7.5,d8f11068,Nahuel Guzmán,,True
+América,Guadalajara,1684720800,mx MEX,33-068,90,2,1,1,50.0,0.6,2,19,10.5,15,1,53.3,49.2,15,73.3,58.9,18,0,0.0,4,18.3,9c06f135,Miguel Jiménez Ponce,,True
+UANL,Guadalajara,1685066400,mx MEX,33-072,90,1,0,1,100.0,0.1,7,21,33.3,4,0,100.0,64.0,17,100.0,69.5,18,0,0.0,0,2.0,9c06f135,Miguel Jiménez Ponce,,True
+Guadalajara,UANL,1685324100,ar ARG,37-107,90,7,2,5,71.4,1.8,7,16,43.8,46,7,30.4,34.2,5,40.0,35.8,19,3,15.8,7,18.4,d8f11068,Nahuel Guzmán,,True

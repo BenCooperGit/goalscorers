@@ -139,6 +139,11 @@ def add_league(df: pd.DataFrame) -> pd.DataFrame:
     return df
 
 
+def add_season(df: pd.DataFrame) -> pd.DataFrame:
+    df["season"] = np.vectorize(lambda x: x.season.season_str)(df.season_league)
+    return df
+
+
 def add_npg(df: pd.DataFrame) -> pd.DataFrame:
     df["npg"] = df.goals - df.pens_made
     return df
@@ -149,3 +154,7 @@ def add_npg(df: pd.DataFrame) -> pd.DataFrame:
 
 def calc_main_position(df: pd.DataFrame) -> pd.DataFrame:
     return df.groupby("player_id", as_index=False).agg(position=("position", mode))
+
+
+def calc_main_squad(df: pd.DataFrame) -> pd.DataFrame:
+    return df.groupby("player_id", as_index=False).agg(position=("squad", mode))

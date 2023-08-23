@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 
-def create_league_mask(
+def create_league_masks(
     df_model: pd.DataFrame, teams: list[str], leagues: list[int]
 ) -> list[list]:
     df_team_league = (

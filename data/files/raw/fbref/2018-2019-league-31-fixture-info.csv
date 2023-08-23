@@ -1,0 +1,335 @@
+url,home_team,away_team,datetime,home_team_manager,away_team_manager,stadium,attendance
+https://fbref.com/en/matches/d8c46cb2/Cruz-Azul-Puebla-July-21-2018-Liga-MX,Cruz Azul,Puebla,1532210400,Pedro Caixinha,Enrique Meza,"Estadio Azul, Ciudad de México",45385
+https://fbref.com/en/matches/705caf49/Veracruz-Pumas-UNAM-July-20-2018-Liga-MX,Veracruz,Pumas UNAM,1532131200,Guillermo Vázquez,David Patiño,"Estadio Luis de la Fuente, Veracruz, Veracruz",16981
+https://fbref.com/en/matches/fd2b14b5/Atlas-Queretaro-July-20-2018-Liga-MX,Atlas,Querétaro,1532138400,Gerardo Espinoza,Luis Tena,"Estadio Jalisco, Guadalajara, Jalisco",31810
+https://fbref.com/en/matches/bf8c93f2/Toluca-Morelia-July-22-2018-Liga-MX,Toluca,Morelia,1532278800,Rolando Cristante,Roberto Hernández,"Estadio Nemesio Díez, Toluca",16703
+https://fbref.com/en/matches/16e65d7d/Santos-Laguna-Lobos-BUAP-July-22-2018-Liga-MX,Santos Laguna,Lobos BUAP,1532300400,Robert Siboldi,Francisco Palencia,"Estadio Nuevo Corona, Torreón, Coahuila",22830
+https://fbref.com/en/matches/35bcb15d/Tijuana-Guadalajara-July-21-2018-Liga-MX,Tijuana,Guadalajara,1532224800,Diego Cocca Pera,Matías Almeyda,"Estadio Caliente, Tijuana, Baja California",27333
+https://fbref.com/en/matches/5962f67f/Pachuca-Monterrey-July-21-2018-Liga-MX,Pachuca,Monterrey,1532217600,Claudio Arzeno,Diego Alonso,"Estadio Hidalgo, Pachuca",26567
+https://fbref.com/en/matches/bb271a6d/UANL-Leon-July-21-2018-Liga-MX,UANL,León,1532224800,Tuca Ferretti,Gustavo Díaz,"Estadio Universitario de Nuevo León, San Nicolás de los Garza",41615
+https://fbref.com/en/matches/13b49413/Necaxa-America-July-22-2018-Liga-MX,Necaxa,América,1532307600,Marcelo Leaño,Miguel Herrera,"Estadio Victoria de Aguascalientes, Aguascalientes, Aguascalientes",16450
+https://fbref.com/en/matches/b7db480d/Queretaro-Pachuca-July-28-2018-Liga-MX,Querétaro,Pachuca,1532815200,Luis Tena,Pako Ayestarán,"Estadio La Corregidora, Santiago de Querétaro, Querétaro",23404
+https://fbref.com/en/matches/7b74cd5d/Morelia-Santos-Laguna-July-27-2018-Liga-MX,Morelia,Santos Laguna,1532736000,Roberto Hernández,Robert Siboldi,"Estadio Generalísimo José María Morelos y Pavón, Morelia, Michoacán",20258
+https://fbref.com/en/matches/52863551/Puebla-Toluca-July-27-2018-Liga-MX,Puebla,Toluca,1532743200,Enrique Meza,Rolando Cristante,"Estadio Cuauhtémoc, Puebla",14326
+https://fbref.com/en/matches/96139ec9/Pumas-UNAM-Necaxa-July-29-2018-Liga-MX,Pumas UNAM,Necaxa,1532883600,David Patiño,Marcelo Leaño,"Estadio Olímpico de Universitario, Ciudad de México",30800
+https://fbref.com/en/matches/d65ca4a9/Lobos-BUAP-Veracruz-July-29-2018-Liga-MX,Lobos BUAP,Veracruz,1532898000,Francisco Palencia,Guillermo Vázquez,"Estadio Universitario BUAP, Puebla",5845
+https://fbref.com/en/matches/814f455a/UANL-Tijuana-July-29-2018-Liga-MX,UANL,Tijuana,1532905200,Tuca Ferretti,Diego Cocca Pera,"Estadio Universitario de Nuevo León, San Nicolás de los Garza",41052
+https://fbref.com/en/matches/7da0dcc7/America-Atlas-July-28-2018-Liga-MX,América,Atlas,1532822400,Miguel Herrera,Gerardo Espinoza,"Estadio Azteca, Coyoacán",25578
+https://fbref.com/en/matches/1b7eaf64/Guadalajara-Cruz-Azul-July-28-2018-Liga-MX,Guadalajara,Cruz Azul,1532829960,José Cardozo,Pedro Caixinha,"Estadio Akron, Zapopan, Jalisco",37412
+https://fbref.com/en/matches/7563c544/Leon-Monterrey-July-29-2018-Liga-MX,León,Monterrey,1532912400,Gustavo Díaz,Diego Alonso,"Estadio León, León, Guanajuato",17712
+https://fbref.com/en/matches/ec6bd238/Necaxa-Lobos-BUAP-August-4-2018-Liga-MX,Necaxa,Lobos BUAP,1533420000,Marcelo Leaño,Francisco Palencia,"Estadio Victoria de Aguascalientes, Aguascalientes, Aguascalientes",8734
+https://fbref.com/en/matches/df4d4061/Veracruz-Morelia-August-3-2018-Liga-MX,Veracruz,Morelia,1533340800,Guillermo Vázquez,Roberto Hernández,"Estadio Luis de la Fuente, Veracruz, Veracruz",7523
+https://fbref.com/en/matches/d9c2694e/Atlas-Pumas-UNAM-August-3-2018-Liga-MX,Atlas,Pumas UNAM,1533348000,Gerardo Espinoza,David Patiño,"Estadio Jalisco, Guadalajara, Jalisco",40227
+https://fbref.com/en/matches/ff2c01ab/Toluca-Guadalajara-August-5-2018-Liga-MX,Toluca,Guadalajara,1533488400,Rolando Cristante,José Cardozo,"Estadio Nemesio Díez, Toluca",22226
+https://fbref.com/en/matches/60036c4c/Santos-Laguna-Puebla-August-5-2018-Liga-MX,Santos Laguna,Puebla,1533510000,Robert Siboldi,Enrique Meza,"Estadio Nuevo Corona, Torreón, Coahuila",22286
+https://fbref.com/en/matches/44b9205b/Pachuca-America-August-4-2018-Liga-MX,Pachuca,América,1533427200,Pako Ayestarán,Miguel Herrera,"Estadio Hidalgo, Pachuca",24063
+https://fbref.com/en/matches/eee4b8a1/Cruz-Azul-UANL-August-4-2018-Liga-MX,Cruz Azul,UANL,1533434400,Pedro Caixinha,Tuca Ferretti,"Estadio Azul, Ciudad de México",55571
+https://fbref.com/en/matches/ef557704/Monterrey-Queretaro-August-4-2018-Liga-MX,Monterrey,Querétaro,1533434760,Diego Alonso,Rafael Puente,"Estadio BBVA Bancomer, Guadalupe, Nuevo León",42288
+https://fbref.com/en/matches/24e17113/Tijuana-Leon-August-5-2018-Liga-MX,Tijuana,León,1533517560,Diego Cocca Pera,Gustavo Díaz,"Estadio Caliente, Tijuana, Baja California",26993
+https://fbref.com/en/matches/eb7f74a6/Lobos-BUAP-Atlas-August-11-2018-Liga-MX,Lobos BUAP,Atlas,1534024800,Francisco Palencia,Gerardo Espinoza,"Estadio Universitario BUAP, Puebla",7346
+https://fbref.com/en/matches/0319f37c/Puebla-Veracruz-August-10-2018-Liga-MX,Puebla,Veracruz,1533945600,Enrique Meza,Guillermo Vázquez,"Estadio Cuauhtémoc, Puebla",10998
+https://fbref.com/en/matches/b875b04c/Morelia-Necaxa-August-10-2018-Liga-MX,Morelia,Necaxa,1533952800,Roberto Hernández,Marcelo Leaño,"Estadio Generalísimo José María Morelos y Pavón, Morelia, Michoacán",20284
+https://fbref.com/en/matches/64644b43/Pumas-UNAM-Pachuca-August-12-2018-Liga-MX,Pumas UNAM,Pachuca,1534107600,David Patiño,Pako Ayestarán,"Estadio Olímpico de Universitario, Ciudad de México",21320
+https://fbref.com/en/matches/42564406/Guadalajara-Santos-Laguna-August-12-2018-Liga-MX,Guadalajara,Santos Laguna,1534114800,José Cardozo,Salvador Reyes,"Estadio Akron, Zapopan, Jalisco",26913
+https://fbref.com/en/matches/d388d6b4/Leon-Queretaro-August-11-2018-Liga-MX,León,Querétaro,1534032000,Gustavo Díaz,Rafael Puente,"Estadio León, León, Guanajuato",12847
+https://fbref.com/en/matches/e682d922/UANL-Toluca-August-11-2018-Liga-MX,UANL,Toluca,1534032000,Tuca Ferretti,Rolando Cristante,"Estadio Universitario de Nuevo León, San Nicolás de los Garza",41379
+https://fbref.com/en/matches/99d6eeac/America-Monterrey-August-11-2018-Liga-MX,América,Monterrey,1534039200,Miguel Herrera,Diego Alonso,"Estadio Azteca, Coyoacán",24346
+https://fbref.com/en/matches/698ebc2b/Tijuana-Cruz-Azul-August-12-2018-Liga-MX,Tijuana,Cruz Azul,1534122000,Diego Cocca Pera,Pedro Caixinha,"Estadio Caliente, Tijuana, Baja California",27333
+https://fbref.com/en/matches/5ec00fcf/Cruz-Azul-Leon-August-18-2018-Liga-MX,Cruz Azul,León,1534629600,Pedro Caixinha,Gustavo Díaz,"Estadio Azul, Ciudad de México",30627
+https://fbref.com/en/matches/c52271b9/Veracruz-Guadalajara-August-17-2018-Liga-MX,Veracruz,Guadalajara,1534550400,Hugo Chávez,José Cardozo,"Estadio Luis de la Fuente, Veracruz, Veracruz",14474
+https://fbref.com/en/matches/cdde6278/Atlas-Morelia-August-17-2018-Liga-MX,Atlas,Morelia,1534557600,Gerardo Espinoza,Roberto Hernández,"Estadio Jalisco, Guadalajara, Jalisco",20987
+https://fbref.com/en/matches/b04368b2/Toluca-Tijuana-August-19-2018-Liga-MX,Toluca,Tijuana,1534698000,Rolando Cristante,Diego Cocca Pera,"Estadio Nemesio Díez, Toluca",15419
+https://fbref.com/en/matches/16933662/Santos-Laguna-UANL-August-19-2018-Liga-MX,Santos Laguna,UANL,1534719600,Salvador Reyes,Tuca Ferretti,"Estadio Nuevo Corona, Torreón, Coahuila",24741
+https://fbref.com/en/matches/53f00eae/Pachuca-Lobos-BUAP-August-18-2018-Liga-MX,Pachuca,Lobos BUAP,1534636800,Pako Ayestarán,Francisco Palencia,"Estadio Hidalgo, Pachuca",24425
+https://fbref.com/en/matches/8c56c135/Necaxa-Puebla-August-18-2018-Liga-MX,Necaxa,Puebla,1534644000,Marcelo Leaño,Enrique Meza,"Estadio Victoria de Aguascalientes, Aguascalientes, Aguascalientes",8389
+https://fbref.com/en/matches/90abbc34/Queretaro-America-August-18-2018-Liga-MX,Querétaro,América,1534644000,Rafael Puente,Miguel Herrera,"Estadio La Corregidora, Santiago de Querétaro, Querétaro",26390
+https://fbref.com/en/matches/666e5299/Monterrey-Pumas-UNAM-August-18-2018-Liga-MX,Monterrey,Pumas UNAM,1534644360,Diego Alonso,David Patiño,"Estadio BBVA Bancomer, Guadalupe, Nuevo León",40268
+https://fbref.com/en/matches/42f64210/Pumas-UNAM-Queretaro-August-21-2018-Liga-MX,Pumas UNAM,Querétaro,1534896000,David Patiño,Rafael Puente,"Estadio Olímpico de Universitario, Ciudad de México",10420
+https://fbref.com/en/matches/d86de0a6/Morelia-Pachuca-August-21-2018-Liga-MX,Morelia,Pachuca,1534896000,Roberto Hernández,Pako Ayestarán,"Estadio Generalísimo José María Morelos y Pavón, Morelia, Michoacán",14584
+https://fbref.com/en/matches/30fe08fd/Puebla-Atlas-August-21-2018-Liga-MX,Puebla,Atlas,1534903200,Enrique Meza,Gerardo Espinoza,"Estadio Cuauhtémoc, Puebla",10580
+https://fbref.com/en/matches/5ddec8ef/Guadalajara-Necaxa-August-21-2018-Liga-MX,Guadalajara,Necaxa,1534903200,José Cardozo,Marcelo Leaño,"Estadio Akron, Zapopan, Jalisco",18210
+https://fbref.com/en/matches/af5bf7fb/Cruz-Azul-Toluca-August-22-2018-Liga-MX,Cruz Azul,Toluca,1534982400,Pedro Caixinha,Rolando Cristante,"Estadio Azul, Ciudad de México",31120
+https://fbref.com/en/matches/e9a829ff/Leon-America-August-22-2018-Liga-MX,León,América,1534982400,Gustavo Díaz,Miguel Herrera,"Estadio León, León, Guanajuato",25175
+https://fbref.com/en/matches/9ae9e1f7/Tijuana-Santos-Laguna-August-22-2018-Liga-MX,Tijuana,Santos Laguna,1534989960,Diego Cocca Pera,Salvador Reyes,"Estadio Caliente, Tijuana, Baja California",26333
+https://fbref.com/en/matches/87f01fdf/UANL-Veracruz-August-22-2018-Liga-MX,UANL,Veracruz,1534989600,Tuca Ferretti,Guillermo Vázquez,"Estadio Universitario de Nuevo León, San Nicolás de los Garza",40874
+https://fbref.com/en/matches/99e95e43/Lobos-BUAP-Monterrey-August-22-2018-Liga-MX,Lobos BUAP,Monterrey,1534989600,Francisco Palencia,Diego Alonso,"Estadio Universitario BUAP, Puebla",7836
+https://fbref.com/en/matches/1903d471/Pachuca-Puebla-August-25-2018-Liga-MX,Pachuca,Puebla,1535234400,Pako Ayestarán,Enrique Meza,"Estadio Hidalgo, Pachuca",17982
+https://fbref.com/en/matches/346a074d/Atlas-Guadalajara-August-24-2018-Liga-MX,Atlas,Guadalajara,1535162400,Gerardo Espinoza,José Cardozo,"Estadio Jalisco, Guadalajara, Jalisco",37921
+https://fbref.com/en/matches/de402c85/Queretaro-Lobos-BUAP-August-26-2018-Liga-MX,Querétaro,Lobos BUAP,1535302800,Rafael Puente,Francisco Palencia,"Estadio La Corregidora, Santiago de Querétaro, Querétaro",15046
+https://fbref.com/en/matches/b76c41ce/Toluca-Leon-August-26-2018-Liga-MX,Toluca,León,1535317200,Rolando Cristante,Gustavo Díaz,"Estadio Nemesio Díez, Toluca",16698
+https://fbref.com/en/matches/a461fa77/Santos-Laguna-Cruz-Azul-August-26-2018-Liga-MX,Santos Laguna,Cruz Azul,1535324400,Salvador Reyes,Pedro Caixinha,"Estadio Nuevo Corona, Torreón, Coahuila",28460
+https://fbref.com/en/matches/ebf71e0f/America-Pumas-UNAM-August-25-2018-Liga-MX,América,Pumas UNAM,1535241600,Miguel Herrera,David Patiño,"Estadio Azteca, Coyoacán",38342
+https://fbref.com/en/matches/e39a1486/Veracruz-Tijuana-August-25-2018-Liga-MX,Veracruz,Tijuana,1535247000,Hugo Chávez,Diego Cocca Pera,"Estadio Luis de la Fuente, Veracruz, Veracruz",7693
+https://fbref.com/en/matches/da0de7f3/Necaxa-UANL-August-25-2018-Liga-MX,Necaxa,UANL,1535248800,Marcelo Leaño,Tuca Ferretti,"Estadio Victoria de Aguascalientes, Aguascalientes, Aguascalientes",18539
+https://fbref.com/en/matches/f11bbcce/Monterrey-Morelia-August-25-2018-Liga-MX,Monterrey,Morelia,1535249160,Diego Alonso,Roberto Hernández,"Estadio BBVA Bancomer, Guadalupe, Nuevo León",40129
+https://fbref.com/en/matches/61dbc873/Cruz-Azul-Veracruz-September-1-2018-Liga-MX,Cruz Azul,Veracruz,1535839200,Pedro Caixinha,Juvenal Olmos,"Estadio Azul, Ciudad de México",81070
+https://fbref.com/en/matches/4a0775d9/Morelia-Queretaro-August-31-2018-Liga-MX,Morelia,Querétaro,1535760000,Roberto Hernández,Rafael Puente,"Estadio Generalísimo José María Morelos y Pavón, Morelia, Michoacán",17501
+https://fbref.com/en/matches/603256cc/Tijuana-Necaxa-August-31-2018-Liga-MX,Tijuana,Necaxa,1535767560,Diego Cocca Pera,Marcelo Leaño,"Estadio Caliente, Tijuana, Baja California",27333
+https://fbref.com/en/matches/4d320f0f/Puebla-Monterrey-August-31-2018-Liga-MX,Puebla,Monterrey,1535767200,Enrique Meza,Diego Alonso,"Estadio Cuauhtémoc, Puebla",46928
+https://fbref.com/en/matches/f6f510e5/Toluca-Santos-Laguna-September-2-2018-Liga-MX,Toluca,Santos Laguna,1535907600,Rolando Cristante,Salvador Reyes,"Estadio Nemesio Díez, Toluca",31000
+https://fbref.com/en/matches/556e357a/Lobos-BUAP-America-September-2-2018-Liga-MX,Lobos BUAP,América,1535922000,Francisco Palencia,Miguel Herrera,"Estadio Universitario BUAP, Puebla",19283
+https://fbref.com/en/matches/22b65a4e/UANL-Atlas-September-1-2018-Liga-MX,UANL,Atlas,1535846400,Tuca Ferretti,Gerardo Espinoza,"Estadio Universitario de Nuevo León, San Nicolás de los Garza",41363
+https://fbref.com/en/matches/27656de1/Leon-Pumas-UNAM-September-1-2018-Liga-MX,León,Pumas UNAM,1535846400,Gustavo Díaz,David Patiño,"Estadio León, León, Guanajuato",31297
+https://fbref.com/en/matches/c264f293/Guadalajara-Pachuca-September-1-2018-Liga-MX,Guadalajara,Pachuca,1535853600,José Cardozo,Pako Ayestarán,"Estadio Akron, Zapopan, Jalisco",23095
+https://fbref.com/en/matches/c529b81b/Queretaro-Puebla-September-15-2018-Liga-MX,Querétaro,Puebla,1537048800,Rafael Puente,Enrique Meza,"Estadio La Corregidora, Santiago de Querétaro, Querétaro",15569
+https://fbref.com/en/matches/5d7eb3ee/Veracruz-Toluca-September-14-2018-Liga-MX,Veracruz,Toluca,1536976800,Juvenal Olmos,Rolando Cristante,"Estadio Luis de la Fuente, Veracruz, Veracruz",8897
+https://fbref.com/en/matches/e71f1ce0/Pumas-UNAM-Lobos-BUAP-September-16-2018-Liga-MX,Pumas UNAM,Lobos BUAP,1537117200,David Patiño,Francisco Palencia,"Estadio Olímpico de Universitario, Ciudad de México",15235
+https://fbref.com/en/matches/97162348/Santos-Laguna-Leon-September-16-2018-Liga-MX,Santos Laguna,León,1537131600,Salvador Reyes,Gustavo Díaz,"Estadio Nuevo Corona, Torreón, Coahuila",21514
+https://fbref.com/en/matches/1c89a8f7/Atlas-Tijuana-September-16-2018-Liga-MX,Atlas,Tijuana,1537138800,Rubén Omar Romano,Diego Cocca Pera,"Estadio Jalisco, Guadalajara, Jalisco",22057
+https://fbref.com/en/matches/eb62a747/Pachuca-UANL-September-15-2018-Liga-MX,Pachuca,UANL,1537056000,Pako Ayestarán,Tuca Ferretti,"Estadio Hidalgo, Pachuca",17730
+https://fbref.com/en/matches/fd8c8a5b/America-Morelia-September-15-2018-Liga-MX,América,Morelia,1537056000,Miguel Herrera,Roberto Hernández,"Estadio Azteca, Coyoacán",24003
+https://fbref.com/en/matches/d201ed7b/Necaxa-Cruz-Azul-September-15-2018-Liga-MX,Necaxa,Cruz Azul,1537062300,Marcelo Leaño,Pedro Caixinha,"Estadio Victoria de Aguascalientes, Aguascalientes, Aguascalientes",22578
+https://fbref.com/en/matches/2adda98a/Monterrey-Guadalajara-September-15-2018-Liga-MX,Monterrey,Guadalajara,1537063560,Diego Alonso,José Cardozo,"Estadio BBVA Bancomer, Guadalupe, Nuevo León",37812
+https://fbref.com/en/matches/b27cb9d4/Toluca-Necaxa-September-22-2018-Liga-MX,Toluca,Necaxa,1537653600,Rolando Cristante,Marcelo Leaño,"Estadio Nemesio Díez, Toluca",15705
+https://fbref.com/en/matches/2756e69b/Morelia-Pumas-UNAM-September-21-2018-Liga-MX,Morelia,Pumas UNAM,1537574400,Roberto Hernández,David Patiño,"Estadio Generalísimo José María Morelos y Pavón, Morelia, Michoacán",20757
+https://fbref.com/en/matches/809b703a/Puebla-America-September-21-2018-Liga-MX,Puebla,América,1537581600,Enrique Meza,Miguel Herrera,"Estadio Cuauhtémoc, Puebla",23234
+https://fbref.com/en/matches/91162834/Guadalajara-Queretaro-September-23-2018-Liga-MX,Guadalajara,Querétaro,1537736400,José Cardozo,Rafael Puente,"Estadio Akron, Zapopan, Jalisco",23034
+https://fbref.com/en/matches/b3025c61/Santos-Laguna-Veracruz-September-23-2018-Liga-MX,Santos Laguna,Veracruz,1537743600,Salvador Reyes,Juvenal Olmos,"Estadio Nuevo Corona, Torreón, Coahuila",22043
+https://fbref.com/en/matches/149a57a2/Leon-Lobos-BUAP-September-22-2018-Liga-MX,León,Lobos BUAP,1537660800,Gustavo Díaz,Francisco Palencia,"Estadio León, León, Guanajuato",16576
+https://fbref.com/en/matches/8a21b242/Tijuana-Pachuca-September-22-2018-Liga-MX,Tijuana,Pachuca,1537668360,Diego Cocca Pera,Pako Ayestarán,"Estadio Caliente, Tijuana, Baja California",26333
+https://fbref.com/en/matches/e5939a14/Cruz-Azul-Atlas-September-22-2018-Liga-MX,Cruz Azul,Atlas,1537668000,Pedro Caixinha,Rubén Omar Romano,"Estadio Azul, Ciudad de México",18541
+https://fbref.com/en/matches/eb9be2bd/UANL-Monterrey-September-23-2018-Liga-MX,UANL,Monterrey,1537750800,Tuca Ferretti,Diego Alonso,"Estadio Universitario de Nuevo León, San Nicolás de los Garza",41615
+https://fbref.com/en/matches/c1baaeb0/Queretaro-UANL-September-29-2018-Liga-MX,Querétaro,UANL,1538258400,Rafael Puente,Tuca Ferretti,"Estadio La Corregidora, Santiago de Querétaro, Querétaro",18889
+https://fbref.com/en/matches/706bab92/Veracruz-Leon-September-28-2018-Liga-MX,Veracruz,León,1538179200,Juvenal Olmos,Ignacio Ambríz,"Estadio Luis de la Fuente, Veracruz, Veracruz",7711
+https://fbref.com/en/matches/09ec2eab/Atlas-Toluca-September-28-2018-Liga-MX,Atlas,Toluca,1538186400,Guillermo Hoyos,Rolando Cristante,"Estadio Jalisco, Guadalajara, Jalisco",15441
+https://fbref.com/en/matches/bcffd47b/Pumas-UNAM-Puebla-September-30-2018-Liga-MX,Pumas UNAM,Puebla,1538326800,David Patiño,Enrique Meza,"Estadio Olímpico de Universitario, Ciudad de México",18630
+https://fbref.com/en/matches/658de77e/Lobos-BUAP-Morelia-September-30-2018-Liga-MX,Lobos BUAP,Morelia,1538341200,Francisco Palencia,Roberto Hernández,"Estadio Universitario BUAP, Puebla",7833
+https://fbref.com/en/matches/457b831a/America-Guadalajara-September-30-2018-Liga-MX,América,Guadalajara,1538348400,Miguel Herrera,José Cardozo,"Estadio Azteca, Coyoacán",69486
+https://fbref.com/en/matches/eb1e7a38/Pachuca-Cruz-Azul-September-29-2018-Liga-MX,Pachuca,Cruz Azul,1538265600,Pako Ayestarán,Pedro Caixinha,"Estadio Hidalgo, Pachuca",27512
+https://fbref.com/en/matches/71a32b06/Necaxa-Santos-Laguna-September-29-2018-Liga-MX,Necaxa,Santos Laguna,1538272800,Marcelo Leaño,Salvador Reyes,"Estadio Victoria de Aguascalientes, Aguascalientes, Aguascalientes",15542
+https://fbref.com/en/matches/948f6364/Monterrey-Tijuana-September-29-2018-Liga-MX,Monterrey,Tijuana,1538273160,Diego Alonso,Diego Cocca Pera,"Estadio BBVA Bancomer, Guadalupe, Nuevo León",32597
+https://fbref.com/en/matches/72c12e3d/Cruz-Azul-Monterrey-October-6-2018-Liga-MX,Cruz Azul,Monterrey,1538863200,Pedro Caixinha,Diego Alonso,"Estadio Azul, Ciudad de México",27689
+https://fbref.com/en/matches/c6eb4616/Santos-Laguna-Atlas-October-5-2018-Liga-MX,Santos Laguna,Atlas,1538784000,Salvador Reyes,Guillermo Hoyos,"Estadio Nuevo Corona, Torreón, Coahuila",20854
+https://fbref.com/en/matches/f8ff92e5/Veracruz-Necaxa-October-5-2018-Liga-MX,Veracruz,Necaxa,1538791800,Juvenal Olmos,Marcelo Leaño,"Estadio Luis de la Fuente, Veracruz, Veracruz",7589
+https://fbref.com/en/matches/e6883430/Toluca-Pachuca-October-7-2018-Liga-MX,Toluca,Pachuca,1538931600,Rolando Cristante,Pako Ayestarán,"Estadio Nemesio Díez, Toluca",16383
+https://fbref.com/en/matches/83ed5d99/Puebla-Lobos-BUAP-October-7-2018-Liga-MX,Puebla,Lobos BUAP,1538953200,Enrique Meza,Francisco Palencia,"Estadio Cuauhtémoc, Puebla",22109
+https://fbref.com/en/matches/7e338230/UANL-America-October-6-2018-Liga-MX,UANL,América,1538870400,Tuca Ferretti,Miguel Herrera,"Estadio Universitario de Nuevo León, San Nicolás de los Garza",41596
+https://fbref.com/en/matches/fb5bb73a/Leon-Morelia-October-6-2018-Liga-MX,León,Morelia,1538870400,Ignacio Ambríz,Roberto Hernández,"Estadio León, León, Guanajuato",12356
+https://fbref.com/en/matches/6ffd446f/Tijuana-Queretaro-October-6-2018-Liga-MX,Tijuana,Querétaro,1538879760,Diego Cocca Pera,Rafael Puente,"Estadio Caliente, Tijuana, Baja California",25928
+https://fbref.com/en/matches/c4c31336/Guadalajara-Pumas-UNAM-October-6-2018-Liga-MX,Guadalajara,Pumas UNAM,1538877960,José Cardozo,David Patiño,"Estadio Akron, Zapopan, Jalisco",30899
+https://fbref.com/en/matches/0636a008/Queretaro-Cruz-Azul-October-20-2018-Liga-MX,Querétaro,Cruz Azul,1540072800,Rafael Puente,Pedro Caixinha,"Estadio La Corregidora, Santiago de Querétaro, Querétaro",29348
+https://fbref.com/en/matches/66744dbc/Atlas-Veracruz-October-19-2018-Liga-MX,Atlas,Veracruz,1540000800,Guillermo Hoyos,Juvenal Olmos,"Estadio Jalisco, Guadalajara, Jalisco",14216
+https://fbref.com/en/matches/1b3abc95/Lobos-BUAP-Guadalajara-October-21-2018-Liga-MX,Lobos BUAP,Guadalajara,1540141200,Francisco Palencia,José Cardozo,"Estadio Universitario BUAP, Puebla",13650
+https://fbref.com/en/matches/b1fa9ec6/Pumas-UNAM-UANL-October-21-2018-Liga-MX,Pumas UNAM,UANL,1540157400,David Patiño,Tuca Ferretti,"Estadio Olímpico de Universitario, Ciudad de México",29200
+https://fbref.com/en/matches/4e3e722d/Morelia-Puebla-October-21-2018-Liga-MX,Morelia,Puebla,1540162800,Roberto Hernández,Enrique Meza,"Estadio Generalísimo José María Morelos y Pavón, Morelia, Michoacán",16999
+https://fbref.com/en/matches/bad15433/America-Tijuana-October-20-2018-Liga-MX,América,Tijuana,1540080000,Miguel Herrera,Diego Cocca Pera,"Estadio Azteca, Coyoacán",20813
+https://fbref.com/en/matches/f91f6669/Pachuca-Santos-Laguna-October-20-2018-Liga-MX,Pachuca,Santos Laguna,1540080000,Pako Ayestarán,Salvador Reyes,"Estadio Hidalgo, Pachuca",18248
+https://fbref.com/en/matches/b068f219/Necaxa-Leon-October-20-2018-Liga-MX,Necaxa,León,1540087200,Marcelo Leaño,Ignacio Ambríz,"Estadio Victoria de Aguascalientes, Aguascalientes, Aguascalientes",10049
+https://fbref.com/en/matches/7b342cea/Monterrey-Toluca-October-20-2018-Liga-MX,Monterrey,Toluca,1540087560,Diego Alonso,Rolando Cristante,"Estadio BBVA Bancomer, Guadalupe, Nuevo León",29444
+https://fbref.com/en/matches/f409c9ca/Necaxa-Atlas-October-27-2018-Liga-MX,Necaxa,Atlas,1540677600,Marcelo Leaño,Guillermo Hoyos,"Estadio Victoria de Aguascalientes, Aguascalientes, Aguascalientes",10373
+https://fbref.com/en/matches/a561b214/Santos-Laguna-Monterrey-October-26-2018-Liga-MX,Santos Laguna,Monterrey,1540598400,Salvador Reyes,Diego Alonso,"Estadio Nuevo Corona, Torreón, Coahuila",22887
+https://fbref.com/en/matches/c0cefafa/Veracruz-Pachuca-October-26-2018-Liga-MX,Veracruz,Pachuca,1540605900,Juvenal Olmos,Pako Ayestarán,"Estadio Luis de la Fuente, Veracruz, Veracruz",8684
+https://fbref.com/en/matches/0be07283/Toluca-Queretaro-October-28-2018-Liga-MX,Toluca,Querétaro,1540749600,Rolando Cristante,Rafael Puente,"Estadio Nemesio Díez, Toluca",15308
+https://fbref.com/en/matches/5b1f2a7e/Tijuana-Pumas-UNAM-October-27-2018-Liga-MX,Tijuana,Pumas UNAM,1540692360,Diego Cocca Pera,David Patiño,"Estadio Caliente, Tijuana, Baja California",26333
+https://fbref.com/en/matches/4b233c57/UANL-Lobos-BUAP-October-27-2018-Liga-MX,UANL,Lobos BUAP,1540688400,Tuca Ferretti,Francisco Palencia,"Estadio Universitario de Nuevo León, San Nicolás de los Garza",41322
+https://fbref.com/en/matches/664e91fa/Guadalajara-Morelia-October-27-2018-Liga-MX,Guadalajara,Morelia,1540688400,José Cardozo,Roberto Hernández,"Estadio Akron, Zapopan, Jalisco",19646
+https://fbref.com/en/matches/aec60034/Cruz-Azul-America-October-27-2018-Liga-MX,Cruz Azul,América,1540692000,Pedro Caixinha,Miguel Herrera,"Estadio Azul, Ciudad de México",62003
+https://fbref.com/en/matches/9687a1c4/Leon-Puebla-October-28-2018-Liga-MX,León,Puebla,1540774800,Ignacio Ambríz,Enrique Meza,"Estadio León, León, Guanajuato",13394
+https://fbref.com/en/matches/76802339/Pachuca-Necaxa-November-3-2018-Liga-MX,Pachuca,Necaxa,1541286000,Pako Ayestarán,Jorge Martínez,"Estadio Hidalgo, Pachuca",15976
+https://fbref.com/en/matches/32f9409a/Morelia-UANL-November-2-2018-Liga-MX,Morelia,UANL,1541206800,Roberto Hernández,Tuca Ferretti,"Estadio Generalísimo José María Morelos y Pavón, Morelia, Michoacán",21342
+https://fbref.com/en/matches/8b82e76a/Puebla-Guadalajara-November-2-2018-Liga-MX,Puebla,Guadalajara,1541214000,Enrique Meza,José Cardozo,"Estadio Cuauhtémoc, Puebla",14276
+https://fbref.com/en/matches/1843afcc/Pumas-UNAM-Cruz-Azul-November-4-2018-Liga-MX,Pumas UNAM,Cruz Azul,1541354400,David Patiño,Pedro Caixinha,"Estadio Olímpico de Universitario, Ciudad de México",42717
+https://fbref.com/en/matches/220035c5/Queretaro-Santos-Laguna-November-4-2018-Liga-MX,Querétaro,Santos Laguna,1541368800,Rafael Puente,Salvador Reyes,"Estadio La Corregidora, Santiago de Querétaro, Querétaro",14513
+https://fbref.com/en/matches/52048db4/America-Toluca-November-3-2018-Liga-MX,América,Toluca,1541293200,Miguel Herrera,Rolando Cristante,"Estadio Azteca, Coyoacán",28635
+https://fbref.com/en/matches/c25387da/Monterrey-Veracruz-November-3-2018-Liga-MX,Monterrey,Veracruz,1541293560,Diego Alonso,Juvenal Olmos,"Estadio BBVA Bancomer, Guadalupe, Nuevo León",28428
+https://fbref.com/en/matches/b876daf9/Lobos-BUAP-Tijuana-November-3-2018-Liga-MX,Lobos BUAP,Tijuana,1541300400,Francisco Palencia,Diego Torres Ortíz,"Estadio Universitario BUAP, Puebla",6223
+https://fbref.com/en/matches/330f5909/Atlas-Leon-November-4-2018-Liga-MX,Atlas,León,1541376000,Guillermo Hoyos,Ignacio Ambríz,"Estadio Jalisco, Guadalajara, Jalisco",16418
+https://fbref.com/en/matches/963072c4/Cruz-Azul-Lobos-BUAP-November-10-2018-Liga-MX,Cruz Azul,Lobos BUAP,1541890800,Pedro Caixinha,Francisco Palencia,"Estadio Azul, Ciudad de México",27017
+https://fbref.com/en/matches/087474f2/Veracruz-Queretaro-November-9-2018-Liga-MX,Veracruz,Querétaro,1541811600,Juvenal Olmos,Rafael Puente,"Estadio Luis de la Fuente, Veracruz, Veracruz",13561
+https://fbref.com/en/matches/3b4f2050/Atlas-Pachuca-November-9-2018-Liga-MX,Atlas,Pachuca,1541818800,Guillermo Hoyos,Pako Ayestarán,"Estadio Jalisco, Guadalajara, Jalisco",15114
+https://fbref.com/en/matches/4fcc2b1e/Toluca-Pumas-UNAM-November-11-2018-Liga-MX,Toluca,Pumas UNAM,1541959200,Rolando Cristante,David Patiño,"Estadio Nemesio Díez, Toluca",30000
+https://fbref.com/en/matches/1adc0fbb/Tijuana-Morelia-November-10-2018-Liga-MX,Tijuana,Morelia,1541905200,Franky Oviedo,Roberto Hernández,"Estadio Caliente, Tijuana, Baja California",25333
+https://fbref.com/en/matches/a14268d2/Leon-Guadalajara-November-10-2018-Liga-MX,León,Guadalajara,1541898000,Ignacio Ambríz,José Cardozo,"Estadio León, León, Guanajuato",17071
+https://fbref.com/en/matches/ddcf5def/UANL-Puebla-November-10-2018-Liga-MX,UANL,Puebla,1541898000,Tuca Ferretti,Enrique Meza,"Estadio Universitario de Nuevo León, San Nicolás de los Garza",38141
+https://fbref.com/en/matches/b064a2b7/Necaxa-Monterrey-November-10-2018-Liga-MX,Necaxa,Monterrey,1541905200,Jorge Martínez,Diego Alonso,"Estadio Victoria de Aguascalientes, Aguascalientes, Aguascalientes",11534
+https://fbref.com/en/matches/449f94ad/Santos-Laguna-America-November-11-2018-Liga-MX,Santos Laguna,América,1541980800,Salvador Reyes,Miguel Herrera,"Estadio Nuevo Corona, Torreón, Coahuila",28479
+https://fbref.com/en/matches/241e22d9/Queretaro-Necaxa-November-24-2018-Liga-MX,Querétaro,Necaxa,1543100400,Rafael Puente,Jorge Martínez,"Estadio La Corregidora, Santiago de Querétaro, Querétaro",12594
+https://fbref.com/en/matches/62d459dd/Morelia-Cruz-Azul-November-23-2018-Liga-MX,Morelia,Cruz Azul,1543021200,Roberto Hernández,Pedro Caixinha,"Estadio Generalísimo José María Morelos y Pavón, Morelia, Michoacán",28076
+https://fbref.com/en/matches/7aed461d/Puebla-Tijuana-November-23-2018-Liga-MX,Puebla,Tijuana,1543028400,Enrique Meza,Franky Oviedo,"Estadio Cuauhtémoc, Puebla",6628
+https://fbref.com/en/matches/0f0c68e1/Pumas-UNAM-Santos-Laguna-November-25-2018-Liga-MX,Pumas UNAM,Santos Laguna,1543168800,David Patiño,Salvador Reyes,"Estadio Olímpico de Universitario, Ciudad de México",27950
+https://fbref.com/en/matches/50786d71/Lobos-BUAP-Toluca-November-25-2018-Liga-MX,Lobos BUAP,Toluca,1543183200,Francisco Palencia,Rolando Cristante,"Estadio Universitario BUAP, Puebla",8263
+https://fbref.com/en/matches/6167826a/America-Veracruz-November-24-2018-Liga-MX,América,Veracruz,1543107600,Miguel Herrera,Hugo Chávez,"Estadio Azteca, Coyoacán",13005
+https://fbref.com/en/matches/c7973b08/Pachuca-Leon-November-24-2018-Liga-MX,Pachuca,León,1543107600,Pako Ayestarán,Ignacio Ambríz,"Estadio Hidalgo, Pachuca",22674
+https://fbref.com/en/matches/4b209c61/Guadalajara-UANL-November-24-2018-Liga-MX,Guadalajara,UANL,1543114800,José Cardozo,Tuca Ferretti,"Estadio Akron, Zapopan, Jalisco",23715
+https://fbref.com/en/matches/c523e29c/Monterrey-Atlas-November-24-2018-Liga-MX,Monterrey,Atlas,1543115160,Diego Alonso,Guillermo Hoyos,"Estadio BBVA Bancomer, Guadalupe, Nuevo León",31758
+https://fbref.com/en/matches/4f02abcd/Queretaro-Cruz-Azul-November-28-2018-Liga-MX,Querétaro,Cruz Azul,1543453200,Rafael Puente,Pedro Caixinha,"Estadio La Corregidora, Santiago de Querétaro, Querétaro",29039
+https://fbref.com/en/matches/926b0f6d/Monterrey-Santos-Laguna-November-28-2018-Liga-MX,Monterrey,Santos Laguna,1543460760,Diego Alonso,Salvador Reyes,"Estadio BBVA Bancomer, Guadalupe, Nuevo León",24723
+https://fbref.com/en/matches/9639dfff/Toluca-America-November-29-2018-Liga-MX,Toluca,América,1543539600,Rolando Cristante,Miguel Herrera,"Estadio Nemesio Díez, Toluca",26031
+https://fbref.com/en/matches/aa397d25/UANL-Pumas-UNAM-November-29-2018-Liga-MX,UANL,Pumas UNAM,1543546800,Tuca Ferretti,David Patiño,"Estadio Universitario de Nuevo León, San Nicolás de los Garza",41301
+https://fbref.com/en/matches/754066bf/Pumas-UNAM-UANL-December-2-2018-Liga-MX,Pumas UNAM,UANL,1543773600,David Patiño,Tuca Ferretti,"Estadio Olímpico de Universitario, Ciudad de México",35300
+https://fbref.com/en/matches/cfabcabf/Cruz-Azul-Queretaro-December-1-2018-Liga-MX,Cruz Azul,Querétaro,1543712400,Pedro Caixinha,Rafael Puente,"Estadio Azteca, Coyoacán",30858
+https://fbref.com/en/matches/2ba3b278/Santos-Laguna-Monterrey-December-1-2018-Liga-MX,Santos Laguna,Monterrey,1543719600,Salvador Reyes,Diego Alonso,"Estadio Nuevo Corona, Torreón, Coahuila",25900
+https://fbref.com/en/matches/1830bd17/America-Toluca-December-2-2018-Liga-MX,América,Toluca,1543797000,Miguel Herrera,Rolando Cristante,"Estadio Azteca, Coyoacán",44118
+https://fbref.com/en/matches/14d53578/Monterrey-Cruz-Azul-December-5-2018-Liga-MX,Monterrey,Cruz Azul,1544061960,Diego Alonso,Pedro Caixinha,"Estadio BBVA Bancomer, Guadalupe, Nuevo León",36721
+https://fbref.com/en/matches/e5e01005/Pumas-UNAM-America-December-6-2018-Liga-MX,Pumas UNAM,América,1544150700,David Patiño,Miguel Herrera,"Estadio Olímpico Universitario de Colima, Colima, Colima",49345
+https://fbref.com/en/matches/a73091ef/Cruz-Azul-Monterrey-December-8-2018-Liga-MX,Cruz Azul,Monterrey,1544317200,Pedro Caixinha,Diego Alonso,"Estadio Azteca, Coyoacán",39307
+https://fbref.com/en/matches/b82ada00/America-Pumas-UNAM-December-9-2018-Liga-MX,América,Pumas UNAM,1544402700,Miguel Herrera,David Patiño,"Estadio Azteca, Coyoacán",64039
+https://fbref.com/en/matches/633e6307/America-Cruz-Azul-December-13-2018-Liga-MX,América,Cruz Azul,1544754600,Miguel Herrera,Pedro Caixinha,"Estadio Azteca, Coyoacán",59244
+https://fbref.com/en/matches/7d49cde6/Cruz-Azul-America-December-16-2018-Liga-MX,Cruz Azul,América,1545006600,Pedro Caixinha,Miguel Herrera,"Estadio Azteca, Coyoacán",71240
+https://fbref.com/en/matches/2782c3b1/Queretaro-Atlas-January-5-2019-Liga-MX,Querétaro,Atlas,1546729200,Rafael Puente,Guillermo Hoyos,"Estadio La Corregidora, Santiago de Querétaro, Querétaro",15134
+https://fbref.com/en/matches/9e0dea91/Monterrey-Pachuca-January-5-2019-Liga-MX,Monterrey,Pachuca,1546729200,Diego Alonso,Pako Ayestarán,"Estadio BBVA Bancomer, Guadalupe, Nuevo León",39853
+https://fbref.com/en/matches/6caa16f0/Morelia-Toluca-January-4-2019-Liga-MX,Morelia,Toluca,1546650000,Roberto Hernández,Rolando Cristante,"Estadio Generalísimo José María Morelos y Pavón, Morelia, Michoacán",22889
+https://fbref.com/en/matches/632db1d2/Puebla-Cruz-Azul-January-4-2019-Liga-MX,Puebla,Cruz Azul,1546657200,Enrique Meza,Pedro Caixinha,"Estadio Cuauhtémoc, Puebla",22777
+https://fbref.com/en/matches/bd3a8308/Pumas-UNAM-Veracruz-January-6-2019-Liga-MX,Pumas UNAM,Veracruz,1546797600,David Patiño,Robert Siboldi,"Estadio Olímpico de Universitario, Ciudad de México",15625
+https://fbref.com/en/matches/19150ca1/Lobos-BUAP-Santos-Laguna-January-6-2019-Liga-MX,Lobos BUAP,Santos Laguna,1546812000,Francisco Palencia,Salvador Reyes,"Estadio Universitario BUAP, Puebla",6350
+https://fbref.com/en/matches/bca015e8/Leon-UANL-January-5-2019-Liga-MX,León,UANL,1546736760,Ignacio Ambríz,Tuca Ferretti,"Estadio León, León, Guanajuato",18969
+https://fbref.com/en/matches/a3f503a2/Guadalajara-Tijuana-January-5-2019-Liga-MX,Guadalajara,Tijuana,1546743600,José Cardozo,Óscar Pareja,"Estadio Akron, Zapopan, Jalisco",26061
+https://fbref.com/en/matches/8b7b0156/Monterrey-Leon-January-12-2019-Liga-MX,Monterrey,León,1547334000,Diego Alonso,Ignacio Ambríz,"Estadio BBVA Bancomer, Guadalupe, Nuevo León",43583
+https://fbref.com/en/matches/3d7368e4/Veracruz-Lobos-BUAP-January-11-2019-Liga-MX,Veracruz,Lobos BUAP,1547254800,Robert Siboldi,Francisco Palencia,"Estadio Luis de la Fuente, Veracruz, Veracruz",10712
+https://fbref.com/en/matches/b3959cf3/Atlas-America-January-11-2019-Liga-MX,Atlas,América,1547262000,Guillermo Hoyos,Miguel Herrera,"Estadio Jalisco, Guadalajara, Jalisco",46056
+https://fbref.com/en/matches/40ac257a/Toluca-Puebla-January-13-2019-Liga-MX,Toluca,Puebla,1547402400,Rolando Cristante,Enrique Meza,"Estadio Nemesio Díez, Toluca",12242
+https://fbref.com/en/matches/4a625ada/Cruz-Azul-Guadalajara-January-12-2019-Liga-MX,Cruz Azul,Guadalajara,1547341200,Pedro Caixinha,José Cardozo,"Estadio Azteca, Coyoacán",32881
+https://fbref.com/en/matches/dc97d8ab/Tijuana-UANL-January-12-2019-Liga-MX,Tijuana,UANL,1547348400,Óscar Pareja,Tuca Ferretti,"Estadio Caliente, Tijuana, Baja California",25333
+https://fbref.com/en/matches/0b883c4b/Pachuca-Queretaro-January-12-2019-Liga-MX,Pachuca,Querétaro,1547341560,Pako Ayestarán,Rafael Puente,"Estadio Hidalgo, Pachuca",17303
+https://fbref.com/en/matches/9c2d75b8/Necaxa-Pumas-UNAM-January-12-2019-Liga-MX,Necaxa,Pumas UNAM,1547348400,Guillermo Vázquez,David Patiño,"Estadio Victoria de Aguascalientes, Aguascalientes, Aguascalientes",15567
+https://fbref.com/en/matches/ae0d02fd/Santos-Laguna-Morelia-January-13-2019-Liga-MX,Santos Laguna,Morelia,1547424000,Salvador Reyes,Roberto Hernández,"Estadio Nuevo Corona, Torreón, Coahuila",22585
+https://fbref.com/en/matches/80539699/Queretaro-Monterrey-January-19-2019-Liga-MX,Querétaro,Monterrey,1547938800,Rafael Puente,Diego Alonso,"Estadio La Corregidora, Santiago de Querétaro, Querétaro",13970
+https://fbref.com/en/matches/11c27397/Morelia-Veracruz-January-18-2019-Liga-MX,Morelia,Veracruz,1547866800,Roberto Hernández,Robert Siboldi,"Estadio Generalísimo José María Morelos y Pavón, Morelia, Michoacán",18110
+https://fbref.com/en/matches/b102fac6/Puebla-Santos-Laguna-January-18-2019-Liga-MX,Puebla,Santos Laguna,1547866800,Enrique Meza,Salvador Reyes,"Estadio Cuauhtémoc, Puebla",14050
+https://fbref.com/en/matches/789c5629/Pumas-UNAM-Atlas-January-20-2019-Liga-MX,Pumas UNAM,Atlas,1548007200,David Patiño,Guillermo Hoyos,"Estadio Olímpico de Universitario, Ciudad de México",17425
+https://fbref.com/en/matches/fb1ce599/Lobos-BUAP-Necaxa-January-20-2019-Liga-MX,Lobos BUAP,Necaxa,1548021600,Francisco Palencia,Guillermo Vázquez,"Estadio Universitario BUAP, Puebla",8316
+https://fbref.com/en/matches/9030af6d/America-Pachuca-January-19-2019-Liga-MX,América,Pachuca,1547946000,Miguel Herrera,Pako Ayestarán,"Estadio Azteca, Coyoacán",22507
+https://fbref.com/en/matches/a7df0148/UANL-Cruz-Azul-January-19-2019-Liga-MX,UANL,Cruz Azul,1547953200,Tuca Ferretti,Pedro Caixinha,"Estadio Universitario de Nuevo León, San Nicolás de los Garza",41615
+https://fbref.com/en/matches/034a336f/Guadalajara-Toluca-January-20-2019-Liga-MX,Guadalajara,Toluca,1548030600,José Cardozo,Rolando Cristante,"Estadio Akron, Zapopan, Jalisco",31718
+https://fbref.com/en/matches/8f27b5b4/Leon-Tijuana-January-20-2019-Liga-MX,León,Tijuana,1548036000,Ignacio Ambríz,Óscar Pareja,"Estadio León, León, Guanajuato",24600
+https://fbref.com/en/matches/59da15a5/Cruz-Azul-Tijuana-January-26-2019-Liga-MX,Cruz Azul,Tijuana,1548543600,Pedro Caixinha,Óscar Pareja,"Estadio Azteca, Coyoacán",10311
+https://fbref.com/en/matches/e23702f0/Monterrey-America-January-26-2019-Liga-MX,Monterrey,América,1548543600,Diego Alonso,Miguel Herrera,"Estadio BBVA Bancomer, Guadalupe, Nuevo León",46292
+https://fbref.com/en/matches/c275fe15/Veracruz-Puebla-January-25-2019-Liga-MX,Veracruz,Puebla,1548464400,Robert Siboldi,Enrique Meza,"Estadio Luis de la Fuente, Veracruz, Veracruz",10652
+https://fbref.com/en/matches/0458ba98/Atlas-Lobos-BUAP-January-25-2019-Liga-MX,Atlas,Lobos BUAP,1548471600,Guillermo Hoyos,Francisco Palencia,"Estadio Jalisco, Guadalajara, Jalisco",19901
+https://fbref.com/en/matches/b781bbe1/Toluca-UANL-January-27-2019-Liga-MX,Toluca,UANL,1548612000,Rolando Cristante,Tuca Ferretti,"Estadio Nemesio Díez, Toluca",20412
+https://fbref.com/en/matches/7377c329/Queretaro-Leon-January-27-2019-Liga-MX,Querétaro,León,1548626400,Rafael Puente,Ignacio Ambríz,"Estadio La Corregidora, Santiago de Querétaro, Querétaro",13726
+https://fbref.com/en/matches/b42c1379/Pachuca-Pumas-UNAM-January-26-2019-Liga-MX,Pachuca,Pumas UNAM,1548550800,Martín Palermo,David Patiño,"Estadio Hidalgo, Pachuca",19520
+https://fbref.com/en/matches/ac254fab/Necaxa-Morelia-January-26-2019-Liga-MX,Necaxa,Morelia,1548558000,Guillermo Vázquez,Roberto Hernández,"Estadio Victoria de Aguascalientes, Aguascalientes, Aguascalientes",14471
+https://fbref.com/en/matches/17ccd8f5/Santos-Laguna-Guadalajara-January-27-2019-Liga-MX,Santos Laguna,Guadalajara,1548633960,Salvador Reyes,José Cardozo,"Estadio Nuevo Corona, Torreón, Coahuila",27919
+https://fbref.com/en/matches/63656455/America-Queretaro-February-2-2019-Liga-MX,América,Querétaro,1549148400,Miguel Herrera,Rafael Puente,"Estadio Azteca, Coyoacán",16503
+https://fbref.com/en/matches/cc6f24c9/Morelia-Atlas-February-1-2019-Liga-MX,Morelia,Atlas,1549069200,Roberto Hernández,Guillermo Hoyos,"Estadio Generalísimo José María Morelos y Pavón, Morelia, Michoacán",19523
+https://fbref.com/en/matches/2807b021/Puebla-Necaxa-February-1-2019-Liga-MX,Puebla,Necaxa,1549076400,Enrique Meza,Guillermo Vázquez,"Estadio Cuauhtémoc, Puebla",15500
+https://fbref.com/en/matches/151f6f65/Pumas-UNAM-Monterrey-February-3-2019-Liga-MX,Pumas UNAM,Monterrey,1549216800,Bruno Marioni,Diego Alonso,"Estadio Olímpico de Universitario, Ciudad de México",17825
+https://fbref.com/en/matches/dafbd64d/Lobos-BUAP-Pachuca-February-3-2019-Liga-MX,Lobos BUAP,Pachuca,1549231200,Francisco Palencia,Martín Palermo,"Estadio Universitario BUAP, Puebla",6850
+https://fbref.com/en/matches/075959ed/Leon-Cruz-Azul-February-2-2019-Liga-MX,León,Cruz Azul,1549155600,Ignacio Ambríz,Pedro Caixinha,"Estadio León, León, Guanajuato",23289
+https://fbref.com/en/matches/98a6afb4/UANL-Santos-Laguna-February-2-2019-Liga-MX,UANL,Santos Laguna,1549155600,Tuca Ferretti,Salvador Reyes,"Estadio Universitario de Nuevo León, San Nicolás de los Garza",41431
+https://fbref.com/en/matches/b132e8fb/Tijuana-Toluca-February-2-2019-Liga-MX,Tijuana,Toluca,1549163160,Óscar Pareja,Rolando Cristante,"Estadio Caliente, Tijuana, Baja California",10329
+https://fbref.com/en/matches/a4a50819/Guadalajara-Veracruz-February-4-2019-Liga-MX,Guadalajara,Veracruz,1549326960,José Cardozo,Robert Siboldi,"Estadio Akron, Zapopan, Jalisco",27914
+https://fbref.com/en/matches/05803d9c/Monterrey-Lobos-BUAP-February-9-2019-Liga-MX,Monterrey,Lobos BUAP,1549753200,Diego Alonso,Francisco Palencia,"Estadio BBVA Bancomer, Guadalupe, Nuevo León",39364
+https://fbref.com/en/matches/6fbd9d06/Queretaro-Pumas-UNAM-February-9-2019-Liga-MX,Querétaro,Pumas UNAM,1549753200,Rafael Puente,Bruno Marioni,"Estadio La Corregidora, Santiago de Querétaro, Querétaro",18107
+https://fbref.com/en/matches/bfb11e49/Veracruz-UANL-February-8-2019-Liga-MX,Veracruz,UANL,1549674000,Robert Siboldi,Tuca Ferretti,"Estadio Luis de la Fuente, Veracruz, Veracruz",13128
+https://fbref.com/en/matches/4f82e024/Atlas-Puebla-February-8-2019-Liga-MX,Atlas,Puebla,1549681200,Guillermo Hoyos,José Sánchez Solá,"Estadio Jalisco, Guadalajara, Jalisco",30230
+https://fbref.com/en/matches/654e7631/Toluca-Cruz-Azul-February-10-2019-Liga-MX,Toluca,Cruz Azul,1549821600,Rolando Cristante,Pedro Caixinha,"Estadio Nemesio Díez, Toluca",19221
+https://fbref.com/en/matches/801e489e/Pachuca-Morelia-February-9-2019-Liga-MX,Pachuca,Morelia,1549760400,Martín Palermo,Roberto Hernández,"Estadio Hidalgo, Pachuca",17374
+https://fbref.com/en/matches/8a13d7b8/America-Leon-February-9-2019-Liga-MX,América,León,1549760400,Miguel Herrera,Ignacio Ambríz,"Estadio Azteca, Coyoacán",23867
+https://fbref.com/en/matches/cca40fb7/Necaxa-Guadalajara-February-9-2019-Liga-MX,Necaxa,Guadalajara,1549767600,Guillermo Vázquez,José Cardozo,"Estadio Victoria de Aguascalientes, Aguascalientes, Aguascalientes",24296
+https://fbref.com/en/matches/9793e578/Santos-Laguna-Tijuana-February-10-2019-Liga-MX,Santos Laguna,Tijuana,1549843200,Salvador Reyes,Óscar Pareja,"Estadio Nuevo Corona, Torreón, Coahuila",22986
+https://fbref.com/en/matches/564d8f00/Cruz-Azul-Santos-Laguna-February-16-2019-Liga-MX,Cruz Azul,Santos Laguna,1550358000,Pedro Caixinha,Salvador Reyes,"Estadio Azteca, Coyoacán",12231
+https://fbref.com/en/matches/e631c82c/Morelia-Monterrey-February-15-2019-Liga-MX,Morelia,Monterrey,1550278800,Roberto Hernández,Diego Alonso,"Estadio Generalísimo José María Morelos y Pavón, Morelia, Michoacán",18951
+https://fbref.com/en/matches/4d4014cf/Tijuana-Veracruz-February-15-2019-Liga-MX,Tijuana,Veracruz,1550286360,Óscar Pareja,Robert Siboldi,"Estadio Caliente, Tijuana, Baja California",23333
+https://fbref.com/en/matches/c41f3022/Puebla-Pachuca-February-15-2019-Liga-MX,Puebla,Pachuca,1550286000,José Sánchez Solá,Martín Palermo,"Estadio Cuauhtémoc, Puebla",25127
+https://fbref.com/en/matches/ca3572a2/Pumas-UNAM-America-February-17-2019-Liga-MX,Pumas UNAM,América,1550426400,Bruno Marioni,Miguel Herrera,"Estadio Olímpico de Universitario, Ciudad de México",42600
+https://fbref.com/en/matches/ca1f5253/Lobos-BUAP-Queretaro-February-17-2019-Liga-MX,Lobos BUAP,Querétaro,1550440800,Francisco Palencia,Rafael Puente,"Estadio Universitario BUAP, Puebla",6410
+https://fbref.com/en/matches/05cf3bbf/UANL-Necaxa-February-16-2019-Liga-MX,UANL,Necaxa,1550365200,Tuca Ferretti,Guillermo Vázquez,"Estadio Universitario de Nuevo León, San Nicolás de los Garza",41615
+https://fbref.com/en/matches/ef0d18e8/Leon-Toluca-February-16-2019-Liga-MX,León,Toluca,1550365200,Ignacio Ambríz,Rolando Cristante,"Estadio León, León, Guanajuato",17653
+https://fbref.com/en/matches/48751759/Guadalajara-Atlas-February-16-2019-Liga-MX,Guadalajara,Atlas,1550372400,José Cardozo,Guillermo Hoyos,"Estadio Akron, Zapopan, Jalisco",34648
+https://fbref.com/en/matches/5fecd936/Queretaro-Morelia-February-23-2019-Liga-MX,Querétaro,Morelia,1550962800,Víctor Vucetich,Roberto Hernández,"Estadio La Corregidora, Santiago de Querétaro, Querétaro",12709
+https://fbref.com/en/matches/c6d827cf/Atlas-UANL-February-22-2019-Liga-MX,Atlas,UANL,1550890800,Guillermo Hoyos,Tuca Ferretti,"Estadio Jalisco, Guadalajara, Jalisco",27177
+https://fbref.com/en/matches/e35d6ba4/Veracruz-Cruz-Azul-February-22-2019-Liga-MX,Veracruz,Cruz Azul,1550890800,Robert Siboldi,Pedro Caixinha,"Estadio Luis de la Fuente, Veracruz, Veracruz",17978
+https://fbref.com/en/matches/c4ac4295/Pumas-UNAM-Leon-February-24-2019-Liga-MX,Pumas UNAM,León,1551031200,Bruno Marioni,Ignacio Ambríz,"Estadio Olímpico de Universitario, Ciudad de México",19348
+https://fbref.com/en/matches/9a894a35/Monterrey-Puebla-February-23-2019-Liga-MX,Monterrey,Puebla,1550970000,Diego Alonso,José Sánchez Solá,"Estadio BBVA Bancomer, Guadalupe, Nuevo León",43219
+https://fbref.com/en/matches/c13af287/America-Lobos-BUAP-February-23-2019-Liga-MX,América,Lobos BUAP,1550970000,Miguel Herrera,Francisco Palencia,"Estadio Azteca, Coyoacán",20612
+https://fbref.com/en/matches/cdab37b3/Pachuca-Guadalajara-February-23-2019-Liga-MX,Pachuca,Guadalajara,1550977200,Martín Palermo,José Cardozo,"Estadio Hidalgo, Pachuca",27293
+https://fbref.com/en/matches/cfc0b760/Necaxa-Tijuana-February-23-2019-Liga-MX,Necaxa,Tijuana,1550977200,Guillermo Vázquez,Óscar Pareja,"Estadio Victoria de Aguascalientes, Aguascalientes, Aguascalientes",14525
+https://fbref.com/en/matches/fa895b0e/Santos-Laguna-Toluca-February-24-2019-Liga-MX,Santos Laguna,Toluca,1551053160,Salvador Reyes,Enrique Corti,"Estadio Nuevo Corona, Torreón, Coahuila",24877
+https://fbref.com/en/matches/a548b6ee/Cruz-Azul-Necaxa-March-2-2019-Liga-MX,Cruz Azul,Necaxa,1551567600,Pedro Caixinha,Guillermo Vázquez,"Estadio Azteca, Coyoacán",17044
+https://fbref.com/en/matches/c0ef05e4/Tijuana-Atlas-March-1-2019-Liga-MX,Tijuana,Atlas,1551495600,Óscar Pareja,Guillermo Hoyos,"Estadio Caliente, Tijuana, Baja California",26333
+https://fbref.com/en/matches/7ae113ff/Morelia-America-March-1-2019-Liga-MX,Morelia,América,1551495600,Gastón Obledo,Miguel Herrera,"Estadio Generalísimo José María Morelos y Pavón, Morelia, Michoacán",30125
+https://fbref.com/en/matches/8700b920/Toluca-Veracruz-March-3-2019-Liga-MX,Toluca,Veracruz,1551636000,José Real,Robert Siboldi,"Estadio Nemesio Díez, Toluca",14430
+https://fbref.com/en/matches/69e5c134/Lobos-BUAP-Pumas-UNAM-March-3-2019-Liga-MX,Lobos BUAP,Pumas UNAM,1551650400,Francisco Palencia,Bruno Marioni,"Estadio Universitario BUAP, Puebla",9753
+https://fbref.com/en/matches/97474377/Leon-Santos-Laguna-March-2-2019-Liga-MX,León,Santos Laguna,1551574800,Ignacio Ambríz,Salvador Reyes,"Estadio León, León, Guanajuato",18454
+https://fbref.com/en/matches/a752d7d8/UANL-Pachuca-March-2-2019-Liga-MX,UANL,Pachuca,1551574800,Tuca Ferretti,Martín Palermo,"Estadio Universitario de Nuevo León, San Nicolás de los Garza",41605
+https://fbref.com/en/matches/45722a7e/Guadalajara-Monterrey-March-2-2019-Liga-MX,Guadalajara,Monterrey,1551582000,José Cardozo,Diego Alonso,"Estadio Akron, Zapopan, Jalisco",32233
+https://fbref.com/en/matches/6e33466f/Puebla-Queretaro-March-4-2019-Liga-MX,Puebla,Querétaro,1551751200,José Sánchez Solá,Víctor Vucetich,"Estadio Cuauhtémoc, Puebla",12129
+https://fbref.com/en/matches/21498e63/America-Necaxa-March-5-2019-Liga-MX,América,Necaxa,1551840600,Miguel Herrera,Guillermo Vázquez,"Estadio Azteca, Coyoacán",14241
+https://fbref.com/en/matches/431ef19b/Pachuca-Tijuana-March-9-2019-Liga-MX,Pachuca,Tijuana,1552172400,Martín Palermo,Óscar Pareja,"Estadio Hidalgo, Pachuca",19549
+https://fbref.com/en/matches/ba5df549/Veracruz-Santos-Laguna-March-8-2019-Liga-MX,Veracruz,Santos Laguna,1552093200,Robert Siboldi,Salvador Reyes,"Estadio Luis de la Fuente, Veracruz, Veracruz",9665
+https://fbref.com/en/matches/6cfa4b92/Atlas-Cruz-Azul-March-8-2019-Liga-MX,Atlas,Cruz Azul,1552100400,Guillermo Hoyos,Pedro Caixinha,"Estadio Jalisco, Guadalajara, Jalisco",33951
+https://fbref.com/en/matches/322fc074/Pumas-UNAM-Morelia-March-10-2019-Liga-MX,Pumas UNAM,Morelia,1552240800,Bruno Marioni,Javier Torrente,"Estadio Olímpico de Universitario, Ciudad de México",14122
+https://fbref.com/en/matches/ba397f5c/Lobos-BUAP-Leon-March-10-2019-Liga-MX,Lobos BUAP,León,1552255200,Francisco Palencia,Ignacio Ambríz,"Estadio Universitario BUAP, Puebla",7148
+https://fbref.com/en/matches/ca29bc0f/America-Puebla-March-9-2019-Liga-MX,América,Puebla,1552179600,Miguel Herrera,José Sánchez Solá,"Estadio Azteca, Coyoacán",21614
+https://fbref.com/en/matches/e485a6ca/Monterrey-UANL-March-9-2019-Liga-MX,Monterrey,UANL,1552179600,Diego Alonso,Tuca Ferretti,"Estadio BBVA Bancomer, Guadalupe, Nuevo León",51027
+https://fbref.com/en/matches/0b53351a/Necaxa-Toluca-March-9-2019-Liga-MX,Necaxa,Toluca,1552186800,Guillermo Vázquez,Ricardo La Volpe,"Estadio Victoria de Aguascalientes, Aguascalientes, Aguascalientes",15724
+https://fbref.com/en/matches/cd44df71/Queretaro-Guadalajara-March-9-2019-Liga-MX,Querétaro,Guadalajara,1552186800,Víctor Vucetich,José Cardozo,"Estadio La Corregidora, Santiago de Querétaro, Querétaro",26562
+https://fbref.com/en/matches/f8223973/Cruz-Azul-Pachuca-March-16-2019-Liga-MX,Cruz Azul,Pachuca,1552777200,Pedro Caixinha,Martín Palermo,"Estadio Azteca, Coyoacán",15321
+https://fbref.com/en/matches/14f914aa/Morelia-Lobos-BUAP-March-15-2019-Liga-MX,Morelia,Lobos BUAP,1552698000,Javier Torrente,Francisco Palencia,"Estadio Generalísimo José María Morelos y Pavón, Morelia, Michoacán",15021
+https://fbref.com/en/matches/202b1ca9/Puebla-Pumas-UNAM-March-15-2019-Liga-MX,Puebla,Pumas UNAM,1552705200,José Sánchez Solá,Bruno Marioni,"Estadio Cuauhtémoc, Puebla",23142
+https://fbref.com/en/matches/8480587c/Toluca-Atlas-March-17-2019-Liga-MX,Toluca,Atlas,1552845600,Ricardo La Volpe,Leandro Cufré,"Estadio Nemesio Díez, Toluca",15948
+https://fbref.com/en/matches/06d23302/Guadalajara-America-March-16-2019-Liga-MX,Guadalajara,América,1552784400,José Cardozo,Miguel Herrera,"Estadio Akron, Zapopan, Jalisco",41075
+https://fbref.com/en/matches/12f05593/Tijuana-Monterrey-March-16-2019-Liga-MX,Tijuana,Monterrey,1552791960,Óscar Pareja,Diego Alonso,"Estadio Caliente, Tijuana, Baja California",27133
+https://fbref.com/en/matches/14caf65e/UANL-Queretaro-March-16-2019-Liga-MX,UANL,Querétaro,1552791600,Tuca Ferretti,Víctor Vucetich,"Estadio Universitario de Nuevo León, San Nicolás de los Garza",41137
+https://fbref.com/en/matches/20d90d8a/Santos-Laguna-Necaxa-March-17-2019-Liga-MX,Santos Laguna,Necaxa,1552867560,Salvador Reyes,Guillermo Vázquez,"Estadio Nuevo Corona, Torreón, Coahuila",23616
+https://fbref.com/en/matches/c7a5b3e8/Leon-Veracruz-March-17-2019-Liga-MX,León,Veracruz,1552874400,Ignacio Ambríz,Robert Siboldi,"Estadio León, León, Guanajuato",24498
+https://fbref.com/en/matches/5a90ca6a/Queretaro-Tijuana-March-30-2019-Liga-MX,Querétaro,Tijuana,1553986800,Víctor Vucetich,Óscar Pareja,"Estadio La Corregidora, Santiago de Querétaro, Querétaro",9655
+https://fbref.com/en/matches/2e070d9f/Morelia-Leon-March-29-2019-Liga-MX,Morelia,León,1553907600,Javier Torrente,Ignacio Ambríz,"Estadio Generalísimo José María Morelos y Pavón, Morelia, Michoacán",19417
+https://fbref.com/en/matches/1bf59042/Atlas-Santos-Laguna-March-29-2019-Liga-MX,Atlas,Santos Laguna,1553914800,Leandro Cufré,Salvador Reyes,"Estadio Jalisco, Guadalajara, Jalisco",20201
+https://fbref.com/en/matches/9aa889dc/Pumas-UNAM-Guadalajara-March-31-2019-Liga-MX,Pumas UNAM,Guadalajara,1554055200,Bruno Marioni,José Cardozo,"Estadio Olímpico de Universitario, Ciudad de México",38520
+https://fbref.com/en/matches/f76386a5/Lobos-BUAP-Puebla-March-31-2019-Liga-MX,Lobos BUAP,Puebla,1554069600,Francisco Palencia,José Sánchez Solá,"Estadio Universitario BUAP, Puebla",9744
+https://fbref.com/en/matches/42ac7251/Pachuca-Toluca-March-30-2019-Liga-MX,Pachuca,Toluca,1553994000,Martín Palermo,Ricardo La Volpe,"Estadio Hidalgo, Pachuca",22765
+https://fbref.com/en/matches/7c462e31/America-UANL-March-30-2019-Liga-MX,América,UANL,1553994000,Miguel Herrera,Tuca Ferretti,"Estadio Azteca, Coyoacán",36220
+https://fbref.com/en/matches/0f1f57c7/Monterrey-Cruz-Azul-March-30-2019-Liga-MX,Monterrey,Cruz Azul,1554001200,Diego Alonso,Pedro Caixinha,"Estadio BBVA Bancomer, Guadalupe, Nuevo León",41771
+https://fbref.com/en/matches/8434a290/Necaxa-Veracruz-March-30-2019-Liga-MX,Necaxa,Veracruz,1554001200,Guillermo Vázquez,Robert Siboldi,"Estadio Victoria de Aguascalientes, Aguascalientes, Aguascalientes",13923
+https://fbref.com/en/matches/73204a94/Cruz-Azul-Queretaro-April-6-2019-Liga-MX,Cruz Azul,Querétaro,1554591960,Pedro Caixinha,Víctor Vucetich,"Estadio Azteca, Coyoacán",12963
+https://fbref.com/en/matches/9960b6d8/Veracruz-Atlas-April-5-2019-Liga-MX,Veracruz,Atlas,1554512400,Robert Siboldi,Leandro Cufré,"Estadio Luis de la Fuente, Veracruz, Veracruz",7744
+https://fbref.com/en/matches/ddeba56f/Puebla-Morelia-April-5-2019-Liga-MX,Puebla,Morelia,1554519600,José Sánchez Solá,Javier Torrente,"Estadio Cuauhtémoc, Puebla",19071
+https://fbref.com/en/matches/4478d150/Toluca-Monterrey-April-7-2019-Liga-MX,Toluca,Monterrey,1554656400,Ricardo La Volpe,Diego Alonso,"Estadio Nemesio Díez, Toluca",17853
+https://fbref.com/en/matches/eb4b29df/Santos-Laguna-Pachuca-April-7-2019-Liga-MX,Santos Laguna,Pachuca,1554678360,Rubén Duarte,Martín Palermo,"Estadio Nuevo Corona, Torreón, Coahuila",20202
+https://fbref.com/en/matches/1b465883/UANL-Pumas-UNAM-April-6-2019-Liga-MX,UANL,Pumas UNAM,1554598800,Tuca Ferretti,Bruno Marioni,"Estadio Universitario de Nuevo León, San Nicolás de los Garza",41527
+https://fbref.com/en/matches/9075ea49/Leon-Necaxa-April-6-2019-Liga-MX,León,Necaxa,1554598800,Ignacio Ambríz,Guillermo Vázquez,"Estadio León, León, Guanajuato",25731
+https://fbref.com/en/matches/db05debf/Tijuana-America-April-6-2019-Liga-MX,Tijuana,América,1554606360,Óscar Pareja,Miguel Herrera,"Estadio Caliente, Tijuana, Baja California",27333
+https://fbref.com/en/matches/7a714ccb/Guadalajara-Lobos-BUAP-April-6-2019-Liga-MX,Guadalajara,Lobos BUAP,1554606000,Alberto Coyote,Francisco Palencia,"Estadio Akron, Zapopan, Jalisco",26557
+https://fbref.com/en/matches/5016fa19/Queretaro-Toluca-April-13-2019-Liga-MX,Querétaro,Toluca,1555192800,Víctor Vucetich,Ricardo La Volpe,"Estadio La Corregidora, Santiago de Querétaro, Querétaro",14976
+https://fbref.com/en/matches/46803333/Puebla-Leon-April-12-2019-Liga-MX,Puebla,León,1555120800,José Sánchez Solá,Ignacio Ambríz,"Estadio Cuauhtémoc, Puebla",19582
+https://fbref.com/en/matches/9da205cb/Atlas-Necaxa-April-12-2019-Liga-MX,Atlas,Necaxa,1555120800,Leandro Cufré,Guillermo Vázquez,"Estadio Jalisco, Guadalajara, Jalisco",21658
+https://fbref.com/en/matches/6bdbc305/Pumas-UNAM-Tijuana-April-14-2019-Liga-MX,Pumas UNAM,Tijuana,1555261200,Bruno Marioni,Óscar Pareja,"Estadio Olímpico de Universitario, Ciudad de México",12763
+https://fbref.com/en/matches/c48e4ef6/Lobos-BUAP-UANL-April-14-2019-Liga-MX,Lobos BUAP,UANL,1555275600,Francisco Palencia,Tuca Ferretti,"Estadio Universitario BUAP, Puebla",11943
+https://fbref.com/en/matches/7ea26a80/America-Cruz-Azul-April-14-2019-Liga-MX,América,Cruz Azul,1555282800,Miguel Herrera,Pedro Caixinha,"Estadio Azteca, Coyoacán",47407
+https://fbref.com/en/matches/0bdcffbc/Pachuca-Veracruz-April-13-2019-Liga-MX,Pachuca,Veracruz,1555200000,Martín Palermo,Robert Siboldi,"Estadio Hidalgo, Pachuca",22294
+https://fbref.com/en/matches/be2f9efe/Morelia-Guadalajara-April-13-2019-Liga-MX,Morelia,Guadalajara,1555207200,Javier Torrente,Tomás Boy,"Estadio Generalísimo José María Morelos y Pavón, Morelia, Michoacán",22360
+https://fbref.com/en/matches/800e5f05/Monterrey-Santos-Laguna-April-14-2019-Liga-MX,Monterrey,Santos Laguna,1555291800,Diego Alonso,Rubén Duarte,"Estadio BBVA Bancomer, Guadalupe, Nuevo León",39063
+https://fbref.com/en/matches/4af28d94/Necaxa-Pachuca-April-20-2019-Liga-MX,Necaxa,Pachuca,1555797600,Guillermo Vázquez,Martín Palermo,"Estadio Victoria de Aguascalientes, Aguascalientes, Aguascalientes",16891
+https://fbref.com/en/matches/357d5b4f/Leon-Atlas-April-20-2019-Liga-MX,León,Atlas,1555797960,Ignacio Ambríz,Leandro Cufré,"Estadio León, León, Guanajuato",25635
+https://fbref.com/en/matches/cda7ab2a/Tijuana-Lobos-BUAP-April-19-2019-Liga-MX,Tijuana,Lobos BUAP,1555725960,Óscar Pareja,Francisco Palencia,"Estadio Caliente, Tijuana, Baja California",23333
+https://fbref.com/en/matches/5f109d73/Veracruz-Monterrey-April-19-2019-Liga-MX,Veracruz,Monterrey,1555722000,José González,Diego Alonso,"Estadio Luis de la Fuente, Veracruz, Veracruz",15400
+https://fbref.com/en/matches/89f53a4c/Toluca-America-April-21-2019-Liga-MX,Toluca,América,1555866000,Ricardo La Volpe,Miguel Herrera,"Estadio Nemesio Díez, Toluca",25744
+https://fbref.com/en/matches/b94887ac/Santos-Laguna-Queretaro-April-21-2019-Liga-MX,Santos Laguna,Querétaro,1555887960,Guillermo Almada,Víctor Vucetich,"Estadio Nuevo Corona, Torreón, Coahuila",19938
+https://fbref.com/en/matches/9fecbf58/Cruz-Azul-Pumas-UNAM-April-20-2019-Liga-MX,Cruz Azul,Pumas UNAM,1555804800,Pedro Caixinha,Bruno Marioni,"Estadio Azteca, Coyoacán",24596
+https://fbref.com/en/matches/e0ef7a6e/UANL-Morelia-April-20-2019-Liga-MX,UANL,Morelia,1555804800,Tuca Ferretti,Javier Torrente,"Estadio Universitario de Nuevo León, San Nicolás de los Garza",40136
+https://fbref.com/en/matches/56afbb8e/Guadalajara-Puebla-April-20-2019-Liga-MX,Guadalajara,Puebla,1555812000,Tomás Boy,José Sánchez Solá,"Estadio Akron, Zapopan, Jalisco",26340
+https://fbref.com/en/matches/9f5f2d73/Pachuca-Atlas-April-27-2019-Liga-MX,Pachuca,Atlas,1556402400,Martín Palermo,Leandro Cufré,"Estadio Hidalgo, Pachuca",19347
+https://fbref.com/en/matches/22a08bc8/Puebla-UANL-April-26-2019-Liga-MX,Puebla,UANL,1556323200,José Sánchez Solá,Tuca Ferretti,"Estadio Cuauhtémoc, Puebla",7532
+https://fbref.com/en/matches/1bcc7543/Morelia-Tijuana-April-26-2019-Liga-MX,Morelia,Tijuana,1556330400,Javier Torrente,Óscar Pareja,"Estadio Generalísimo José María Morelos y Pavón, Morelia, Michoacán",19063
+https://fbref.com/en/matches/9503ea3e/Pumas-UNAM-Toluca-April-28-2019-Liga-MX,Pumas UNAM,Toluca,1556470800,Bruno Marioni,Ricardo La Volpe,"Estadio Olímpico de Universitario, Ciudad de México",16541
+https://fbref.com/en/matches/7365ba4a/Lobos-BUAP-Cruz-Azul-April-28-2019-Liga-MX,Lobos BUAP,Cruz Azul,1556485200,Francisco Palencia,Pedro Caixinha,"Estadio Universitario BUAP, Puebla",14275
+https://fbref.com/en/matches/c51dbf59/Queretaro-Veracruz-April-28-2019-Liga-MX,Querétaro,Veracruz,1556492400,Víctor Vucetich,René Isidoro García,"Estadio La Corregidora, Santiago de Querétaro, Querétaro",13532
+https://fbref.com/en/matches/376f34b0/America-Santos-Laguna-April-27-2019-Liga-MX,América,Santos Laguna,1556409600,Miguel Herrera,Guillermo Almada,"Estadio Azteca, Coyoacán",2672
+https://fbref.com/en/matches/7c5b7f8c/Monterrey-Necaxa-April-27-2019-Liga-MX,Monterrey,Necaxa,1556409600,Diego Alonso,Guillermo Vázquez,"Estadio BBVA Bancomer, Guadalupe, Nuevo León",38371
+https://fbref.com/en/matches/8c5b635d/Guadalajara-Leon-April-27-2019-Liga-MX,Guadalajara,León,1556416800,Tomás Boy,Ignacio Ambríz,"Estadio Akron, Zapopan, Jalisco",29104
+https://fbref.com/en/matches/1dc1c260/Cruz-Azul-Morelia-May-4-2019-Liga-MX,Cruz Azul,Morelia,1557007200,Pedro Caixinha,Javier Torrente,"Estadio Azteca, Coyoacán",17758
+https://fbref.com/en/matches/ed7dfd9d/Veracruz-America-May-3-2019-Liga-MX,Veracruz,América,1556935200,René Isidoro García,Miguel Herrera,"Estadio Luis de la Fuente, Veracruz, Veracruz",26550
+https://fbref.com/en/matches/7c98ec07/Toluca-Lobos-BUAP-May-5-2019-Liga-MX,Toluca,Lobos BUAP,1557075600,Ricardo La Volpe,Francisco Palencia,"Estadio Nemesio Díez, Toluca",16793
+https://fbref.com/en/matches/36b560ff/Atlas-Monterrey-May-5-2019-Liga-MX,Atlas,Monterrey,1557090000,Leandro Cufré,Diego Alonso,"Estadio Jalisco, Guadalajara, Jalisco",20069
+https://fbref.com/en/matches/5ba572ba/Santos-Laguna-Pumas-UNAM-May-5-2019-Liga-MX,Santos Laguna,Pumas UNAM,1557097560,Guillermo Almada,Bruno Marioni,"Estadio Nuevo Corona, Torreón, Coahuila",18778
+https://fbref.com/en/matches/cf18f68c/UANL-Guadalajara-May-4-2019-Liga-MX,UANL,Guadalajara,1557014400,Tuca Ferretti,Tomás Boy,"Estadio Universitario de Nuevo León, San Nicolás de los Garza",41221
+https://fbref.com/en/matches/dd6e1161/Leon-Pachuca-May-4-2019-Liga-MX,León,Pachuca,1557014400,Ignacio Ambríz,Martín Palermo,"Estadio León, León, Guanajuato",18661
+https://fbref.com/en/matches/4d54d067/Tijuana-Puebla-May-4-2019-Liga-MX,Tijuana,Puebla,1557021960,Óscar Pareja,José Sánchez Solá,"Estadio Caliente, Tijuana, Baja California",26333
+https://fbref.com/en/matches/65454ba7/Necaxa-Queretaro-May-4-2019-Liga-MX,Necaxa,Querétaro,1557021600,Guillermo Vázquez,Víctor Vucetich,"Estadio Victoria de Aguascalientes, Aguascalientes, Aguascalientes",15866
+https://fbref.com/en/matches/316c24df/Pachuca-UANL-May-8-2019-Liga-MX,Pachuca,UANL,1557360000,Martín Palermo,Tuca Ferretti,"Estadio Hidalgo, Pachuca",21298
+https://fbref.com/en/matches/3e609d93/Tijuana-Leon-May-8-2019-Liga-MX,Tijuana,León,1557367560,Óscar Pareja,Ignacio Ambríz,"Estadio Caliente, Tijuana, Baja California",25333
+https://fbref.com/en/matches/24f28f95/Necaxa-Monterrey-May-9-2019-Liga-MX,Necaxa,Monterrey,1557446400,Guillermo Vázquez,Diego Alonso,"Estadio Victoria de Aguascalientes, Aguascalientes, Aguascalientes",14627
+https://fbref.com/en/matches/3ab6662e/America-Cruz-Azul-May-9-2019-Liga-MX,América,Cruz Azul,1557453900,Miguel Herrera,Pedro Caixinha,"Estadio Azteca, Coyoacán",31450
+https://fbref.com/en/matches/cb861037/Cruz-Azul-America-May-12-2019-Liga-MX,Cruz Azul,América,1557702600,Pedro Caixinha,Miguel Herrera,"Estadio Azteca, Coyoacán",34779
+https://fbref.com/en/matches/0847b99b/UANL-Pachuca-May-11-2019-Liga-MX,UANL,Pachuca,1557619200,Tuca Ferretti,Martín Palermo,"Estadio Universitario de Nuevo León, San Nicolás de los Garza",41615
+https://fbref.com/en/matches/6c7a6e07/Leon-Tijuana-May-11-2019-Liga-MX,León,Tijuana,1557626760,Ignacio Ambríz,Óscar Pareja,"Estadio León, León, Guanajuato",23291
+https://fbref.com/en/matches/33b13305/Monterrey-Necaxa-May-12-2019-Liga-MX,Monterrey,Necaxa,1557709200,Diego Alonso,Guillermo Vázquez,"Estadio BBVA Bancomer, Guadalupe, Nuevo León",33884
+https://fbref.com/en/matches/17e9ca6e/Monterrey-UANL-May-15-2019-Liga-MX,Monterrey,UANL,1557972360,Diego Alonso,Tuca Ferretti,"Estadio BBVA Bancomer, Guadalupe, Nuevo León",48269
+https://fbref.com/en/matches/e7f8bd91/America-Leon-May-16-2019-Liga-MX,América,León,1558056600,Miguel Herrera,Ignacio Ambríz,"Estadio Azteca, Coyoacán",27228
+https://fbref.com/en/matches/3fae5ab8/UANL-Monterrey-May-18-2019-Liga-MX,UANL,Monterrey,1558224000,Tuca Ferretti,Diego Alonso,"Estadio Universitario de Nuevo León, San Nicolás de los Garza",41615
+https://fbref.com/en/matches/5dd013b8/Leon-America-May-19-2019-Liga-MX,León,América,1558314360,Ignacio Ambríz,Miguel Herrera,"Estadio León, León, Guanajuato",26721
+https://fbref.com/en/matches/45b690c5/UANL-Leon-May-23-2019-Liga-MX,UANL,León,1558662300,Tuca Ferretti,Ignacio Ambríz,"Estadio Universitario de Nuevo León, San Nicolás de los Garza",41615
+https://fbref.com/en/matches/2e81a5ec/Leon-UANL-May-26-2019-Liga-MX,León,UANL,1558919160,Ignacio Ambríz,Tuca Ferretti,"Estadio León, León, Guanajuato",26131

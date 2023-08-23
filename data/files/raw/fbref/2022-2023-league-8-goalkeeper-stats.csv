@@ -1,0 +1,254 @@
+home_team,away_team,datetime,nationality,age,minutes,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct,gk_psxg,gk_passes_completed_launched,gk_passes_launched,gk_passes_pct_launched,gk_passes,gk_passes_throws,gk_pct_passes_launched,gk_passes_length_avg,gk_goal_kicks,gk_pct_goal_kicks_launched,gk_goal_kick_length_avg,gk_crosses,gk_crosses_stopped,gk_crosses_stopped_pct,gk_def_actions_outside_pen_area,gk_avg_distance_def_actions,player_id,player,squad,start
+Dinamo Zagreb,Chelsea,1662482700,hr CRO,27-240,90,3,0,3,100.0,0.2,11,33,33.3,34,2,76.5,47.5,9,77.8,56.2,24,0,0.0,0,,58f077c0,Dominik Livaković,Dinamo Zagreb,True
+Dortmund,FC Copenhagen,1662482700,de GER,31-146,90,2,0,2,100.0,0.5,3,7,42.9,27,0,22.2,28.8,4,25.0,38.3,11,0,0.0,2,28.3,b56dd813,Alexander Meyer,Dortmund,True
+Celtic,Real Madrid,1662490800,eng ENG,35-140,90,6,3,3,50.0,2.7,2,4,50.0,15,4,20.0,25.3,8,12.5,26.6,7,0,0.0,1,30.0,cb4f24c6,Joe Hart,Celtic,True
+Benfica,Maccabi Haifa,1662490800,gr GRE,28-133,90,2,0,2,100.0,0.2,5,15,33.3,23,5,47.8,40.0,11,36.4,32.0,8,1,12.5,2,16.3,03df04ff,Odisseas Vlachodimos,Benfica,True
+Red Bull Salzburg,Milan,1662490800,ch SUI,24-157,90,3,1,2,66.7,0.6,5,11,45.5,17,2,41.2,39.2,7,57.1,51.6,15,0,0.0,3,18.8,ff74841d,Philipp Köhn,Red Bull Salzburg,True
+Sevilla,Manchester City,1662490800,ma MAR,31-154,90,9,4,5,55.6,3.6,10,25,40.0,38,3,39.5,35.6,12,83.3,59.8,19,1,5.3,1,9.7,f6798fc3,Yassine Bounou,Sevilla,True
+RB Leipzig,Shakhtar Donetsk,1662490800,hu HUN,32-123,90,4,4,0,0.0,2.7,0,2,0.0,20,3,10.0,19.2,1,0.0,14.0,2,0,0.0,1,33.0,bcb2ccd8,Péter Gulácsi,RB Leipzig,True
+Paris Saint-Germain,Juventus,1662490800,it ITA,23-193,90,4,1,3,75.0,0.4,0,3,0.0,14,3,21.4,28.7,3,0.0,15.0,9,0,0.0,1,9.8,08f5afaa,Gianluigi Donnarumma,Paris Saint-Germain,True
+Ajax,Rangers,1662569100,nl NED,38-303,90,1,0,1,100.0,0.2,0,3,0.0,30,1,10.0,22.0,3,0.0,21.3,7,0,0.0,3,25.0,3392603d,Remko Pasveer,Ajax,True
+Eintracht Frankfurt,Sporting CP,1662569100,de GER,32-061,90,5,3,2,40.0,1.7,2,10,20.0,23,2,39.1,36.3,4,25.0,30.8,5,0,0.0,2,20.6,ce17b5eb,Kevin Trapp,Eintracht Frankfurt,True
+Tottenham Hotspur,Marseille,1662577200,fr FRA,35-255,90,1,0,1,100.0,0.2,4,7,57.1,29,5,17.2,26.6,6,33.3,30.5,8,1,12.5,0,11.3,8f62b6ee,Hugo Lloris,Tottenham Hotspur,True
+Napoli,Liverpool,1662577200,it ITA,25-169,90,7,1,6,85.7,1.8,2,10,20.0,34,9,29.4,28.6,8,0.0,14.6,27,1,3.7,2,14.7,9413b19f,Alex Meret,Napoli,True
+Atlético Madrid,Porto,1662577200,si SVN,29-243,90,3,1,2,100.0,2.1,3,9,33.3,18,3,11.1,23.8,12,58.3,45.5,12,0,0.0,2,14.8,ee8508c0,Jan Oblak,Atlético Madrid,True
+Barcelona,Viktoria Plzeň,1662577200,de GER,30-130,90,1,1,0,0.0,0.6,1,3,33.3,22,5,13.6,24.3,7,0.0,17.7,7,0,0.0,1,12.5,6f51e382,Marc-André ter Stegen,Barcelona,True
+Internazionale,Bayern Munich,1662577200,cm CMR,26-158,90,11,2,10,81.8,3.5,4,18,22.2,36,10,38.9,38.7,6,66.7,55.5,9,3,33.3,0,8.0,e9c0c1b2,André Onana,Internazionale,True
+Club Brugge,Bayer Leverkusen,1662577200,be BEL,34-185,90,3,0,3,100.0,0.6,9,16,56.3,21,1,47.6,35.3,12,50.0,41.8,14,0,0.0,0,9.0,d436eb94,Simon Mignolet,Club Brugge,True
+Sporting CP,Tottenham Hotspur,1663087500,es ESP,35-123,90,5,0,5,100.0,1.4,6,22,27.3,50,5,32.0,31.2,10,60.0,39.3,15,1,6.7,0,7.8,65d62814,Antonio Adán,Sporting CP,True
+Viktoria Plzeň,Internazionale,1663087500,cz CZE,26-139,90,8,2,6,75.0,1.9,6,17,35.3,20,2,55.0,42.9,8,75.0,49.8,19,0,0.0,2,23.0,eca17cf2,Jindřich Staněk,Viktoria Plzeň,True
+Liverpool,Ajax,1663095600,br BRA,29-346,90,1,1,0,0.0,0.5,8,9,88.9,37,3,21.6,26.3,3,33.3,39.3,3,1,33.3,2,19.8,7a2e46a8,Alisson,Liverpool,True
+Porto,Club Brugge,1663095600,pt POR,22-359,90,7,4,3,57.1,3.3,3,7,42.9,25,7,28.0,32.6,3,0.0,12.3,9,1,11.1,3,17.6,93fffbcf,Diogo Costa,Porto,True
+Bayer Leverkusen,Atlético Madrid,1663095600,fi FIN,32-293,90,3,0,3,100.0,0.1,2,6,33.3,21,4,28.6,29.3,7,0.0,16.3,13,1,7.7,0,5.0,ad3389d5,Lukáš Hrádecký,Bayer Leverkusen,True
+Marseille,Eintracht Frankfurt,1663095600,es ESP,27-274,90,7,1,6,85.7,1.1,2,6,33.3,23,6,21.7,30.7,6,16.7,23.3,5,0,0.0,3,21.0,20b9f052,Pau López,Marseille,True
+Bayern Munich,Barcelona,1663095600,de GER,36-170,90,4,0,4,100.0,1.1,3,15,20.0,44,6,31.8,39.1,8,12.5,23.6,12,0,0.0,0,,8778c910,Manuel Neuer,Bayern Munich,True
+Milan,Dinamo Zagreb,1663173900,fr FRA,27-073,90,3,1,2,66.7,1.2,0,3,0.0,27,3,11.1,26.1,2,0.0,9.5,5,0,0.0,0,17.0,fcb38f57,Mike Maignan,Milan,True
+Shakhtar Donetsk,Celtic,1663173900,ua UKR,21-044,90,6,1,6,83.3,0.8,4,16,25.0,34,3,23.5,30.1,16,50.0,44.2,16,0,0.0,2,16.0,41f0b196,Anatolii Trubin,Shakhtar Donetsk,True
+Rangers,Napoli,1663182000,sct SCO,40-226,90,10,3,6,80.0,3.7,10,26,38.5,25,4,60.0,41.2,12,91.7,64.7,10,0,0.0,0,,f3a97d02,Allan McGregor,Rangers,True
+Chelsea,Red Bull Salzburg,1663182000,es ESP,27-346,90,3,1,2,66.7,0.4,2,11,18.2,36,4,27.8,29.7,3,33.3,38.0,7,0,0.0,3,34.7,28d596a0,Kepa Arrizabalaga,Chelsea,True
+Manchester City,Dortmund,1663182000,br BRA,29-028,90,2,1,1,50.0,0.5,1,5,20.0,24,4,12.5,25.0,5,40.0,41.2,7,0,0.0,1,37.0,3bb7b8b4,Ederson,Manchester City,True
+FC Copenhagen,Sevilla,1663182000,au AUS,30-159,90,2,0,2,100.0,0.7,5,25,20.0,31,3,61.3,42.7,6,100.0,67.0,13,2,15.4,1,14.3,4535e4bb,Mathew Ryan,FC Copenhagen,True
+Juventus,Benfica,1663182000,it ITA,29-308,90,7,2,5,85.7,3.1,2,9,22.2,29,6,31.0,33.5,1,0.0,21.0,17,0,0.0,0,,4c62d0c8,Mattia Perin,Juventus,True
+Real Madrid,RB Leipzig,1663182000,be BEL,30-126,90,3,0,3,100.0,0.7,1,5,20.0,32,6,9.4,24.3,8,25.0,37.8,11,2,18.2,1,13.8,1840e36d,Thibaut Courtois,Real Madrid,True
+Maccabi Haifa,Paris Saint-Germain,1663182000,us USA,30-027,90,6,3,3,50.0,2.9,2,5,40.0,9,3,22.2,26.6,6,50.0,36.5,13,0,0.0,1,13.7,75c2e240,Josh Cohen,Maccabi Haifa,True
+Bayern Munich,Viktoria Plzeň,1664901900,de GER,36-191,90,3,0,3,100.0,0.5,1,1,100.0,22,5,0.0,23.2,8,12.5,23.3,5,0,0.0,0,,8778c910,Manuel Neuer,Bayern Munich,True
+Marseille,Sporting CP,1664902500,es ESP,27-295,90,2,1,1,50.0,0.7,3,6,50.0,14,3,42.9,35.9,5,0.0,21.8,3,1,33.3,0,5.0,20b9f052,Pau López,Marseille,True
+Liverpool,Rangers,1664910000,br BRA,30-002,90,1,0,1,100.0,0.7,4,9,44.4,22,3,36.4,31.8,6,16.7,26.8,1,1,100.0,1,19.0,7a2e46a8,Alisson,Liverpool,True
+Porto,Bayer Leverkusen,1664910000,pt POR,23-015,90,6,0,5,100.0,1.1,4,13,30.8,32,4,31.3,32.7,3,100.0,62.7,11,0,0.0,0,8.0,93fffbcf,Diogo Costa,Porto,True
+Eintracht Frankfurt,Tottenham Hotspur,1664910000,de GER,32-088,90,1,0,1,100.0,0.0,3,11,27.3,22,2,45.5,34.8,8,12.5,23.6,8,0,0.0,0,10.0,ce17b5eb,Kevin Trapp,Eintracht Frankfurt,True
+Internazionale,Barcelona,1664910000,cm CMR,26-185,90,2,0,2,100.0,0.4,9,18,50.0,26,4,46.2,36.2,10,60.0,42.2,34,3,8.8,0,6.0,e9c0c1b2,André Onana,Internazionale,True
+Ajax,Napoli,1664910000,nl NED,38-330,90,13,6,7,53.8,6.5,5,29,17.2,48,8,52.1,38.8,9,44.4,44.1,10,0,0.0,0,10.0,3392603d,Remko Pasveer,Ajax,True
+Club Brugge,Atlético Madrid,1664910000,be BEL,34-212,90,5,0,5,100.0,0.9,6,12,50.0,25,6,28.0,32.2,8,62.5,46.3,12,1,8.3,0,4.5,d436eb94,Simon Mignolet,Club Brugge,True
+RB Leipzig,Celtic,1664988300,hu HUN,32-152,12,1,,1,,0.0,,,,,2,,,,,,,,,,14.0,bcb2ccd8,Péter Gulácsi,RB Leipzig,True
+RB Leipzig,Celtic,1664988300,de GER,31-156,78,4,1,3,75.0,1.0,2,6,33.3,33,6,12.1,22.9,6,33.3,30.8,9,0,0.0,1,42.0,663e080e,Janis Blaswich,RB Leipzig,True
+Red Bull Salzburg,Dinamo Zagreb,1664988300,ch SUI,24-186,90,3,0,3,100.0,0.8,4,9,44.4,14,2,57.1,43.8,5,20.0,31.0,13,0,0.0,0,9.0,ff74841d,Philipp Köhn,Red Bull Salzburg,True
+Chelsea,Milan,1664996400,es ESP,28-002,90,1,0,1,100.0,0.1,6,14,42.9,19,1,47.4,39.9,5,100.0,64.2,6,0,0.0,0,8.0,28d596a0,Kepa Arrizabalaga,Chelsea,True
+Benfica,Paris Saint-Germain,1664996400,gr GRE,28-162,90,7,1,6,85.7,1.1,2,10,20.0,18,5,33.3,33.1,6,66.7,48.8,12,0,0.0,0,14.3,03df04ff,Odisseas Vlachodimos,Benfica,True
+Manchester City,FC Copenhagen,1664996400,br BRA,29-049,90,0,0,0,,0.0,8,8,100.0,31,4,25.8,27.6,3,0.0,23.7,4,0,0.0,0,,3bb7b8b4,Ederson,Manchester City,True
+Real Madrid,Shakhtar Donetsk,1664996400,ua UKR,23-236,90,3,1,2,66.7,0.9,0,1,0.0,22,6,4.5,17.6,6,0.0,14.7,5,0,0.0,2,27.0,3061e1ec,Andriy Lunin,Real Madrid,True
+Sevilla,Dortmund,1664996400,ma MAR,31-183,90,7,4,3,42.9,2.3,2,5,40.0,16,4,6.3,24.6,8,50.0,39.1,7,0,0.0,2,16.3,f6798fc3,Yassine Bounou,Sevilla,True
+Juventus,Maccabi Haifa,1664996400,pl POL,32-170,90,4,1,3,75.0,1.4,3,5,60.0,26,6,3.8,22.0,7,57.1,41.0,9,1,11.1,2,23.0,01b8a2b2,Wojciech Szczęsny,Juventus,True
+FC Copenhagen,Manchester City,1665506700,pl POL,23-276,90,4,0,3,100.0,1.7,5,10,50.0,24,3,29.2,30.3,7,42.9,41.9,15,2,13.3,3,17.4,62182b1d,Kamil Grabara,FC Copenhagen,True
+Maccabi Haifa,Juventus,1665506700,us USA,30-054,90,5,0,5,100.0,1.5,5,18,27.8,19,1,68.4,41.7,6,83.3,52.3,31,3,9.7,5,22.6,75c2e240,Josh Cohen,Maccabi Haifa,True
+Celtic,RB Leipzig,1665514800,eng ENG,35-175,90,5,2,3,60.0,2.2,1,3,33.3,21,7,9.5,25.9,3,33.3,35.7,14,0,0.0,0,9.0,cb4f24c6,Joe Hart,Celtic,True
+Dortmund,Sevilla,1665514800,ch SUI,24-309,90,2,1,1,50.0,1.1,2,5,40.0,22,3,18.2,24.0,7,14.3,22.4,8,0,0.0,0,,cd59b9df,Gregor Kobel,Dortmund,True
+Paris Saint-Germain,Benfica,1665514800,it ITA,23-228,90,1,1,0,100.0,1.0,3,5,60.0,21,3,19.0,22.4,5,20.0,25.2,7,0,0.0,0,16.0,08f5afaa,Gianluigi Donnarumma,Paris Saint-Germain,True
+Milan,Chelsea,1665514800,ro ROU,36-244,90,4,2,2,75.0,2.3,5,14,35.7,25,2,32.0,35.1,7,85.7,56.4,7,0,0.0,1,28.0,b056e3da,Ciprian Tătărușanu,Milan,True
+Dinamo Zagreb,Red Bull Salzburg,1665514800,hr CRO,27-275,90,3,1,2,66.7,0.8,8,30,26.7,28,4,67.9,46.7,15,73.3,55.4,8,0,0.0,2,18.7,58f077c0,Dominik Livaković,Dinamo Zagreb,True
+Shakhtar Donetsk,Real Madrid,1665514800,ua UKR,21-071,90,5,1,4,80.0,0.5,5,12,41.7,31,3,16.1,27.8,11,63.6,49.1,25,2,8.0,0,6.8,41f0b196,Anatolii Trubin,Shakhtar Donetsk,True
+Napoli,Ajax,1665593100,it ITA,25-204,90,3,2,1,66.7,1.6,4,4,100.0,24,2,12.5,21.6,8,12.5,19.3,10,0,0.0,0,4.5,9413b19f,Alex Meret,Napoli,True
+Atlético Madrid,Club Brugge,1665593100,si SVN,29-278,90,1,0,1,100.0,0.1,2,9,22.2,13,6,38.5,35.3,6,66.7,47.5,2,0,0.0,0,,ee8508c0,Jan Oblak,Atlético Madrid,True
+Sporting CP,Marseille,1665601200,uy URU,22-173,90,5,2,3,80.0,2.8,6,19,31.6,27,8,29.6,28.4,11,100.0,56.6,11,0,0.0,0,,1f994616,Franco Israel,Sporting CP,True
+Rangers,Liverpool,1665601200,sct SCO,40-254,90,9,7,2,22.2,4.4,5,24,20.8,38,2,52.6,40.1,9,44.4,39.6,8,0,0.0,3,23.3,f3a97d02,Allan McGregor,Rangers,True
+Tottenham Hotspur,Eintracht Frankfurt,1665601200,fr FRA,35-290,90,6,2,4,66.7,2.1,2,6,33.3,20,3,30.0,34.0,6,0.0,18.0,11,0,0.0,2,17.3,8f62b6ee,Hugo Lloris,Tottenham Hotspur,True
+Viktoria Plzeň,Bayern Munich,1665601200,cz CZE,26-168,90,8,4,4,50.0,4.8,8,19,42.1,19,3,73.7,45.3,10,50.0,38.1,8,1,12.5,1,10.0,eca17cf2,Jindřich Staněk,Viktoria Plzeň,True
+Bayer Leverkusen,Porto,1665601200,fi FIN,32-322,90,3,3,0,66.7,2.4,2,3,66.7,20,2,15.0,23.9,2,0.0,14.5,3,1,33.3,1,18.5,ad3389d5,Lukáš Hrádecký,Bayer Leverkusen,True
+Barcelona,Internazionale,1665601200,de GER,30-165,90,8,3,5,62.5,4.0,4,5,80.0,17,7,17.6,24.6,4,50.0,39.3,15,0,0.0,1,18.5,6f51e382,Marc-André ter Stegen,Barcelona,True
+Sevilla,FC Copenhagen,1666716300,rs SRB,30-274,90,2,0,2,100.0,0.2,5,12,41.7,27,1,33.3,29.4,3,100.0,62.7,14,0,0.0,0,10.0,ac295d9e,Marko Dmitrović,Sevilla,True
+Red Bull Salzburg,Chelsea,1666716300,ch SUI,24-206,90,10,2,8,80.0,3.0,3,12,25.0,20,4,55.0,43.0,1,100.0,64.0,7,0,0.0,0,15.5,ff74841d,Philipp Köhn,Red Bull Salzburg,True
+Benfica,Juventus,1666724400,gr GRE,28-182,90,4,3,1,25.0,2.7,5,18,27.8,27,6,44.4,39.6,8,75.0,57.4,20,1,5.0,0,6.0,03df04ff,Odisseas Vlachodimos,Benfica,True
+Celtic,Shakhtar Donetsk,1666724400,eng ENG,35-189,90,3,1,2,66.7,1.0,0,0,,16,3,0.0,18.6,3,0.0,22.0,10,0,0.0,1,34.0,cb4f24c6,Joe Hart,Celtic,True
+Paris Saint-Germain,Maccabi Haifa,1666724400,it ITA,23-242,90,5,2,3,60.0,1.1,2,2,100.0,25,7,8.0,20.6,7,0.0,14.9,14,1,7.1,0,6.3,08f5afaa,Gianluigi Donnarumma,Paris Saint-Germain,True
+Dortmund,Manchester City,1666724400,ch SUI,24-323,90,3,0,2,100.0,1.4,7,14,50.0,27,2,44.4,32.2,4,50.0,35.5,11,0,0.0,0,9.0,cd59b9df,Gregor Kobel,Dortmund,True
+RB Leipzig,Real Madrid,1666724400,de GER,31-176,90,6,2,4,83.3,1.7,0,3,0.0,31,4,6.5,22.8,7,14.3,29.1,13,1,7.7,0,4.5,663e080e,Janis Blaswich,RB Leipzig,True
+Dinamo Zagreb,Milan,1666724400,hr CRO,27-289,90,10,4,7,70.0,5.0,1,9,11.1,37,4,16.2,24.8,12,25.0,30.3,24,1,4.2,0,6.5,58f077c0,Dominik Livaković,Dinamo Zagreb,True
+Club Brugge,Porto,1666802700,be BEL,34-234,90,9,4,5,55.6,3.6,7,17,41.2,39,6,35.9,32.7,5,60.0,37.4,6,0,0.0,3,16.3,d436eb94,Simon Mignolet,Club Brugge,True
+Internazionale,Viktoria Plzeň,1666802700,cm CMR,26-207,90,1,0,1,100.0,0.5,2,4,50.0,23,1,17.4,23.5,5,0.0,13.8,14,2,14.3,0,5.7,e9c0c1b2,André Onana,Internazionale,True
+Tottenham Hotspur,Sporting CP,1666810800,fr FRA,35-304,90,4,1,3,75.0,1.3,3,4,75.0,17,4,17.6,21.9,7,14.3,24.0,9,0,0.0,0,12.0,8f62b6ee,Hugo Lloris,Tottenham Hotspur,True
+Eintracht Frankfurt,Marseille,1666810800,de GER,32-110,90,3,1,2,66.7,0.9,2,15,13.3,21,3,61.9,46.0,10,20.0,28.4,18,0,0.0,0,5.0,ce17b5eb,Kevin Trapp,Eintracht Frankfurt,True
+Atlético Madrid,Bayer Leverkusen,1666810800,si SVN,29-292,90,7,2,5,71.4,1.7,3,4,75.0,11,8,0.0,21.1,8,50.0,44.8,4,0,0.0,0,,ee8508c0,Jan Oblak,Atlético Madrid,True
+Barcelona,Bayern Munich,1666810800,de GER,30-179,90,7,3,4,57.1,2.5,6,9,66.7,35,2,20.0,24.5,6,33.3,32.5,6,0,0.0,3,25.5,6f51e382,Marc-André ter Stegen,Barcelona,True
+Ajax,Liverpool,1666810800,nl NED,38-352,90,5,3,2,40.0,1.7,2,18,11.1,44,6,38.6,34.3,5,20.0,32.8,17,0,0.0,2,12.3,3392603d,Remko Pasveer,Ajax,True
+Napoli,Rangers,1666810800,it ITA,25-218,90,1,0,1,100.0,0.3,1,2,50.0,13,0,7.7,18.9,5,20.0,21.2,16,0,0.0,1,16.0,9413b19f,Alex Meret,Napoli,True
+Porto,Atlético Madrid,1667324700,pt POR,23-043,90,5,1,5,80.0,0.9,6,23,26.1,63,11,34.9,35.0,5,20.0,35.2,19,3,15.8,0,4.8,93fffbcf,Diogo Costa,Porto,True
+Bayer Leverkusen,Club Brugge,1667324700,fi FIN,32-342,90,1,0,1,100.0,0.0,6,12,50.0,26,4,34.6,32.8,6,50.0,41.7,10,1,10.0,0,6.0,ad3389d5,Lukáš Hrádecký,Bayer Leverkusen,True
+Liverpool,Napoli,1667332800,br BRA,30-030,90,2,0,2,100.0,0.2,4,12,33.3,38,4,23.7,30.3,6,50.0,46.7,10,1,10.0,0,11.0,7a2e46a8,Alisson,Liverpool,True
+Rangers,Ajax,1667332800,sct SCO,40-274,90,7,3,4,57.1,2.1,4,8,50.0,29,5,24.1,31.5,10,10.0,25.2,8,0,0.0,0,12.0,f3a97d02,Allan McGregor,Rangers,True
+Sporting CP,Eintracht Frankfurt,1667332800,es ESP,35-172,90,4,2,2,75.0,1.8,2,8,25.0,33,5,24.2,29.4,2,0.0,13.5,17,0,0.0,2,19.0,65d62814,Antonio Adán,Sporting CP,True
+Marseille,Tottenham Hotspur,1667332800,es ESP,27-323,90,3,2,1,33.3,1.6,3,9,33.3,31,5,29.0,32.0,2,0.0,24.0,12,2,16.7,2,13.8,20b9f052,Pau López,Marseille,True
+Bayern Munich,Internazionale,1667332800,de GER,34-090,90,4,0,4,100.0,1.0,2,5,40.0,32,5,15.6,25.8,3,0.0,16.3,12,0,0.0,0,,7d3e7da6,Sven Ulreich,Bayern Munich,True
+Viktoria Plzeň,Barcelona,1667332800,cz CZE,26-188,90,7,4,3,42.9,2.8,9,15,60.0,18,4,55.6,42.3,5,100.0,69.4,7,1,14.3,4,21.3,eca17cf2,Jindřich Staněk,Viktoria Plzeň,True
+Real Madrid,Celtic,1667411100,be BEL,30-175,90,8,1,6,87.5,2.0,3,6,50.0,41,8,14.6,24.5,1,0.0,29.0,11,1,9.1,0,7.5,1840e36d,Thibaut Courtois,Real Madrid,True
+Shakhtar Donetsk,RB Leipzig,1667411100,ua UKR,21-093,90,7,4,4,42.9,2.3,3,6,50.0,34,5,11.8,22.1,3,66.7,50.7,6,0,0.0,0,12.0,41f0b196,Anatolii Trubin,Shakhtar Donetsk,True
+Manchester City,Sevilla,1667419200,de GER,29-361,90,2,1,1,50.0,0.7,2,3,66.7,24,1,8.3,19.1,5,20.0,31.4,4,1,25.0,4,22.5,c1242d4e,Stefan Ortega,Manchester City,True
+Chelsea,Dinamo Zagreb,1667419200,sn SEN,30-246,90,2,1,1,50.0,0.9,2,3,66.7,22,3,13.6,27.5,3,0.0,13.7,7,1,14.3,2,22.7,33887998,Edouard Mendy,Chelsea,True
+FC Copenhagen,Dortmund,1667419200,pl POL,23-298,90,1,1,0,0.0,0.0,8,16,50.0,27,8,40.7,36.8,8,62.5,53.6,13,3,23.1,0,8.8,62182b1d,Kamil Grabara,FC Copenhagen,True
+Juventus,Paris Saint-Germain,1667419200,pl POL,32-198,90,5,2,3,60.0,1.4,1,2,50.0,11,3,18.2,28.0,2,0.0,25.0,3,0,0.0,0,15.0,01b8a2b2,Wojciech Szczęsny,Juventus,True
+Milan,Red Bull Salzburg,1667419200,ro ROU,36-266,90,6,0,6,100.0,0.8,12,18,66.7,30,3,43.3,37.3,11,45.5,36.6,9,1,11.1,0,8.0,b056e3da,Ciprian Tătărușanu,Milan,True
+Maccabi Haifa,Benfica,1667419200,us USA,30-076,90,10,6,4,40.0,4.9,5,8,62.5,18,2,33.3,37.2,4,50.0,34.0,6,0,0.0,0,,75c2e240,Josh Cohen,Maccabi Haifa,True
+Paris Saint-Germain,Bayern Munich,1676404800,it ITA,23-354,90,7,1,6,85.7,0.9,0,2,0.0,26,8,7.7,22.2,10,0.0,15.7,21,0,0.0,1,14.5,08f5afaa,Gianluigi Donnarumma,Paris Saint-Germain,True
+Milan,Tottenham Hotspur,1676404800,ro ROU,37-005,90,3,0,3,100.0,0.2,10,21,47.6,35,4,45.7,36.6,9,55.6,42.7,19,2,10.5,4,19.1,b056e3da,Ciprian Tătărușanu,Milan,True
+Dortmund,Chelsea,1676491200,ch SUI,25-071,90,7,0,7,100.0,1.3,3,16,18.8,45,4,31.1,32.1,5,40.0,35.2,23,1,4.3,4,13.3,cd59b9df,Gregor Kobel,Dortmund,True
+Club Brugge,Benfica,1676491200,be BEL,34-346,90,4,2,2,75.0,2.2,7,13,53.8,22,2,40.9,36.6,11,36.4,28.0,12,0,0.0,0,9.0,d436eb94,Simon Mignolet,Club Brugge,True
+Liverpool,Real Madrid,1677009600,br BRA,30-142,90,6,5,1,16.7,2.8,2,3,66.7,25,4,8.0,22.2,4,25.0,33.3,8,1,12.5,0,10.7,7a2e46a8,Alisson,Liverpool,True
+Eintracht Frankfurt,Napoli,1677009600,de GER,32-228,90,10,2,7,80.0,3.4,4,14,28.6,22,7,54.5,37.0,5,40.0,33.0,13,1,7.7,0,10.3,ce17b5eb,Kevin Trapp,Eintracht Frankfurt,True
+RB Leipzig,Manchester City,1677096000,de GER,31-296,90,3,1,2,66.7,0.7,4,10,40.0,45,4,20.0,25.3,6,16.7,26.5,9,0,0.0,0,,663e080e,Janis Blaswich,RB Leipzig,True
+Internazionale,Porto,1677096000,cm CMR,26-326,90,4,0,4,100.0,1.2,2,6,33.3,43,7,11.6,26.7,7,14.3,29.7,0,0,,2,22.3,e9c0c1b2,André Onana,Internazionale,True
+Chelsea,Dortmund,1678219200,es ESP,28-155,90,4,0,4,100.0,0.8,5,15,33.3,22,3,40.9,36.0,6,100.0,65.3,14,0,0.0,1,18.8,28d596a0,Kepa Arrizabalaga,Chelsea,True
+Benfica,Club Brugge,1678219200,gr GRE,28-315,90,2,1,1,50.0,0.8,1,1,100.0,11,4,9.1,18.4,7,0.0,19.1,14,0,0.0,1,10.3,03df04ff,Odisseas Vlachodimos,Benfica,True
+Tottenham Hotspur,Milan,1678305600,eng ENG,34-356,90,3,0,3,100.0,1.0,2,6,33.3,27,6,22.2,27.6,4,0.0,26.5,3,0,0.0,2,25.0,c3e39f12,Fraser Forster,Tottenham Hotspur,True
+Bayern Munich,Paris Saint-Germain,1678305600,ch SUI,34-081,90,2,0,2,100.0,0.4,1,4,25.0,29,7,13.8,27.0,7,0.0,17.1,13,1,7.7,0,9.0,420c18a1,Yann Sommer,Bayern Munich,True
+Porto,Internazionale,1678824000,pt POR,23-176,90,5,0,5,100.0,0.4,5,17,29.4,63,10,20.6,31.7,6,66.7,46.5,11,1,9.1,3,21.5,93fffbcf,Diogo Costa,Porto,True
+Manchester City,RB Leipzig,1678824000,br BRA,29-209,90,1,0,1,100.0,0.0,5,7,71.4,33,3,18.2,25.9,3,33.3,29.7,3,0,0.0,3,25.8,3bb7b8b4,Ederson,Manchester City,True
+Napoli,Eintracht Frankfurt,1678910400,it ITA,25-358,90,1,0,1,100.0,0.8,3,7,42.9,50,11,14.0,26.6,3,0.0,15.7,11,1,9.1,1,13.6,9413b19f,Alex Meret,Napoli,True
+Real Madrid,Liverpool,1678910400,be BEL,30-308,90,5,0,5,100.0,1.0,0,13,0.0,36,9,30.6,34.8,6,33.3,43.8,19,2,10.5,0,10.2,1840e36d,Thibaut Courtois,Real Madrid,True
+Benfica,Internazionale,1681239600,gr GRE,28-350,90,4,2,2,75.0,2.2,0,7,0.0,21,4,14.3,29.9,10,40.0,36.4,18,1,5.6,1,17.5,03df04ff,Odisseas Vlachodimos,Benfica,True
+Manchester City,Bayern Munich,1681239600,br BRA,29-237,90,4,0,4,100.0,0.4,1,8,12.5,24,3,25.0,33.6,3,66.7,46.0,10,1,10.0,2,10.8,3bb7b8b4,Ederson,Manchester City,True
+Real Madrid,Chelsea,1681326000,be BEL,30-336,90,3,0,3,100.0,1.4,2,3,66.7,16,7,12.5,27.6,4,25.0,28.8,8,0,0.0,0,,1840e36d,Thibaut Courtois,Real Madrid,True
+Milan,Napoli,1681326000,fr FRA,27-283,90,5,0,5,100.0,0.8,3,11,27.3,37,6,16.2,27.2,11,45.5,40.1,13,1,7.7,4,17.1,fcb38f57,Mike Maignan,Milan,True
+Chelsea,Real Madrid,1681844400,es ESP,28-197,90,6,2,4,66.7,2.2,1,4,25.0,24,9,4.2,21.8,4,75.0,49.8,9,0,0.0,0,18.0,28d596a0,Kepa Arrizabalaga,Chelsea,True
+Napoli,Milan,1681844400,it ITA,26-027,90,4,1,2,75.0,2.3,0,0,,17,7,0.0,19.8,6,0.0,17.8,6,1,16.7,2,15.2,9413b19f,Alex Meret,Napoli,True
+Bayern Munich,Manchester City,1681930800,ch SUI,34-123,90,2,1,1,50.0,1.3,3,7,42.9,42,4,11.9,24.8,4,50.0,41.0,4,0,0.0,1,25.0,420c18a1,Yann Sommer,Bayern Munich,True
+Internazionale,Benfica,1681930800,cm CMR,27-017,90,5,3,2,40.0,0.9,9,16,56.3,37,2,35.1,33.3,3,100.0,61.0,13,0,0.0,0,18.0,e9c0c1b2,André Onana,Internazionale,True
+Real Madrid,Manchester City,1683658800,be BEL,30-363,90,6,1,5,83.3,1.2,4,15,26.7,31,5,35.5,37.9,6,66.7,49.3,13,0,0.0,0,10.0,1840e36d,Thibaut Courtois,Real Madrid,True
+Milan,Internazionale,1683745200,fr FRA,27-311,90,5,2,3,60.0,1.2,8,9,88.9,27,3,22.2,27.6,6,50.0,41.3,8,1,12.5,3,16.2,fcb38f57,Mike Maignan,Milan,True
+Internazionale,Milan,1684263600,cm CMR,27-044,90,1,0,1,100.0,0.7,8,14,57.1,24,2,50.0,37.9,2,100.0,59.5,13,0,0.0,0,,e9c0c1b2,André Onana,Internazionale,True
+Manchester City,Real Madrid,1684350000,br BRA,29-273,90,3,0,3,100.0,0.5,5,8,62.5,22,3,27.3,30.5,2,100.0,64.0,2,0,0.0,1,17.0,3bb7b8b4,Ederson,Manchester City,True
+Manchester City,Internazionale,1686423600,br BRA,29-297,90,5,0,5,100.0,1.2,6,15,40.0,29,3,37.9,35.1,5,80.0,58.8,15,1,6.7,0,15.5,3bb7b8b4,Ederson,Manchester City,True
+Dinamo Zagreb,Chelsea,1662482700,es ESP,27-338,90,3,1,2,66.7,1.3,0,3,0.0,13,1,23.1,25.2,1,0.0,10.0,2,0,0.0,6,33.9,28d596a0,Kepa Arrizabalaga,,True
+Dortmund,FC Copenhagen,1662482700,au AUS,30-151,90,4,3,1,25.0,2.1,9,17,52.9,18,3,38.9,32.8,10,100.0,67.2,9,0,0.0,0,9.0,4535e4bb,Mathew Ryan,,True
+Celtic,Real Madrid,1662490800,be BEL,30-118,90,4,0,4,100.0,1.2,4,7,57.1,48,10,12.5,25.8,5,20.0,31.8,16,1,6.3,0,9.5,1840e36d,Thibaut Courtois,,True
+Benfica,Maccabi Haifa,1662490800,us USA,30-019,90,5,2,3,60.0,1.9,2,4,50.0,20,7,20.0,27.5,5,0.0,15.4,10,0,0.0,1,12.4,75c2e240,Josh Cohen,,True
+Red Bull Salzburg,Milan,1662490800,fr FRA,27-065,90,4,1,3,75.0,1.1,3,5,60.0,23,8,8.7,28.4,7,42.9,45.0,8,1,12.5,1,18.3,fcb38f57,Mike Maignan,,True
+Sevilla,Manchester City,1662490800,br BRA,29-020,90,1,0,1,100.0,0.1,4,7,57.1,23,1,21.7,29.5,4,50.0,32.5,8,0,0.0,0,18.0,3bb7b8b4,Ederson,,True
+RB Leipzig,Shakhtar Donetsk,1662490800,ua UKR,21-036,90,2,1,1,50.0,0.6,7,21,33.3,39,5,28.2,29.8,11,90.9,61.5,28,1,3.6,0,8.0,41f0b196,Anatolii Trubin,,True
+Paris Saint-Germain,Juventus,1662490800,it ITA,29-300,90,6,2,4,66.7,1.5,4,4,100.0,17,5,23.5,30.4,8,0.0,15.9,5,0,0.0,1,10.7,4c62d0c8,Mattia Perin,,True
+Ajax,Rangers,1662569100,sct SCO,34-363,90,9,4,5,55.6,2.5,4,12,33.3,26,5,38.5,31.3,5,40.0,39.8,12,1,8.3,1,15.3,3b0108d6,Jon McLaughlin,,True
+Eintracht Frankfurt,Sporting CP,1662569100,es ESP,35-117,90,2,0,2,100.0,0.4,2,9,22.2,53,13,11.3,23.6,10,30.0,30.6,11,2,18.2,1,12.4,65d62814,Antonio Adán,,True
+Tottenham Hotspur,Marseille,1662577200,es ESP,27-268,90,2,2,0,0.0,0.5,5,19,26.3,24,1,45.8,39.0,8,100.0,66.3,15,0,0.0,0,7.0,20b9f052,Pau López,,True
+Napoli,Liverpool,1662577200,br BRA,29-340,90,8,4,3,62.5,5.6,2,5,40.0,30,6,10.0,24.1,5,40.0,37.8,2,1,50.0,4,23.7,7a2e46a8,Alisson,,True
+Atlético Madrid,Porto,1662577200,pt POR,22-353,90,3,2,1,33.3,0.6,8,18,44.4,43,4,34.9,35.7,6,50.0,48.5,12,2,16.7,1,17.8,93fffbcf,Diogo Costa,,True
+Barcelona,Viktoria Plzeň,1662577200,cz CZE,26-133,90,10,5,5,50.0,3.8,10,21,47.6,22,6,54.5,44.4,10,90.0,65.1,15,0,0.0,0,8.0,eca17cf2,Jindřich Staněk,,True
+Internazionale,Bayern Munich,1662577200,de GER,36-164,90,2,0,2,100.0,0.2,5,8,62.5,32,3,21.9,32.0,6,16.7,27.8,11,0,0.0,0,,8778c910,Manuel Neuer,,True
+Club Brugge,Bayer Leverkusen,1662577200,fi FIN,32-287,90,3,1,2,66.7,0.3,2,7,28.6,32,5,18.8,29.1,4,25.0,28.3,12,1,8.3,0,3.5,ad3389d5,Lukáš Hrádecký,,True
+Sporting CP,Tottenham Hotspur,1663087500,fr FRA,35-261,90,6,2,4,66.7,2.9,1,3,33.3,20,8,15.0,21.5,6,0.0,18.3,13,2,15.4,2,14.4,8f62b6ee,Hugo Lloris,,True
+Viktoria Plzeň,Internazionale,1663087500,cm CMR,26-164,90,1,0,1,100.0,0.4,2,8,25.0,28,1,25.0,29.2,4,25.0,40.5,12,0,0.0,1,23.5,e9c0c1b2,André Onana,,True
+Liverpool,Ajax,1663095600,nl NED,38-309,90,10,2,8,80.0,1.8,6,30,20.0,54,5,46.3,39.2,9,55.6,44.8,24,2,8.3,0,4.3,3392603d,Remko Pasveer,,True
+Porto,Club Brugge,1663095600,be BEL,34-191,90,4,0,4,100.0,0.9,13,34,38.2,33,4,69.7,45.5,13,84.6,50.1,18,2,11.1,2,10.3,d436eb94,Simon Mignolet,,True
+Bayer Leverkusen,Atlético Madrid,1663095600,hr CRO,26-238,90,5,2,3,60.0,1.8,4,14,28.6,21,5,33.3,33.3,9,77.8,57.4,11,0,0.0,0,9.3,3f034750,Ivo Grbić,,True
+Marseille,Eintracht Frankfurt,1663095600,de GER,32-067,90,4,0,4,100.0,0.7,7,19,36.8,26,5,61.5,44.5,7,42.9,35.9,10,1,10.0,0,5.0,ce17b5eb,Kevin Trapp,,True
+Bayern Munich,Barcelona,1663095600,de GER,30-136,90,4,2,2,50.0,2.0,8,11,72.7,39,5,23.1,29.2,6,33.3,34.3,5,0,0.0,1,19.0,6f51e382,Marc-André ter Stegen,,True
+Milan,Dinamo Zagreb,1663173900,hr CRO,27-248,90,7,3,4,71.4,1.7,5,15,33.3,27,5,37.0,30.3,11,45.5,42.8,16,0,0.0,0,8.5,58f077c0,Dominik Livaković,,True
+Shakhtar Donetsk,Celtic,1663173900,eng ENG,35-148,90,2,1,1,50.0,1.2,1,2,50.0,21,3,4.8,24.4,7,14.3,25.3,4,0,0.0,1,14.0,cb4f24c6,Joe Hart,,True
+Rangers,Napoli,1663182000,it ITA,25-176,90,3,0,3,100.0,0.4,2,6,33.3,14,3,35.7,28.2,9,11.1,15.7,17,2,11.8,0,12.0,9413b19f,Alex Meret,,True
+Chelsea,Red Bull Salzburg,1663182000,ch SUI,24-165,90,4,1,3,75.0,1.3,13,23,56.5,22,0,86.4,53.5,7,57.1,49.7,20,0,0.0,2,20.7,ff74841d,Philipp Köhn,,True
+Manchester City,Dortmund,1663182000,de GER,31-154,90,3,2,1,33.3,1.0,6,10,60.0,37,6,18.9,28.8,11,27.3,32.6,22,2,9.1,2,19.4,b56dd813,Alexander Meyer,,True
+FC Copenhagen,Sevilla,1663182000,rs SRB,30-233,90,2,0,2,100.0,0.7,1,17,5.9,37,5,37.8,35.1,6,50.0,41.5,6,2,33.3,0,4.5,ac295d9e,Marko Dmitrović,,True
+Juventus,Benfica,1663182000,gr GRE,28-141,90,3,1,2,66.7,0.6,8,17,47.1,19,2,68.4,47.1,5,80.0,54.2,19,0,0.0,0,,03df04ff,Odisseas Vlachodimos,,True
+Real Madrid,RB Leipzig,1663182000,hu HUN,32-131,90,3,2,1,33.3,1.5,1,8,12.5,25,5,28.0,30.6,11,9.1,19.6,7,1,14.3,0,12.0,bcb2ccd8,Péter Gulácsi,,True
+Maccabi Haifa,Paris Saint-Germain,1663182000,it ITA,23-201,90,5,1,4,80.0,2.0,3,11,27.3,26,5,34.6,32.5,3,66.7,44.0,11,0,0.0,0,5.0,08f5afaa,Gianluigi Donnarumma,,True
+Bayern Munich,Viktoria Plzeň,1664901900,sk SVK,28-047,90,13,5,8,61.5,4.6,14,32,43.8,37,7,54.1,43.0,13,92.3,64.6,5,0,0.0,0,9.3,d3dc62d1,Marián Tvrdoň,,True
+Marseille,Sporting CP,1664902500,es ESP,35-144,22,4,2,2,50.0,1.3,,3,,11,,,31.6,1,,12.0,3,,,,7.5,65d62814,Antonio Adán,,True
+Marseille,Sporting CP,1664902500,uy URU,22-165,65,3,2,1,33.3,1.7,6,19,31.6,21,3,57.1,37.5,11,63.6,43.7,12,2,16.7,0,5.3,1f994616,Franco Israel,,True
+Liverpool,Rangers,1664910000,sct SCO,40-246,90,10,2,8,90.0,2.5,6,28,21.4,28,6,57.1,36.9,14,85.7,58.2,21,1,4.8,2,18.0,f3a97d02,Allan McGregor,,True
+Porto,Bayer Leverkusen,1664910000,fi FIN,32-314,90,4,2,2,50.0,1.5,3,7,42.9,36,7,19.4,28.0,4,0.0,12.5,13,1,7.7,1,18.0,ad3389d5,Lukáš Hrádecký,,True
+Eintracht Frankfurt,Tottenham Hotspur,1664910000,fr FRA,35-282,90,2,0,2,100.0,0.7,3,6,50.0,29,5,17.2,25.4,5,20.0,20.6,12,0,0.0,9,24.9,8f62b6ee,Hugo Lloris,,True
+Internazionale,Barcelona,1664910000,de GER,30-157,90,2,1,1,50.0,0.5,5,7,71.4,21,3,23.8,29.9,5,40.0,35.6,8,0,0.0,0,,6f51e382,Marc-André ter Stegen,,True
+Ajax,Napoli,1664910000,it ITA,25-196,90,2,1,1,50.0,1.4,1,2,50.0,23,6,8.7,23.5,8,0.0,22.3,9,1,11.1,0,8.3,9413b19f,Alex Meret,,True
+Club Brugge,Atlético Madrid,1664910000,si SVN,29-270,90,3,2,1,33.3,1.7,2,7,28.6,14,1,42.9,35.6,4,25.0,23.3,13,1,7.7,2,19.5,ee8508c0,Jan Oblak,,True
+RB Leipzig,Celtic,1664988300,eng ENG,35-169,90,6,3,3,50.0,2.6,1,3,33.3,50,6,6.0,24.1,4,0.0,19.3,15,0,0.0,0,16.3,cb4f24c6,Joe Hart,,True
+Red Bull Salzburg,Dinamo Zagreb,1664988300,hr CRO,27-269,90,6,1,5,100.0,2.7,4,11,36.4,19,5,31.6,36.0,14,35.7,38.4,12,1,8.3,1,9.6,58f077c0,Dominik Livaković,,True
+Chelsea,Milan,1664996400,ro ROU,36-238,90,6,3,3,50.0,2.4,4,7,57.1,34,2,20.6,25.1,3,0.0,19.7,11,0,0.0,4,29.0,b056e3da,Ciprian Tătărușanu,,True
+Benfica,Paris Saint-Germain,1664996400,it ITA,23-222,90,6,1,6,83.3,1.3,2,2,100.0,30,5,6.7,21.4,4,0.0,16.8,9,1,11.1,3,24.4,08f5afaa,Gianluigi Donnarumma,,True
+Manchester City,FC Copenhagen,1664996400,pl POL,23-270,90,16,5,12,75.0,4.4,4,23,17.4,25,4,60.0,40.7,8,100.0,68.6,15,1,6.7,0,11.0,62182b1d,Kamil Grabara,,True
+Real Madrid,Shakhtar Donetsk,1664996400,ua UKR,21-065,90,13,2,11,84.6,3.1,1,8,12.5,36,4,19.4,25.7,9,11.1,23.1,19,1,5.3,0,4.0,41f0b196,Anatolii Trubin,,True
+Sevilla,Dortmund,1664996400,de GER,31-175,90,6,1,5,83.3,1.5,6,18,33.3,32,4,43.8,37.3,11,36.4,35.0,22,1,4.5,0,4.0,b56dd813,Alexander Meyer,,True
+Juventus,Maccabi Haifa,1664996400,us USA,30-048,90,7,3,4,57.1,2.5,3,10,30.0,27,12,18.5,29.4,11,45.5,39.5,17,1,5.9,1,15.3,75c2e240,Josh Cohen,,True
+FC Copenhagen,Manchester City,1665506700,br BRA,29-055,90,1,0,1,100.0,0.1,4,12,33.3,31,6,25.8,29.8,8,50.0,46.6,8,1,12.5,2,17.0,3bb7b8b4,Ederson,,True
+Maccabi Haifa,Juventus,1665506700,pl POL,32-176,90,4,2,2,50.0,1.2,2,7,28.6,18,2,33.3,30.1,6,16.7,27.7,16,1,6.3,1,15.3,01b8a2b2,Wojciech Szczęsny,,True
+Celtic,RB Leipzig,1665514800,de GER,31-162,90,2,0,2,100.0,0.2,4,8,50.0,36,0,19.4,28.1,11,9.1,24.0,17,0,0.0,0,17.7,663e080e,Janis Blaswich,,True
+Dortmund,Sevilla,1665514800,ma MAR,31-189,90,3,1,2,66.7,0.7,4,9,44.4,45,4,15.6,28.0,12,16.7,27.7,7,1,14.3,1,15.0,f6798fc3,Yassine Bounou,,True
+Paris Saint-Germain,Benfica,1665514800,gr GRE,28-168,90,3,1,2,100.0,1.3,2,9,22.2,17,4,41.2,34.4,5,40.0,35.0,14,0,0.0,0,,03df04ff,Odisseas Vlachodimos,,True
+Milan,Chelsea,1665514800,es ESP,28-008,90,1,0,1,100.0,0.1,3,5,60.0,28,6,17.9,27.0,5,0.0,15.8,9,2,22.2,0,5.7,28d596a0,Kepa Arrizabalaga,,True
+Dinamo Zagreb,Red Bull Salzburg,1665514800,ch SUI,24-192,90,3,1,2,66.7,0.7,3,14,21.4,22,1,50.0,40.0,7,42.9,41.9,20,1,5.0,0,8.5,ff74841d,Philipp Köhn,,True
+Shakhtar Donetsk,Real Madrid,1665514800,ua UKR,23-242,90,2,1,1,50.0,1.2,0,0,,12,3,0.0,14.3,3,0.0,17.0,8,1,12.5,1,17.3,3061e1ec,Andriy Lunin,,True
+Napoli,Ajax,1665593100,nl NED,38-338,90,5,4,1,40.0,3.2,4,12,33.3,32,4,34.4,30.8,5,20.0,32.0,13,1,7.7,0,11.5,3392603d,Remko Pasveer,,True
+Atlético Madrid,Club Brugge,1665593100,be BEL,34-220,90,9,0,9,100.0,2.4,11,18,61.1,30,6,43.3,36.2,10,50.0,37.2,30,3,10.0,0,4.2,d436eb94,Simon Mignolet,,True
+Sporting CP,Marseille,1665601200,es ESP,27-303,90,2,0,2,100.0,0.1,2,4,50.0,30,3,10.0,25.8,2,50.0,40.5,5,0,0.0,3,18.4,20b9f052,Pau López,,True
+Rangers,Liverpool,1665601200,br BRA,30-010,90,2,1,1,50.0,0.5,1,4,25.0,34,4,11.8,23.9,2,0.0,16.5,12,1,8.3,1,13.8,7a2e46a8,Alisson,,True
+Tottenham Hotspur,Eintracht Frankfurt,1665601200,de GER,32-096,90,8,3,5,75.0,3.2,2,13,15.4,24,5,45.8,34.7,4,50.0,34.0,9,0,0.0,2,20.3,ce17b5eb,Kevin Trapp,,True
+Viktoria Plzeň,Bayern Munich,1665601200,de GER,34-070,90,6,2,4,66.7,2.0,2,6,33.3,31,5,19.4,27.0,10,0.0,16.7,21,0,0.0,3,26.3,7d3e7da6,Sven Ulreich,,True
+Bayer Leverkusen,Porto,1665601200,pt POR,23-023,90,4,0,3,100.0,2.0,13,30,43.3,38,1,60.5,44.6,10,70.0,49.9,15,0,0.0,0,9.5,93fffbcf,Diogo Costa,,True
+Barcelona,Internazionale,1665601200,cm CMR,26-193,90,10,3,7,70.0,3.0,15,30,50.0,38,7,55.3,42.8,16,56.3,48.1,35,0,0.0,0,7.0,e9c0c1b2,André Onana,,True
+Sevilla,FC Copenhagen,1666716300,pl POL,23-290,90,11,3,8,72.7,2.8,1,10,10.0,20,2,35.0,32.3,5,60.0,46.8,11,0,0.0,0,,62182b1d,Kamil Grabara,,True
+Red Bull Salzburg,Chelsea,1666716300,es ESP,28-022,90,6,1,5,83.3,1.4,5,17,29.4,39,4,33.3,32.6,7,57.1,41.9,18,2,11.1,0,6.0,28d596a0,Kepa Arrizabalaga,,True
+Benfica,Juventus,1666724400,pl POL,32-190,90,6,4,2,50.0,2.9,4,10,40.0,29,5,31.0,33.6,4,25.0,30.5,14,0,0.0,0,3.5,01b8a2b2,Wojciech Szczęsny,,True
+Celtic,Shakhtar Donetsk,1666724400,ua UKR,21-085,90,5,1,4,80.0,1.7,2,8,25.0,31,5,22.6,26.2,4,25.0,29.3,28,0,0.0,0,4.0,41f0b196,Anatolii Trubin,,True
+Paris Saint-Germain,Maccabi Haifa,1666724400,us USA,30-068,90,9,7,3,22.2,4.0,2,4,50.0,11,5,18.2,30.5,7,28.6,24.3,5,0,0.0,0,16.0,75c2e240,Josh Cohen,,True
+Dortmund,Manchester City,1666724400,de GER,29-353,90,4,0,4,100.0,0.3,1,2,50.0,18,5,11.1,24.3,5,0.0,22.4,1,0,0.0,1,27.0,c1242d4e,Stefan Ortega,,True
+RB Leipzig,Real Madrid,1666724400,be BEL,30-167,90,6,3,3,50.0,2.3,4,5,80.0,21,4,9.5,22.0,8,37.5,36.0,8,0,0.0,3,24.2,1840e36d,Thibaut Courtois,,True
+Dinamo Zagreb,Milan,1666724400,ro ROU,36-258,90,6,0,6,100.0,1.3,3,5,60.0,16,4,31.3,27.8,3,0.0,18.7,10,0,0.0,2,24.3,b056e3da,Ciprian Tătărușanu,,True
+Club Brugge,Porto,1666802700,pt POR,23-037,90,4,0,3,100.0,1.4,10,19,52.6,31,5,51.6,41.3,7,42.9,34.4,11,0,0.0,0,4.0,93fffbcf,Diogo Costa,,True
+Internazionale,Viktoria Plzeň,1666802700,cz CZE,26-182,90,9,4,5,55.6,5.1,7,14,50.0,22,2,36.4,33.0,7,85.7,58.0,25,0,0.0,1,17.5,eca17cf2,Jindřich Staněk,,True
+Tottenham Hotspur,Sporting CP,1666810800,es ESP,35-166,90,6,1,5,83.3,1.2,4,27,14.8,37,6,48.6,39.9,12,75.0,46.4,36,6,16.7,0,5.4,65d62814,Antonio Adán,,True
+Eintracht Frankfurt,Marseille,1666810800,es ESP,27-317,90,4,2,2,50.0,1.4,3,12,25.0,29,2,41.4,36.0,2,0.0,15.5,4,0,0.0,3,20.5,20b9f052,Pau López,,True
+Atlético Madrid,Bayer Leverkusen,1666810800,fi FIN,32-336,90,10,2,7,80.0,2.5,7,23,30.4,32,6,46.9,39.2,12,66.7,49.1,40,0,0.0,0,3.0,ad3389d5,Lukáš Hrádecký,,True
+Barcelona,Bayern Munich,1666810800,de GER,34-084,90,0,0,0,,0.0,4,8,50.0,32,4,25.0,28.9,8,0.0,14.8,10,1,10.0,0,6.5,7d3e7da6,Sven Ulreich,,True
+Ajax,Liverpool,1666810800,br BRA,30-024,90,1,0,1,100.0,0.1,4,4,100.0,30,6,13.3,24.5,7,0.0,17.0,10,1,10.0,1,14.0,7a2e46a8,Alisson,,True
+Napoli,Rangers,1666810800,sct SCO,40-268,90,6,3,3,50.0,3.0,2,7,28.6,23,3,17.4,26.3,6,50.0,42.7,8,0,0.0,1,22.5,f3a97d02,Allan McGregor,,True
+Porto,Atlético Madrid,1667324700,si SVN,29-298,90,8,2,6,75.0,2.5,3,13,23.1,22,4,45.5,36.9,4,75.0,58.3,11,2,18.2,0,4.0,ee8508c0,Jan Oblak,,True
+Bayer Leverkusen,Club Brugge,1667324700,be BEL,34-240,90,4,0,4,100.0,1.2,17,29,58.6,51,1,49.0,37.8,8,50.0,37.8,10,0,0.0,0,9.2,d436eb94,Simon Mignolet,,True
+Liverpool,Napoli,1667332800,it ITA,25-224,90,6,2,4,66.7,2.2,5,9,55.6,23,3,30.4,30.1,9,22.2,28.0,11,1,9.1,0,6.7,9413b19f,Alex Meret,,True
+Rangers,Ajax,1667332800,nl NED,38-358,90,3,1,2,100.0,1.2,3,9,33.3,40,5,20.0,24.9,2,50.0,40.5,14,1,7.1,0,9.0,3392603d,Remko Pasveer,,True
+Sporting CP,Eintracht Frankfurt,1667332800,de GER,32-116,90,2,1,1,50.0,0.3,2,6,33.3,22,3,27.3,27.8,1,0.0,13.0,8,0,0.0,1,17.8,ce17b5eb,Kevin Trapp,,True
+Marseille,Tottenham Hotspur,1667332800,fr FRA,35-310,90,4,1,3,75.0,0.6,7,12,58.3,19,5,36.8,36.9,12,41.7,34.7,26,3,11.5,0,4.3,8f62b6ee,Hugo Lloris,,True
+Bayern Munich,Internazionale,1667332800,cm CMR,26-213,90,8,2,6,75.0,2.1,7,15,46.7,40,8,32.5,32.9,5,40.0,42.6,10,0,0.0,0,8.0,e9c0c1b2,André Onana,,True
+Viktoria Plzeň,Barcelona,1667332800,es ESP,23-244,90,8,2,6,87.5,2.9,1,3,33.3,31,5,6.5,20.0,8,12.5,24.4,18,1,5.6,0,8.0,cc1c5035,Iñaki Peña,,True
+Real Madrid,Celtic,1667411100,eng ENG,35-197,90,9,5,4,66.7,3.6,2,5,40.0,19,9,21.1,28.1,7,14.3,24.3,9,0,0.0,3,20.3,cb4f24c6,Joe Hart,,True
+Shakhtar Donetsk,RB Leipzig,1667411100,de GER,31-184,90,1,0,1,100.0,0.0,0,0,,25,4,0.0,20.3,2,0.0,24.0,9,2,22.2,2,17.5,663e080e,Janis Blaswich,,True
+Manchester City,Sevilla,1667419200,ma MAR,31-211,90,7,3,4,57.1,2.5,7,18,38.9,66,6,16.7,25.7,11,63.6,46.7,20,4,20.0,0,7.3,f6798fc3,Yassine Bounou,,True
+Chelsea,Dinamo Zagreb,1667419200,hr CRO,27-297,90,6,2,4,66.7,2.2,5,12,41.7,32,7,25.0,30.8,15,26.7,28.5,17,1,5.9,0,10.5,58f077c0,Dominik Livaković,,True
+FC Copenhagen,Dortmund,1667419200,ch SUI,24-331,45,7,1,6,85.7,1.8,,6,,30,4,,26.0,2,,17.5,6,1,16.7,,4.0,cd59b9df,Gregor Kobel,,True
+FC Copenhagen,Dortmund,1667419200,de GER,31-203,45,2,0,2,100.0,0.1,2,4,50.0,24,3,8.3,20.6,8,25.0,31.0,6,0,0.0,1,17.7,b56dd813,Alexander Meyer,,True
+Juventus,Paris Saint-Germain,1667419200,it ITA,23-250,90,2,1,1,50.0,1.4,3,11,27.3,23,4,21.7,28.0,10,60.0,38.3,13,0,0.0,0,6.8,08f5afaa,Gianluigi Donnarumma,,True
+Milan,Red Bull Salzburg,1667419200,ch SUI,24-214,90,7,4,3,42.9,3.0,1,4,25.0,16,2,25.0,32.1,5,0.0,11.2,14,1,7.1,3,15.5,ff74841d,Philipp Köhn,,True
+Maccabi Haifa,Benfica,1667419200,gr GRE,28-190,90,2,1,1,100.0,1.2,2,9,22.2,16,2,56.3,39.7,3,0.0,21.0,9,0,0.0,0,,03df04ff,Odisseas Vlachodimos,,True
+Paris Saint-Germain,Bayern Munich,1676404800,ch SUI,34-059,90,4,0,4,100.0,0.7,0,2,0.0,27,3,3.7,23.4,2,50.0,31.5,9,0,0.0,0,4.0,420c18a1,Yann Sommer,,True
+Milan,Tottenham Hotspur,1676404800,eng ENG,34-334,90,4,1,3,75.0,1.0,1,3,33.3,18,10,11.1,25.2,6,16.7,25.7,14,0,0.0,1,25.0,c3e39f12,Fraser Forster,,True
+Dortmund,Chelsea,1676491200,es ESP,28-135,90,2,1,1,50.0,1.0,0,2,0.0,11,7,0.0,23.1,8,25.0,28.0,10,1,10.0,0,10.5,28d596a0,Kepa Arrizabalaga,,True
+Club Brugge,Benfica,1676491200,gr GRE,28-295,90,1,0,1,100.0,0.3,2,3,66.7,26,4,7.7,23.3,2,50.0,35.5,12,2,16.7,6,16.8,03df04ff,Odisseas Vlachodimos,,True
+Liverpool,Real Madrid,1677009600,be BEL,30-286,90,4,2,2,50.0,1.4,5,18,27.8,27,6,48.1,39.0,9,55.6,45.9,13,0,0.0,0,5.0,1840e36d,Thibaut Courtois,,True
+Eintracht Frankfurt,Napoli,1677009600,it ITA,25-336,90,1,0,1,100.0,0.1,1,1,100.0,30,4,3.3,20.6,4,0.0,17.3,12,0,0.0,4,21.1,9413b19f,Alex Meret,,True
+RB Leipzig,Manchester City,1677096000,br BRA,29-189,90,4,1,3,75.0,1.1,4,7,57.1,30,3,20.0,27.5,3,33.3,37.3,7,0,0.0,0,8.5,3bb7b8b4,Ederson,,True
+Internazionale,Porto,1677096000,pt POR,23-156,90,4,1,3,75.0,1.0,7,20,35.0,35,2,37.1,38.0,8,87.5,66.5,29,2,6.9,1,14.0,93fffbcf,Diogo Costa,,True
+Chelsea,Dortmund,1678219200,de GER,31-328,90,4,2,2,75.0,2.4,8,16,50.0,33,4,33.3,29.4,10,50.0,38.2,12,1,8.3,4,24.8,b56dd813,Alexander Meyer,,True
+Benfica,Club Brugge,1678219200,be BEL,35-001,90,7,5,2,42.9,3.3,10,16,62.5,26,4,38.5,38.4,9,66.7,41.4,10,0,0.0,0,,d436eb94,Simon Mignolet,,True
+Tottenham Hotspur,Milan,1678305600,fr FRA,27-248,90,2,0,2,100.0,0.3,8,17,47.1,40,3,35.0,34.5,10,30.0,27.6,19,2,10.5,0,11.0,fcb38f57,Mike Maignan,,True
+Bayern Munich,Paris Saint-Germain,1678305600,it ITA,24-011,90,5,2,3,60.0,2.0,0,6,0.0,27,6,22.2,26.5,4,0.0,19.5,15,0,0.0,3,18.0,08f5afaa,Gianluigi Donnarumma,,True
+Porto,Internazionale,1678824000,cm CMR,26-346,90,6,0,6,100.0,2.6,11,21,52.4,28,5,53.6,40.8,8,75.0,58.0,23,1,4.3,0,7.8,e9c0c1b2,André Onana,,True
+Manchester City,RB Leipzig,1678824000,de GER,31-316,90,15,7,8,60.0,6.5,3,15,20.0,56,6,26.8,29.7,3,0.0,25.7,26,2,7.7,1,8.8,663e080e,Janis Blaswich,,True
+Napoli,Eintracht Frankfurt,1678910400,de GER,32-250,90,8,3,5,75.0,4.3,3,11,27.3,24,6,45.8,35.9,3,0.0,18.0,10,2,20.0,0,6.8,ce17b5eb,Kevin Trapp,,True
+Real Madrid,Liverpool,1678910400,br BRA,30-164,90,7,1,6,85.7,2.3,3,5,60.0,19,6,21.1,30.9,4,25.0,33.8,10,0,0.0,1,22.0,7a2e46a8,Alisson,,True
+Benfica,Internazionale,1681239600,cm CMR,27-009,90,2,0,2,100.0,0.9,5,9,55.6,29,5,20.7,31.3,6,50.0,38.5,12,3,25.0,0,7.5,e9c0c1b2,André Onana,,True
+Manchester City,Bayern Munich,1681239600,ch SUI,34-115,90,9,3,6,66.7,3.4,3,6,50.0,36,3,13.9,26.7,5,20.0,24.0,16,0,0.0,3,14.0,420c18a1,Yann Sommer,,True
+Real Madrid,Chelsea,1681326000,es ESP,28-191,90,9,2,7,77.8,2.2,3,13,23.1,34,15,23.5,30.0,7,71.4,57.3,13,1,7.7,0,8.0,28d596a0,Kepa Arrizabalaga,,True
+Milan,Napoli,1681326000,it ITA,26-021,90,2,1,1,50.0,0.3,2,6,33.3,17,3,11.8,25.4,10,40.0,29.6,10,0,0.0,1,10.7,9413b19f,Alex Meret,,True
+Chelsea,Real Madrid,1681844400,be BEL,30-342,90,6,0,6,100.0,0.9,1,7,14.3,29,9,10.3,26.2,4,100.0,73.5,20,1,5.0,1,12.5,1840e36d,Thibaut Courtois,,True
+Napoli,Milan,1681844400,fr FRA,27-289,90,4,1,2,75.0,2.0,11,19,57.9,25,5,44.0,39.6,10,80.0,60.1,40,2,5.0,0,5.5,fcb38f57,Mike Maignan,,True
+Bayern Munich,Manchester City,1681930800,br BRA,29-245,90,6,1,5,100.0,1.7,6,15,40.0,32,10,34.4,33.1,7,57.1,45.6,15,1,6.7,0,13.0,3bb7b8b4,Ederson,,True
+Internazionale,Benfica,1681930800,gr GRE,28-358,90,3,3,0,0.0,1.7,1,4,25.0,21,6,14.3,25.5,7,14.3,23.9,14,1,7.1,1,17.3,03df04ff,Odisseas Vlachodimos,,True
+Real Madrid,Manchester City,1683658800,br BRA,29-265,90,4,1,3,75.0,1.0,1,4,25.0,21,5,14.3,28.5,3,33.3,45.0,9,0,0.0,0,14.3,3bb7b8b4,Ederson,,True
+Milan,Internazionale,1683745200,cm CMR,27-038,90,2,0,2,100.0,0.3,7,19,36.8,42,6,42.9,36.4,10,10.0,20.8,13,0,0.0,0,,e9c0c1b2,André Onana,,True
+Internazionale,Milan,1684263600,fr FRA,27-317,90,4,1,3,75.0,0.8,8,15,53.3,32,5,40.6,35.5,3,66.7,50.0,14,1,7.1,2,12.0,fcb38f57,Mike Maignan,,True
+Manchester City,Real Madrid,1684350000,be BEL,31-006,90,8,4,4,50.0,4.3,2,15,13.3,35,7,37.1,37.7,3,66.7,53.3,15,2,13.3,0,5.3,1840e36d,Thibaut Courtois,,True
+Manchester City,Internazionale,1686423600,cm CMR,27-069,90,4,1,3,75.0,1.1,3,13,23.1,43,5,25.6,31.5,6,33.3,28.3,8,2,25.0,0,9.7,e9c0c1b2,André Onana,,True

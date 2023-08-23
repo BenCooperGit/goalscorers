@@ -1,0 +1,342 @@
+url,home_team,away_team,datetime,home_team_manager,away_team_manager,stadium,attendance
+https://fbref.com/en/matches/462741bf/Queretaro-America-July-22-2021-Liga-MX,Querétaro,América,1627005600,Héctor Altamirano,Santiago Solari,"Estadio La Corregidora, Santiago de Querétaro",10221
+https://fbref.com/en/matches/b3d3299a/Pachuca-Leon-July-24-2021-Liga-MX,Pachuca,León,1627160400,Paulo Pezzolano,Ariel Holan,Officials: Alejandro Funk (Referee) · Enrique Bustos (AR1) · Michel Espinoza (AR2) · Guillermo Pacheco Larios (4th) · Gerardo Martínez  (VAR),0
+https://fbref.com/en/matches/7c6a5807/Necaxa-Santos-Laguna-July-23-2021-Liga-MX,Necaxa,Santos Laguna,1627084800,Guillermo Vázquez,Guillermo Almada,"Estadio Victoria de Aguascalientes, Aguascalientes",9153
+https://fbref.com/en/matches/07ddea58/FC-Juarez-Toluca-July-23-2021-Liga-MX,FC Juárez,Toluca,1627092000,Tuca Ferretti,Rolando Cristante,"Estadio Olímpico Benito Juárez, Ciudad Juárez",7345
+https://fbref.com/en/matches/4afc9df7/Pumas-UNAM-Atlas-July-25-2021-Liga-MX,Pumas UNAM,Atlas,1627232400,Andrés Lillini,Diego Cocca,Officials: Luis Santander (Referee) · Christian Espinosa (AR1) · Michel Galicia (AR2) · Mario Vargas (4th) · Jorge Pérez (VAR),0
+https://fbref.com/en/matches/8f4a0ade/Guadalajara-Atletico-July-24-2021-Liga-MX,Guadalajara,Atlético,1627178400,Víctor Vucetich,Marcelo Méndez,"Estadio Akron, Zapopan",11647
+https://fbref.com/en/matches/1f58c2e0/Monterrey-Puebla-July-25-2021-Liga-MX,Monterrey,Puebla,1627257960,Javier Aguirre,Nicolás Larcamón,"Estadio BBVA Bancomer, Guadalupe",20267
+https://fbref.com/en/matches/b2cb5626/Tijuana-UANL-July-25-2021-Liga-MX,Tijuana,UANL,1627265160,Robert Siboldi,Miguel Herrera,"Estadio Caliente, Tijuana",4333
+https://fbref.com/en/matches/3c98c553/Cruz-Azul-Mazatlan-July-26-2021-Liga-MX,Cruz Azul,Mazatlán,1627347600,Juan Reynoso,Beñat San José,"Estadio Azteca, Coyoacán",9598
+https://fbref.com/en/matches/20f54bbc/Leon-Tijuana-July-31-2021-Liga-MX,León,Tijuana,1627768800,Ariel Holan,Robert Siboldi,"Estadio León, León",8863
+https://fbref.com/en/matches/42c85c93/Mazatlan-Pachuca-July-30-2021-Liga-MX,Mazatlán,Pachuca,1627689600,Beñat San José,Paulo Pezzolano,"Estadio de Mazatlán, Mazatlán",4675
+https://fbref.com/en/matches/a557b20d/Puebla-Guadalajara-July-30-2021-Liga-MX,Puebla,Guadalajara,1627697100,Nicolás Larcamón,Víctor Vucetich,"Estadio Cuauhtémoc, Puebla",6800
+https://fbref.com/en/matches/05c157d7/Toluca-UANL-August-1-2021-Liga-MX,Toluca,UANL,1627837200,Rolando Cristante,Miguel Herrera,"Estadio Nemesio Díez, Toluca",8540
+https://fbref.com/en/matches/17f5183c/Santos-Laguna-Cruz-Azul-August-1-2021-Liga-MX,Santos Laguna,Cruz Azul,1627858800,Guillermo Almada,Juan Reynoso,"Estadio Nuevo Corona, Torreón",12200
+https://fbref.com/en/matches/48bb43d9/America-Necaxa-July-31-2021-Liga-MX,América,Necaxa,1627776000,Santiago Solari,Guillermo Vázquez,"Estadio Azteca, Coyoacán",9590
+https://fbref.com/en/matches/9aeb1db1/Monterrey-Pumas-UNAM-July-31-2021-Liga-MX,Monterrey,Pumas UNAM,1627783200,Javier Aguirre,Andrés Lillini,"Estadio BBVA Bancomer, Guadalupe",20943
+https://fbref.com/en/matches/f4eb27ec/Atlas-FC-Juarez-July-31-2021-Liga-MX,Atlas,FC Juárez,1627783200,Diego Cocca,Tuca Ferretti,"Estadio Jalisco, Guadalajara",7859
+https://fbref.com/en/matches/fcaa2f2f/Atletico-Queretaro-August-2-2021-Liga-MX,Atlético,Querétaro,1627956000,Marcelo Méndez,Héctor Altamirano,"Estadio Alfonso Lastras Ramírez, San Luis Potosí",6917
+https://fbref.com/en/matches/b53e83ab/Queretaro-Leon-August-5-2021-Liga-MX,Querétaro,León,1628215200,Héctor Altamirano,Ariel Holan,"Estadio La Corregidora, Santiago de Querétaro",10031
+https://fbref.com/en/matches/f900708e/Guadalajara-FC-Juarez-August-7-2021-Liga-MX,Guadalajara,FC Juárez,1628373600,Víctor Vucetich,Tuca Ferretti,"Estadio Akron, Zapopan",9208
+https://fbref.com/en/matches/861a1cf4/Mazatlan-Monterrey-August-6-2021-Liga-MX,Mazatlán,Monterrey,1628294400,Beñat San José,Javier Aguirre,"Estadio de Mazatlán, Mazatlán",6543
+https://fbref.com/en/matches/5eced4b8/Tijuana-Toluca-August-6-2021-Liga-MX,Tijuana,Toluca,1628301960,Robert Siboldi,Rolando Cristante,"Estadio Caliente, Tijuana",5333
+https://fbref.com/en/matches/5ff51ba1/Necaxa-Cruz-Azul-August-6-2021-Liga-MX,Necaxa,Cruz Azul,1628301900,Guillermo Vázquez,Juan Reynoso,"Estadio Victoria de Aguascalientes, Aguascalientes",13187
+https://fbref.com/en/matches/c561d19e/Pumas-UNAM-Atletico-August-8-2021-Liga-MX,Pumas UNAM,Atlético,1628442000,Andrés Lillini,Marcelo Méndez,Officials: Óscar Macias (Referee) · José López (AR1) · Edgar Magdaleno (AR2) · Victor Caceres (4th),0
+https://fbref.com/en/matches/20eb034e/America-Puebla-August-7-2021-Liga-MX,América,Puebla,1628380800,Santiago Solari,Nicolás Larcamón,"Estadio Azteca, Coyoacán",8567
+https://fbref.com/en/matches/3cb8d4b7/UANL-Santos-Laguna-August-7-2021-Liga-MX,UANL,Santos Laguna,1628388000,Miguel Herrera,Guillermo Almada,"Estadio Universitario de Nuevo León, San Nicolás de los Garza",14350
+https://fbref.com/en/matches/56c47ec5/Pachuca-Atlas-August-9-2021-Liga-MX,Pachuca,Atlas,1628560800,Paulo Pezzolano,Diego Cocca,Officials: Guillermo Pacheco Larios (Referee) · Alberto Morín (AR1) · Marco Bisguerra (AR2) · Jorge Rojas (4th),0
+https://fbref.com/en/matches/8d692fca/Atletico-Necaxa-August-12-2021-Liga-MX,Atlético,Necaxa,1628820000,Marcelo Méndez,Guillermo Vázquez,"Estadio Alfonso Lastras Ramírez, San Luis Potosí",4128
+https://fbref.com/en/matches/2e0ed1fb/Pumas-UNAM-Queretaro-August-14-2021-Liga-MX,Pumas UNAM,Querétaro,1628978400,Andrés Lillini,Héctor Altamirano,Officials: Oscar Mejia (Referee) · Karen Díaz (AR1) · Mauricio Nieto Torres (AR2) · Victor Caceres (4th) · Diego Montaño (VAR),0
+https://fbref.com/en/matches/8898df77/Puebla-UANL-August-13-2021-Liga-MX,Puebla,UANL,1628899200,Nicolás Larcamón,Miguel Herrera,"Estadio Cuauhtémoc, Puebla",7654
+https://fbref.com/en/matches/d28d1d23/FC-Juarez-Tijuana-August-13-2021-Liga-MX,FC Juárez,Tijuana,1628906400,Tuca Ferretti,Robert Siboldi,"Estadio Olímpico Benito Juárez, Ciudad Juárez",7806
+https://fbref.com/en/matches/fd42fb64/Atlas-America-August-15-2021-Liga-MX,Atlas,América,1629064800,Diego Cocca,Santiago Solari,"Estadio Jalisco, Guadalajara",13637
+https://fbref.com/en/matches/b3f61efa/Leon-Mazatlan-August-14-2021-Liga-MX,León,Mazatlán,1628985600,Ariel Holan,Beñat San José,"Estadio León, León",9663
+https://fbref.com/en/matches/82c495ec/Cruz-Azul-Toluca-August-14-2021-Liga-MX,Cruz Azul,Toluca,1628992800,Juan Reynoso,Rolando Cristante,"Estadio Azteca, Coyoacán",8588
+https://fbref.com/en/matches/e1c1873e/Monterrey-Pachuca-August-14-2021-Liga-MX,Monterrey,Pachuca,1628993160,Javier Aguirre,Paulo Pezzolano,"Estadio BBVA Bancomer, Guadalupe",15833
+https://fbref.com/en/matches/3478ae4a/Santos-Laguna-Guadalajara-August-15-2021-Liga-MX,Santos Laguna,Guadalajara,1629072360,Guillermo Almada,Víctor Vucetich,"Estadio Nuevo Corona, Torreón",13082
+https://fbref.com/en/matches/a4182a7b/Toluca-Mazatlan-August-17-2021-Liga-MX,Toluca,Mazatlán,1629237600,Rolando Cristante,Beñat San José,Officials: Saul Silva (Referee) · Andres Hernández (AR1) · Leonardo Castillo (AR2) · Daniel Quintero (4th) · Óscar Macias (VAR),0
+https://fbref.com/en/matches/9044ec6d/UANL-Queretaro-August-17-2021-Liga-MX,UANL,Querétaro,1629244800,Miguel Herrera,Héctor Altamirano,"Estadio Universitario de Nuevo León, San Nicolás de los Garza",9264
+https://fbref.com/en/matches/ded896c9/Tijuana-Puebla-August-17-2021-Liga-MX,Tijuana,Puebla,1629252360,Robert Siboldi,Nicolás Larcamón,Officials: Fernando Hernández (Referee) · Karen Díaz (AR1) · Enrique Martìnez (AR2) · Guillermo Pacheco Larios (4th),0
+https://fbref.com/en/matches/1e481dd0/Necaxa-Pumas-UNAM-August-17-2021-Liga-MX,Necaxa,Pumas UNAM,1629252000,Guillermo Vázquez,Andrés Lillini,"Estadio Victoria de Aguascalientes, Aguascalientes",9242
+https://fbref.com/en/matches/4a3547c6/Santos-Laguna-Atlas-August-18-2021-Liga-MX,Santos Laguna,Atlas,1629331200,Guillermo Almada,Diego Cocca,"Estadio Nuevo Corona, Torreón",11998
+https://fbref.com/en/matches/ce7c8600/Cruz-Azul-Monterrey-August-18-2021-Liga-MX,Cruz Azul,Monterrey,1629331200,Juan Reynoso,Javier Aguirre,"Estadio Azteca, Coyoacán",7720
+https://fbref.com/en/matches/1bc7ef44/FC-Juarez-America-August-18-2021-Liga-MX,FC Juárez,América,1629338400,Tuca Ferretti,Santiago Solari,"Estadio Olímpico Benito Juárez, Ciudad Juárez",13992
+https://fbref.com/en/matches/c2e4fd57/Guadalajara-Leon-August-18-2021-Liga-MX,Guadalajara,León,1629338400,Víctor Vucetich,Ariel Holan,"Estadio Akron, Zapopan",10892
+https://fbref.com/en/matches/01a4a307/Atlas-Toluca-August-21-2021-Liga-MX,Atlas,Toluca,1629583200,Diego Cocca,Rolando Cristante,"Estadio Jalisco, Guadalajara",7239
+https://fbref.com/en/matches/e0879376/Mazatlan-UANL-August-20-2021-Liga-MX,Mazatlán,UANL,1629511200,Beñat San José,Miguel Herrera,"Estadio de Mazatlán, Mazatlán",7733
+https://fbref.com/en/matches/237c3dfc/Pumas-UNAM-Puebla-August-22-2021-Liga-MX,Pumas UNAM,Puebla,1629651600,Andrés Lillini,Nicolás Larcamón,Officials: Brian Gonzalez (Referee) · Michel Morales (AR1) · Manuel Martínez (AR2) · Juan Esquivel (4th) · Jorge Pérez (VAR),0
+https://fbref.com/en/matches/e7426780/America-Tijuana-August-22-2021-Liga-MX,América,Tijuana,1629669600,Santiago Solari,Robert Siboldi,Officials: Jorge Rojas (Referee) · José Ibrahim Martínez (AR1) · Marco Bisguerra (AR2) · Ismael Lopez  (4th) · Fernando Guerrero (VAR),0
+https://fbref.com/en/matches/45006c78/Leon-Santos-Laguna-August-21-2021-Liga-MX,León,Santos Laguna,1629590400,Ariel Holan,Guillermo Almada,"Estadio León, León",9239
+https://fbref.com/en/matches/ed15cf7a/Atletico-Cruz-Azul-August-21-2021-Liga-MX,Atlético,Cruz Azul,1629597600,Marcelo Méndez,Juan Reynoso,"Estadio Alfonso Lastras Ramírez, San Luis Potosí",3909
+https://fbref.com/en/matches/b09a43c7/Monterrey-Guadalajara-August-21-2021-Liga-MX,Monterrey,Guadalajara,1629599760,Javier Aguirre,Víctor Vucetich,"Estadio BBVA Bancomer, Guadalupe",15467
+https://fbref.com/en/matches/1e9a3b4f/Necaxa-FC-Juarez-August-22-2021-Liga-MX,Necaxa,FC Juárez,1629676800,Guillermo Vázquez,Tuca Ferretti,"Estadio Victoria de Aguascalientes, Aguascalientes",8983
+https://fbref.com/en/matches/10f766e1/Queretaro-Pachuca-August-22-2021-Liga-MX,Querétaro,Pachuca,1629684000,Héctor Altamirano,Paulo Pezzolano,"Estadio La Corregidora, Santiago de Querétaro",5190
+https://fbref.com/en/matches/00f617bf/Guadalajara-Necaxa-August-28-2021-Liga-MX,Guadalajara,Necaxa,1630188000,Víctor Vucetich,Guillermo Vázquez,"Estadio Akron, Zapopan",9603
+https://fbref.com/en/matches/d2a5b717/Mazatlan-Atletico-August-27-2021-Liga-MX,Mazatlán,Atlético,1630108800,Beñat San José,Marcelo Méndez,"Estadio de Mazatlán, Mazatlán",5477
+https://fbref.com/en/matches/bba581cf/Tijuana-Monterrey-August-27-2021-Liga-MX,Tijuana,Monterrey,1630116360,Robert Siboldi,Javier Aguirre,"Estadio Caliente, Tijuana",3333
+https://fbref.com/en/matches/c8ed43cc/Puebla-Queretaro-August-27-2021-Liga-MX,Puebla,Querétaro,1630116000,Nicolás Larcamón,Juan Carlos de la Barrera,"Estadio Cuauhtémoc, Puebla",6086
+https://fbref.com/en/matches/f29958e8/Toluca-Pumas-UNAM-August-29-2021-Liga-MX,Toluca,Pumas UNAM,1630256400,Hernán Cristante,Andrés Lillini,"Estadio Nemesio Díez, Toluca",9566
+https://fbref.com/en/matches/403cdd2b/Santos-Laguna-FC-Juarez-August-29-2021-Liga-MX,Santos Laguna,FC Juárez,1630278000,Guillermo Almada,Tuca Ferretti,"Estadio Nuevo Corona, Torreón",11691
+https://fbref.com/en/matches/5773827a/UANL-Atlas-August-28-2021-Liga-MX,UANL,Atlas,1630195200,Miguel Herrera,Diego Cocca,"Estadio Universitario de Nuevo León, San Nicolás de los Garza",11225
+https://fbref.com/en/matches/7a8c7ad4/Leon-America-August-28-2021-Liga-MX,León,América,1630202400,Ariel Holan,Santiago Solari,"Estadio León, León",12719
+https://fbref.com/en/matches/5a1e8a8f/Cruz-Azul-Pachuca-August-29-2021-Liga-MX,Cruz Azul,Pachuca,1630285200,Juan Reynoso,Paulo Pezzolano,"Estadio Azteca, Coyoacán",14626
+https://fbref.com/en/matches/287c9b88/Atlas-Monterrey-September-11-2021-Liga-MX,Atlas,Monterrey,1631397600,Diego Cocca,Javier Aguirre,"Estadio Jalisco, Guadalajara",5568
+https://fbref.com/en/matches/86168859/Puebla-Atletico-September-10-2021-Liga-MX,Puebla,Atlético,1631318400,Nicolás Larcamón,Marcelo Méndez,"Estadio Cuauhtémoc, Puebla",3370
+https://fbref.com/en/matches/67a707cf/Tijuana-Santos-Laguna-September-10-2021-Liga-MX,Tijuana,Santos Laguna,1631325960,Robert Siboldi,Guillermo Almada,"Estadio Caliente, Tijuana",6333
+https://fbref.com/en/matches/59403e0b/FC-Juarez-Cruz-Azul-September-10-2021-Liga-MX,FC Juárez,Cruz Azul,1631325600,Tuca Ferretti,Juan Reynoso,"Estadio Olímpico Benito Juárez, Ciudad Juárez",11623
+https://fbref.com/en/matches/708233da/Pumas-UNAM-Guadalajara-September-12-2021-Liga-MX,Pumas UNAM,Guadalajara,1631484000,Andrés Lillini,Víctor Vucetich,Officials: Fernando Guerrero (Referee) · Miguel Ángel Hernández (AR1) · Jorge Sánchez (AR2) · Adonai Escobedo (4th) · Erick Miranda (VAR),0
+https://fbref.com/en/matches/929bd5b7/UANL-Leon-September-11-2021-Liga-MX,UANL,León,1631404800,Miguel Herrera,Ariel Holan,"Estadio Universitario de Nuevo León, San Nicolás de los Garza",12962
+https://fbref.com/en/matches/7fb56154/America-Mazatlan-September-11-2021-Liga-MX,América,Mazatlán,1631412000,Santiago Solari,Beñat San José,"Estadio Azteca, Coyoacán",14637
+https://fbref.com/en/matches/f2ea33fc/Queretaro-Necaxa-September-12-2021-Liga-MX,Querétaro,Necaxa,1631491200,Leonardo Ramos,Guillermo Vázquez,"Estadio La Corregidora, Santiago de Querétaro",5704
+https://fbref.com/en/matches/f1205cdd/Pachuca-Toluca-September-13-2021-Liga-MX,Pachuca,Toluca,1631584800,Paulo Pezzolano,Rolando Cristante,Officials: Oscar Mejia (Referee) · Enrique Bustos (AR1) · José de Jesús Baños (AR2) · Jorge Rojas (4th) · Adonai Escobedo (VAR),0
+https://fbref.com/en/matches/7292f9cf/Atletico-Tijuana-September-16-2021-Liga-MX,Atlético,Tijuana,1631836800,Marcelo Méndez,Robert Siboldi,"Estadio Alfonso Lastras Ramírez, San Luis Potosí",3038
+https://fbref.com/en/matches/d39acbc8/Leon-FC-Juarez-September-18-2021-Liga-MX,León,FC Juárez,1632002400,Ariel Holan,Tuca Ferretti,"Estadio León, León",10078
+https://fbref.com/en/matches/0dfc9e4b/Necaxa-Atlas-September-17-2021-Liga-MX,Necaxa,Atlas,1631930400,Guillermo Vázquez,Diego Cocca,"Estadio Victoria de Aguascalientes, Aguascalientes",11020
+https://fbref.com/en/matches/4ad27ce5/Toluca-America-September-18-2021-Liga-MX,Toluca,América,1632009600,Rolando Cristante,Santiago Solari,"Estadio Nemesio Díez, Toluca",10297
+https://fbref.com/en/matches/22c836de/Mazatlan-Pumas-UNAM-September-18-2021-Liga-MX,Mazatlán,Pumas UNAM,1632016800,Beñat San José,Andrés Lillini,"Estadio de Mazatlán, Mazatlán",7902
+https://fbref.com/en/matches/833d55ca/Guadalajara-Pachuca-September-18-2021-Liga-MX,Guadalajara,Pachuca,1632016800,Víctor Vucetich,Paulo Pezzolano,"Estadio Akron, Zapopan",11135
+https://fbref.com/en/matches/f9bb4249/Cruz-Azul-Queretaro-September-19-2021-Liga-MX,Cruz Azul,Querétaro,1632096000,Juan Reynoso,Leonardo Ramos,"Estadio Azteca, Coyoacán",14882
+https://fbref.com/en/matches/9f33dfe6/Monterrey-UANL-September-19-2021-Liga-MX,Monterrey,UANL,1632096360,Javier Aguirre,Miguel Herrera,"Estadio BBVA Bancomer, Guadalupe",26755
+https://fbref.com/en/matches/518b49bf/Santos-Laguna-Puebla-September-19-2021-Liga-MX,Santos Laguna,Puebla,1632103560,Guillermo Almada,Nicolás Larcamón,"Estadio Nuevo Corona, Torreón",11431
+https://fbref.com/en/matches/2ed80683/FC-Juarez-Atletico-September-21-2021-Liga-MX,FC Juárez,Atlético,1632276000,Tuca Ferretti,Marcelo Méndez,"Estadio Olímpico Benito Juárez, Ciudad Juárez",11906
+https://fbref.com/en/matches/cf641a7f/Monterrey-Toluca-September-22-2021-Liga-MX,Monterrey,Toluca,1632355560,Javier Aguirre,Rolando Cristante,"Estadio BBVA Bancomer, Guadalupe",19836
+https://fbref.com/en/matches/52e2d328/Pachuca-Necaxa-September-23-2021-Liga-MX,Pachuca,Necaxa,1632448800,Paulo Pezzolano,Guillermo Vázquez,"Estadio Hidalgo, Pachuca",4710
+https://fbref.com/en/matches/16e3dbbd/Atlas-Leon-September-25-2021-Liga-MX,Atlas,León,1632607200,Diego Cocca,Ariel Holan,"Estadio Jalisco, Guadalajara",8832
+https://fbref.com/en/matches/eb75c787/Tijuana-Mazatlan-September-24-2021-Liga-MX,Tijuana,Mazatlán,1632535560,Robert Siboldi,Beñat San José,"Estadio Caliente, Tijuana",7333
+https://fbref.com/en/matches/baa45c35/Puebla-Cruz-Azul-September-24-2021-Liga-MX,Puebla,Cruz Azul,1632531600,Nicolás Larcamón,Juan Reynoso,"Estadio Cuauhtémoc, Puebla",14782
+https://fbref.com/en/matches/795614b1/Toluca-Atletico-September-26-2021-Liga-MX,Toluca,Atlético,1632675600,Rolando Cristante,Marcelo Méndez,"Estadio Nemesio Díez, Toluca",6833
+https://fbref.com/en/matches/2e15342d/UANL-Pumas-UNAM-September-25-2021-Liga-MX,UANL,Pumas UNAM,1632614400,Miguel Herrera,Andrés Lillini,"Estadio Universitario de Nuevo León, San Nicolás de los Garza",15581
+https://fbref.com/en/matches/6f5a536d/America-Guadalajara-September-25-2021-Liga-MX,América,Guadalajara,1632621600,Santiago Solari,Marcelo Leaño,"Estadio Azteca, Coyoacán",42862
+https://fbref.com/en/matches/ff4f30b8/Santos-Laguna-Monterrey-September-26-2021-Liga-MX,Santos Laguna,Monterrey,1632701160,Guillermo Almada,Javier Aguirre,"Estadio Nuevo Corona, Torreón",14484
+https://fbref.com/en/matches/769acca5/Necaxa-Tijuana-September-28-2021-Liga-MX,Necaxa,Tijuana,1632866400,Guillermo Vázquez,Robert Siboldi,"Estadio Victoria de Aguascalientes, Aguascalientes",7251
+https://fbref.com/en/matches/00584c59/Atletico-UANL-September-29-2021-Liga-MX,Atlético,UANL,1632952800,Marcelo Méndez,Miguel Herrera,"Estadio Alfonso Lastras Ramírez, San Luis Potosí",9545
+https://fbref.com/en/matches/aae6287d/Mazatlan-FC-Juarez-September-28-2021-Liga-MX,Mazatlán,FC Juárez,1632873600,Beñat San José,Tuca Ferretti,"Estadio de Mazatlán, Mazatlán",5880
+https://fbref.com/en/matches/59bc80bd/Atlas-Puebla-September-28-2021-Liga-MX,Atlas,Puebla,1632880800,Diego Cocca,Nicolás Larcamón,"Estadio Jalisco, Guadalajara",9902
+https://fbref.com/en/matches/949af4be/Pachuca-America-September-28-2021-Liga-MX,Pachuca,América,1632881100,Paulo Pezzolano,Santiago Solari,"Estadio Hidalgo, Pachuca",7454
+https://fbref.com/en/matches/dddef9cf/Queretaro-Guadalajara-September-29-2021-Liga-MX,Querétaro,Guadalajara,1632968100,Leonardo Ramos,Marcelo Leaño,"Estadio La Corregidora, Santiago de Querétaro",6812
+https://fbref.com/en/matches/c1dac94f/Leon-Atletico-October-2-2021-Liga-MX,León,Atlético,1633212000,Ariel Holan,Marcelo Méndez,"Estadio León, León",9675
+https://fbref.com/en/matches/a9f97717/Puebla-Pachuca-October-1-2021-Liga-MX,Puebla,Pachuca,1633132800,Nicolás Larcamón,Paulo Pezzolano,"Estadio Cuauhtémoc, Puebla",5906
+https://fbref.com/en/matches/9f23dd45/FC-Juarez-Monterrey-October-1-2021-Liga-MX,FC Juárez,Monterrey,1633140000,Tuca Ferretti,Javier Aguirre,"Estadio Olímpico Benito Juárez, Ciudad Juárez",9608
+https://fbref.com/en/matches/eb3cb84f/Toluca-Queretaro-October-3-2021-Liga-MX,Toluca,Querétaro,1633280400,Hernán Cristante,Leonardo Ramos,"Estadio Nemesio Díez, Toluca",6585
+https://fbref.com/en/matches/72d3d439/America-Pumas-UNAM-October-3-2021-Liga-MX,América,Pumas UNAM,1633298400,Santiago Solari,Andrés Lillini,"Estadio Azteca, Coyoacán",27571
+https://fbref.com/en/matches/466e589c/Santos-Laguna-Mazatlan-October-2-2021-Liga-MX,Santos Laguna,Mazatlán,1633219560,Guillermo Almada,Beñat San José,"Estadio Nuevo Corona, Torreón",11293
+https://fbref.com/en/matches/12e2586b/Guadalajara-Atlas-October-2-2021-Liga-MX,Guadalajara,Atlas,1633226400,Marcelo Leaño,Diego Cocca,"Estadio Akron, Zapopan",21709
+https://fbref.com/en/matches/43dbc061/UANL-Necaxa-October-3-2021-Liga-MX,UANL,Necaxa,1633305600,Miguel Herrera,Pablo Guede,"Estadio Universitario de Nuevo León, San Nicolás de los Garza",15797
+https://fbref.com/en/matches/013bd77d/Tijuana-Cruz-Azul-October-3-2021-Liga-MX,Tijuana,Cruz Azul,1633313160,Robert Siboldi,Juan Reynoso,"Estadio Caliente, Tijuana",10333
+https://fbref.com/en/matches/75453686/FC-Juarez-Queretaro-October-8-2021-Liga-MX,FC Juárez,Querétaro,1633737600,Tuca Ferretti,Leonardo Ramos,"Estadio Olímpico Benito Juárez, Ciudad Juárez",10646
+https://fbref.com/en/matches/48075351/Queretaro-Tijuana-October-14-2021-Liga-MX,Querétaro,Tijuana,1634259600,Leonardo Ramos,Sebastián Méndez,"Estadio La Corregidora, Santiago de Querétaro",8471
+https://fbref.com/en/matches/58bb9b84/Monterrey-Leon-October-16-2021-Liga-MX,Monterrey,León,1634421600,Javier Aguirre,Ariel Holan,"Estadio BBVA Bancomer, Guadalupe",26078
+https://fbref.com/en/matches/fe805ab9/Necaxa-Puebla-October-15-2021-Liga-MX,Necaxa,Puebla,1634342400,Pablo Guede,Nicolás Larcamón,"Estadio Victoria de Aguascalientes, Aguascalientes",8723
+https://fbref.com/en/matches/54faa4d5/Mazatlan-Atlas-October-15-2021-Liga-MX,Mazatlán,Atlas,1634349600,Beñat San José,Diego Cocca,"Estadio de Mazatlán, Mazatlán",8120
+https://fbref.com/en/matches/f5bc7ee6/Pumas-UNAM-FC-Juarez-October-17-2021-Liga-MX,Pumas UNAM,FC Juárez,1634490000,Andrés Lillini,Tuca Ferretti,"Estadio Olímpico de Universitario, Ciudad de México",9000
+https://fbref.com/en/matches/b4beab34/Guadalajara-Toluca-October-17-2021-Liga-MX,Guadalajara,Toluca,1634508000,Marcelo Leaño,Rolando Cristante,"Estadio Akron, Zapopan",15019
+https://fbref.com/en/matches/0d280d1b/Atletico-America-October-16-2021-Liga-MX,Atlético,América,1634428800,Marcelo Méndez,Santiago Solari,"Estadio Alfonso Lastras Ramírez, San Luis Potosí",16373
+https://fbref.com/en/matches/2a144896/Pachuca-Santos-Laguna-October-16-2021-Liga-MX,Pachuca,Santos Laguna,1634429100,Paulo Pezzolano,Guillermo Almada,"Estadio Hidalgo, Pachuca",5503
+https://fbref.com/en/matches/19d09b20/Cruz-Azul-UANL-October-16-2021-Liga-MX,Cruz Azul,UANL,1634436000,Juan Reynoso,Miguel Herrera,"Estadio Azteca, Coyoacán",20894
+https://fbref.com/en/matches/b6219f2f/Queretaro-Monterrey-October-19-2021-Liga-MX,Querétaro,Monterrey,1634680800,Leonardo Ramos,Javier Aguirre,"Estadio La Corregidora, Santiago de Querétaro",10595
+https://fbref.com/en/matches/a56d2c98/Puebla-Mazatlan-October-19-2021-Liga-MX,Puebla,Mazatlán,1634688000,Nicolás Larcamón,Beñat San José,"Estadio Cuauhtémoc, Puebla",5624
+https://fbref.com/en/matches/021396aa/America-Santos-Laguna-October-19-2021-Liga-MX,América,Santos Laguna,1634688300,Santiago Solari,Guillermo Almada,"Estadio Azteca, Coyoacán",16918
+https://fbref.com/en/matches/1e70df44/Atlas-Cruz-Azul-October-19-2021-Liga-MX,Atlas,Cruz Azul,1634695500,Diego Cocca,Juan Reynoso,"Estadio Jalisco, Guadalajara",9604
+https://fbref.com/en/matches/51cd4854/Leon-Pumas-UNAM-October-20-2021-Liga-MX,León,Pumas UNAM,1634774400,Ariel Holan,Andrés Lillini,"Estadio León, León",12333
+https://fbref.com/en/matches/ae364811/Toluca-Necaxa-October-20-2021-Liga-MX,Toluca,Necaxa,1634774400,Rolando Cristante,Pablo Guede,"Estadio Nemesio Díez, Toluca",10090
+https://fbref.com/en/matches/2cd20a80/Tijuana-Guadalajara-October-20-2021-Liga-MX,Tijuana,Guadalajara,1634781960,Sebastián Méndez,Marcelo Leaño,"Estadio Caliente, Tijuana",10333
+https://fbref.com/en/matches/8c45aaa7/UANL-Pachuca-October-20-2021-Liga-MX,UANL,Pachuca,1634781600,Miguel Herrera,Paulo Pezzolano,"Estadio Universitario de Nuevo León, San Nicolás de los Garza",24153
+https://fbref.com/en/matches/29cff2bc/Puebla-Leon-October-23-2021-Liga-MX,Puebla,León,1635026400,Nicolás Larcamón,Ariel Holan,"Estadio Cuauhtémoc, Puebla",15101
+https://fbref.com/en/matches/c58b1d99/Monterrey-Necaxa-October-23-2021-Liga-MX,Monterrey,Necaxa,1635026760,Javier Aguirre,Pablo Guede,"Estadio BBVA Bancomer, Guadalupe",23077
+https://fbref.com/en/matches/ab67cedd/Mazatlan-Queretaro-October-22-2021-Liga-MX,Mazatlán,Querétaro,1634954400,Beñat San José,Leonardo Ramos,"Estadio de Mazatlán, Mazatlán",9107
+https://fbref.com/en/matches/443f81b9/Pumas-UNAM-Tijuana-October-24-2021-Liga-MX,Pumas UNAM,Tijuana,1635094800,Andrés Lillini,Sebastián Méndez,"Estadio Olímpico de Universitario, Ciudad de México",11981
+https://fbref.com/en/matches/957b6deb/America-UANL-October-23-2021-Liga-MX,América,UANL,1635033600,Santiago Solari,Miguel Herrera,"Estadio Azteca, Coyoacán",32675
+https://fbref.com/en/matches/cbd60147/Guadalajara-Cruz-Azul-October-23-2021-Liga-MX,Guadalajara,Cruz Azul,1635040800,Marcelo Leaño,Juan Reynoso,"Estadio Akron, Zapopan",20492
+https://fbref.com/en/matches/aa39ba6b/Atletico-Atlas-October-24-2021-Liga-MX,Atlético,Atlas,1635120000,Marcelo Méndez,Diego Cocca,"Estadio Alfonso Lastras Ramírez, San Luis Potosí",9309
+https://fbref.com/en/matches/3ae4e2e0/Santos-Laguna-Toluca-October-24-2021-Liga-MX,Santos Laguna,Toluca,1635120360,Guillermo Almada,Rolando Cristante,"Estadio Nuevo Corona, Torreón",12511
+https://fbref.com/en/matches/b5c60a40/Pachuca-FC-Juarez-October-24-2021-Liga-MX,Pachuca,FC Juárez,1635127200,Paulo Pezzolano,Tuca Ferretti,"Estadio Hidalgo, Pachuca",2747
+https://fbref.com/en/matches/8f99d0eb/Atlas-Tijuana-October-28-2021-Liga-MX,Atlas,Tijuana,1635465600,Diego Cocca,Sebastián Méndez,"Estadio Jalisco, Guadalajara",10299
+https://fbref.com/en/matches/ee7751c7/Queretaro-Santos-Laguna-October-30-2021-Liga-MX,Querétaro,Santos Laguna,1635631200,Leonardo Ramos,Guillermo Almada,"Estadio La Corregidora, Santiago de Querétaro",13254
+https://fbref.com/en/matches/6f1d4c1f/Necaxa-Mazatlan-October-29-2021-Liga-MX,Necaxa,Mazatlán,1635552000,Pablo Guede,Beñat San José,"Estadio Victoria de Aguascalientes, Aguascalientes",10809
+https://fbref.com/en/matches/4eb53534/FC-Juarez-Puebla-October-29-2021-Liga-MX,FC Juárez,Puebla,1635559200,Tuca Ferretti,Nicolás Larcamón,"Estadio Olímpico Benito Juárez, Ciudad Juárez",10942
+https://fbref.com/en/matches/52a9bad8/Toluca-Leon-October-31-2021-Liga-MX,Toluca,León,1635703200,Rolando Cristante,Ariel Holan,"Estadio Nemesio Díez, Toluca",11210
+https://fbref.com/en/matches/7c1be2fa/Cruz-Azul-America-October-31-2021-Liga-MX,Cruz Azul,América,1635721500,Juan Reynoso,Santiago Solari,"Estadio Azteca, Coyoacán",31257
+https://fbref.com/en/matches/3e9f2d6b/Pachuca-Pumas-UNAM-October-30-2021-Liga-MX,Pachuca,Pumas UNAM,1635642360,Paulo Pezzolano,Andrés Lillini,"Estadio Hidalgo, Pachuca",6887
+https://fbref.com/en/matches/7c060497/UANL-Guadalajara-October-30-2021-Liga-MX,UANL,Guadalajara,1635646200,Miguel Herrera,Marcelo Leaño,"Estadio Universitario de Nuevo León, San Nicolás de los Garza",25523
+https://fbref.com/en/matches/26db6946/Atletico-Monterrey-October-31-2021-Liga-MX,Atlético,Monterrey,1635728700,Marcelo Méndez,Javier Aguirre,"Estadio Alfonso Lastras Ramírez, San Luis Potosí",7690
+https://fbref.com/en/matches/691a4ea3/Pachuca-Atletico-November-3-2021-Liga-MX,Pachuca,Atlético,1635987600,Paulo Pezzolano,Marcelo Méndez,"Estadio Hidalgo, Pachuca",10683
+https://fbref.com/en/matches/0bdac9f3/Cruz-Azul-Leon-November-3-2021-Liga-MX,Cruz Azul,León,1635994800,Juan Reynoso,Ariel Holan,"Estadio Azteca, Coyoacán",17928
+https://fbref.com/en/matches/4abdb806/Pumas-UNAM-Santos-Laguna-November-4-2021-Liga-MX,Pumas UNAM,Santos Laguna,1636074000,Andrés Lillini,Guillermo Almada,"Estadio Olímpico de Universitario, Ciudad de México",14190
+https://fbref.com/en/matches/c562ed9d/Atlas-Queretaro-November-4-2021-Liga-MX,Atlas,Querétaro,1636081200,Diego Cocca,Leonardo Ramos,"Estadio Jalisco, Guadalajara",10421
+https://fbref.com/en/matches/149d5d22/Leon-Necaxa-November-6-2021-Liga-MX,León,Necaxa,1636239600,Ariel Holan,Pablo Guede,"Estadio León, León",11240
+https://fbref.com/en/matches/1c833261/Puebla-Toluca-November-5-2021-Liga-MX,Puebla,Toluca,1636160400,Nicolás Larcamón,Hernán Cristante,"Estadio Cuauhtémoc, Puebla",16136
+https://fbref.com/en/matches/2069669a/Mazatlan-Guadalajara-November-5-2021-Liga-MX,Mazatlán,Guadalajara,1636167600,Beñat San José,Marcelo Leaño,"Estadio de Mazatlán, Mazatlán",12830
+https://fbref.com/en/matches/2c48e576/Pumas-UNAM-Cruz-Azul-November-7-2021-Liga-MX,Pumas UNAM,Cruz Azul,1636326000,Andrés Lillini,Juan Reynoso,"Estadio Olímpico de Universitario, Ciudad de México",23573
+https://fbref.com/en/matches/c9b7ebc5/America-Monterrey-November-6-2021-Liga-MX,América,Monterrey,1636246800,Santiago Solari,Javier Aguirre,"Estadio Azteca, Coyoacán",25654
+https://fbref.com/en/matches/96ca2bdb/Tijuana-Pachuca-November-6-2021-Liga-MX,Tijuana,Pachuca,1636254360,Sebastián Méndez,Paulo Pezzolano,"Estadio Caliente, Tijuana",6333
+https://fbref.com/en/matches/cb6789f8/UANL-FC-Juarez-November-6-2021-Liga-MX,UANL,FC Juárez,1636254000,Miguel Herrera,Tuca Ferretti,"Estadio Universitario de Nuevo León, San Nicolás de los Garza",26243
+https://fbref.com/en/matches/9970aca4/Santos-Laguna-Atletico-November-7-2021-Liga-MX,Santos Laguna,Atlético,1636333560,Guillermo Almada,Marcelo Méndez,"Estadio Nuevo Corona, Torreón",14658
+https://fbref.com/en/matches/9d6f1ede/Toluca-Pumas-UNAM-November-21-2021-Liga-MX,Toluca,Pumas UNAM,1637535600,Rolando Cristante,Andrés Lillini,"Estadio Nemesio Díez, Toluca",22595
+https://fbref.com/en/matches/a052e66a/Santos-Laguna-Atletico-November-20-2021-Liga-MX,Santos Laguna,Atlético,1637456400,Guillermo Almada,Marcelo Méndez,"Estadio Corona, Torreón",10048
+https://fbref.com/en/matches/d14fe0fe/Puebla-Guadalajara-November-20-2021-Liga-MX,Puebla,Guadalajara,1637463600,Nicolás Larcamón,Marcelo Leaño,"Estadio Cuauhtémoc, Puebla",34530
+https://fbref.com/en/matches/5879f6bd/Cruz-Azul-Monterrey-November-21-2021-Liga-MX,Cruz Azul,Monterrey,1637543700,Juan Reynoso,Javier Aguirre,Officials: Fernando Guerrero (Referee) · Christian Espinosa (AR1) · José Ibrahim Martínez (AR2) · Jorge Pérez (4th) · Eduardo Basulto (VAR),0
+https://fbref.com/en/matches/2b3a8ea5/Pumas-UNAM-America-November-24-2021-Liga-MX,Pumas UNAM,América,1637802000,Andrés Lillini,Santiago Solari,"Estadio Olímpico Universitario de Colima, Colima",42784
+https://fbref.com/en/matches/972f8d9d/Monterrey-Atlas-November-24-2021-Liga-MX,Monterrey,Atlas,1637809500,Javier Aguirre,Diego Cocca,"Estadio BBVA Bancomer, Guadalupe",27105
+https://fbref.com/en/matches/322c9e43/Puebla-Leon-November-25-2021-Liga-MX,Puebla,León,1637888400,Nicolás Larcamón,Ariel Holan,"Estadio Cuauhtémoc, Puebla",27259
+https://fbref.com/en/matches/d773e741/Santos-Laguna-UANL-November-25-2021-Liga-MX,Santos Laguna,UANL,1637895900,Guillermo Almada,Miguel Herrera,"Estadio Corona, Torreón",15310
+https://fbref.com/en/matches/410683ff/America-Pumas-UNAM-November-27-2021-Liga-MX,América,Pumas UNAM,1638061200,Santiago Solari,Andrés Lillini,"Estadio Azteca, Coyoacán",51302
+https://fbref.com/en/matches/52c70d54/Atlas-Monterrey-November-27-2021-Liga-MX,Atlas,Monterrey,1638068700,Diego Cocca,Javier Aguirre,"Estadio Jalisco, Guadalajara",21210
+https://fbref.com/en/matches/f2bd10b6/UANL-Santos-Laguna-November-28-2021-Liga-MX,UANL,Santos Laguna,1638144000,Miguel Herrera,Guillermo Almada,"Estadio Universitario de Nuevo León, San Nicolás de los Garza",37438
+https://fbref.com/en/matches/c441186b/Leon-Puebla-November-28-2021-Liga-MX,León,Puebla,1638151500,Ariel Holan,Nicolás Larcamón,"Estadio León, León",13307
+https://fbref.com/en/matches/e55bd870/UANL-Leon-December-1-2021-Liga-MX,UANL,León,1638414000,Miguel Herrera,Ariel Holan,"Estadio Universitario de Nuevo León, San Nicolás de los Garza",37785
+https://fbref.com/en/matches/8e6081b4/Pumas-UNAM-Atlas-December-2-2021-Liga-MX,Pumas UNAM,Atlas,1638500400,Andrés Lillini,Diego Cocca,"Estadio Olímpico de Universitario, Ciudad de México",48976
+https://fbref.com/en/matches/13f3d960/Leon-UANL-December-4-2021-Liga-MX,León,UANL,1638673200,Ariel Holan,Miguel Herrera,"Estadio León, León",23570
+https://fbref.com/en/matches/17f34bd5/Atlas-Pumas-UNAM-December-5-2021-Liga-MX,Atlas,Pumas UNAM,1638752400,Diego Cocca,Andrés Lillini,"Estadio Jalisco, Guadalajara",42962
+https://fbref.com/en/matches/5b41f80b/Leon-Atlas-December-9-2021-Liga-MX,León,Atlas,1639105200,Ariel Holan,Diego Cocca,"Estadio León, León",23513
+https://fbref.com/en/matches/75ce8234/Atlas-Leon-December-12-2021-Liga-MX,Atlas,León,1639361700,Diego Cocca,Ariel Holan,"Estadio Jalisco, Guadalajara",47548
+https://fbref.com/en/matches/b8b433df/Atletico-Pachuca-January-6-2022-Liga-MX,Atlético,Pachuca,1641524400,Marcelo Méndez,Guillermo Almada,"Estadio Alfonso Lastras Ramírez, San Luis Potosí",6841
+https://fbref.com/en/matches/19cb809d/FC-Juarez-Necaxa-January-7-2022-Liga-MX,FC Juárez,Necaxa,1641603600,Tuca Ferretti,Pablo Guede,"Estadio Olímpico Benito Juárez, Ciudad Juárez",7731
+https://fbref.com/en/matches/dd039730/Puebla-America-January-7-2022-Liga-MX,Puebla,América,1641610800,Nicolás Larcamón,Santiago Solari,"Estadio Cuauhtémoc, Puebla",35040
+https://fbref.com/en/matches/f833ba81/Monterrey-Queretaro-January-8-2022-Liga-MX,Monterrey,Querétaro,1641690360,Javier Aguirre,Leonardo Ramos,"Estadio BBVA Bancomer, Guadalupe",18926
+https://fbref.com/en/matches/4f7092e6/Cruz-Azul-Tijuana-January-8-2022-Liga-MX,Cruz Azul,Tijuana,1641697200,Juan Reynoso,Sebastián Méndez,"Estadio Azteca, Coyoacán",16271
+https://fbref.com/en/matches/a343d457/Guadalajara-Mazatlan-January-9-2022-Liga-MX,Guadalajara,Mazatlán,1641772800,Marcelo Leaño,Beñat San José,"Estadio Akron, Zapopan",19565
+https://fbref.com/en/matches/69a05e13/Pumas-UNAM-Toluca-January-10-2022-Liga-MX,Pumas UNAM,Toluca,1641870000,Andrés Lillini,Ignacio Ambríz,"Estadio Olímpico Universitario de Colima, Colima",8493
+https://fbref.com/en/matches/a0da6ba1/Santos-Laguna-UANL-January-12-2022-Liga-MX,Santos Laguna,UANL,1642039560,Pedro Caixinha,Miguel Herrera,"Estadio Nuevo Corona, Torreón",9377
+https://fbref.com/en/matches/fdc75ca5/Atlas-Atletico-January-15-2022-Liga-MX,Atlas,Atlético,1642287600,Diego Cocca,Marcelo Méndez,"Estadio Jalisco, Guadalajara",13353
+https://fbref.com/en/matches/222c9436/Queretaro-Pumas-UNAM-January-14-2022-Liga-MX,Querétaro,Pumas UNAM,1642208400,Leonardo Ramos,Andrés Lillini,"Estadio La Corregidora, Santiago de Querétaro",13569
+https://fbref.com/en/matches/7977a1d2/Necaxa-Monterrey-January-14-2022-Liga-MX,Necaxa,Monterrey,1642215600,Pablo Guede,Javier Aguirre,"Estadio Victoria de Aguascalientes, Aguascalientes",8921
+https://fbref.com/en/matches/089b3168/Toluca-Santos-Laguna-January-16-2022-Liga-MX,Toluca,Santos Laguna,1642356000,Ignacio Ambríz,Pedro Caixinha,"Estadio Nemesio Díez, Toluca",10023
+https://fbref.com/en/matches/469e607a/Pachuca-Guadalajara-January-16-2022-Liga-MX,Pachuca,Guadalajara,1642374000,Guillermo Almada,Marcelo Leaño,"Estadio Hidalgo, Pachuca",6692
+https://fbref.com/en/matches/67cc0c09/UANL-Puebla-January-15-2022-Liga-MX,UANL,Puebla,1642294800,Miguel Herrera,Nicolás Larcamón,"Estadio Universitario de Nuevo León, San Nicolás de los Garza",14829
+https://fbref.com/en/matches/e33ab0c3/Tijuana-Leon-January-15-2022-Liga-MX,Tijuana,León,1642302360,Sebastián Méndez,Ariel Holan,"Estadio Caliente, Tijuana",8333
+https://fbref.com/en/matches/87fc4d26/Cruz-Azul-FC-Juarez-January-15-2022-Liga-MX,Cruz Azul,FC Juárez,1642302000,Juan Reynoso,Tuca Ferretti,"Estadio Azteca, Coyoacán",13801
+https://fbref.com/en/matches/c17039a6/Leon-Atlas-January-19-2022-Liga-MX,León,Atlas,1642647600,Ariel Holan,Diego Cocca,"Estadio León, León",8997
+https://fbref.com/en/matches/81c5eefc/Atletico-FC-Juarez-January-20-2022-Liga-MX,Atlético,FC Juárez,1642734000,Marcelo Méndez,Tuca Ferretti,"Estadio Alfonso Lastras Ramírez, San Luis Potosí",5397
+https://fbref.com/en/matches/59326e43/Guadalajara-Queretaro-January-22-2022-Liga-MX,Guadalajara,Querétaro,1642892400,Marcelo Leaño,Leonardo Ramos,"Estadio Akron, Zapopan",15193
+https://fbref.com/en/matches/2c89f4dd/Mazatlan-Toluca-January-21-2022-Liga-MX,Mazatlán,Toluca,1642820400,Beñat San José,Ignacio Ambríz,"Estadio de Mazatlán, Mazatlán",8517
+https://fbref.com/en/matches/84b67a01/Pumas-UNAM-UANL-January-23-2022-Liga-MX,Pumas UNAM,UANL,1642960800,Andrés Lillini,Miguel Herrera,"Estadio Olímpico Universitario de Colima, Colima",18805
+https://fbref.com/en/matches/194fdc5a/Leon-Pachuca-January-22-2022-Liga-MX,León,Pachuca,1642899600,Ariel Holan,Guillermo Almada,"Estadio León, León",9463
+https://fbref.com/en/matches/22110b2a/America-Atlas-January-22-2022-Liga-MX,América,Atlas,1642906800,Santiago Solari,Diego Cocca,"Estadio Azteca, Coyoacán",20825
+https://fbref.com/en/matches/e0be6bf0/Monterrey-Cruz-Azul-January-22-2022-Liga-MX,Monterrey,Cruz Azul,1642907160,Javier Aguirre,Juan Reynoso,"Estadio BBVA Bancomer, Guadalupe",16508
+https://fbref.com/en/matches/6cf62ae0/Santos-Laguna-Necaxa-January-23-2022-Liga-MX,Santos Laguna,Necaxa,1642986000,Pedro Caixinha,Pablo Guede,"Estadio Nuevo Corona, Torreón",9630
+https://fbref.com/en/matches/5afd2b90/Puebla-Tijuana-January-28-2022-Liga-MX,Puebla,Tijuana,1643425200,Nicolás Larcamón,Sebastián Méndez,"Estadio Cuauhtémoc, Puebla",11180
+https://fbref.com/en/matches/c781dfdf/Necaxa-Pachuca-February-5-2022-Liga-MX,Necaxa,Pachuca,1644102000,Pablo Guede,Guillermo Almada,"Estadio Victoria de Aguascalientes, Aguascalientes",9238
+https://fbref.com/en/matches/623b5183/Queretaro-Puebla-February-6-2022-Liga-MX,Querétaro,Puebla,1644184800,Leonardo Ramos,Nicolás Larcamón,"Estadio La Corregidora, Santiago de Querétaro",13622
+https://fbref.com/en/matches/4670a853/America-Atletico-February-5-2022-Liga-MX,América,Atlético,1644109200,Santiago Solari,Rigoberto Esparza,"Estadio Azteca, Coyoacán",16968
+https://fbref.com/en/matches/bade1504/Tijuana-Pumas-UNAM-February-5-2022-Liga-MX,Tijuana,Pumas UNAM,1644116760,Sebastián Méndez,Andrés Lillini,"Estadio Caliente, Tijuana",11633
+https://fbref.com/en/matches/38044915/Atlas-Santos-Laguna-February-6-2022-Liga-MX,Atlas,Santos Laguna,1644192000,Diego Cocca,Pedro Caixinha,"Estadio Jalisco, Guadalajara",17346
+https://fbref.com/en/matches/67d73f1f/UANL-Mazatlan-February-6-2022-Liga-MX,UANL,Mazatlán,1644199200,Miguel Herrera,Beñat San José,"Estadio Universitario de Nuevo León, San Nicolás de los Garza",10497
+https://fbref.com/en/matches/190c432e/Leon-Cruz-Azul-February-7-2022-Liga-MX,León,Cruz Azul,1644289500,Ariel Holan,Juan Reynoso,"Estadio León, León",14097
+https://fbref.com/en/matches/57a947a3/FC-Juarez-Guadalajara-February-9-2022-Liga-MX,FC Juárez,Guadalajara,1644454800,Tuca Ferretti,Marcelo Leaño,"Estadio Olímpico Benito Juárez, Ciudad Juárez",7801
+https://fbref.com/en/matches/884fd91e/Guadalajara-UANL-February-12-2022-Liga-MX,Guadalajara,UANL,1644706800,Marcelo Leaño,Miguel Herrera,"Estadio Akron, Zapopan",22564
+https://fbref.com/en/matches/ccdf735f/Atletico-Toluca-February-12-2022-Liga-MX,Atlético,Toluca,1644706800,André Jardine,Ignacio Ambríz,"Estadio Alfonso Lastras Ramírez, San Luis Potosí",5574
+https://fbref.com/en/matches/c6da33d2/Mazatlan-Tijuana-February-11-2022-Liga-MX,Mazatlán,Tijuana,1644627600,Beñat San José,Sebastián Méndez,"Estadio de Mazatlán, Mazatlán",8221
+https://fbref.com/en/matches/2a6db36f/Puebla-Atlas-February-11-2022-Liga-MX,Puebla,Atlas,1644634800,Nicolás Larcamón,Diego Cocca,"Estadio Cuauhtémoc, Puebla",23170
+https://fbref.com/en/matches/09968954/Pumas-UNAM-Leon-February-13-2022-Liga-MX,Pumas UNAM,León,1644775200,Andrés Lillini,Ariel Holan,"Estadio Olímpico Universitario de Colima, Colima",15079
+https://fbref.com/en/matches/04b14ef6/Cruz-Azul-Necaxa-February-12-2022-Liga-MX,Cruz Azul,Necaxa,1644714000,Juan Reynoso,Miguel Fuentes,"Estadio Azteca, Coyoacán",26967
+https://fbref.com/en/matches/3a858e7e/Santos-Laguna-America-February-12-2022-Liga-MX,Santos Laguna,América,1644721200,Pedro Caixinha,Santiago Solari,"Estadio Nuevo Corona, Torreón",18774
+https://fbref.com/en/matches/3d2b3ec5/Pachuca-Queretaro-February-14-2022-Liga-MX,Pachuca,Querétaro,1644894000,Guillermo Almada,Rolando Cristante,"Estadio Hidalgo, Pachuca",5584
+https://fbref.com/en/matches/78966815/Mazatlan-America-February-16-2022-Liga-MX,Mazatlán,América,1645059600,Beñat San José,Santiago Solari,"Estadio de Mazatlán, Mazatlán",13934
+https://fbref.com/en/matches/55543e38/Queretaro-Mazatlan-February-19-2022-Liga-MX,Querétaro,Mazatlán,1645311600,Rolando Cristante,Beñat San José,"Estadio La Corregidora, Santiago de Querétaro",7458
+https://fbref.com/en/matches/de2aefac/Puebla-Monterrey-February-18-2022-Liga-MX,Puebla,Monterrey,1645232400,Nicolás Larcamón,Javier Aguirre,"Estadio Cuauhtémoc, Puebla",25934
+https://fbref.com/en/matches/5ccb3309/Tijuana-Necaxa-February-18-2022-Liga-MX,Tijuana,Necaxa,1645239960,Sebastián Méndez,Jaime Lozano,"Estadio Caliente, Tijuana",10333
+https://fbref.com/en/matches/06d19361/FC-Juarez-Santos-Laguna-February-18-2022-Liga-MX,FC Juárez,Santos Laguna,1645239600,Tuca Ferretti,Pedro Caixinha,"Estadio Olímpico Benito Juárez, Ciudad Juárez",7355
+https://fbref.com/en/matches/7ee46240/America-Pachuca-February-20-2022-Liga-MX,América,Pachuca,1645394400,Santiago Solari,Guillermo Almada,"Estadio Azteca, Coyoacán",27858
+https://fbref.com/en/matches/335d7169/UANL-Atletico-February-19-2022-Liga-MX,UANL,Atlético,1645318800,Miguel Herrera,André Jardine,"Estadio Universitario de Nuevo León, San Nicolás de los Garza",20850
+https://fbref.com/en/matches/53914e3b/Leon-Guadalajara-February-19-2022-Liga-MX,León,Guadalajara,1645326000,Ariel Holan,Marcelo Leaño,"Estadio León, León",16204
+https://fbref.com/en/matches/f6188748/Toluca-Cruz-Azul-February-20-2022-Liga-MX,Toluca,Cruz Azul,1645401900,Ignacio Ambríz,Juan Reynoso,"Estadio Nemesio Díez, Toluca",22438
+https://fbref.com/en/matches/2b91ce7c/Atlas-Pumas-UNAM-February-20-2022-Liga-MX,Atlas,Pumas UNAM,1645409100,Diego Cocca,Andrés Lillini,"Estadio Jalisco, Guadalajara",20436
+https://fbref.com/en/matches/0d528ae7/Pachuca-Mazatlan-February-24-2022-Liga-MX,Pachuca,Mazatlán,1645750800,Guillermo Almada,Beñat San José,"Estadio Hidalgo, Pachuca",6875
+https://fbref.com/en/matches/f74de8a8/Queretaro-Toluca-February-24-2022-Liga-MX,Querétaro,Toluca,1645758300,Rolando Cristante,Ignacio Ambríz,"Estadio La Corregidora, Santiago de Querétaro",11524
+https://fbref.com/en/matches/cc2806fc/Monterrey-Atletico-February-26-2022-Liga-MX,Monterrey,Atlético,1645916760,Javier Aguirre,André Jardine,"Estadio BBVA Bancomer, Guadalupe",24507
+https://fbref.com/en/matches/177b3b22/Necaxa-Leon-February-25-2022-Liga-MX,Necaxa,León,1645837200,Jaime Lozano,Ariel Holan,"Estadio Victoria de Aguascalientes, Aguascalientes",12781
+https://fbref.com/en/matches/1e7582cf/Tijuana-Atlas-February-25-2022-Liga-MX,Tijuana,Atlas,1645844760,Sebastián Méndez,Diego Cocca,"Estadio Caliente, Tijuana",14333
+https://fbref.com/en/matches/9e5c22d4/FC-Juarez-UANL-February-25-2022-Liga-MX,FC Juárez,UANL,1645844400,Tuca Ferretti,Miguel Herrera,"Estadio Olímpico Benito Juárez, Ciudad Juárez",10113
+https://fbref.com/en/matches/51cf45fe/Guadalajara-Puebla-February-26-2022-Liga-MX,Guadalajara,Puebla,1645923600,Marcelo Leaño,Nicolás Larcamón,"Estadio Akron, Zapopan",19747
+https://fbref.com/en/matches/c291d0a4/Pumas-UNAM-America-February-26-2022-Liga-MX,Pumas UNAM,América,1645930800,Andrés Lillini,Santiago Solari,"Estadio Olímpico Universitario de Colima, Colima",42650
+https://fbref.com/en/matches/0186c7d6/Cruz-Azul-Santos-Laguna-February-27-2022-Liga-MX,Cruz Azul,Santos Laguna,1646010000,Juan Reynoso,Pedro Caixinha,"Estadio Azteca, Coyoacán",33924
+https://fbref.com/en/matches/1536e8bd/Puebla-FC-Juarez-March-1-2022-Liga-MX,Puebla,FC Juárez,1646182800,Nicolás Larcamón,Tuca Ferretti,"Estadio Cuauhtémoc, Puebla",26100
+https://fbref.com/en/matches/1bd32abb/Toluca-Tijuana-March-1-2022-Liga-MX,Toluca,Tijuana,1646182800,Ignacio Ambríz,Sebastián Méndez,"Estadio Nemesio Díez, Toluca",12523
+https://fbref.com/en/matches/101c3e6b/Mazatlan-Necaxa-March-1-2022-Liga-MX,Mazatlán,Necaxa,1646190000,Beñat San José,Jaime Lozano,"Estadio de Mazatlán, Mazatlán",9414
+https://fbref.com/en/matches/2262494c/America-Queretaro-March-1-2022-Liga-MX,América,Querétaro,1646190000,Santiago Solari,Rolando Cristante,"Estadio Azteca, Coyoacán",17414
+https://fbref.com/en/matches/4a23fd6e/Leon-Monterrey-March-1-2022-Liga-MX,León,Monterrey,1646190000,Ariel Holan,Javier Aguirre,"Estadio León, León",10581
+https://fbref.com/en/matches/8a41cbda/Atlas-Pachuca-March-2-2022-Liga-MX,Atlas,Pachuca,1646269200,Diego Cocca,Guillermo Almada,"Estadio Jalisco, Guadalajara",14421
+https://fbref.com/en/matches/bfd01dc8/UANL-Cruz-Azul-March-2-2022-Liga-MX,UANL,Cruz Azul,1646269200,Miguel Herrera,Juan Reynoso,"Estadio Universitario de Nuevo León, San Nicolás de los Garza",36978
+https://fbref.com/en/matches/76c3a5a2/Atletico-Guadalajara-March-2-2022-Liga-MX,Atlético,Guadalajara,1646276400,André Jardine,Marcelo Leaño,"Estadio Alfonso Lastras Ramírez, San Luis Potosí",14630
+https://fbref.com/en/matches/b9be2ef7/Santos-Laguna-Pumas-UNAM-March-2-2022-Liga-MX,Santos Laguna,Pumas UNAM,1646276400,Eduardo Fentanes,Andrés Lillini,"Estadio Nuevo Corona, Torreón",12238
+https://fbref.com/en/matches/b7e200ed/Necaxa-Toluca-March-4-2022-Liga-MX,Necaxa,Toluca,1646442000,Jaime Lozano,Ignacio Ambríz,"Estadio Victoria de Aguascalientes, Aguascalientes",11783
+https://fbref.com/en/matches/58ea94ef/FC-Juarez-Leon-March-4-2022-Liga-MX,FC Juárez,León,1646449200,Tuca Ferretti,Ariel Holan,"Estadio Olímpico Benito Juárez, Ciudad Juárez",9307
+https://fbref.com/en/matches/1130fd5e/Monterrey-America-March-5-2022-Liga-MX,Monterrey,América,1646528760,Víctor Vucetich,Fernando Ortiz,"Estadio BBVA Bancomer, Guadalupe",40327
+https://fbref.com/en/matches/1e0d5d5c/Guadalajara-Santos-Laguna-March-5-2022-Liga-MX,Guadalajara,Santos Laguna,1646535600,Marcelo Leaño,Eduardo Fentanes,"Estadio Akron, Zapopan",18522
+https://fbref.com/en/matches/9a0276a7/Cruz-Azul-Puebla-March-5-2022-Liga-MX,Cruz Azul,Puebla,1646535600,Juan Reynoso,Nicolás Larcamón,"Estadio Azteca, Coyoacán",29336
+https://fbref.com/en/matches/ded1598f/Leon-UANL-March-12-2022-Liga-MX,León,UANL,1647126000,Ariel Holan,Miguel Herrera,"Estadio León, León",16242
+https://fbref.com/en/matches/3c12c848/Necaxa-Queretaro-March-11-2022-Liga-MX,Necaxa,Querétaro,1647046800,Jaime Lozano,Rolando Cristante,Officials: Oscar Mejia (Referee) · Marco Bisguerra (AR1) · Jonathan Gómez (AR2) · Victor Caceres (4th) · Luis Santander (VAR),0
+https://fbref.com/en/matches/70a2e1c7/FC-Juarez-Atlas-March-11-2022-Liga-MX,FC Juárez,Atlas,1647054000,Tuca Ferretti,Diego Cocca,"Estadio Olímpico Benito Juárez, Ciudad Juárez",9002
+https://fbref.com/en/matches/f78f34b5/Monterrey-Mazatlan-March-11-2022-Liga-MX,Monterrey,Mazatlán,1647054360,Víctor Vucetich,Christian Ramírez,"Estadio BBVA Bancomer, Guadalupe",27012
+https://fbref.com/en/matches/9f5dbc4c/Toluca-Pachuca-March-13-2022-Liga-MX,Toluca,Pachuca,1647194400,Ignacio Ambríz,Guillermo Almada,"Estadio Nemesio Díez, Toluca",10044
+https://fbref.com/en/matches/822b0b43/Atletico-Puebla-March-13-2022-Liga-MX,Atlético,Puebla,1647212400,André Jardine,Nicolás Larcamón,"Estadio Alfonso Lastras Ramírez, San Luis Potosí",5904
+https://fbref.com/en/matches/bcd2a6e3/Cruz-Azul-Pumas-UNAM-March-12-2022-Liga-MX,Cruz Azul,Pumas UNAM,1647133200,Juan Reynoso,Andrés Lillini,"Estadio Azteca, Coyoacán",12686
+https://fbref.com/en/matches/2149ba72/Guadalajara-America-March-12-2022-Liga-MX,Guadalajara,América,1647140400,Marcelo Leaño,Fernando Ortiz,"Estadio Akron, Zapopan",33047
+https://fbref.com/en/matches/f7330394/Santos-Laguna-Tijuana-March-13-2022-Liga-MX,Santos Laguna,Tijuana,1647219600,Eduardo Fentanes,Sebastián Méndez,"Estadio Nuevo Corona, Torreón",9895
+https://fbref.com/en/matches/804b48ec/Monterrey-FC-Juarez-March-15-2022-Liga-MX,Monterrey,FC Juárez,1647399960,Víctor Vucetich,Tuca Ferretti,"Estadio BBVA Bancomer, Guadalupe",29052
+https://fbref.com/en/matches/3b3c5d17/Queretaro-Atletico-March-17-2022-Liga-MX,Querétaro,Atlético,1647572700,Rolando Cristante,André Jardine,Officials: Fernando Hernández (Referee) · Miguel Ángel Hernández (AR1) · Cesar Cerritos (AR2) · Alejandro Funk (4th) · César Arturo Ramos (VAR),0
+https://fbref.com/en/matches/2656ad4b/Pumas-UNAM-Necaxa-March-19-2022-Liga-MX,Pumas UNAM,Necaxa,1647730800,Andrés Lillini,Jaime Lozano,"Estadio Olímpico Universitario de Colima, Colima",10380
+https://fbref.com/en/matches/7bee9797/Puebla-Santos-Laguna-March-18-2022-Liga-MX,Puebla,Santos Laguna,1647658800,Nicolás Larcamón,Eduardo Fentanes,"Estadio Cuauhtémoc, Puebla",19713
+https://fbref.com/en/matches/129eeea6/America-Toluca-March-20-2022-Liga-MX,América,Toluca,1647817200,Fernando Ortiz,Ignacio Ambríz,"Estadio Azteca, Coyoacán",34571
+https://fbref.com/en/matches/8bb2c158/UANL-Monterrey-March-19-2022-Liga-MX,UANL,Monterrey,1647738000,Miguel Herrera,Víctor Vucetich,"Estadio Universitario de Nuevo León, San Nicolás de los Garza",41473
+https://fbref.com/en/matches/bd4a5faf/Pachuca-Cruz-Azul-March-19-2022-Liga-MX,Pachuca,Cruz Azul,1647745200,Guillermo Almada,Juan Reynoso,"Estadio Hidalgo, Pachuca",11367
+https://fbref.com/en/matches/5adab62e/Atlas-Guadalajara-March-20-2022-Liga-MX,Atlas,Guadalajara,1647824400,Diego Cocca,Marcelo Leaño,"Estadio Jalisco, Guadalajara",19017
+https://fbref.com/en/matches/5115cc50/Mazatlan-Leon-March-20-2022-Liga-MX,Mazatlán,León,1647831600,Gabriel Caballero,Ariel Holan,"Estadio de Mazatlán, Mazatlán",9566
+https://fbref.com/en/matches/b3efc0f6/Tijuana-FC-Juarez-March-20-2022-Liga-MX,Tijuana,FC Juárez,1647831960,Sebastián Méndez,Tuca Ferretti,"Estadio Caliente, Tijuana",17333
+https://fbref.com/en/matches/011f7d58/Pumas-UNAM-Mazatlan-March-26-2022-Liga-MX,Pumas UNAM,Mazatlán,1648335600,Andrés Lillini,Gabriel Caballero,"Estadio Olímpico Universitario de Colima, Colima",9289
+https://fbref.com/en/matches/94756bbe/Cruz-Azul-Atlas-April-2-2022-Liga-MX,Cruz Azul,Atlas,1648940400,Juan Reynoso,Diego Cocca,"Estadio Azteca, Coyoacán",21644
+https://fbref.com/en/matches/e1c0ea42/Atletico-Mazatlan-April-1-2022-Liga-MX,Atlético,Mazatlán,1648864800,André Jardine,Gabriel Caballero,"Estadio Alfonso Lastras Ramírez, San Luis Potosí",5803
+https://fbref.com/en/matches/2663e804/Toluca-Puebla-April-3-2022-Liga-MX,Toluca,Puebla,1649005200,Ignacio Ambríz,Nicolás Larcamón,"Estadio Nemesio Díez, Toluca",9215
+https://fbref.com/en/matches/53b655c0/Leon-Queretaro-April-3-2022-Liga-MX,León,Querétaro,1649023200,Ariel Holan,Rolando Cristante,Officials: Guillermo Pacheco Larios (Referee) · Karen Díaz (AR1) · Edgar Magdaleno (AR2) · Juan Esquivel (4th) · Erick Miranda (VAR),0
+https://fbref.com/en/matches/836343aa/Necaxa-America-April-2-2022-Liga-MX,Necaxa,América,1648947600,Jaime Lozano,Fernando Ortiz,"Estadio Victoria de Aguascalientes, Aguascalientes",19485
+https://fbref.com/en/matches/62b80d10/FC-Juarez-Pumas-UNAM-April-2-2022-Liga-MX,FC Juárez,Pumas UNAM,1648954800,Tuca Ferretti,Andrés Lillini,"Estadio Olímpico Benito Juárez, Ciudad Juárez",11748
+https://fbref.com/en/matches/7a3a582d/UANL-Tijuana-April-3-2022-Liga-MX,UANL,Tijuana,1649030400,Miguel Herrera,Sebastián Méndez,"Estadio Universitario de Nuevo León, San Nicolás de los Garza",37691
+https://fbref.com/en/matches/95ebf327/Santos-Laguna-Pachuca-April-3-2022-Liga-MX,Santos Laguna,Pachuca,1649030400,Eduardo Fentanes,Guillermo Almada,"Estadio Nuevo Corona, Torreón",12908
+https://fbref.com/en/matches/960e7db3/Toluca-Monterrey-April-6-2022-Liga-MX,Toluca,Monterrey,1649289600,Ignacio Ambríz,Víctor Vucetich,"Estadio Nemesio Díez, Toluca",10150
+https://fbref.com/en/matches/7e4cbf04/Tijuana-Atletico-April-6-2022-Liga-MX,Tijuana,Atlético,1649297160,Sebastián Méndez,André Jardine,"Estadio Caliente, Tijuana",13533
+https://fbref.com/en/matches/19b81b7e/Pachuca-UANL-April-7-2022-Liga-MX,Pachuca,UANL,1649376000,Guillermo Almada,Miguel Herrera,"Estadio Hidalgo, Pachuca",10664
+https://fbref.com/en/matches/a199fcac/Atlas-Necaxa-April-7-2022-Liga-MX,Atlas,Necaxa,1649383200,Diego Cocca,Jaime Lozano,"Estadio Jalisco, Guadalajara",12588
+https://fbref.com/en/matches/1358d4f0/Atletico-Leon-April-9-2022-Liga-MX,Atlético,León,1649541600,André Jardine,Ariel Holan,"Estadio Alfonso Lastras Ramírez, San Luis Potosí",6102
+https://fbref.com/en/matches/bc8bb9fb/Puebla-Pumas-UNAM-April-8-2022-Liga-MX,Puebla,Pumas UNAM,1649462400,Nicolás Larcamón,Andrés Lillini,"Estadio Cuauhtémoc, Puebla",28115
+https://fbref.com/en/matches/53bd19ed/Mazatlan-Cruz-Azul-April-8-2022-Liga-MX,Mazatlán,Cruz Azul,1649469600,Gabriel Caballero,Juan Reynoso,"Estadio de Mazatlán, Mazatlán",15206
+https://fbref.com/en/matches/ca3ac699/Toluca-Guadalajara-April-9-2022-Liga-MX,Toluca,Guadalajara,1649548800,Ignacio Ambríz,Marcelo Leaño,"Estadio Nemesio Díez, Toluca",20166
+https://fbref.com/en/matches/030111de/Monterrey-Santos-Laguna-April-9-2022-Liga-MX,Monterrey,Santos Laguna,1649549160,Víctor Vucetich,Eduardo Fentanes,"Estadio BBVA Bancomer, Guadalupe",29769
+https://fbref.com/en/matches/b62251c4/America-FC-Juarez-April-9-2022-Liga-MX,América,FC Juárez,1649556000,Fernando Ortiz,Tuca Ferretti,"Estadio Azteca, Coyoacán",19757
+https://fbref.com/en/matches/3f2569c3/Queretaro-UANL-April-10-2022-Liga-MX,Querétaro,UANL,1649635200,Pablo Morant,Miguel Herrera,Officials: Diego Montaño (Referee) · José Ibrahim Martínez (AR1) · Michel Espinoza (AR2) · Edgar Morales (4th),0
+https://fbref.com/en/matches/363e5619/Pachuca-Tijuana-April-11-2022-Liga-MX,Pachuca,Tijuana,1649728800,Guillermo Almada,Sebastián Méndez,"Estadio Hidalgo, Pachuca",9191
+https://fbref.com/en/matches/9eb8fe0a/Guadalajara-Monterrey-April-13-2022-Liga-MX,Guadalajara,Monterrey,1649898300,Marcelo Leaño,Víctor Vucetich,"Estadio Akron, Zapopan",24247
+https://fbref.com/en/matches/4f109a48/Atlas-Mazatlan-April-14-2022-Liga-MX,Atlas,Mazatlán,1649988000,Diego Cocca,Gabriel Caballero,"Estadio Jalisco, Guadalajara",18316
+https://fbref.com/en/matches/3cc377b7/Leon-Puebla-April-16-2022-Liga-MX,León,Puebla,1650146400,Ariel Holan,Nicolás Larcamón,"Estadio León, León",12859
+https://fbref.com/en/matches/71e0b8ea/Necaxa-Atletico-April-15-2022-Liga-MX,Necaxa,Atlético,1650067200,Jaime Lozano,André Jardine,"Estadio Victoria de Aguascalientes, Aguascalientes",12804
+https://fbref.com/en/matches/08c08138/Tijuana-America-April-15-2022-Liga-MX,Tijuana,América,1650074760,Sebastián Méndez,Fernando Ortiz,"Estadio Caliente, Tijuana",27333
+https://fbref.com/en/matches/0d180038/FC-Juarez-Pachuca-April-15-2022-Liga-MX,FC Juárez,Pachuca,1650074400,Tuca Ferretti,Guillermo Almada,"Estadio Olímpico Benito Juárez, Ciudad Juárez",8568
+https://fbref.com/en/matches/b80748d3/Pumas-UNAM-Monterrey-April-17-2022-Liga-MX,Pumas UNAM,Monterrey,1650214800,Andrés Lillini,Víctor Vucetich,"Estadio Olímpico Universitario de Colima, Colima",17167
+https://fbref.com/en/matches/25d0b433/Santos-Laguna-Queretaro-April-16-2022-Liga-MX,Santos Laguna,Querétaro,1650153600,Eduardo Fentanes,Pablo Morant,Officials: César Arturo Ramos (Referee) · Miguel Ángel Hernández (AR1) · Michel Galicia (AR2) · Abraham Quirarte (4th) · Victor Caceres (VAR),0
+https://fbref.com/en/matches/dc67c40a/UANL-Toluca-April-16-2022-Liga-MX,UANL,Toluca,1650153600,Miguel Herrera,Ignacio Ambríz,"Estadio Universitario de Nuevo León, San Nicolás de los Garza",36658
+https://fbref.com/en/matches/cfa9fb58/Cruz-Azul-Guadalajara-April-16-2022-Liga-MX,Cruz Azul,Guadalajara,1650160800,Juan Reynoso,Marcelo Leaño,"Estadio Azteca, Coyoacán",21280
+https://fbref.com/en/matches/a781a83f/Pachuca-Puebla-April-19-2022-Liga-MX,Pachuca,Puebla,1650412800,Guillermo Almada,Nicolás Larcamón,"Estadio Hidalgo, Pachuca",10427
+https://fbref.com/en/matches/d09d8c52/Necaxa-UANL-April-19-2022-Liga-MX,Necaxa,UANL,1650412800,Jaime Lozano,Miguel Herrera,Officials: Jesus Lopez (Referee) · Miguel Ángel Hernández (AR1) · Karen Díaz (AR2) · Alejandro Funk (4th) · Erick Miranda (VAR),0
+https://fbref.com/en/matches/913bd441/Mazatlan-Santos-Laguna-April-19-2022-Liga-MX,Mazatlán,Santos Laguna,1650420000,Gabriel Caballero,Eduardo Fentanes,"Estadio de Mazatlán, Mazatlán",10960
+https://fbref.com/en/matches/578c6feb/Guadalajara-Tijuana-April-19-2022-Liga-MX,Guadalajara,Tijuana,1650420000,Ricardo Cadena,Sebastián Méndez,"Estadio Akron, Zapopan",20945
+https://fbref.com/en/matches/6939bd57/Toluca-FC-Juarez-April-19-2022-Liga-MX,Toluca,FC Juárez,1650420000,Ignacio Ambríz,Tuca Ferretti,"Estadio Nemesio Díez, Toluca",9211
+https://fbref.com/en/matches/0e0f0a07/Atletico-Pumas-UNAM-April-20-2022-Liga-MX,Atlético,Pumas UNAM,1650499200,André Jardine,Andrés Lillini,"Estadio Alfonso Lastras Ramírez, San Luis Potosí",14948
+https://fbref.com/en/matches/8749cf77/America-Leon-April-20-2022-Liga-MX,América,León,1650506400,Fernando Ortiz,Ariel Holan,"Estadio Azteca, Coyoacán",36210
+https://fbref.com/en/matches/882106b9/Monterrey-Atlas-April-20-2022-Liga-MX,Monterrey,Atlas,1650506760,Víctor Vucetich,Diego Cocca,"Estadio BBVA Bancomer, Guadalupe",31426
+https://fbref.com/en/matches/f8f6bafc/Queretaro-Cruz-Azul-April-21-2022-Liga-MX,Querétaro,Cruz Azul,1650592800,Rolando Cristante,Juan Reynoso,Officials: Fernando Guerrero (Referee) · Alberto Morín (AR1) · Eduardo Acosta Orea (AR2) · Ismael Lopez  (4th) · Erick Miranda (VAR),0
+https://fbref.com/en/matches/efe5b51b/Pachuca-Monterrey-April-23-2022-Liga-MX,Pachuca,Monterrey,1650751200,Guillermo Almada,Víctor Vucetich,"Estadio Hidalgo, Pachuca",8041
+https://fbref.com/en/matches/06b9a78d/Puebla-Necaxa-April-22-2022-Liga-MX,Puebla,Necaxa,1650672000,Nicolás Larcamón,Jaime Lozano,"Estadio Cuauhtémoc, Puebla",16320
+https://fbref.com/en/matches/35aee799/FC-Juarez-Mazatlan-April-22-2022-Liga-MX,FC Juárez,Mazatlán,1650679200,Tuca Ferretti,Gabriel Caballero,"Estadio Olímpico Benito Juárez, Ciudad Juárez",7688
+https://fbref.com/en/matches/f0f6ae5c/Toluca-Atlas-April-24-2022-Liga-MX,Toluca,Atlas,1650819600,Ignacio Ambríz,Diego Cocca,"Estadio Nemesio Díez, Toluca",10765
+https://fbref.com/en/matches/ef478cc0/Cruz-Azul-Atletico-April-24-2022-Liga-MX,Cruz Azul,Atlético,1650837600,Juan Reynoso,André Jardine,"Estadio Azteca, Coyoacán",17222
+https://fbref.com/en/matches/f29897cc/UANL-America-April-23-2022-Liga-MX,UANL,América,1650758400,Miguel Herrera,Fernando Ortiz,"Estadio Universitario de Nuevo León, San Nicolás de los Garza",38810
+https://fbref.com/en/matches/b2487e08/Guadalajara-Pumas-UNAM-April-23-2022-Liga-MX,Guadalajara,Pumas UNAM,1650765600,Ricardo Cadena,Andrés Lillini,"Estadio Akron, Zapopan",31767
+https://fbref.com/en/matches/89aaa25e/Santos-Laguna-Leon-April-24-2022-Liga-MX,Santos Laguna,León,1650844800,Eduardo Fentanes,Christian Martínez,"Estadio Nuevo Corona, Torreón",11345
+https://fbref.com/en/matches/d327cce0/Tijuana-Queretaro-April-24-2022-Liga-MX,Tijuana,Querétaro,1650852360,Sebastián Méndez,Rolando Cristante,Officials: Marco Ortíz (Referee) · Pablo Hernández (AR1) · Cesar Cerritos (AR2) · Victor Caceres (4th) · César Arturo Ramos (VAR),0
+https://fbref.com/en/matches/5fd34257/Queretaro-FC-Juarez-April-30-2022-Liga-MX,Querétaro,FC Juárez,1651356000,Hernán Cristante,Tuca Ferretti,Officials: Adonai Escobedo (Referee) · Karen Díaz (AR1) · Marco Bisguerra (AR2) · Maximiliano Quintero (4th) · Eduardo Galván (VAR),0
+https://fbref.com/en/matches/b623b35c/Necaxa-Guadalajara-April-29-2022-Liga-MX,Necaxa,Guadalajara,1651276800,Jaime Lozano,Ricardo Cadena,"Estadio Victoria de Aguascalientes, Aguascalientes",20537
+https://fbref.com/en/matches/61360e3d/Mazatlan-Puebla-April-29-2022-Liga-MX,Mazatlán,Puebla,1651284300,Gabriel Caballero,Nicolás Larcamón,"Estadio de Mazatlán, Mazatlán",15729
+https://fbref.com/en/matches/86fc09bc/Pumas-UNAM-Pachuca-May-1-2022-Liga-MX,Pumas UNAM,Pachuca,1651424400,Andrés Lillini,Guillermo Almada,"Estadio Olímpico Universitario de Colima, Colima",14286
+https://fbref.com/en/matches/5f85be19/Atletico-Santos-Laguna-May-1-2022-Liga-MX,Atlético,Santos Laguna,1651438800,André Jardine,Eduardo Fentanes,"Estadio Alfonso Lastras Ramírez, San Luis Potosí",10364
+https://fbref.com/en/matches/79922d6d/Atlas-UANL-April-30-2022-Liga-MX,Atlas,UANL,1651363200,Diego Cocca,Miguel Herrera,"Estadio Jalisco, Guadalajara",21968
+https://fbref.com/en/matches/9b743d36/Monterrey-Tijuana-April-30-2022-Liga-MX,Monterrey,Tijuana,1651363560,Víctor Vucetich,Sebastián Méndez,"Estadio BBVA Bancomer, Guadalupe",28642
+https://fbref.com/en/matches/e44bee3b/America-Cruz-Azul-April-30-2022-Liga-MX,América,Cruz Azul,1651370400,Fernando Ortiz,Juan Reynoso,"Estadio Azteca, Coyoacán",52630
+https://fbref.com/en/matches/e479f1f5/Leon-Toluca-May-1-2022-Liga-MX,León,Toluca,1651453560,Christian Martínez,Ignacio Ambríz,"Estadio León, León",18732
+https://fbref.com/en/matches/3923e123/Cruz-Azul-Necaxa-May-7-2022-Liga-MX,Cruz Azul,Necaxa,1651963500,Juan Reynoso,Jaime Lozano,"Estadio Azteca, Coyoacán",29073
+https://fbref.com/en/matches/4226cc92/Puebla-Mazatlan-May-8-2022-Liga-MX,Puebla,Mazatlán,1652047200,Nicolás Larcamón,Gabriel Caballero,"Estadio Cuauhtémoc, Puebla",29105
+https://fbref.com/en/matches/6a2a9288/Monterrey-Atletico-May-7-2022-Liga-MX,Monterrey,Atlético,1651971960,Víctor Vucetich,André Jardine,"Estadio BBVA Bancomer, Guadalupe",38614
+https://fbref.com/en/matches/0715478c/Guadalajara-Pumas-UNAM-May-8-2022-Liga-MX,Guadalajara,Pumas UNAM,1652055300,Ricardo Cadena,Andrés Lillini,"Estadio Akron, Zapopan",37508
+https://fbref.com/en/matches/1c61c0de/Atletico-Pachuca-May-11-2022-Liga-MX,Atlético,Pachuca,1652313600,André Jardine,Guillermo Almada,"Estadio Alfonso Lastras Ramírez, San Luis Potosí",16605
+https://fbref.com/en/matches/7f364e8c/Puebla-America-May-11-2022-Liga-MX,Puebla,América,1652321100,Nicolás Larcamón,Fernando Ortiz,"Estadio Cuauhtémoc, Puebla",43921
+https://fbref.com/en/matches/393d24a7/Cruz-Azul-UANL-May-12-2022-Liga-MX,Cruz Azul,UANL,1652400000,Juan Reynoso,Miguel Herrera,"Estadio Azteca, Coyoacán",28974
+https://fbref.com/en/matches/6f319145/Guadalajara-Atlas-May-12-2022-Liga-MX,Guadalajara,Atlas,1652407500,Ricardo Cadena,Diego Cocca,"Estadio Akron, Zapopan",34780
+https://fbref.com/en/matches/d0b39c0b/America-Puebla-May-14-2022-Liga-MX,América,Puebla,1652569200,Fernando Ortiz,Nicolás Larcamón,"Estadio Azteca, Coyoacán",51186
+https://fbref.com/en/matches/b10f81cf/Atlas-Guadalajara-May-15-2022-Liga-MX,Atlas,Guadalajara,1652655600,Diego Cocca,Ricardo Cadena,"Estadio Jalisco, Guadalajara",32746
+https://fbref.com/en/matches/67671003/Pachuca-Atletico-May-14-2022-Liga-MX,Pachuca,Atlético,1652576700,Guillermo Almada,André Jardine,"Estadio Hidalgo, Pachuca",9565
+https://fbref.com/en/matches/bcd0afea/UANL-Cruz-Azul-May-15-2022-Liga-MX,UANL,Cruz Azul,1652663100,Miguel Herrera,Juan Reynoso,"Estadio Universitario de Nuevo León, San Nicolás de los Garza",40161
+https://fbref.com/en/matches/df1ffeba/Atlas-UANL-May-18-2022-Liga-MX,Atlas,UANL,1652925600,Diego Cocca,Miguel Herrera,"Estadio Jalisco, Guadalajara",20684
+https://fbref.com/en/matches/80e874a3/America-Pachuca-May-19-2022-Liga-MX,América,Pachuca,1653008400,Fernando Ortiz,Guillermo Almada,"Estadio Azteca, Coyoacán",62633
+https://fbref.com/en/matches/309526c2/UANL-Atlas-May-21-2022-Liga-MX,UANL,Atlas,1653181200,Miguel Herrera,Diego Cocca,"Estadio Universitario de Nuevo León, San Nicolás de los Garza",41635
+https://fbref.com/en/matches/fc620cb4/Pachuca-America-May-22-2022-Liga-MX,Pachuca,América,1653267960,Guillermo Almada,Fernando Ortiz,"Estadio Hidalgo, Pachuca",19310
+https://fbref.com/en/matches/3bea135f/Atlas-Pachuca-May-26-2022-Liga-MX,Atlas,Pachuca,1653616800,Diego Cocca,Guillermo Almada,"Estadio Jalisco, Guadalajara",37841
+https://fbref.com/en/matches/a21b541c/Pachuca-Atlas-May-29-2022-Liga-MX,Pachuca,Atlas,1653873000,Guillermo Almada,Diego Cocca,"Estadio Hidalgo, Pachuca",22038

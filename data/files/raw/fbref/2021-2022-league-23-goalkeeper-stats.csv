@@ -1,0 +1,631 @@
+home_team,away_team,datetime,nationality,age,minutes,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct,gk_psxg,gk_passes_completed_launched,gk_passes_launched,gk_passes_pct_launched,gk_passes,gk_passes_throws,gk_pct_passes_launched,gk_passes_length_avg,gk_goal_kicks,gk_pct_goal_kicks_launched,gk_goal_kick_length_avg,gk_crosses,gk_crosses_stopped,gk_crosses_stopped_pct,gk_def_actions_outside_pen_area,gk_avg_distance_def_actions,player_id,player,squad,start
+Go Ahead Eagles,Heerenveen,1628877600,sr SUR,29-059,90,5,1,4,80.0,1.6,4,12,33.3,21,4,33.3,36.4,11,45.5,39.7,24,0,0.0,0,16.5,4117e3f3,Warner Hahn,Go Ahead Eagles,True
+RKC Waalwijk,AZ Alkmaar,1628951400,pt POR,25-047,90,5,0,5,100.0,1.4,18,38,47.4,39,6,64.1,43.2,15,86.7,66.2,27,2,7.4,1,10.6,881e5db7,Joel Castro Pereira,RKC Waalwijk,True
+Heracles Almelo,PSV Eindhoven,1628959500,nl NED,25-057,90,6,2,4,66.7,1.7,7,19,36.8,18,3,66.7,48.7,11,63.6,51.9,13,2,15.4,0,8.3,1da4fe81,Koen Bucker,Heracles Almelo,True
+Fortuna Sittard,Twente,1628964000,nl NED,24-143,90,1,1,0,0.0,0.8,4,19,21.1,29,3,41.4,35.0,9,77.8,54.2,10,0,0.0,0,13.0,f1655231,Yanick van Osch,Fortuna Sittard,True
+Ajax,NEC Nijmegen,1628967600,nl NED,38-326,90,1,0,1,100.0,0.1,4,5,80.0,20,5,15.0,26.5,5,40.0,40.6,3,0,0.0,1,20.0,fefce889,Maarten Stekelenburg,Ajax,True
+Cambuur,Groningen,1629022500,nl NED,29-054,90,7,2,5,71.4,1.9,0,7,0.0,30,7,20.0,27.8,9,11.1,27.1,23,0,0.0,2,19.4,7566ef9b,Sonny Stevens,Cambuur,True
+Zwolle,Vitesse,1629030600,gr GRE,29-331,90,6,1,5,83.3,1.0,7,13,53.8,27,4,40.7,37.0,6,33.3,33.8,8,1,12.5,1,17.5,f9508440,Kostas Lamprou,Zwolle,True
+Utrecht,Sparta Rotterdam,1629030600,nl NED,23-093,90,1,0,1,100.0,0.1,1,5,20.0,9,2,33.3,32.9,5,40.0,33.2,10,0,0.0,0,17.0,eb343262,Maarten Paes,Utrecht,True
+Willem II,Feyenoord,1629038700,nl NED,34-143,90,9,4,5,55.6,4.4,8,17,47.1,28,3,46.4,37.2,8,50.0,41.8,11,0,0.0,0,12.0,911680d8,Robbin Ruiter,Willem II,True
+NEC Nijmegen,Zwolle,1629482400,nl NED,27-232,90,1,0,1,100.0,0.1,6,17,35.3,19,6,57.9,40.2,12,50.0,38.3,19,0,0.0,0,2.0,b74a2c78,Mattijs Branderhorst,NEC Nijmegen,True
+Heerenveen,RKC Waalwijk,1629564300,nl NED,32-171,90,3,2,1,33.3,1.0,4,13,30.8,28,1,35.7,31.0,11,27.3,31.6,17,0,0.0,1,16.0,b3576b7c,Erwin Mulder,Heerenveen,True
+Sparta Rotterdam,Heracles Almelo,1629568800,ng NGA,21-358,90,4,1,3,75.0,1.5,10,16,62.5,18,6,66.7,44.9,6,66.7,52.8,21,0,0.0,1,13.0,ab5c36dd,Maduka Okoye,Sparta Rotterdam,True
+PSV Eindhoven,Cambuur,1629568800,nl NED,24-278,90,4,1,3,75.0,0.9,4,8,50.0,35,6,17.1,24.6,5,40.0,35.6,7,1,14.3,7,21.9,510c6a3f,Joel Drommel,PSV Eindhoven,True
+Groningen,Utrecht,1629572400,nl NED,27-151,90,0,0,0,,0.0,6,14,42.9,63,5,22.2,28.0,1,0.0,28.0,12,0,0.0,0,17.0,b7135640,Peter Leeuwenburgh,Groningen,True
+Twente,Ajax,1629627300,de GER,31-033,90,3,1,2,66.7,1.8,6,16,37.5,27,4,59.3,42.3,5,0.0,22.8,22,2,9.1,0,7.0,4b1793b0,Lars Unnerstall,Twente,True
+Feyenoord,Go Ahead Eagles,1629635400,nl NED,23-212,90,2,0,2,100.0,0.8,6,12,50.0,29,2,34.5,33.1,4,50.0,38.3,9,0,0.0,0,17.0,53d93280,Justin Bijlow,Feyenoord,True
+Vitesse,Willem II,1629643500,de GER,23-071,90,3,3,0,0.0,1.7,5,16,31.3,34,3,38.2,32.9,10,30.0,33.3,11,1,9.1,3,24.6,289b90cd,Markus Schubert,Vitesse,True
+Fortuna Sittard,RKC Waalwijk,1630087200,nl NED,24-156,90,5,2,3,60.0,2.7,7,17,41.2,32,8,34.4,31.4,7,85.7,58.3,24,1,4.2,3,20.4,f1655231,Yanick van Osch,Fortuna Sittard,True
+Cambuur,Twente,1630169100,nl NED,29-067,90,2,0,2,100.0,0.3,4,10,40.0,40,3,22.5,27.4,9,11.1,29.6,12,0,0.0,0,11.0,7566ef9b,Sonny Stevens,Cambuur,True
+PSV Eindhoven,Groningen,1630173600,nl NED,24-285,90,4,2,2,50.0,1.9,1,11,9.1,19,3,36.8,39.8,10,40.0,34.0,18,1,5.6,2,13.8,510c6a3f,Joel Drommel,PSV Eindhoven,True
+Go Ahead Eagles,Sparta Rotterdam,1630173600,sr SUR,29-074,90,1,0,1,100.0,0.1,5,16,31.3,27,7,44.4,39.0,5,80.0,52.6,17,0,0.0,0,11.0,4117e3f3,Warner Hahn,Go Ahead Eagles,True
+Willem II,Zwolle,1630177200,de GER,25-268,90,4,0,4,100.0,0.5,4,11,36.4,23,6,43.5,40.0,5,20.0,37.0,6,0,0.0,0,14.0,2f18d0b8,Timon Wellenreuther,Willem II,True
+Utrecht,Feyenoord,1630232100,nl NED,23-107,90,2,1,1,50.0,0.7,11,16,68.8,24,4,54.2,41.6,9,33.3,32.2,9,0,0.0,0,,eb343262,Maarten Paes,Utrecht,True
+Heracles Almelo,NEC Nijmegen,1630240200,de GER,30-119,90,4,1,3,75.0,1.5,5,12,41.7,27,1,40.7,34.6,3,33.3,34.0,4,0,0.0,3,21.8,663e080e,Janis Blaswich,Heracles Almelo,True
+Ajax,Vitesse,1630240200,nl NED,38-341,90,1,0,1,100.0,0.1,7,13,53.8,35,6,28.6,30.2,6,50.0,40.8,8,0,0.0,1,22.0,fefce889,Maarten Stekelenburg,Ajax,True
+Heerenveen,AZ Alkmaar,1630248300,nl NED,32-179,90,5,3,2,40.0,2.9,8,24,33.3,47,3,46.8,36.4,10,20.0,30.1,9,0,0.0,0,11.2,b3576b7c,Erwin Mulder,Heerenveen,True
+Twente,Utrecht,1631370600,de GER,31-053,90,1,0,1,100.0,0.0,8,17,47.1,37,5,37.8,32.5,7,42.9,34.6,21,1,4.8,2,17.7,4b1793b0,Lars Unnerstall,Twente,True
+Cambuur,Go Ahead Eagles,1631378700,nl NED,29-081,90,7,2,5,71.4,1.2,5,15,33.3,35,10,31.4,33.7,8,50.0,44.0,14,0,0.0,1,9.3,7566ef9b,Sonny Stevens,Cambuur,True
+Zwolle,Ajax,1631378700,gr GRE,29-358,90,8,2,6,75.0,1.8,9,24,37.5,33,6,54.5,40.5,10,60.0,44.3,14,0,0.0,0,5.3,f9508440,Kostas Lamprou,Zwolle,True
+AZ Alkmaar,PSV Eindhoven,1631386800,dk DEN,23-207,90,4,3,1,25.0,1.6,5,9,55.6,43,7,20.9,24.6,6,0.0,15.2,3,0,0.0,6,27.6,7b433ed0,Peter Vindahl Jensen,AZ Alkmaar,True
+NEC Nijmegen,Willem II,1631441700,nl NED,27-255,90,2,0,2,100.0,0.4,2,5,40.0,16,3,12.5,22.1,6,50.0,42.5,5,0,0.0,1,15.5,b74a2c78,Mattijs Branderhorst,NEC Nijmegen,True
+Groningen,Heerenveen,1631449800,nl NED,27-173,90,3,1,2,66.7,0.3,10,18,55.6,40,7,35.0,33.2,6,66.7,52.5,2,0,0.0,2,30.0,b7135640,Peter Leeuwenburgh,Groningen,True
+Sparta Rotterdam,Fortuna Sittard,1631449800,ng NGA,22-015,90,2,1,1,50.0,0.2,9,25,36.0,29,3,69.0,45.6,5,100.0,63.6,12,2,16.7,1,12.6,ab5c36dd,Maduka Okoye,Sparta Rotterdam,True
+RKC Waalwijk,Vitesse,1631457900,nl NED,26-048,90,4,2,2,50.0,0.4,9,20,45.0,28,6,57.1,42.6,8,50.0,42.0,6,0,0.0,1,26.0,5622d68b,Etienne Vaessen,RKC Waalwijk,True
+Sparta Rotterdam,NEC Nijmegen,1631901600,ng NGA,22-020,90,4,1,3,75.0,1.2,7,16,43.8,19,3,63.2,44.5,5,80.0,57.4,14,0,0.0,0,10.8,ab5c36dd,Maduka Okoye,Sparta Rotterdam,True
+Heerenveen,Fortuna Sittard,1631975400,nl NED,32-199,90,4,0,4,100.0,0.7,6,25,24.0,32,5,59.4,43.2,9,66.7,53.4,12,1,8.3,0,3.0,b3576b7c,Erwin Mulder,Heerenveen,True
+Willem II,Groningen,1631983500,de GER,25-289,90,5,1,4,80.0,0.8,8,24,33.3,25,1,56.0,41.5,11,90.9,62.3,13,1,7.7,2,11.1,2f18d0b8,Timon Wellenreuther,Willem II,True
+Ajax,Cambuur,1631988000,nl NED,37-314,90,2,0,2,100.0,0.1,1,3,33.3,26,7,11.5,24.2,3,0.0,23.7,2,0,0.0,1,17.5,3392603d,Remko Pasveer,Ajax,True
+Utrecht,RKC Waalwijk,1631991600,nl NED,23-127,90,5,2,2,60.0,2.4,6,10,60.0,26,5,34.6,29.1,6,16.7,24.8,10,0,0.0,1,20.5,eb343262,Maarten Paes,Utrecht,True
+Go Ahead Eagles,Zwolle,1632046500,sr SUR,29-096,90,3,0,3,100.0,0.6,6,17,35.3,28,5,46.4,37.5,8,50.0,43.4,16,1,6.3,2,15.8,4117e3f3,Warner Hahn,Go Ahead Eagles,True
+PSV Eindhoven,Feyenoord,1632054600,nl NED,24-307,90,4,4,0,0.0,1.6,7,11,63.6,24,6,33.3,35.8,8,37.5,39.0,8,0,0.0,0,9.0,510c6a3f,Joel Drommel,PSV Eindhoven,True
+Heracles Almelo,AZ Alkmaar,1632062700,de GER,30-140,90,4,2,2,50.0,1.3,3,5,60.0,30,5,13.3,25.3,6,16.7,30.2,12,0,0.0,2,18.0,663e080e,Janis Blaswich,Heracles Almelo,True
+Vitesse,Twente,1632062700,de GER,23-099,90,7,4,3,57.1,3.0,7,12,58.3,23,2,43.5,36.8,3,66.7,58.3,9,0,0.0,2,18.3,289b90cd,Markus Schubert,Vitesse,True
+Fortuna Sittard,Ajax,1632242700,nl NED,24-181,90,8,5,3,37.5,3.5,3,16,18.8,33,3,33.3,33.0,8,62.5,45.4,14,0,0.0,0,12.5,f1655231,Yanick van Osch,Fortuna Sittard,True
+RKC Waalwijk,Willem II,1632250800,nl NED,26-057,90,5,2,3,60.0,1.8,10,18,55.6,29,10,51.7,36.7,4,75.0,50.3,12,1,8.3,0,9.0,5622d68b,Etienne Vaessen,RKC Waalwijk,True
+Go Ahead Eagles,PSV Eindhoven,1632329100,sr SUR,29-099,90,7,2,5,71.4,1.8,7,28,25.0,40,4,55.0,40.4,12,50.0,41.1,20,0,0.0,1,15.5,4117e3f3,Warner Hahn,Go Ahead Eagles,True
+NEC Nijmegen,Utrecht,1632329100,nl NED,27-265,90,4,3,1,25.0,2.3,2,6,33.3,35,7,14.3,23.3,4,25.0,25.5,12,1,8.3,3,18.3,b74a2c78,Mattijs Branderhorst,NEC Nijmegen,True
+Groningen,Vitesse,1632333600,nl NED,27-183,90,3,1,2,66.7,1.1,13,35,37.1,46,1,63.0,44.8,7,85.7,66.9,15,1,6.7,1,19.5,b7135640,Peter Leeuwenburgh,Groningen,True
+Feyenoord,Heerenveen,1632337200,nl NED,23-243,90,1,1,0,0.0,0.5,3,8,37.5,32,2,21.9,29.7,5,20.0,28.6,9,1,11.1,0,11.2,53d93280,Justin Bijlow,Feyenoord,True
+Zwolle,Sparta Rotterdam,1632337200,gr GRE,30-004,90,4,1,3,75.0,1.5,4,13,30.8,36,9,36.1,35.2,2,0.0,27.0,15,4,26.7,0,4.3,f9508440,Kostas Lamprou,Zwolle,True
+Cambuur,Heracles Almelo,1632415500,nl NED,29-093,90,4,1,3,75.0,1.2,5,19,26.3,28,4,39.3,34.1,15,53.3,43.4,30,0,0.0,0,10.0,7566ef9b,Sonny Stevens,Cambuur,True
+Twente,AZ Alkmaar,1632423600,de GER,31-065,90,5,1,4,80.0,1.8,6,19,31.6,36,6,44.4,37.1,6,50.0,44.0,9,0,0.0,0,14.0,4b1793b0,Lars Unnerstall,Twente,True
+Willem II,PSV Eindhoven,1632580200,de GER,25-296,90,9,1,8,88.9,1.7,11,26,42.3,29,5,65.5,48.6,9,77.8,55.1,18,1,5.6,1,13.1,2f18d0b8,Timon Wellenreuther,Willem II,True
+Vitesse,Fortuna Sittard,1632588300,de GER,23-105,90,1,1,0,0.0,0.8,2,13,15.4,36,9,30.6,32.9,3,66.7,48.0,7,0,0.0,3,21.6,289b90cd,Markus Schubert,Vitesse,True
+Ajax,Groningen,1632588300,nl NED,37-321,90,2,0,2,100.0,0.2,1,5,20.0,28,6,17.9,29.5,1,0.0,31.0,4,0,0.0,0,8.0,3392603d,Remko Pasveer,Ajax,True
+Feyenoord,NEC Nijmegen,1632596400,nl NED,23-246,90,3,3,0,0.0,2.0,3,4,75.0,27,4,14.8,20.7,2,0.0,20.5,6,0,0.0,1,21.0,53d93280,Justin Bijlow,Feyenoord,True
+Utrecht,Zwolle,1632596400,nl NED,23-134,90,3,1,2,66.7,0.7,7,13,53.8,19,6,47.4,35.4,7,57.1,37.6,9,0,0.0,0,,eb343262,Maarten Paes,Utrecht,True
+Sparta Rotterdam,Cambuur,1632651300,ng NGA,22-029,90,5,4,1,20.0,2.6,5,8,62.5,17,8,17.6,29.7,8,62.5,44.9,6,0,0.0,0,4.0,ab5c36dd,Maduka Okoye,Sparta Rotterdam,True
+Heerenveen,Twente,1632659400,nl NED,32-207,45,4,2,2,75.0,1.0,4,9,44.4,15,1,46.7,39.7,2,100.0,65.5,8,,,2,17.8,b3576b7c,Erwin Mulder,Heerenveen,True
+Heerenveen,Twente,1632659400,nl NED,26-053,45,1,1,1,0.0,0.2,2,15,13.3,18,4,61.1,43.6,5,80.0,60.6,2,0,0.0,1,28.0,76609a3c,Xavier Mous,Heerenveen,True
+AZ Alkmaar,Go Ahead Eagles,1632659400,dk DEN,23-222,90,1,0,1,100.0,0.0,6,16,37.5,25,6,52.0,37.6,7,42.9,44.4,6,1,16.7,0,13.5,7b433ed0,Peter Vindahl Jensen,AZ Alkmaar,True
+Heracles Almelo,RKC Waalwijk,1632667500,de GER,30-147,90,0,0,0,,0.0,4,13,30.8,38,3,28.9,33.9,3,66.7,53.3,9,1,11.1,2,16.0,663e080e,Janis Blaswich,Heracles Almelo,True
+Groningen,Twente,1633111200,nl NED,27-192,90,3,1,2,66.7,1.2,10,31,32.3,35,5,57.1,44.0,12,91.7,66.8,21,0,0.0,1,20.5,b7135640,Peter Leeuwenburgh,Groningen,True
+RKC Waalwijk,Go Ahead Eagles,1633193100,nl NED,26-068,90,3,1,2,66.7,1.2,9,19,47.4,46,6,37.0,33.3,5,40.0,34.4,17,1,5.9,3,23.5,5622d68b,Etienne Vaessen,RKC Waalwijk,True
+Heracles Almelo,Willem II,1633197600,de GER,30-153,90,5,2,3,60.0,1.1,7,18,38.9,21,2,42.9,39.0,10,90.0,60.7,11,0,0.0,2,26.0,663e080e,Janis Blaswich,Heracles Almelo,True
+Zwolle,Heerenveen,1633197600,gr GRE,30-014,90,2,1,2,50.0,0.3,12,24,50.0,39,3,56.4,42.1,7,28.6,32.1,17,0,0.0,0,16.0,f9508440,Kostas Lamprou,Zwolle,True
+Fortuna Sittard,NEC Nijmegen,1633201200,nl NED,24-192,90,4,3,1,25.0,2.1,7,12,58.3,23,0,39.1,32.7,7,42.9,34.4,4,0,0.0,3,20.3,f1655231,Yanick van Osch,Fortuna Sittard,True
+Ajax,Utrecht,1633264200,nl NED,37-329,90,4,1,3,75.0,0.7,2,8,25.0,37,7,21.6,28.3,4,0.0,19.3,5,0,0.0,4,18.2,3392603d,Remko Pasveer,Ajax,True
+Cambuur,AZ Alkmaar,1633264200,nl NED,29-103,90,5,3,2,40.0,1.8,5,15,33.3,54,6,24.1,29.1,7,28.6,35.1,9,0,0.0,2,21.6,7566ef9b,Sonny Stevens,Cambuur,True
+Vitesse,Feyenoord,1633272300,nl NED,25-227,90,3,1,2,66.7,1.1,8,25,32.0,18,3,61.1,43.8,16,87.5,62.6,12,0,0.0,0,9.0,6d8ec266,Jeroen Houwen,Vitesse,True
+PSV Eindhoven,Sparta Rotterdam,1633284000,nl NED,24-321,90,2,1,1,50.0,0.2,3,5,60.0,22,7,13.6,25.5,5,40.0,34.2,2,0,0.0,2,31.3,510c6a3f,Joel Drommel,PSV Eindhoven,True
+Feyenoord,RKC Waalwijk,1634394600,nl NED,23-267,90,3,2,1,33.3,1.8,6,10,60.0,27,6,37.0,29.9,2,0.0,16.5,7,0,0.0,3,25.3,53d93280,Justin Bijlow,Feyenoord,True
+Heerenveen,Ajax,1634402700,nl NED,26-073,90,3,2,1,33.3,1.6,11,24,45.8,32,5,53.1,39.8,12,58.3,45.1,10,1,10.0,1,12.0,76609a3c,Xavier Mous,Heerenveen,True
+Go Ahead Eagles,Heracles Almelo,1634402700,sr SUR,29-123,90,6,2,4,66.7,0.5,4,21,19.0,35,6,42.9,37.7,8,75.0,50.5,25,0,0.0,1,14.0,4117e3f3,Warner Hahn,Go Ahead Eagles,True
+Fortuna Sittard,Cambuur,1634410800,nl NED,24-206,90,3,0,3,100.0,0.2,4,22,18.2,39,3,35.9,32.6,8,100.0,60.0,7,0,0.0,1,12.0,f1655231,Yanick van Osch,Fortuna Sittard,True
+PSV Eindhoven,Zwolle,1634410800,nl NED,24-334,90,1,1,0,0.0,0.2,1,3,33.3,13,0,23.1,26.2,4,0.0,26.8,5,0,0.0,1,41.0,510c6a3f,Joel Drommel,PSV Eindhoven,True
+AZ Alkmaar,Utrecht,1634465700,dk DEN,23-243,90,3,1,2,66.7,0.5,10,14,71.4,54,13,24.1,26.2,6,16.7,28.2,13,4,30.8,3,14.8,7b433ed0,Peter Vindahl Jensen,AZ Alkmaar,True
+NEC Nijmegen,Vitesse,1634473800,nl NED,27-290,90,5,1,4,80.0,0.7,2,13,15.4,25,5,24.0,28.8,11,63.6,47.8,15,0,0.0,1,27.0,b74a2c78,Mattijs Branderhorst,NEC Nijmegen,True
+Sparta Rotterdam,Groningen,1634473800,ng NGA,22-050,90,3,1,2,66.7,0.7,10,27,37.0,31,5,71.0,50.1,5,100.0,67.4,15,2,13.3,0,5.5,ab5c36dd,Maduka Okoye,Sparta Rotterdam,True
+Twente,Willem II,1634481900,de GER,31-089,90,3,1,2,66.7,1.3,2,8,25.0,22,8,31.8,29.7,3,33.3,32.3,10,2,20.0,0,7.8,4b1793b0,Lars Unnerstall,Twente,True
+Willem II,Fortuna Sittard,1634925600,de GER,25-323,90,7,1,6,85.7,1.5,11,20,55.0,31,3,51.6,41.7,6,66.7,52.3,10,0,0.0,5,24.9,2f18d0b8,Timon Wellenreuther,Willem II,True
+Utrecht,Heerenveen,1635007500,nl NED,23-162,90,6,1,6,83.3,0.8,3,6,50.0,23,7,21.7,28.2,5,20.0,23.8,9,0,0.0,2,14.3,eb343262,Maarten Paes,Utrecht,True
+Zwolle,Heracles Almelo,1635012000,gr GRE,30-035,90,3,0,3,100.0,0.9,5,8,62.5,25,8,20.0,28.1,9,33.3,38.7,8,0,0.0,0,17.0,f9508440,Kostas Lamprou,Zwolle,True
+RKC Waalwijk,Sparta Rotterdam,1635015600,nl NED,26-089,90,2,0,2,100.0,0.4,12,24,50.0,44,5,47.7,39.4,7,42.9,39.7,14,1,7.1,3,15.6,5622d68b,Etienne Vaessen,RKC Waalwijk,True
+Twente,NEC Nijmegen,1635070500,de GER,31-096,90,4,2,2,50.0,1.2,9,16,56.3,35,3,42.9,34.3,2,50.0,40.0,8,0,0.0,7,21.7,4b1793b0,Lars Unnerstall,Twente,True
+Vitesse,Go Ahead Eagles,1635078600,de GER,23-134,90,5,2,3,80.0,2.4,7,17,41.2,28,9,46.4,37.7,8,50.0,37.4,9,1,11.1,5,20.0,289b90cd,Markus Schubert,Vitesse,True
+Cambuur,Feyenoord,1635078600,nl NED,29-124,90,5,3,2,40.0,1.3,12,34,35.3,36,7,47.2,38.3,23,73.9,51.3,15,0,0.0,0,12.7,7566ef9b,Sonny Stevens,Cambuur,True
+Ajax,PSV Eindhoven,1635086700,nl NED,37-350,90,5,0,5,100.0,1.2,6,16,37.5,42,3,38.1,30.4,3,0.0,10.7,8,0,0.0,0,9.0,3392603d,Remko Pasveer,Ajax,True
+Groningen,AZ Alkmaar,1635098400,nl NED,27-215,90,7,0,7,100.0,0.7,6,16,37.5,47,9,29.8,33.9,7,28.6,27.9,19,1,5.3,2,11.9,b7135640,Peter Leeuwenburgh,Groningen,True
+PSV Eindhoven,Twente,1635604200,nl NED,24-348,90,4,2,2,50.0,2.5,2,11,18.2,34,11,29.4,34.2,3,33.3,36.7,6,0,0.0,1,14.7,510c6a3f,Joel Drommel,PSV Eindhoven,True
+Heracles Almelo,Ajax,1635612300,de GER,30-181,90,7,0,7,100.0,2.1,7,24,29.2,27,5,55.6,43.6,10,90.0,57.6,18,1,5.6,0,4.5,663e080e,Janis Blaswich,Heracles Almelo,True
+Heerenveen,Vitesse,1635616800,nl NED,26-087,90,9,2,7,77.8,2.8,9,27,33.3,18,2,72.2,48.9,15,93.3,65.1,32,0,0.0,0,4.0,76609a3c,Xavier Mous,Heerenveen,True
+AZ Alkmaar,Zwolle,1635620400,dk DEN,23-256,90,3,2,1,33.3,1.1,5,12,41.7,30,4,30.0,29.9,5,60.0,43.2,14,2,14.3,1,15.8,7b433ed0,Peter Vindahl Jensen,AZ Alkmaar,True
+Sparta Rotterdam,Feyenoord,1635678900,ng NGA,22-064,90,6,1,5,83.3,1.1,12,24,50.0,16,2,75.0,48.8,12,100.0,66.1,10,0,0.0,2,23.0,ab5c36dd,Maduka Okoye,Sparta Rotterdam,True
+NEC Nijmegen,Groningen,1635687000,nl NED,27-304,90,1,0,1,100.0,0.1,7,16,43.8,19,6,42.1,36.1,15,53.3,37.5,18,0,0.0,0,2.0,b74a2c78,Mattijs Branderhorst,NEC Nijmegen,True
+RKC Waalwijk,Cambuur,1635695100,nl NED,26-097,90,5,1,3,80.0,2.7,9,26,34.6,49,11,38.8,36.4,13,53.8,41.7,12,0,0.0,3,18.3,5622d68b,Etienne Vaessen,RKC Waalwijk,True
+Utrecht,Willem II,1635695100,nl NED,23-170,90,3,1,2,66.7,1.1,3,6,50.0,25,7,20.0,27.1,9,11.1,16.1,13,1,7.7,4,17.9,eb343262,Maarten Paes,Utrecht,True
+Go Ahead Eagles,Fortuna Sittard,1635706800,sr SUR,29-138,90,4,3,1,25.0,1.2,4,11,36.4,29,5,31.0,32.0,5,40.0,38.4,8,1,12.5,3,24.0,4117e3f3,Warner Hahn,Go Ahead Eagles,True
+Twente,Heracles Almelo,1636138800,de GER,31-108,90,2,0,2,100.0,0.2,4,12,33.3,21,4,33.3,30.5,6,83.3,55.0,9,2,22.2,1,12.0,4b1793b0,Lars Unnerstall,Twente,True
+NEC Nijmegen,Heerenveen,1636220700,nl NED,27-310,90,6,1,5,83.3,1.1,2,2,100.0,15,5,6.7,21.0,9,11.1,21.9,17,0,0.0,2,25.0,b74a2c78,Mattijs Branderhorst,NEC Nijmegen,True
+Willem II,Sparta Rotterdam,1636225200,de GER,25-338,90,5,3,2,40.0,1.9,2,19,10.5,41,4,39.0,36.0,6,50.0,44.0,15,1,6.7,6,19.0,2f18d0b8,Timon Wellenreuther,Willem II,True
+Zwolle,Cambuur,1636228800,gr GRE,30-049,90,4,2,2,50.0,1.5,9,16,56.3,29,3,37.9,33.7,9,55.6,44.3,6,0,0.0,1,25.0,f9508440,Kostas Lamprou,Zwolle,True
+Groningen,RKC Waalwijk,1636283700,nl NED,27-229,90,1,1,0,0.0,0.3,4,14,28.6,57,7,21.1,29.7,5,40.0,44.0,9,0,0.0,2,18.6,b7135640,Peter Leeuwenburgh,Groningen,True
+Fortuna Sittard,PSV Eindhoven,1636291800,nl NED,24-228,90,8,4,4,50.0,4.0,6,16,37.5,42,6,38.1,33.3,6,0.0,12.8,12,0,0.0,5,21.6,f1655231,Yanick van Osch,Fortuna Sittard,True
+Vitesse,Utrecht,1636299900,de GER,23-148,90,2,1,1,50.0,0.3,5,18,27.8,33,4,42.4,34.8,6,66.7,50.2,8,1,12.5,0,4.0,289b90cd,Markus Schubert,Vitesse,True
+Feyenoord,AZ Alkmaar,1636299900,nl NED,23-289,90,3,0,3,100.0,0.4,6,19,31.6,30,5,36.7,34.9,10,80.0,60.1,12,4,33.3,0,7.0,53d93280,Justin Bijlow,Feyenoord,True
+Ajax,Go Ahead Eagles,1636311600,nl NED,37-364,90,2,0,2,100.0,0.7,2,2,100.0,26,7,7.7,24.9,0,,,6,0,0.0,3,30.0,3392603d,Remko Pasveer,Ajax,True
+PSV Eindhoven,Vitesse,1637422200,nl NED,25-004,90,5,0,5,100.0,0.9,7,16,43.8,27,5,44.4,38.4,4,100.0,66.0,11,0,0.0,2,14.3,510c6a3f,Joel Drommel,PSV Eindhoven,True
+Sparta Rotterdam,Twente,1637430300,ng NGA,22-084,90,4,1,3,100.0,1.8,7,19,36.8,18,3,77.8,55.2,5,100.0,64.6,11,0,0.0,2,21.0,ab5c36dd,Maduka Okoye,Sparta Rotterdam,True
+AZ Alkmaar,NEC Nijmegen,1637434800,dk DEN,23-277,90,2,1,1,50.0,1.0,4,13,30.8,32,1,28.1,27.4,5,80.0,55.8,3,1,33.3,4,20.4,7b433ed0,Peter Vindahl Jensen,AZ Alkmaar,True
+Heracles Almelo,Fortuna Sittard,1637438400,de GER,30-202,90,3,1,2,66.7,1.1,1,14,7.1,23,5,30.4,32.3,10,70.0,52.0,12,1,8.3,2,16.8,663e080e,Janis Blaswich,Heracles Almelo,True
+Go Ahead Eagles,Groningen,1637493300,sr SUR,29-159,90,9,1,8,88.9,2.3,10,25,40.0,28,5,67.9,52.3,9,66.7,54.8,23,0,0.0,4,22.0,4117e3f3,Warner Hahn,Go Ahead Eagles,True
+Heerenveen,Willem II,1637501400,nl NED,26-109,90,5,1,4,80.0,1.3,8,16,50.0,28,7,42.9,35.2,6,66.7,52.2,19,1,5.3,1,13.6,76609a3c,Xavier Mous,Heerenveen,True
+Feyenoord,Zwolle,1637501400,nl NED,23-303,90,4,0,4,100.0,0.3,2,3,66.7,21,9,14.3,26.7,2,0.0,25.0,5,1,20.0,3,21.8,53d93280,Justin Bijlow,Feyenoord,True
+RKC Waalwijk,Ajax,1637509500,nl NED,26-118,90,10,5,5,50.0,3.4,9,23,39.1,37,7,56.8,40.2,6,33.3,32.5,26,2,7.7,0,10.2,5622d68b,Etienne Vaessen,RKC Waalwijk,True
+Cambuur,Utrecht,1637521200,nl NED,29-152,90,5,1,4,80.0,1.0,6,12,50.0,42,4,26.2,29.9,7,14.3,30.3,24,0,0.0,0,11.5,7566ef9b,Sonny Stevens,Cambuur,True
+NEC Nijmegen,Cambuur,1637953200,nl NED,27-330,90,8,3,5,62.5,2.3,4,14,28.6,29,9,41.4,32.4,9,22.2,28.2,7,0,0.0,1,27.0,b74a2c78,Mattijs Branderhorst,NEC Nijmegen,True
+Fortuna Sittard,Groningen,1638035100,nl NED,24-248,90,7,4,4,42.9,2.4,7,19,36.8,24,2,54.2,41.8,7,85.7,51.0,10,0,0.0,1,15.5,f1655231,Yanick van Osch,Fortuna Sittard,True
+Zwolle,RKC Waalwijk,1638039600,gr GRE,30-070,90,3,0,3,100.0,0.4,7,28,25.0,55,7,45.5,35.6,5,60.0,41.6,14,0,0.0,7,20.9,f9508440,Kostas Lamprou,Zwolle,True
+Willem II,Go Ahead Eagles,1638043200,de GER,25-359,90,2,1,1,50.0,0.6,3,9,33.3,30,6,20.0,33.0,8,37.5,38.1,7,0,0.0,1,21.5,2f18d0b8,Timon Wellenreuther,Willem II,True
+Sparta Rotterdam,Ajax,1638098100,ng NGA,22-092,23,1,,1,,0.1,2,8,25.0,7,1,85.7,50.9,2,100.0,69.5,5,,,,10.0,ab5c36dd,Maduka Okoye,Sparta Rotterdam,True
+Sparta Rotterdam,Ajax,1638098100,nl NED,29-233,67,7,1,6,85.7,1.9,4,25,16.0,22,2,68.2,47.2,10,100.0,61.5,10,0,0.0,0,,0df43081,Benjamin van Leer,Sparta Rotterdam,True
+Utrecht,Heracles Almelo,1638106200,nl NED,23-198,90,0,0,0,,0.0,2,6,33.3,17,4,23.5,29.3,4,50.0,44.8,8,0,0.0,5,20.5,eb343262,Maarten Paes,Utrecht,True
+Twente,Feyenoord,1638106200,de GER,31-131,90,5,0,5,100.0,1.3,13,21,61.9,39,9,41.0,38.0,10,50.0,39.2,20,4,20.0,6,15.6,4b1793b0,Lars Unnerstall,Twente,True
+Heerenveen,PSV Eindhoven,1638114300,nl NED,26-116,90,2,1,1,50.0,0.8,6,18,33.3,34,7,35.3,32.9,14,42.9,37.5,14,0,0.0,0,11.0,76609a3c,Xavier Mous,Heerenveen,True
+Vitesse,AZ Alkmaar,1638126000,de GER,23-169,90,0,0,0,,0.0,8,33,24.2,38,3,65.8,45.0,11,72.7,52.4,13,1,7.7,4,23.0,289b90cd,Markus Schubert,Vitesse,True
+Feyenoord,Heracles Almelo,1638385200,il ISR,32-055,90,2,1,1,50.0,1.7,5,9,55.6,16,4,18.8,28.3,6,100.0,65.3,8,0,0.0,2,20.3,00d4e7b3,Ofir Marciano,Feyenoord,True
+AZ Alkmaar,Fortuna Sittard,1638467100,dk DEN,23-289,90,2,1,1,50.0,1.0,8,18,44.4,39,7,41.0,34.2,3,66.7,55.7,11,0,0.0,3,26.7,7b433ed0,Peter Vindahl Jensen,AZ Alkmaar,True
+Ajax,Willem II,1638475200,nl NED,38-024,90,0,0,0,,0.0,0,0,,18,3,0.0,16.4,3,0.0,21.0,3,0,0.0,0,15.0,3392603d,Remko Pasveer,Ajax,True
+Groningen,Zwolle,1638558000,nl NED,27-255,90,4,1,3,75.0,0.6,8,30,26.7,53,7,47.2,39.2,8,62.5,48.6,18,0,0.0,1,13.5,b7135640,Peter Leeuwenburgh,Groningen,True
+PSV Eindhoven,Utrecht,1638631800,nl NED,25-018,90,1,1,0,0.0,0.2,3,13,23.1,28,2,32.1,30.3,6,66.7,47.2,11,0,0.0,3,22.0,510c6a3f,Joel Drommel,PSV Eindhoven,True
+Cambuur,Vitesse,1638639900,nl NED,29-165,90,9,6,3,33.3,2.8,14,28,50.0,40,8,47.5,38.6,12,75.0,54.8,15,0,0.0,0,4.5,7566ef9b,Sonny Stevens,Cambuur,True
+Heracles Almelo,Heerenveen,1638648000,de GER,30-216,90,2,1,1,50.0,0.3,1,2,50.0,32,8,3.1,20.8,5,20.0,34.4,6,1,16.7,0,13.6,663e080e,Janis Blaswich,Heracles Almelo,True
+RKC Waalwijk,NEC Nijmegen,1638702900,nl NED,26-132,90,4,1,3,75.0,1.2,6,15,40.0,31,8,38.7,37.5,3,100.0,67.0,8,1,12.5,2,13.8,5622d68b,Etienne Vaessen,RKC Waalwijk,True
+AZ Alkmaar,Sparta Rotterdam,1638711000,dk DEN,23-292,90,4,1,3,75.0,0.8,5,16,31.3,41,7,26.8,28.4,6,83.3,50.7,4,0,0.0,2,19.7,7b433ed0,Peter Vindahl Jensen,AZ Alkmaar,True
+Go Ahead Eagles,Twente,1638711000,sr SUR,29-173,90,2,2,0,0.0,0.6,9,24,37.5,30,3,60.0,43.0,9,66.7,48.7,15,0,0.0,0,,4117e3f3,Warner Hahn,Go Ahead Eagles,True
+Feyenoord,Fortuna Sittard,1638719100,il ISR,32-059,90,5,0,5,100.0,0.9,6,24,25.0,37,4,51.4,37.8,5,100.0,59.8,9,0,0.0,0,11.5,00d4e7b3,Ofir Marciano,Feyenoord,True
+Willem II,Cambuur,1639162800,de GER,26-007,90,8,3,5,75.0,2.2,14,25,56.0,43,8,44.2,36.9,9,66.7,47.2,13,1,7.7,1,12.6,2f18d0b8,Timon Wellenreuther,Willem II,True
+Utrecht,Go Ahead Eagles,1639244700,de GER,26-082,90,1,0,1,100.0,0.3,5,8,62.5,22,4,31.8,30.4,6,16.7,27.8,11,0,0.0,2,22.0,dbb329c6,Eric Oelschlägel,Utrecht,True
+Heerenveen,Sparta Rotterdam,1639249200,nl NED,26-129,90,3,0,3,100.0,0.5,6,20,30.0,36,6,41.7,36.4,8,62.5,51.1,10,0,0.0,3,22.3,76609a3c,Xavier Mous,Heerenveen,True
+Zwolle,Fortuna Sittard,1639252800,gr GRE,30-084,90,8,1,7,87.5,2.2,8,22,36.4,44,1,38.6,33.6,5,100.0,62.2,11,0,0.0,2,21.3,f9508440,Kostas Lamprou,Zwolle,True
+Twente,RKC Waalwijk,1639307700,de GER,31-145,90,3,1,2,66.7,0.5,6,19,31.6,30,3,56.7,42.8,5,40.0,39.4,14,1,7.1,0,12.0,4b1793b0,Lars Unnerstall,Twente,True
+Vitesse,Heracles Almelo,1639315800,nl NED,25-297,90,3,1,2,66.7,1.1,3,10,30.0,19,8,36.8,31.2,10,30.0,29.7,18,0,0.0,1,24.0,6d8ec266,Jeroen Houwen,Vitesse,True
+Groningen,Feyenoord,1639315800,nl NED,27-264,90,6,1,5,83.3,1.8,12,37,32.4,40,3,57.5,45.8,19,73.7,52.9,19,1,5.3,3,17.8,b7135640,Peter Leeuwenburgh,Groningen,True
+Ajax,AZ Alkmaar,1639323900,nl NED,38-034,90,3,2,1,33.3,1.5,2,4,50.0,32,1,12.5,23.1,1,0.0,12.0,3,0,0.0,4,27.8,3392603d,Remko Pasveer,Ajax,True
+NEC Nijmegen,PSV Eindhoven,1639335600,nl NED,27-346,90,11,2,9,81.8,2.6,4,22,18.2,27,9,59.3,40.3,11,54.5,41.3,30,1,3.3,0,4.0,b74a2c78,Mattijs Branderhorst,NEC Nijmegen,True
+Fortuna Sittard,Utrecht,1639841400,nl NED,24-269,90,6,2,4,66.7,2.0,4,9,44.4,26,6,26.9,31.3,6,33.3,34.2,23,0,0.0,0,10.3,f1655231,Yanick van Osch,Fortuna Sittard,True
+Sparta Rotterdam,Vitesse,1639849500,ng NGA,22-112,90,3,2,1,33.3,1.8,0,6,0.0,20,5,25.0,28.8,3,33.3,40.3,7,1,14.3,1,15.4,ab5c36dd,Maduka Okoye,Sparta Rotterdam,True
+Heracles Almelo,Groningen,1639854000,de GER,30-230,90,3,2,1,33.3,0.8,3,16,18.8,22,3,50.0,42.6,5,100.0,68.6,8,2,25.0,0,14.0,663e080e,Janis Blaswich,Heracles Almelo,True
+AZ Alkmaar,Willem II,1639854000,dk DEN,23-305,90,5,1,4,80.0,1.4,4,7,57.1,25,3,20.0,24.8,4,50.0,44.0,6,0,0.0,3,20.6,7b433ed0,Peter Vindahl Jensen,AZ Alkmaar,True
+Zwolle,Twente,1639857600,gr GRE,30-091,90,4,3,1,25.0,2.2,6,13,46.2,37,4,35.1,32.8,1,0.0,36.0,4,0,0.0,2,18.6,f9508440,Kostas Lamprou,Zwolle,True
+Cambuur,Heerenveen,1639912500,nl NED,29-180,90,6,2,4,83.3,2.6,16,32,50.0,33,1,60.6,40.6,16,75.0,53.3,19,0,0.0,0,8.0,7566ef9b,Sonny Stevens,Cambuur,True
+Feyenoord,Ajax,1639920600,nl NED,23-331,90,1,2,0,0.0,1.0,3,13,23.1,31,3,32.3,30.4,9,33.3,36.8,5,1,20.0,0,10.5,53d93280,Justin Bijlow,Feyenoord,True
+Go Ahead Eagles,NEC Nijmegen,1639920600,sr SUR,29-187,90,5,2,3,80.0,1.4,4,12,33.3,35,5,34.3,32.3,1,0.0,33.0,8,1,12.5,3,17.0,4117e3f3,Warner Hahn,Go Ahead Eagles,True
+RKC Waalwijk,PSV Eindhoven,1639928700,nl NED,26-146,90,12,4,8,75.0,4.2,7,12,58.3,31,9,32.3,33.6,8,25.0,28.8,10,0,0.0,0,13.3,5622d68b,Etienne Vaessen,RKC Waalwijk,True
+Vitesse,Zwolle,1640108700,nl NED,25-306,90,7,0,7,100.0,0.9,5,24,20.8,41,6,46.3,38.1,8,62.5,52.9,17,1,5.9,0,14.5,6d8ec266,Jeroen Houwen,Vitesse,True
+AZ Alkmaar,Groningen,1640116800,dk DEN,23-308,90,3,0,3,100.0,0.4,2,7,28.6,18,6,22.2,27.8,4,75.0,53.8,6,0,0.0,2,22.3,7b433ed0,Peter Vindahl Jensen,AZ Alkmaar,True
+Heerenveen,Feyenoord,1640195100,nl NED,26-140,90,10,3,7,70.0,1.5,10,18,55.6,36,9,38.9,32.9,11,36.4,32.8,17,0,0.0,0,9.3,76609a3c,Xavier Mous,Heerenveen,True
+Willem II,NEC Nijmegen,1640195100,de GER,26-019,90,5,1,4,80.0,1.4,11,23,47.8,56,4,37.5,32.8,2,100.0,50.0,5,0,0.0,5,27.3,2f18d0b8,Timon Wellenreuther,Willem II,True
+Heracles Almelo,Cambuur,1640199600,de GER,30-234,90,3,1,2,66.7,0.4,7,10,70.0,23,6,39.1,31.9,1,100.0,40.0,9,0,0.0,1,13.6,663e080e,Janis Blaswich,Heracles Almelo,True
+Ajax,Fortuna Sittard,1640203200,nl NED,38-044,90,0,0,0,,0.0,8,14,57.1,35,4,37.1,35.3,3,33.3,24.3,9,0,0.0,1,11.0,3392603d,Remko Pasveer,Ajax,True
+Utrecht,Twente,1640203200,nl NED,23-222,90,2,1,1,50.0,1.1,2,8,25.0,27,3,29.6,28.4,1,0.0,36.0,6,3,50.0,1,13.1,eb343262,Maarten Paes,Utrecht,True
+PSV Eindhoven,Go Ahead Eagles,1640281500,nl NED,25-037,90,1,0,1,100.0,0.0,8,13,61.5,20,2,65.0,44.1,5,0.0,19.8,3,1,33.3,0,3.5,510c6a3f,Joel Drommel,PSV Eindhoven,True
+Sparta Rotterdam,RKC Waalwijk,1640289600,ng NGA,22-117,90,3,1,2,66.7,0.9,2,8,25.0,28,8,21.4,29.4,3,66.7,57.7,5,0,0.0,4,22.8,ab5c36dd,Maduka Okoye,Sparta Rotterdam,True
+Zwolle,Willem II,1642186800,gr GRE,30-118,90,0,0,0,,0.0,7,19,36.8,35,1,45.7,35.5,4,75.0,58.3,13,0,0.0,1,17.3,f9508440,Kostas Lamprou,Zwolle,True
+NEC Nijmegen,Heracles Almelo,1642268700,nl NED,28-015,90,2,0,2,100.0,0.3,4,9,44.4,21,10,38.1,33.0,10,10.0,19.4,29,0,0.0,0,4.0,b74a2c78,Mattijs Branderhorst,NEC Nijmegen,True
+Twente,Heerenveen,1642273200,de GER,31-179,90,3,0,3,100.0,0.1,5,13,38.5,23,2,43.5,35.3,5,60.0,36.2,11,1,9.1,0,8.4,4b1793b0,Lars Unnerstall,Twente,True
+Feyenoord,Vitesse,1642273200,nl NED,23-358,90,5,1,4,80.0,0.8,3,12,25.0,23,6,43.5,37.1,3,66.7,56.7,17,0,0.0,3,14.2,53d93280,Justin Bijlow,Feyenoord,True
+Go Ahead Eagles,RKC Waalwijk,1642276800,sr SUR,29-214,90,3,2,1,33.3,0.6,2,8,25.0,33,6,21.2,27.6,7,14.3,34.6,9,0,0.0,1,17.7,4117e3f3,Warner Hahn,Go Ahead Eagles,True
+Utrecht,Ajax,1642331700,nl NED,21-251,90,3,3,0,0.0,1.7,2,8,25.0,14,3,35.7,32.6,3,100.0,65.7,6,0,0.0,0,11.3,fdfc9ace,Fabian de Keijzer,Utrecht,True
+Groningen,PSV Eindhoven,1642339800,nl NED,27-299,90,2,1,1,50.0,1.0,12,29,41.4,51,4,49.0,39.6,8,50.0,42.3,11,0,0.0,2,17.8,b7135640,Peter Leeuwenburgh,Groningen,True
+Cambuur,Sparta Rotterdam,1642339800,nl NED,29-208,90,7,1,6,85.7,1.0,5,21,23.8,41,4,39.0,33.4,7,71.4,55.4,19,0,0.0,0,11.5,7566ef9b,Sonny Stevens,Cambuur,True
+Fortuna Sittard,AZ Alkmaar,1642347900,nl NED,25-044,90,4,2,2,50.0,2.5,6,19,31.6,32,7,50.0,37.9,4,75.0,54.3,18,0,0.0,5,19.6,424595d5,Michael Verrips,Fortuna Sittard,True
+Vitesse,Groningen,1642873500,nl NED,25-338,90,8,3,5,62.5,2.3,6,26,23.1,37,9,59.5,42.1,11,36.4,35.1,14,0,0.0,0,,6d8ec266,Jeroen Houwen,Vitesse,True
+AZ Alkmaar,Cambuur,1642878000,dk DEN,23-340,90,2,0,2,100.0,0.7,5,10,50.0,28,6,28.6,31.0,4,50.0,35.5,6,2,33.3,1,12.6,7b433ed0,Peter Vindahl Jensen,AZ Alkmaar,True
+Heerenveen,Zwolle,1642878000,nl NED,26-171,90,6,1,5,100.0,1.5,8,23,34.8,40,4,47.5,34.9,8,50.0,43.4,12,0,0.0,4,17.7,76609a3c,Xavier Mous,Heerenveen,True
+Willem II,Twente,1642881600,de GER,26-050,90,2,1,1,50.0,1.0,9,24,37.5,40,3,50.0,39.3,4,100.0,68.3,11,1,9.1,1,16.3,2f18d0b8,Timon Wellenreuther,Willem II,True
+NEC Nijmegen,Feyenoord,1642936500,nl NED,28-023,90,11,4,7,72.7,4.3,2,9,22.2,22,9,22.7,27.0,11,36.4,30.9,20,1,5.0,1,11.0,b74a2c78,Mattijs Branderhorst,NEC Nijmegen,True
+PSV Eindhoven,Ajax,1642944600,nl NED,25-068,90,6,2,4,66.7,1.4,7,17,41.2,28,3,32.1,34.0,8,100.0,63.6,12,0,0.0,0,12.0,510c6a3f,Joel Drommel,PSV Eindhoven,True
+Heracles Almelo,Go Ahead Eagles,1642944600,de GER,30-266,90,2,1,1,50.0,0.7,5,16,31.3,27,4,44.4,40.1,7,57.1,45.3,8,0,0.0,0,9.5,663e080e,Janis Blaswich,Heracles Almelo,True
+Sparta Rotterdam,Utrecht,1642952700,nl NED,30-288,90,6,3,4,50.0,1.5,8,9,88.9,27,9,22.2,24.8,6,50.0,41.7,11,1,9.1,2,20.6,4c0199a5,Tim Coremans,Sparta Rotterdam,True
+RKC Waalwijk,Fortuna Sittard,1642964400,nl NED,26-181,90,6,1,5,100.0,1.8,4,17,23.5,29,9,41.4,37.3,5,100.0,67.4,15,1,6.7,0,9.8,5622d68b,Etienne Vaessen,RKC Waalwijk,True
+Utrecht,Cambuur,1644075000,nl NED,21-271,90,5,2,3,60.0,1.5,6,13,46.2,14,2,64.3,45.9,6,66.7,49.7,14,0,0.0,0,,fdfc9ace,Fabian de Keijzer,Utrecht,True
+Fortuna Sittard,Heerenveen,1644083100,nl NED,24-318,90,4,0,4,100.0,0.6,6,26,23.1,28,3,78.6,53.2,5,80.0,55.4,19,0,0.0,0,3.0,f1655231,Yanick van Osch,Fortuna Sittard,True
+Zwolle,NEC Nijmegen,1644087600,gr GRE,30-140,90,4,1,3,75.0,1.0,6,15,40.0,26,0,42.3,34.8,6,66.7,50.0,16,1,6.3,4,25.5,f9508440,Kostas Lamprou,Zwolle,True
+PSV Eindhoven,AZ Alkmaar,1644087600,ch SUI,27-244,90,3,2,1,33.3,1.0,2,8,25.0,14,3,35.7,33.4,7,42.9,35.4,5,0,0.0,2,21.3,dc29b608,Yvon Mvogo,PSV Eindhoven,True
+Twente,Vitesse,1644091200,de GER,31-200,90,2,0,2,100.0,0.1,2,13,15.4,18,3,55.6,41.8,6,50.0,36.5,4,0,0.0,0,11.0,4b1793b0,Lars Unnerstall,Twente,True
+Feyenoord,Sparta Rotterdam,1644146100,nl NED,24-015,90,0,0,0,,0.0,3,7,42.9,29,1,13.8,23.7,7,42.9,37.6,4,0,0.0,3,22.6,53d93280,Justin Bijlow,Feyenoord,True
+Groningen,Go Ahead Eagles,1644154200,nl NED,27-320,90,5,1,4,80.0,0.4,8,26,30.8,40,3,50.0,40.4,8,75.0,59.5,16,0,0.0,2,19.7,b7135640,Peter Leeuwenburgh,Groningen,True
+Willem II,RKC Waalwijk,1644154200,be BEL,28-152,90,5,1,4,80.0,1.5,10,30,33.3,29,3,79.3,52.4,7,100.0,64.4,15,2,13.3,0,12.0,f456c788,Jorn Brondeel,Willem II,True
+Ajax,Heracles Almelo,1644162300,nl NED,38-090,90,0,0,0,,0.0,2,3,66.7,26,4,11.5,26.2,4,0.0,22.3,7,1,14.3,0,15.0,3392603d,Remko Pasveer,Ajax,True
+Heracles Almelo,Utrecht,1644606000,de GER,30-285,90,5,0,5,100.0,0.9,4,11,36.4,32,5,28.1,30.9,7,28.6,35.6,13,1,7.7,0,15.0,663e080e,Janis Blaswich,Heracles Almelo,True
+Groningen,Fortuna Sittard,1644687900,nl NED,27-326,90,5,1,4,80.0,0.8,7,19,36.8,37,4,48.6,38.1,3,33.3,34.3,7,0,0.0,2,18.8,b7135640,Peter Leeuwenburgh,Groningen,True
+Cambuur,Zwolle,1644687900,nl NED,29-235,90,9,4,5,55.6,3.2,11,25,44.0,39,4,59.0,41.4,5,40.0,33.4,10,0,0.0,3,27.7,7566ef9b,Sonny Stevens,Cambuur,True
+Vitesse,PSV Eindhoven,1644692400,nl NED,25-359,90,13,5,8,61.5,4.1,1,9,11.1,33,8,24.2,29.8,3,33.3,40.7,6,1,16.7,3,15.0,6d8ec266,Jeroen Houwen,Vitesse,True
+Go Ahead Eagles,AZ Alkmaar,1644750900,nl NED,27-312,90,9,4,5,55.6,2.9,9,14,64.3,48,3,29.2,29.3,0,,,13,1,7.7,0,6.0,2dc9d6fb,Andries Noppert,Go Ahead Eagles,True
+Sparta Rotterdam,Willem II,1644750900,ng NGA,22-169,90,0,0,0,,0.0,4,21,19.0,25,1,60.0,44.7,9,66.7,57.4,19,1,5.3,2,14.6,ab5c36dd,Maduka Okoye,Sparta Rotterdam,True
+RKC Waalwijk,Feyenoord,1644759000,nl NED,26-202,90,4,2,2,50.0,1.8,12,26,46.2,36,5,50.0,43.4,11,72.7,53.8,19,1,5.3,4,20.6,5622d68b,Etienne Vaessen,RKC Waalwijk,True
+Heerenveen,NEC Nijmegen,1644759000,nl NED,26-193,90,2,1,1,50.0,0.5,11,20,55.0,31,5,48.4,38.7,5,100.0,63.8,8,0,0.0,1,19.7,76609a3c,Xavier Mous,Heerenveen,True
+Ajax,Twente,1644767100,nl NED,38-097,90,1,0,1,100.0,0.1,6,14,42.9,52,6,26.9,29.1,0,,,4,0,0.0,0,15.0,3392603d,Remko Pasveer,Ajax,True
+NEC Nijmegen,RKC Waalwijk,1645284600,nl NED,28-050,90,3,1,2,66.7,1.5,3,3,100.0,28,11,10.7,25.3,7,0.0,27.1,6,0,0.0,0,14.0,b74a2c78,Mattijs Branderhorst,NEC Nijmegen,True
+Willem II,Ajax,1645292700,de GER,26-078,90,4,1,3,75.0,0.9,17,39,43.6,31,7,67.7,44.3,20,90.0,56.9,33,2,6.1,1,10.5,2f18d0b8,Timon Wellenreuther,Willem II,True
+AZ Alkmaar,Heracles Almelo,1645300800,dk DEN,24-003,90,1,1,0,0.0,0.4,5,18,27.8,43,2,39.5,32.7,1,100.0,63.0,7,0,0.0,4,23.4,7b433ed0,Peter Vindahl Jensen,AZ Alkmaar,True
+Zwolle,Groningen,1645355700,gr GRE,30-155,90,3,1,2,66.7,1.5,6,26,23.1,39,4,51.3,39.9,8,75.0,55.8,7,1,14.3,2,21.8,f9508440,Kostas Lamprou,Zwolle,True
+Feyenoord,Cambuur,1645363800,nl NED,24-029,90,2,1,1,50.0,1.0,3,10,30.0,18,5,33.3,30.9,6,66.7,53.8,7,0,0.0,0,16.0,53d93280,Justin Bijlow,Feyenoord,True
+Twente,Go Ahead Eagles,1645363800,de GER,31-215,90,6,2,4,66.7,1.1,4,16,25.0,27,1,51.9,42.3,3,66.7,44.7,8,0,0.0,4,28.5,4b1793b0,Lars Unnerstall,Twente,True
+Utrecht,Vitesse,1645371900,nl NED,21-286,90,2,1,1,50.0,1.1,8,27,29.6,20,2,65.0,46.4,15,93.3,61.4,17,1,5.9,2,15.4,fdfc9ace,Fabian de Keijzer,Utrecht,True
+PSV Eindhoven,Heerenveen,1645371900,nl NED,25-096,90,3,1,2,66.7,0.5,2,3,66.7,11,4,18.2,32.2,6,16.7,29.8,8,2,25.0,0,6.3,510c6a3f,Joel Drommel,PSV Eindhoven,True
+RKC Waalwijk,Twente,1645815600,nl NED,26-214,90,4,2,2,50.0,1.5,10,21,47.6,19,7,63.2,41.5,14,64.3,55.1,12,0,0.0,0,,5622d68b,Etienne Vaessen,RKC Waalwijk,True
+Heracles Almelo,Zwolle,1645889400,de GER,30-300,90,2,0,2,100.0,0.6,5,17,29.4,26,2,46.2,39.1,7,71.4,53.0,14,2,14.3,0,6.3,663e080e,Janis Blaswich,Heracles Almelo,True
+Groningen,Willem II,1645897500,nl NED,27-340,90,0,0,0,,0.0,8,19,42.1,46,8,26.1,32.8,11,63.6,48.7,19,1,5.3,0,7.0,b7135640,Peter Leeuwenburgh,Groningen,True
+Cambuur,Fortuna Sittard,1645905600,nl NED,29-249,90,3,1,2,66.7,0.8,3,14,21.4,26,9,42.3,36.2,5,60.0,54.6,16,0,0.0,2,21.3,7566ef9b,Sonny Stevens,Cambuur,True
+AZ Alkmaar,Feyenoord,1645960500,dk DEN,24-011,90,6,1,5,83.3,1.2,9,22,40.9,23,1,60.9,48.4,10,80.0,59.2,18,1,5.6,0,9.8,7b433ed0,Peter Vindahl Jensen,AZ Alkmaar,True
+Vitesse,NEC Nijmegen,1645960500,nl NED,26-009,90,3,1,2,66.7,0.8,4,22,18.2,32,2,53.1,38.3,6,83.3,58.0,8,0,0.0,2,21.7,6d8ec266,Jeroen Houwen,Vitesse,True
+Sparta Rotterdam,PSV Eindhoven,1645968600,ng NGA,22-183,90,9,2,7,77.8,2.1,9,20,45.0,21,2,71.4,47.6,6,83.3,57.8,19,0,0.0,1,23.0,ab5c36dd,Maduka Okoye,Sparta Rotterdam,True
+Go Ahead Eagles,Ajax,1645976700,nl NED,27-326,90,4,1,3,75.0,1.8,12,35,34.3,32,3,68.8,50.7,15,86.7,61.8,34,2,5.9,0,6.8,2dc9d6fb,Andries Noppert,Go Ahead Eagles,True
+Heerenveen,Utrecht,1645988400,nl NED,32-361,90,8,2,6,75.0,0.9,8,20,40.0,38,5,47.4,33.2,3,66.7,51.0,13,0,0.0,2,22.2,b3576b7c,Erwin Mulder,Heerenveen,True
+Willem II,Heerenveen,1646494200,de GER,26-092,90,2,0,2,100.0,0.3,7,12,58.3,31,3,25.8,26.9,6,66.7,45.8,7,0,0.0,7,24.8,2f18d0b8,Timon Wellenreuther,Willem II,True
+Go Ahead Eagles,Utrecht,1646502300,nl NED,27-332,90,7,1,6,85.7,1.8,9,26,34.6,43,6,46.5,35.9,7,85.7,55.0,12,0,0.0,0,12.5,2dc9d6fb,Andries Noppert,Go Ahead Eagles,True
+Feyenoord,Groningen,1646510400,nl NED,24-042,90,3,1,2,66.7,1.0,7,11,63.6,29,7,34.5,32.8,3,33.3,29.0,4,1,25.0,1,17.5,53d93280,Justin Bijlow,Feyenoord,True
+PSV Eindhoven,Heracles Almelo,1646565300,nl NED,25-110,90,1,1,0,0.0,0.8,1,5,20.0,22,1,18.2,24.7,3,33.3,34.7,7,0,0.0,1,19.0,510c6a3f,Joel Drommel,PSV Eindhoven,True
+Twente,Cambuur,1646573400,de GER,31-229,90,0,0,0,,0.0,5,12,41.7,16,3,56.3,38.2,4,75.0,45.8,12,0,0.0,4,25.3,4b1793b0,Lars Unnerstall,Twente,True
+NEC Nijmegen,AZ Alkmaar,1646581500,nl NED,28-065,90,7,3,4,57.1,2.0,3,6,50.0,23,8,26.1,28.1,9,0.0,21.7,18,1,5.6,1,16.0,b74a2c78,Mattijs Branderhorst,NEC Nijmegen,True
+Ajax,RKC Waalwijk,1646581500,cm CMR,25-338,90,3,2,1,33.3,2.1,1,2,50.0,23,6,8.7,25.9,1,0.0,30.0,8,0,0.0,2,30.0,e9c0c1b2,André Onana,Ajax,True
+Fortuna Sittard,Zwolle,1646593200,nl NED,24-347,90,4,1,3,75.0,1.2,11,29,37.9,35,1,74.3,49.0,4,75.0,46.3,10,1,10.0,0,7.0,f1655231,Yanick van Osch,Fortuna Sittard,True
+Cambuur,Ajax,1647025200,nl NED,25-016,90,10,3,7,70.0,3.3,13,28,46.4,30,1,60.0,47.6,14,71.4,52.4,16,0,0.0,0,12.5,6718689b,Pieter Bos,Cambuur,True
+Sparta Rotterdam,Go Ahead Eagles,1647099000,ng NGA,22-196,90,2,0,2,100.0,0.5,6,17,35.3,25,4,60.0,43.1,7,28.6,32.0,21,1,4.8,2,16.3,ab5c36dd,Maduka Okoye,Sparta Rotterdam,True
+Groningen,NEC Nijmegen,1647107100,nl NED,27-354,90,7,3,4,57.1,1.5,4,9,44.4,27,9,29.6,31.9,6,16.7,25.0,11,0,0.0,2,21.0,b7135640,Peter Leeuwenburgh,Groningen,True
+RKC Waalwijk,Heerenveen,1647115200,nl NED,26-229,90,2,0,2,100.0,0.3,3,14,21.4,24,10,33.3,36.5,8,75.0,50.3,25,3,12.0,3,13.0,5622d68b,Etienne Vaessen,RKC Waalwijk,True
+Fortuna Sittard,Willem II,1647170100,nl NED,24-354,90,1,0,1,100.0,0.6,4,11,36.4,22,4,27.3,29.0,9,55.6,43.8,26,1,3.8,2,17.7,f1655231,Yanick van Osch,Fortuna Sittard,True
+Utrecht,PSV Eindhoven,1647178200,nl NED,21-307,90,4,1,3,75.0,1.6,4,14,28.6,32,6,40.6,37.0,2,50.0,46.5,17,1,5.9,1,14.7,fdfc9ace,Fabian de Keijzer,Utrecht,True
+Heracles Almelo,Vitesse,1647178200,nl NED,25-268,90,3,0,3,100.0,0.1,6,19,31.6,23,4,52.2,44.6,9,77.8,58.1,11,0,0.0,0,14.5,1da4fe81,Koen Bucker,Heracles Almelo,True
+Zwolle,Feyenoord,1647186300,gr GRE,30-176,90,6,2,4,66.7,1.4,6,22,27.3,44,10,38.6,34.7,9,55.6,40.1,14,1,7.1,3,15.4,f9508440,Kostas Lamprou,Zwolle,True
+AZ Alkmaar,Twente,1647198000,dk DEN,24-025,90,3,1,2,66.7,0.9,9,23,39.1,56,10,39.3,35.3,4,25.0,33.0,8,0,0.0,2,16.0,7b433ed0,Peter Vindahl Jensen,AZ Alkmaar,True
+Heerenveen,Heracles Almelo,1647630000,nl NED,33-015,90,2,0,2,100.0,0.1,7,22,31.8,27,2,59.3,40.3,9,66.7,42.3,11,1,9.1,0,9.0,b3576b7c,Erwin Mulder,Heerenveen,True
+Go Ahead Eagles,Cambuur,1647711900,nl NED,27-346,90,1,0,1,100.0,0.1,5,11,45.5,25,6,40.0,39.1,1,100.0,76.0,13,0,0.0,2,23.0,2dc9d6fb,Andries Noppert,Go Ahead Eagles,True
+Twente,Zwolle,1647716400,de GER,31-242,90,4,0,4,100.0,0.4,9,27,33.3,33,3,69.7,45.9,4,100.0,68.5,9,0,0.0,2,19.3,4b1793b0,Lars Unnerstall,Twente,True
+NEC Nijmegen,Sparta Rotterdam,1647720000,nl NED,28-078,90,0,0,0,,0.0,1,6,16.7,19,6,15.8,28.3,6,50.0,41.7,9,1,11.1,0,6.0,b74a2c78,Mattijs Branderhorst,NEC Nijmegen,True
+Utrecht,Groningen,1647774900,nl NED,21-314,90,5,3,2,60.0,1.9,6,19,31.6,21,4,81.0,52.0,2,100.0,72.5,9,0,0.0,0,,fdfc9ace,Fabian de Keijzer,Utrecht,True
+Ajax,Feyenoord,1647783000,cm CMR,25-352,90,4,2,2,50.0,1.4,6,13,46.2,41,5,31.7,30.7,5,0.0,20.6,12,0,0.0,0,6.0,e9c0c1b2,André Onana,Ajax,True
+Vitesse,RKC Waalwijk,1647791100,nl NED,26-030,90,4,2,2,50.0,0.6,4,8,50.0,28,7,21.4,27.4,6,33.3,39.3,7,0,0.0,6,28.6,6d8ec266,Jeroen Houwen,Vitesse,True
+PSV Eindhoven,Fortuna Sittard,1647791100,nl NED,25-124,90,0,0,0,,0.0,0,6,0.0,15,1,26.7,29.1,5,40.0,34.2,7,0,0.0,0,16.5,510c6a3f,Joel Drommel,PSV Eindhoven,True
+Willem II,AZ Alkmaar,1647802800,de GER,26-107,90,5,2,3,60.0,0.5,10,29,34.5,25,4,68.0,45.2,14,85.7,55.2,26,0,0.0,0,,2f18d0b8,Timon Wellenreuther,Willem II,True
+Groningen,Ajax,1648909800,nl NED,28-010,90,7,3,4,71.4,3.1,11,24,45.8,56,9,42.9,35.9,5,0.0,17.4,6,0,0.0,2,15.6,b7135640,Peter Leeuwenburgh,Groningen,True
+Twente,PSV Eindhoven,1648917900,de GER,31-256,90,7,3,4,57.1,2.4,8,21,38.1,26,4,69.2,44.4,5,60.0,45.2,12,1,8.3,0,8.8,4b1793b0,Lars Unnerstall,Twente,True
+RKC Waalwijk,Utrecht,1648922400,nl NED,26-250,90,5,1,4,80.0,0.7,10,20,50.0,38,7,42.1,34.3,9,44.4,34.4,12,0,0.0,0,16.0,5622d68b,Etienne Vaessen,RKC Waalwijk,True
+AZ Alkmaar,Vitesse,1648922400,dk DEN,24-045,90,4,1,3,75.0,1.2,9,24,37.5,29,4,62.1,41.2,12,50.0,44.3,21,1,4.8,3,24.5,7b433ed0,Peter Vindahl Jensen,AZ Alkmaar,True
+Feyenoord,Willem II,1648926000,il ISR,32-177,90,0,0,0,,0.0,2,4,50.0,13,2,30.8,32.2,0,,,15,0,0.0,1,16.0,00d4e7b3,Ofir Marciano,Feyenoord,True
+Zwolle,Go Ahead Eagles,1648980900,gr GRE,30-197,90,4,1,3,75.0,1.1,15,30,50.0,44,7,54.5,39.0,7,85.7,60.9,13,4,30.8,2,11.7,f9508440,Kostas Lamprou,Zwolle,True
+Sparta Rotterdam,Heerenveen,1648989000,ng NGA,22-218,90,3,1,2,66.7,1.3,9,20,45.0,23,3,69.6,47.4,9,44.4,36.0,12,0,0.0,0,6.8,ab5c36dd,Maduka Okoye,Sparta Rotterdam,True
+Fortuna Sittard,Heracles Almelo,1648989000,nl NED,25-010,90,4,2,2,50.0,0.6,4,5,80.0,22,3,13.6,22.9,6,33.3,36.0,10,0,0.0,0,1.0,f1655231,Yanick van Osch,Fortuna Sittard,True
+Cambuur,NEC Nijmegen,1648997100,nl NED,25-039,90,6,2,4,66.7,2.2,8,19,42.1,39,4,46.2,38.8,4,25.0,41.0,10,0,0.0,1,14.4,6718689b,Pieter Bos,Cambuur,True
+Go Ahead Eagles,Willem II,1649440800,nl NED,28-001,90,5,0,5,100.0,1.5,13,19,68.4,52,12,23.1,30.2,10,70.0,48.9,27,3,11.1,2,12.1,2dc9d6fb,Andries Noppert,Go Ahead Eagles,True
+Utrecht,Fortuna Sittard,1649522700,nl NED,21-334,90,9,1,8,88.9,1.8,2,7,28.6,15,3,26.7,26.7,14,21.4,27.4,17,0,0.0,3,28.0,fdfc9ace,Fabian de Keijzer,Utrecht,True
+Ajax,Sparta Rotterdam,1649527200,cm CMR,26-007,90,1,1,0,0.0,0.5,6,8,75.0,20,5,35.0,32.5,6,16.7,33.7,12,1,8.3,0,9.0,e9c0c1b2,André Onana,Ajax,True
+NEC Nijmegen,Twente,1649530800,nl NED,28-099,90,3,2,1,33.3,1.2,2,13,15.4,26,5,38.5,37.3,5,60.0,41.6,17,2,11.8,0,10.2,b74a2c78,Mattijs Branderhorst,NEC Nijmegen,True
+Heerenveen,Groningen,1649585700,nl NED,33-038,90,3,1,2,66.7,0.3,7,23,30.4,19,2,78.9,50.9,10,80.0,53.8,21,0,0.0,0,,b3576b7c,Erwin Mulder,Heerenveen,True
+Vitesse,Cambuur,1649593800,nl NED,26-051,45,,,,,0.0,,3,,10,3,20.0,25.5,3,33.3,34.3,2,,,,23.0,6d8ec266,Jeroen Houwen,Vitesse,True
+Vitesse,Cambuur,1649593800,de GER,23-302,45,0,0,0,,0.0,1,3,33.3,8,2,25.0,36.4,2,50.0,43.0,7,0,0.0,0,10.0,289b90cd,Markus Schubert,Vitesse,True
+PSV Eindhoven,RKC Waalwijk,1649593800,ch SUI,27-308,90,2,0,2,100.0,0.5,3,6,50.0,14,3,21.4,31.9,9,33.3,35.9,10,1,10.0,0,8.7,dc29b608,Yvon Mvogo,PSV Eindhoven,True
+Heracles Almelo,Feyenoord,1649601900,nl NED,25-296,90,8,4,4,50.0,1.8,6,15,40.0,32,9,28.1,35.3,10,60.0,45.7,12,0,0.0,0,7.7,1da4fe81,Koen Bucker,Heracles Almelo,True
+Zwolle,AZ Alkmaar,1649613600,gr GRE,30-204,90,5,1,4,80.0,1.4,13,30,43.3,36,5,61.1,44.9,10,80.0,56.9,14,0,0.0,5,20.4,f9508440,Kostas Lamprou,Zwolle,True
+Fortuna Sittard,Sparta Rotterdam,1650127500,nl NED,25-023,90,1,0,1,100.0,0.2,11,22,50.0,22,4,63.6,47.3,9,88.9,62.7,12,3,25.0,0,12.2,f1655231,Yanick van Osch,Fortuna Sittard,True
+Vitesse,Sparta Rotterdam,1650386700,nl NED,26-060,89,3,1,2,66.7,1.0,2,3,66.7,15,5,13.3,25.1,2,50.0,36.0,7,,,,,6d8ec266,Jeroen Houwen,Vitesse,True
+Twente,Sparta Rotterdam,1650650400,de GER,31-276,90,0,0,0,,0.0,3,9,33.3,24,7,20.8,28.6,5,80.0,54.6,10,0,0.0,3,19.4,4b1793b0,Lars Unnerstall,Twente,True
+NEC Nijmegen,Ajax,1650724200,nl NED,28-113,90,5,1,3,80.0,2.8,3,28,10.7,20,1,80.0,56.4,16,75.0,59.0,17,2,11.8,0,5.0,b74a2c78,Mattijs Branderhorst,NEC Nijmegen,True
+AZ Alkmaar,Heerenveen,1650732300,dk DEN,24-066,90,4,1,3,75.0,1.3,2,6,33.3,16,7,31.3,31.5,5,20.0,26.8,7,0,0.0,1,17.0,7b433ed0,Peter Vindahl Jensen,AZ Alkmaar,True
+RKC Waalwijk,Zwolle,1650736800,nl NED,26-271,90,4,2,2,75.0,1.5,21,39,53.8,38,5,81.6,55.7,8,100.0,70.3,7,2,28.6,1,13.7,5622d68b,Etienne Vaessen,RKC Waalwijk,True
+Cambuur,PSV Eindhoven,1650740400,nl NED,25-059,90,7,2,5,71.4,1.2,4,14,28.6,35,8,37.1,32.1,9,11.1,22.0,25,0,0.0,0,5.3,6718689b,Pieter Bos,Cambuur,True
+Willem II,Vitesse,1650795300,de GER,26-142,90,2,0,2,100.0,0.3,14,26,53.8,24,3,83.3,54.6,7,85.7,58.9,19,2,10.5,4,18.8,2f18d0b8,Timon Wellenreuther,Willem II,True
+Feyenoord,Utrecht,1650803400,il ISR,32-199,90,1,1,0,0.0,0.9,0,10,0.0,34,8,23.5,26.7,4,50.0,39.5,5,1,20.0,2,19.4,00d4e7b3,Ofir Marciano,Feyenoord,True
+Groningen,Heracles Almelo,1650803400,nl NED,28-032,90,5,1,4,80.0,1.4,2,6,33.3,30,4,13.3,27.9,5,40.0,36.4,5,0,0.0,0,8.0,b7135640,Peter Leeuwenburgh,Groningen,True
+Fortuna Sittard,Go Ahead Eagles,1650811500,nl NED,25-031,90,1,0,1,100.0,0.4,12,28,42.9,34,2,64.7,43.4,7,85.7,59.3,15,0,0.0,2,15.0,f1655231,Yanick van Osch,Fortuna Sittard,True
+Utrecht,NEC Nijmegen,1651255200,nl NED,21-354,90,4,0,4,100.0,0.5,6,17,35.3,21,5,57.1,37.7,6,83.3,56.0,10,0,0.0,1,31.0,fdfc9ace,Fabian de Keijzer,Utrecht,True
+Ajax,Zwolle,1651337100,nl NED,39-220,90,1,0,1,100.0,0.2,15,28,53.6,44,2,61.4,43.2,2,50.0,33.5,4,1,25.0,0,4.0,fefce889,Maarten Stekelenburg,Ajax,True
+Heracles Almelo,Twente,1651341600,nl NED,25-316,90,6,1,5,83.3,1.4,8,28,28.6,34,6,55.9,43.4,10,90.0,65.3,24,1,4.2,0,8.0,1da4fe81,Koen Bucker,Heracles Almelo,True
+Sparta Rotterdam,AZ Alkmaar,1651345200,ng NGA,22-245,90,5,1,4,80.0,2.2,9,14,64.3,17,5,52.9,43.9,11,45.5,41.3,14,0,0.0,0,15.0,ab5c36dd,Maduka Okoye,Sparta Rotterdam,True
+Heerenveen,Cambuur,1651400100,nl NED,33-059,90,3,3,0,33.3,2.3,3,6,50.0,11,2,27.3,26.4,10,30.0,34.5,15,1,6.7,1,18.5,b3576b7c,Erwin Mulder,Heerenveen,True
+Go Ahead Eagles,Vitesse,1651408200,nl NED,28-024,90,5,2,3,60.0,1.8,3,10,30.0,24,4,37.5,36.9,4,25.0,21.8,15,0,0.0,1,15.8,2dc9d6fb,Andries Noppert,Go Ahead Eagles,True
+PSV Eindhoven,Willem II,1651408200,ch SUI,27-329,90,3,2,1,33.3,1.4,5,10,50.0,19,4,26.3,29.1,8,62.5,45.1,13,0,0.0,2,31.5,dc29b608,Yvon Mvogo,PSV Eindhoven,True
+Fortuna Sittard,Feyenoord,1651416300,nl NED,25-038,90,9,3,5,66.7,5.3,7,20,35.0,26,7,46.2,36.6,14,57.1,47.5,4,0,0.0,0,,f1655231,Yanick van Osch,Fortuna Sittard,True
+RKC Waalwijk,Groningen,1651428000,nl NED,26-279,90,4,1,3,75.0,1.1,18,30,60.0,27,1,88.9,58.4,9,66.7,52.9,17,3,17.6,2,12.0,5622d68b,Etienne Vaessen,RKC Waalwijk,True
+Cambuur,RKC Waalwijk,1651860000,nl NED,29-318,90,4,1,4,75.0,0.7,8,13,61.5,25,2,48.0,37.5,12,8.3,23.6,18,0,0.0,0,10.0,7566ef9b,Sonny Stevens,Cambuur,True
+Twente,Fortuna Sittard,1651941900,de GER,31-291,90,5,2,3,60.0,1.2,2,11,18.2,25,7,36.0,31.2,4,50.0,40.0,3,1,33.3,5,24.5,4b1793b0,Lars Unnerstall,Twente,True
+Zwolle,Utrecht,1651946400,gr GRE,30-231,90,5,1,4,80.0,1.2,6,15,40.0,28,5,46.4,36.9,6,33.3,38.3,14,1,7.1,2,33.0,f9508440,Kostas Lamprou,Zwolle,True
+Willem II,Heracles Almelo,1651946400,de GER,26-155,90,2,0,2,100.0,0.4,7,22,31.8,30,0,63.3,47.0,3,100.0,72.3,2,0,0.0,0,15.5,2f18d0b8,Timon Wellenreuther,Willem II,True
+Groningen,Sparta Rotterdam,1651950000,nl NED,28-045,90,3,2,1,33.3,1.7,4,10,40.0,38,7,23.7,29.9,7,14.3,25.1,4,0,0.0,3,19.0,b7135640,Peter Leeuwenburgh,Groningen,True
+NEC Nijmegen,Go Ahead Eagles,1652004900,nl NED,28-128,90,2,0,2,100.0,0.5,5,12,41.7,28,6,32.1,31.8,6,50.0,31.5,7,2,28.6,1,14.5,b74a2c78,Mattijs Branderhorst,NEC Nijmegen,True
+AZ Alkmaar,Ajax,1652013000,dk DEN,24-081,90,3,2,1,33.3,0.6,1,16,6.3,37,5,29.7,30.0,9,55.6,44.8,27,0,0.0,0,7.9,7b433ed0,Peter Vindahl Jensen,AZ Alkmaar,True
+Vitesse,Heerenveen,1652013000,de GER,23-330,90,4,2,2,50.0,1.6,6,17,35.3,39,8,25.6,33.2,7,100.0,62.3,19,0,0.0,4,22.9,289b90cd,Markus Schubert,Vitesse,True
+Feyenoord,PSV Eindhoven,1652021100,il ISR,32-213,90,5,2,3,60.0,1.5,2,6,33.3,20,5,20.0,28.9,5,40.0,34.0,14,0,0.0,1,14.3,00d4e7b3,Ofir Marciano,Feyenoord,True
+Go Ahead Eagles,Feyenoord,1652292000,nl NED,28-034,90,4,1,3,75.0,0.9,12,22,54.5,45,11,40.0,34.0,6,66.7,39.3,11,1,9.1,0,5.8,2dc9d6fb,Andries Noppert,Go Ahead Eagles,True
+Utrecht,AZ Alkmaar,1652292000,de GER,26-233,90,4,2,2,50.0,1.5,6,8,75.0,26,1,30.8,30.5,5,0.0,14.6,17,0,0.0,4,30.3,dbb329c6,Eric Oelschlägel,Utrecht,True
+PSV Eindhoven,NEC Nijmegen,1652292000,ch SUI,27-339,90,6,2,4,83.3,2.4,2,3,66.7,12,2,16.7,25.9,3,33.3,35.0,6,0,0.0,0,4.0,dc29b608,Yvon Mvogo,PSV Eindhoven,True
+Cambuur,Willem II,1652292000,nl NED,29-323,90,3,1,2,66.7,0.8,11,32,34.4,45,6,51.1,38.5,13,69.2,46.5,27,1,3.7,1,19.5,7566ef9b,Sonny Stevens,Cambuur,True
+Fortuna Sittard,Vitesse,1652292000,nl NED,25-048,90,5,2,3,60.0,1.7,13,23,56.5,31,3,51.6,36.9,10,70.0,44.8,14,1,7.1,1,16.7,f1655231,Yanick van Osch,Fortuna Sittard,True
+RKC Waalwijk,Heracles Almelo,1652292000,nl NED,26-289,90,0,0,0,,0.0,9,24,37.5,28,1,71.4,51.4,5,80.0,53.6,19,1,5.3,2,16.3,5622d68b,Etienne Vaessen,RKC Waalwijk,True
+Ajax,Heerenveen,1652292000,nl NED,39-231,90,1,0,1,100.0,0.3,13,18,72.2,44,3,40.9,36.0,1,0.0,21.0,13,0,0.0,1,17.3,fefce889,Maarten Stekelenburg,Ajax,True
+Sparta Rotterdam,Zwolle,1652292000,ng NGA,22-256,90,2,0,2,100.0,0.4,14,35,40.0,19,1,89.5,57.8,18,100.0,69.8,41,1,2.4,0,10.0,ab5c36dd,Maduka Okoye,Sparta Rotterdam,True
+Twente,Groningen,1652292000,de GER,31-295,90,4,0,4,100.0,0.8,7,20,35.0,25,3,60.0,47.8,6,83.3,61.2,11,2,18.2,2,17.0,4b1793b0,Lars Unnerstall,Twente,True
+Heerenveen,Go Ahead Eagles,1652617800,nl NED,33-073,90,2,1,1,50.0,0.9,6,19,31.6,26,1,65.4,47.6,5,40.0,39.2,10,0,0.0,0,,b3576b7c,Erwin Mulder,Heerenveen,True
+Groningen,Cambuur,1652617800,nl NED,28-053,90,4,3,1,50.0,1.6,15,23,65.2,30,3,56.7,39.0,8,75.0,57.9,7,0,0.0,1,17.0,b7135640,Peter Leeuwenburgh,Groningen,True
+AZ Alkmaar,RKC Waalwijk,1652617800,dk DEN,24-088,90,5,3,2,40.0,2.8,2,2,100.0,20,5,5.0,25.9,4,25.0,29.0,4,0,0.0,4,24.6,7b433ed0,Peter Vindahl Jensen,AZ Alkmaar,True
+Vitesse,Ajax,1652617800,de GER,23-337,90,4,2,2,50.0,1.9,7,21,33.3,27,6,51.9,43.0,14,50.0,44.5,12,1,8.3,0,5.5,289b90cd,Markus Schubert,Vitesse,True
+Feyenoord,Twente,1652617800,il ISR,32-220,90,4,2,2,50.0,1.6,7,15,46.7,35,12,37.1,32.9,6,33.3,34.7,7,3,42.9,3,12.1,00d4e7b3,Ofir Marciano,Feyenoord,True
+Zwolle,PSV Eindhoven,1652617800,gr GRE,30-239,90,11,2,9,81.8,3.4,8,16,50.0,44,7,27.3,32.2,4,100.0,64.0,8,0,0.0,2,16.0,f9508440,Kostas Lamprou,Zwolle,True
+Heracles Almelo,Sparta Rotterdam,1652617800,nl NED,25-331,90,4,3,1,25.0,2.3,3,6,50.0,13,2,15.4,26.7,6,66.7,50.5,6,0,0.0,0,19.0,1da4fe81,Koen Bucker,Heracles Almelo,True
+Willem II,Utrecht,1652617800,de GER,26-163,90,2,0,2,100.0,0.6,8,26,30.8,28,2,78.6,49.8,4,100.0,68.3,14,2,14.3,1,13.7,2f18d0b8,Timon Wellenreuther,Willem II,True
+NEC Nijmegen,Fortuna Sittard,1652617800,nl NED,28-135,90,3,1,2,66.7,0.6,2,12,16.7,18,3,38.9,34.0,8,62.5,41.4,5,1,20.0,1,19.0,b74a2c78,Mattijs Branderhorst,NEC Nijmegen,True
+Heerenveen,AZ Alkmaar,1652978700,nl NED,33-077,90,4,2,2,50.0,0.7,1,7,14.3,27,6,25.9,30.4,7,0.0,18.6,9,1,11.1,1,19.0,b3576b7c,Erwin Mulder,Heerenveen,True
+Utrecht,Vitesse,1652986800,de GER,26-241,90,1,1,0,0.0,0.3,3,14,21.4,15,5,46.7,41.3,9,77.8,50.1,11,0,0.0,0,18.0,dbb329c6,Eric Oelschlägel,Utrecht,True
+AZ Alkmaar,Heerenveen,1653222600,dk DEN,24-095,90,1,0,1,100.0,0.2,7,12,58.3,21,2,38.1,33.5,7,57.1,47.4,16,0,0.0,1,26.0,7b433ed0,Peter Vindahl Jensen,AZ Alkmaar,True
+Vitesse,Utrecht,1653235200,nl NED,26-093,90,6,0,6,100.0,0.5,6,28,21.4,57,15,38.6,34.4,13,46.2,36.2,19,0,0.0,4,31.0,6d8ec266,Jeroen Houwen,Vitesse,True
+Vitesse,AZ Alkmaar,1653588000,nl NED,26-097,90,4,1,3,75.0,0.6,9,24,37.5,33,4,69.7,45.6,9,11.1,24.8,18,1,5.6,1,14.7,6d8ec266,Jeroen Houwen,Vitesse,True
+AZ Alkmaar,Vitesse,1653827400,dk DEN,24-102,90,5,1,4,80.0,1.1,9,17,52.9,30,3,46.7,36.6,9,33.3,31.2,17,0,0.0,2,21.0,7b433ed0,Peter Vindahl Jensen,AZ Alkmaar,True
+Go Ahead Eagles,Heerenveen,1628877600,nl NED,32-163,90,3,0,3,100.0,0.7,7,22,31.8,30,4,50.0,40.7,10,70.0,54.2,10,1,10.0,0,10.3,b3576b7c,Erwin Mulder,,True
+RKC Waalwijk,AZ Alkmaar,1628951400,nl NED,28-134,90,1,1,0,0.0,0.4,1,3,33.3,14,3,14.3,25.4,4,25.0,35.8,7,0,0.0,2,20.0,9f82f7c2,Hobie Verhulst,,True
+Heracles Almelo,PSV Eindhoven,1628959500,ch SUI,27-069,90,2,0,2,100.0,0.1,1,5,20.0,19,3,15.8,26.6,11,18.2,22.8,4,0,0.0,3,21.3,dc29b608,Yvon Mvogo,,True
+Fortuna Sittard,Twente,1628964000,de GER,31-025,90,4,2,2,50.0,2.1,6,18,33.3,20,4,55.0,39.6,8,87.5,57.1,18,0,0.0,0,7.0,4b1793b0,Lars Unnerstall,,True
+Ajax,NEC Nijmegen,1628967600,nl NED,27-226,90,9,5,5,44.4,3.2,3,14,21.4,23,7,34.8,31.4,11,54.5,44.1,19,0,0.0,0,5.0,b74a2c78,Mattijs Branderhorst,,True
+Cambuur,Groningen,1629022500,nl NED,27-145,90,3,1,2,66.7,0.5,9,23,39.1,47,6,38.3,34.3,6,83.3,51.0,13,0,0.0,2,19.0,b7135640,Peter Leeuwenburgh,,True
+Zwolle,Vitesse,1629030600,de GER,23-064,90,5,0,5,100.0,0.7,8,23,34.8,27,6,48.1,39.3,11,90.9,58.7,20,1,5.0,1,18.5,289b90cd,Markus Schubert,,True
+Utrecht,Sparta Rotterdam,1629030600,ng NGA,21-352,90,8,4,4,62.5,3.6,7,13,53.8,16,6,37.5,33.3,12,58.3,43.4,14,2,14.3,0,6.5,ab5c36dd,Maduka Okoye,,True
+Willem II,Feyenoord,1629038700,nl NED,23-205,90,3,0,3,100.0,0.9,5,10,50.0,25,2,24.0,27.1,7,57.1,45.3,14,0,0.0,1,14.7,53d93280,Justin Bijlow,,True
+NEC Nijmegen,Zwolle,1629482400,gr GRE,29-336,90,3,2,1,33.3,1.3,2,12,16.7,31,4,32.3,34.0,2,100.0,57.5,7,1,14.3,3,22.3,f9508440,Kostas Lamprou,,True
+Heerenveen,RKC Waalwijk,1629564300,pt POR,25-054,90,4,3,1,50.0,3.2,2,8,25.0,21,4,19.0,25.3,8,50.0,35.5,7,0,0.0,3,25.0,881e5db7,Joel Castro Pereira,,True
+Sparta Rotterdam,Heracles Almelo,1629568800,nl NED,25-064,90,4,1,3,75.0,1.4,4,7,57.1,14,7,35.7,36.7,3,66.7,59.0,6,0,0.0,2,20.0,1da4fe81,Koen Bucker,,True
+PSV Eindhoven,Cambuur,1629568800,nl NED,29-060,90,8,4,4,50.0,2.4,6,14,42.9,42,4,23.8,34.2,10,40.0,37.5,14,0,0.0,0,7.4,7566ef9b,Sonny Stevens,,True
+Groningen,Utrecht,1629572400,nl NED,23-099,90,3,0,3,100.0,0.9,5,14,35.7,21,9,33.3,32.8,12,58.3,42.0,14,0,0.0,0,5.5,eb343262,Maarten Paes,,True
+Twente,Ajax,1629627300,nl NED,38-334,90,3,1,2,66.7,0.3,5,16,31.3,37,6,27.0,29.8,9,66.7,49.8,5,1,20.0,1,17.0,fefce889,Maarten Stekelenburg,,True
+Feyenoord,Go Ahead Eagles,1629635400,sr SUR,29-068,90,9,2,7,77.8,2.5,4,24,16.7,21,2,61.9,45.2,17,64.7,49.5,23,1,4.3,0,3.0,4117e3f3,Warner Hahn,,True
+Vitesse,Willem II,1629643500,de GER,25-262,90,6,0,6,100.0,1.3,7,23,30.4,18,5,77.8,58.5,11,81.8,61.6,9,0,0.0,0,6.0,2f18d0b8,Timon Wellenreuther,,True
+Fortuna Sittard,RKC Waalwijk,1630087200,nl NED,26-032,90,2,2,0,0.0,1.7,14,25,56.0,32,7,53.1,38.2,8,100.0,73.6,17,2,11.8,1,13.3,5622d68b,Etienne Vaessen,,True
+Cambuur,Twente,1630169100,de GER,31-039,90,6,2,4,66.7,2.1,7,24,29.2,35,11,34.3,30.9,14,85.7,52.5,14,1,7.1,3,18.8,4b1793b0,Lars Unnerstall,,True
+PSV Eindhoven,Groningen,1630173600,nl NED,27-158,90,8,5,4,37.5,2.6,4,20,20.0,52,10,34.6,34.9,2,100.0,72.5,12,0,0.0,0,11.3,b7135640,Peter Leeuwenburgh,,True
+Go Ahead Eagles,Sparta Rotterdam,1630173600,ng NGA,22-000,90,7,2,5,85.7,2.6,10,24,41.7,27,7,51.9,42.4,13,76.9,57.2,16,0,0.0,0,11.0,ab5c36dd,Maduka Okoye,,True
+Willem II,Zwolle,1630177200,gr GRE,29-344,90,3,1,2,66.7,0.9,8,17,47.1,32,5,34.4,32.4,10,60.0,47.2,20,0,0.0,2,24.0,f9508440,Kostas Lamprou,,True
+Utrecht,Feyenoord,1630232100,nl NED,23-219,90,7,3,4,71.4,3.0,3,9,33.3,26,3,19.2,27.7,10,40.0,43.8,17,1,5.9,0,10.0,53d93280,Justin Bijlow,,True
+Heracles Almelo,NEC Nijmegen,1630240200,nl NED,27-241,90,4,0,4,100.0,0.8,3,5,60.0,26,6,11.5,22.5,7,28.6,35.3,19,1,5.3,2,13.0,b74a2c78,Mattijs Branderhorst,,True
+Ajax,Vitesse,1630240200,de GER,23-078,90,10,5,6,50.0,4.8,4,20,20.0,29,10,48.3,40.5,11,54.5,42.8,14,2,14.3,2,12.6,289b90cd,Markus Schubert,,True
+Heerenveen,AZ Alkmaar,1630248300,nl NED,28-149,90,3,1,2,66.7,1.5,6,22,27.3,28,3,57.1,40.5,9,66.7,55.1,10,0,0.0,3,19.4,9f82f7c2,Hobie Verhulst,,True
+Twente,Utrecht,1631370600,nl NED,23-120,90,5,1,4,80.0,2.0,7,16,43.8,28,4,53.6,39.8,7,14.3,24.0,11,0,0.0,0,6.3,eb343262,Maarten Paes,,True
+Cambuur,Go Ahead Eagles,1631378700,sr SUR,29-088,90,9,5,4,44.4,3.5,9,19,47.4,48,5,37.5,34.7,3,33.3,31.3,9,0,0.0,1,15.5,4117e3f3,Warner Hahn,,True
+Zwolle,Ajax,1631378700,nl NED,37-307,90,2,0,2,100.0,0.2,3,7,42.9,33,5,18.2,27.8,7,14.3,24.1,12,1,8.3,2,17.8,3392603d,Remko Pasveer,,True
+AZ Alkmaar,PSV Eindhoven,1631386800,nl NED,24-299,90,3,0,3,100.0,0.3,3,14,21.4,29,4,44.8,38.0,4,25.0,27.8,13,1,7.7,0,6.7,510c6a3f,Joel Drommel,,True
+NEC Nijmegen,Willem II,1631441700,be BEL,28-005,14,2,,2,,0.2,,,,,2,,,,,,3,1,33.3,1,17.0,f456c788,Jorn Brondeel,,True
+NEC Nijmegen,Willem II,1631441700,nl NED,20-178,74,6,0,6,100.0,0.5,6,24,25.0,11,1,81.8,47.5,15,100.0,62.8,32,1,3.1,0,6.6,5c48b25f,Connor van den Berg,,True
+Groningen,Heerenveen,1631449800,nl NED,32-193,90,3,1,2,66.7,0.2,11,22,50.0,26,2,53.8,36.2,12,66.7,46.8,18,0,0.0,1,11.8,b3576b7c,Erwin Mulder,,True
+Sparta Rotterdam,Fortuna Sittard,1631449800,nl NED,24-172,90,8,3,5,62.5,2.0,2,9,22.2,26,5,34.6,32.0,8,0.0,17.6,12,1,8.3,0,7.0,f1655231,Yanick van Osch,,True
+RKC Waalwijk,Vitesse,1631457900,de GER,23-092,90,6,1,5,83.3,1.0,13,26,50.0,37,6,56.8,42.0,8,62.5,43.8,24,2,8.3,2,12.2,289b90cd,Markus Schubert,,True
+Sparta Rotterdam,NEC Nijmegen,1631901600,nl NED,27-260,90,4,1,3,75.0,1.2,2,14,14.3,17,4,47.1,35.2,9,66.7,49.7,20,5,25.0,0,9.0,b74a2c78,Mattijs Branderhorst,,True
+Heerenveen,Fortuna Sittard,1631975400,nl NED,24-178,90,7,1,6,85.7,1.6,3,10,30.0,32,7,21.9,29.6,8,37.5,29.3,13,0,0.0,0,7.5,f1655231,Yanick van Osch,,True
+Willem II,Groningen,1631983500,nl NED,27-179,90,3,2,1,33.3,0.5,4,14,28.6,44,9,27.3,28.8,5,40.0,39.8,8,1,12.5,2,27.3,b7135640,Peter Leeuwenburgh,,True
+Ajax,Cambuur,1631988000,nl NED,29-088,90,11,9,2,18.2,4.5,11,22,50.0,34,3,35.3,33.6,10,100.0,61.3,15,1,6.7,1,9.8,7566ef9b,Sonny Stevens,,True
+Utrecht,RKC Waalwijk,1631991600,nl NED,26-054,90,4,2,2,75.0,2.0,15,22,68.2,37,7,40.5,35.9,9,77.8,57.0,29,3,10.3,5,15.4,5622d68b,Etienne Vaessen,,True
+Go Ahead Eagles,Zwolle,1632046500,gr GRE,30-001,90,7,1,6,85.7,2.3,8,30,26.7,31,4,61.3,44.4,11,100.0,66.9,12,0,0.0,2,23.0,f9508440,Kostas Lamprou,,True
+PSV Eindhoven,Feyenoord,1632054600,nl NED,23-240,90,3,0,3,100.0,0.5,12,24,50.0,35,2,57.1,40.3,14,28.6,36.9,17,2,11.8,0,11.5,53d93280,Justin Bijlow,,True
+Heracles Almelo,AZ Alkmaar,1632062700,dk DEN,23-215,90,7,3,4,57.1,1.5,6,13,46.2,40,6,25.0,28.7,7,42.9,40.0,12,1,8.3,0,12.0,7b433ed0,Peter Vindahl Jensen,,True
+Vitesse,Twente,1632062700,de GER,31-061,90,6,1,5,83.3,1.4,4,22,18.2,21,3,71.4,49.4,11,63.6,47.7,21,0,0.0,2,22.0,4b1793b0,Lars Unnerstall,,True
+Fortuna Sittard,Ajax,1632242700,nl NED,37-317,90,1,0,1,100.0,0.1,7,19,36.8,24,3,58.3,40.4,6,83.3,65.5,7,1,14.3,0,3.0,3392603d,Remko Pasveer,,True
+RKC Waalwijk,Willem II,1632250800,de GER,25-292,90,4,1,3,75.0,1.1,7,29,24.1,41,3,63.4,44.1,5,60.0,53.0,16,1,6.3,0,9.3,2f18d0b8,Timon Wellenreuther,,True
+Go Ahead Eagles,PSV Eindhoven,1632329100,nl NED,24-310,90,5,1,4,80.0,0.6,3,11,27.3,18,6,38.9,37.6,8,50.0,43.8,4,1,25.0,0,4.0,510c6a3f,Joel Drommel,,True
+NEC Nijmegen,Utrecht,1632329100,nl NED,23-131,90,3,0,3,100.0,0.8,9,17,52.9,17,3,76.5,47.5,5,80.0,50.0,11,0,0.0,3,21.3,eb343262,Maarten Paes,,True
+Groningen,Vitesse,1632333600,de GER,23-102,90,2,0,2,100.0,0.4,3,16,18.8,15,3,60.0,43.0,12,58.3,51.8,4,0,0.0,0,5.0,289b90cd,Markus Schubert,,True
+Feyenoord,Heerenveen,1632337200,nl NED,32-203,90,9,3,6,66.7,2.4,2,10,20.0,37,9,21.6,26.0,16,12.5,22.3,12,0,0.0,0,10.0,b3576b7c,Erwin Mulder,,True
+Zwolle,Sparta Rotterdam,1632337200,ng NGA,22-025,90,4,1,3,75.0,1.2,4,15,26.7,16,6,56.3,43.7,13,46.2,38.9,22,1,4.5,0,4.0,ab5c36dd,Maduka Okoye,,True
+Cambuur,Heracles Almelo,1632415500,de GER,30-144,90,4,2,2,50.0,0.9,6,17,35.3,21,2,57.1,40.9,6,83.3,57.8,5,0,0.0,2,18.0,663e080e,Janis Blaswich,,True
+Twente,AZ Alkmaar,1632423600,dk DEN,23-219,90,7,3,4,57.1,2.4,7,15,46.7,29,5,41.4,34.7,5,60.0,40.0,7,1,14.3,2,19.5,7b433ed0,Peter Vindahl Jensen,,True
+Willem II,PSV Eindhoven,1632580200,nl NED,24-313,90,1,2,0,-100.0,0.3,0,1,0.0,16,4,6.3,22.8,4,0.0,17.5,6,0,0.0,0,2.0,510c6a3f,Joel Drommel,,True
+Vitesse,Fortuna Sittard,1632588300,nl NED,24-185,90,9,1,8,88.9,1.8,11,34,32.4,29,4,69.0,48.1,15,93.3,59.5,28,0,0.0,0,10.8,f1655231,Yanick van Osch,,True
+Ajax,Groningen,1632588300,nl NED,27-186,90,9,3,6,66.7,2.8,8,42,19.0,34,0,88.2,57.2,13,92.3,62.6,15,0,0.0,0,9.0,b7135640,Peter Leeuwenburgh,,True
+Feyenoord,NEC Nijmegen,1632596400,nl NED,27-268,90,7,5,2,42.9,3.1,3,12,25.0,8,3,62.5,42.4,13,53.8,47.1,22,0,0.0,0,3.5,b74a2c78,Mattijs Branderhorst,,True
+Utrecht,Zwolle,1632596400,gr GRE,30-007,90,11,5,6,72.7,5.0,5,17,29.4,51,8,23.5,27.1,9,55.6,44.0,20,1,5.0,0,9.3,f9508440,Kostas Lamprou,,True
+Sparta Rotterdam,Cambuur,1632651300,nl NED,29-096,90,1,0,1,100.0,0.0,13,20,65.0,35,5,37.1,34.3,13,53.8,46.1,19,0,0.0,0,10.0,7566ef9b,Sonny Stevens,,True
+Heerenveen,Twente,1632659400,de GER,31-068,90,3,2,2,33.3,1.2,5,24,20.8,31,3,54.8,41.0,8,87.5,63.3,13,0,0.0,0,11.0,4b1793b0,Lars Unnerstall,,True
+AZ Alkmaar,Go Ahead Eagles,1632659400,sr SUR,29-103,90,13,5,8,69.2,4.2,10,16,62.5,54,4,29.6,30.6,2,0.0,18.5,15,0,0.0,2,21.7,4117e3f3,Warner Hahn,,True
+Heracles Almelo,RKC Waalwijk,1632667500,nl NED,26-062,90,8,1,7,87.5,1.6,8,16,50.0,40,9,35.0,32.1,10,20.0,27.5,12,0,0.0,6,19.6,5622d68b,Etienne Vaessen,,True
+Groningen,Twente,1633111200,de GER,31-073,90,4,1,3,75.0,1.1,6,9,66.7,28,11,28.6,30.8,5,20.0,27.8,17,1,5.9,2,16.3,4b1793b0,Lars Unnerstall,,True
+RKC Waalwijk,Go Ahead Eagles,1633193100,sr SUR,29-109,90,3,1,2,100.0,1.6,6,16,37.5,41,4,34.1,34.0,7,28.6,26.4,17,0,0.0,1,13.3,4117e3f3,Warner Hahn,,True
+Heracles Almelo,Willem II,1633197600,de GER,25-303,90,7,3,4,71.4,3.9,11,20,55.0,27,2,59.3,42.1,9,44.4,45.1,15,0,0.0,2,16.6,2f18d0b8,Timon Wellenreuther,,True
+Zwolle,Heerenveen,1633197600,nl NED,26-059,90,3,0,3,100.0,0.5,5,23,21.7,32,7,43.8,36.6,11,81.8,54.2,15,0,0.0,0,12.2,76609a3c,Xavier Mous,,True
+Fortuna Sittard,NEC Nijmegen,1633201200,nl NED,27-275,90,3,1,2,100.0,1.1,3,17,17.6,13,3,53.8,44.3,11,90.9,59.5,10,1,10.0,0,9.7,b74a2c78,Mattijs Branderhorst,,True
+Ajax,Utrecht,1633264200,nl NED,23-142,90,6,0,6,100.0,1.1,9,18,50.0,30,10,43.3,37.2,9,55.6,42.7,32,2,6.3,0,3.3,eb343262,Maarten Paes,,True
+Cambuur,AZ Alkmaar,1633264200,dk DEN,23-229,90,4,1,3,75.0,0.4,11,16,68.8,41,10,29.3,29.6,6,66.7,61.8,12,2,16.7,0,8.3,7b433ed0,Peter Vindahl Jensen,,True
+Vitesse,Feyenoord,1633272300,nl NED,23-254,90,6,2,4,66.7,2.1,1,15,6.7,28,6,39.3,35.1,5,80.0,57.4,24,0,0.0,3,14.9,53d93280,Justin Bijlow,,True
+PSV Eindhoven,Sparta Rotterdam,1633284000,ng NGA,22-036,90,11,2,9,81.8,4.0,15,38,39.5,35,2,82.9,53.5,9,100.0,65.8,19,1,5.3,1,17.5,ab5c36dd,Maduka Okoye,,True
+Feyenoord,RKC Waalwijk,1634394600,nl NED,26-082,90,9,2,7,77.8,2.9,9,20,45.0,26,10,42.3,36.7,11,81.8,57.5,32,2,6.3,0,8.1,5622d68b,Etienne Vaessen,,True
+Heerenveen,Ajax,1634402700,nl NED,37-342,90,5,0,5,100.0,0.8,3,6,50.0,24,5,25.0,27.9,4,0.0,18.0,14,1,7.1,0,8.0,3392603d,Remko Pasveer,,True
+Go Ahead Eagles,Heracles Almelo,1634402700,de GER,30-167,90,4,4,1,0.0,1.6,4,9,44.4,16,1,43.8,35.8,7,28.6,36.4,10,0,0.0,2,19.3,663e080e,Janis Blaswich,,True
+Fortuna Sittard,Cambuur,1634410800,nl NED,29-116,90,6,1,5,83.3,2.0,9,17,52.9,41,6,34.1,32.8,8,37.5,31.5,17,1,5.9,1,15.2,7566ef9b,Sonny Stevens,,True
+PSV Eindhoven,Zwolle,1634410800,gr GRE,30-028,90,10,3,7,70.0,2.3,19,43,44.2,35,0,80.0,51.1,15,100.0,65.1,19,0,0.0,0,5.0,f9508440,Kostas Lamprou,,True
+AZ Alkmaar,Utrecht,1634465700,nl NED,23-156,90,7,5,2,42.9,2.3,4,5,80.0,28,6,14.3,24.5,4,25.0,25.3,8,0,0.0,2,11.0,eb343262,Maarten Paes,,True
+NEC Nijmegen,Vitesse,1634473800,de GER,23-127,90,3,0,3,100.0,1.1,6,21,28.6,24,3,62.5,45.0,6,100.0,70.3,12,1,8.3,0,12.0,289b90cd,Markus Schubert,,True
+Sparta Rotterdam,Groningen,1634473800,nl NED,27-208,90,4,1,3,75.0,1.3,6,22,27.3,44,6,34.1,35.7,8,87.5,53.5,14,2,14.3,2,15.3,b7135640,Peter Leeuwenburgh,,True
+Twente,Willem II,1634481900,de GER,25-318,90,2,1,1,50.0,1.1,5,11,45.5,24,7,33.3,36.6,6,50.0,46.7,17,2,11.8,0,7.8,2f18d0b8,Timon Wellenreuther,,True
+Willem II,Fortuna Sittard,1634925600,nl NED,24-212,90,7,1,6,85.7,1.2,12,26,46.2,29,0,69.0,45.3,6,100.0,64.0,22,0,0.0,0,9.7,f1655231,Yanick van Osch,,True
+Utrecht,Heerenveen,1635007500,nl NED,26-080,90,4,2,2,50.0,0.9,2,6,33.3,46,7,10.9,25.3,8,12.5,26.8,21,1,4.8,2,15.9,76609a3c,Xavier Mous,,True
+Zwolle,Heracles Almelo,1635012000,de GER,30-174,90,2,1,1,100.0,1.0,3,10,30.0,34,1,17.6,26.6,7,57.1,45.0,14,0,0.0,1,17.8,663e080e,Janis Blaswich,,True
+RKC Waalwijk,Sparta Rotterdam,1635015600,ng NGA,22-056,90,4,1,3,75.0,1.6,5,21,23.8,34,9,47.1,43.1,6,83.3,58.5,14,0,0.0,0,18.0,ab5c36dd,Maduka Okoye,,True
+Twente,NEC Nijmegen,1635070500,nl NED,27-297,90,6,1,5,83.3,1.4,6,15,40.0,20,5,40.0,37.7,12,58.3,42.8,16,0,0.0,0,,b74a2c78,Mattijs Branderhorst,,True
+Vitesse,Go Ahead Eagles,1635078600,sr SUR,29-131,90,3,1,2,100.0,1.3,8,29,27.6,39,2,64.1,47.4,6,66.7,50.5,25,3,12.0,0,7.2,4117e3f3,Warner Hahn,,True
+Cambuur,Feyenoord,1635078600,nl NED,23-275,90,4,2,2,50.0,2.0,1,8,12.5,21,6,23.8,29.9,4,75.0,54.0,4,0,0.0,0,11.0,53d93280,Justin Bijlow,,True
+Ajax,PSV Eindhoven,1635086700,nl NED,24-342,90,6,5,1,16.7,2.1,7,19,36.8,27,5,51.9,37.8,6,83.3,56.7,12,1,8.3,1,13.6,510c6a3f,Joel Drommel,,True
+Groningen,AZ Alkmaar,1635098400,dk DEN,23-250,90,4,2,2,50.0,1.4,5,10,50.0,28,4,25.0,28.1,8,37.5,34.5,13,2,15.4,2,19.0,7b433ed0,Peter Vindahl Jensen,,True
+PSV Eindhoven,Twente,1635604200,nl NED,23-212,90,10,5,5,50.0,4.0,5,13,38.5,32,7,31.3,29.5,6,50.0,40.0,15,0,0.0,2,14.4,c31cf14b,Jeffrey De Lange,,True
+Heracles Almelo,Ajax,1635612300,nl NED,37-356,90,5,0,5,100.0,1.1,1,4,25.0,35,2,11.4,20.5,3,0.0,18.0,9,0,0.0,3,24.0,3392603d,Remko Pasveer,,True
+Heerenveen,Vitesse,1635616800,de GER,23-140,90,1,1,0,0.0,0.4,1,9,11.1,26,5,26.9,29.7,4,50.0,42.5,8,0,0.0,6,21.7,289b90cd,Markus Schubert,,True
+AZ Alkmaar,Zwolle,1635620400,gr GRE,30-042,90,6,3,3,50.0,2.1,4,20,20.0,36,3,44.4,34.4,9,44.4,39.4,14,0,0.0,1,24.0,f9508440,Kostas Lamprou,,True
+Sparta Rotterdam,Feyenoord,1635678900,nl NED,23-282,90,2,0,2,100.0,0.3,0,3,0.0,28,8,7.1,22.5,2,50.0,41.0,13,2,15.4,2,15.7,53d93280,Justin Bijlow,,True
+NEC Nijmegen,Groningen,1635687000,nl NED,27-222,90,10,3,7,70.0,3.2,7,15,46.7,42,9,31.0,32.5,4,50.0,46.5,10,1,10.0,2,17.6,b7135640,Peter Leeuwenburgh,,True
+RKC Waalwijk,Cambuur,1635695100,nl NED,29-131,90,2,0,2,100.0,0.2,9,19,47.4,45,3,28.9,31.7,14,42.9,40.2,25,0,0.0,3,16.0,7566ef9b,Sonny Stevens,,True
+Utrecht,Willem II,1635695100,de GER,25-332,90,7,5,2,28.6,2.1,7,26,26.9,30,1,56.7,44.3,10,90.0,64.0,13,1,7.7,7,22.6,2f18d0b8,Timon Wellenreuther,,True
+Go Ahead Eagles,Fortuna Sittard,1635706800,nl NED,24-221,90,5,4,1,20.0,2.4,6,22,27.3,25,1,60.0,43.2,8,87.5,52.5,28,2,7.1,0,3.0,f1655231,Yanick van Osch,,True
+Twente,Heracles Almelo,1636138800,de GER,30-187,90,4,1,3,75.0,1.3,3,9,33.3,29,6,24.1,31.2,7,28.6,30.1,12,1,8.3,0,10.5,663e080e,Janis Blaswich,,True
+NEC Nijmegen,Heerenveen,1636220700,nl NED,26-094,90,7,1,6,85.7,1.9,3,4,75.0,22,8,13.6,25.4,8,12.5,26.8,20,1,5.0,2,14.0,76609a3c,Xavier Mous,,True
+Willem II,Sparta Rotterdam,1636225200,ng NGA,22-070,90,0,0,0,,0.0,11,23,47.8,15,2,86.7,53.8,10,100.0,64.1,13,1,7.7,0,9.0,ab5c36dd,Maduka Okoye,,True
+Zwolle,Cambuur,1636228800,nl NED,29-137,90,4,1,3,75.0,0.9,13,23,56.5,29,4,55.2,43.6,9,77.8,55.3,22,2,9.1,0,4.5,7566ef9b,Sonny Stevens,,True
+Groningen,RKC Waalwijk,1636283700,nl NED,26-104,90,6,1,5,83.3,1.7,9,29,31.0,33,7,60.6,48.2,10,90.0,64.1,26,2,7.7,0,9.8,5622d68b,Etienne Vaessen,,True
+Fortuna Sittard,PSV Eindhoven,1636291800,nl NED,24-356,90,1,1,1,0.0,0.0,1,13,7.7,34,3,32.4,32.9,4,50.0,34.8,10,0,0.0,0,16.0,510c6a3f,Joel Drommel,,True
+Vitesse,Utrecht,1636299900,nl NED,23-177,90,8,2,6,75.0,1.7,6,14,42.9,31,9,35.5,33.1,7,42.9,39.4,15,2,13.3,1,12.3,eb343262,Maarten Paes,,True
+Feyenoord,AZ Alkmaar,1636299900,dk DEN,23-264,90,8,1,7,87.5,1.4,7,26,26.9,43,5,46.5,38.7,12,50.0,42.9,13,1,7.7,4,15.8,7b433ed0,Peter Vindahl Jensen,,True
+Ajax,Go Ahead Eagles,1636311600,sr SUR,29-145,90,4,0,4,100.0,1.3,7,36,19.4,28,4,71.4,48.1,19,84.2,61.7,36,2,5.6,0,5.8,4117e3f3,Warner Hahn,,True
+PSV Eindhoven,Vitesse,1637422200,de GER,23-161,90,5,2,3,60.0,1.1,6,17,35.3,53,9,30.2,29.8,2,50.0,41.0,3,0,0.0,3,23.4,289b90cd,Markus Schubert,,True
+Sparta Rotterdam,Twente,1637430300,de GER,31-123,90,4,0,4,100.0,0.5,3,11,27.3,28,7,17.9,27.9,8,75.0,51.1,14,1,7.1,4,18.1,4b1793b0,Lars Unnerstall,,True
+AZ Alkmaar,NEC Nijmegen,1637434800,nl NED,27-324,90,7,1,6,85.7,0.9,6,20,30.0,29,6,37.9,36.7,14,64.3,43.4,35,1,2.9,0,4.5,b74a2c78,Mattijs Branderhorst,,True
+Heracles Almelo,Fortuna Sittard,1637438400,nl NED,24-241,90,7,3,4,57.1,2.2,2,4,50.0,19,3,21.1,24.5,6,0.0,20.2,12,0,0.0,2,19.0,f1655231,Yanick van Osch,,True
+Go Ahead Eagles,Groningen,1637493300,nl NED,27-243,90,2,0,2,100.0,0.8,6,19,31.6,50,9,36.0,35.3,3,33.3,43.3,7,1,14.3,2,14.8,b7135640,Peter Leeuwenburgh,,True
+Heerenveen,Willem II,1637501400,de GER,25-353,90,4,2,2,50.0,1.9,6,13,46.2,31,5,35.5,31.4,4,50.0,40.8,6,1,16.7,3,19.6,2f18d0b8,Timon Wellenreuther,,True
+Feyenoord,Zwolle,1637501400,gr GRE,30-064,90,9,4,5,55.6,4.0,8,34,23.5,41,2,63.4,43.7,11,72.7,51.0,13,0,0.0,1,12.0,f9508440,Kostas Lamprou,,True
+RKC Waalwijk,Ajax,1637509500,nl NED,38-013,90,2,0,2,100.0,0.5,3,4,75.0,18,4,16.7,26.7,7,14.3,27.9,12,0,0.0,1,22.0,3392603d,Remko Pasveer,,True
+Cambuur,Utrecht,1637521200,nl NED,23-191,90,4,2,2,50.0,1.1,5,10,50.0,20,4,35.0,33.5,6,50.0,37.7,11,1,9.1,2,21.7,eb343262,Maarten Paes,,True
+NEC Nijmegen,Cambuur,1637953200,nl NED,29-157,90,9,2,7,77.8,1.8,6,17,35.3,26,3,53.8,40.6,7,42.9,38.1,20,0,0.0,4,19.0,7566ef9b,Sonny Stevens,,True
+Fortuna Sittard,Groningen,1638035100,nl NED,27-249,90,7,1,6,85.7,1.0,7,18,38.9,55,10,29.1,32.7,5,40.0,29.8,4,1,25.0,0,13.7,b7135640,Peter Leeuwenburgh,,True
+Zwolle,RKC Waalwijk,1638039600,nl NED,26-124,90,1,0,1,100.0,0.6,3,11,27.3,33,8,24.2,30.8,6,50.0,40.0,17,1,5.9,0,11.0,5622d68b,Etienne Vaessen,,True
+Willem II,Go Ahead Eagles,1638043200,sr SUR,29-165,90,5,0,5,100.0,0.5,13,21,61.9,28,1,42.9,30.2,16,56.3,43.6,32,1,3.1,0,11.5,4117e3f3,Warner Hahn,,True
+Sparta Rotterdam,Ajax,1638098100,nl NED,38-020,90,0,0,0,,0.0,3,11,27.3,32,5,31.3,31.8,3,33.3,39.3,6,0,0.0,1,21.0,3392603d,Remko Pasveer,,True
+Utrecht,Heracles Almelo,1638106200,de GER,30-210,90,7,1,6,85.7,2.0,7,15,46.7,47,8,19.1,30.3,10,60.0,51.9,19,1,5.3,3,19.4,663e080e,Janis Blaswich,,True
+Twente,Feyenoord,1638106200,il ISR,32-052,90,1,0,1,100.0,0.3,2,9,22.2,24,2,29.2,31.0,5,40.0,38.8,5,0,0.0,0,,00d4e7b3,Ofir Marciano,,True
+Heerenveen,PSV Eindhoven,1638114300,nl NED,25-012,90,1,1,0,0.0,0.3,2,5,40.0,21,4,14.3,24.4,3,66.7,42.3,10,0,0.0,0,8.5,510c6a3f,Joel Drommel,,True
+Vitesse,AZ Alkmaar,1638126000,dk DEN,23-285,90,1,0,1,100.0,0.1,14,28,50.0,35,6,54.3,38.1,11,81.8,55.4,11,1,9.1,2,17.6,7b433ed0,Peter Vindahl Jensen,,True
+Feyenoord,Heracles Almelo,1638385200,de GER,30-213,90,12,2,10,83.3,3.3,9,23,39.1,42,9,40.5,34.5,9,66.7,42.4,12,0,0.0,2,22.3,663e080e,Janis Blaswich,,True
+AZ Alkmaar,Fortuna Sittard,1638467100,nl NED,24-253,90,7,2,5,71.4,1.4,6,20,30.0,28,4,53.6,38.6,11,45.5,36.3,10,0,0.0,0,14.0,f1655231,Yanick van Osch,,True
+Ajax,Willem II,1638475200,de GER,25-364,90,8,5,3,37.5,3.4,12,29,41.4,44,6,52.3,38.9,11,54.5,42.0,16,0,0.0,0,7.5,2f18d0b8,Timon Wellenreuther,,True
+Groningen,Zwolle,1638558000,gr GRE,30-076,90,1,1,1,0.0,0.0,10,25,40.0,27,4,74.1,48.7,5,100.0,66.4,15,0,0.0,0,16.2,f9508440,Kostas Lamprou,,True
+PSV Eindhoven,Utrecht,1638631800,nl NED,23-204,90,6,4,2,33.3,1.8,5,9,55.6,21,2,42.9,30.2,1,0.0,17.0,6,0,0.0,4,23.3,eb343262,Maarten Paes,,True
+Cambuur,Vitesse,1638639900,nl NED,25-289,90,1,1,0,0.0,0.8,5,12,41.7,30,5,36.7,34.2,3,33.3,33.7,10,0,0.0,0,4.0,6d8ec266,Jeroen Houwen,,True
+Heracles Almelo,Heerenveen,1638648000,nl NED,26-122,90,2,0,2,100.0,0.3,6,15,40.0,24,5,45.8,37.2,7,57.1,51.1,18,2,11.1,0,5.0,76609a3c,Xavier Mous,,True
+RKC Waalwijk,NEC Nijmegen,1638702900,nl NED,27-339,90,6,2,4,66.7,2.0,3,13,23.1,34,7,26.5,31.1,7,57.1,52.1,19,0,0.0,1,11.8,b74a2c78,Mattijs Branderhorst,,True
+AZ Alkmaar,Sparta Rotterdam,1638711000,nl NED,29-240,90,5,3,2,60.0,2.6,8,19,42.1,40,4,40.0,35.4,6,50.0,43.2,13,0,0.0,2,17.2,0df43081,Benjamin van Leer,,True
+Go Ahead Eagles,Twente,1638711000,de GER,31-138,90,5,1,4,80.0,1.1,5,14,35.7,33,5,33.3,33.6,4,75.0,48.0,14,2,14.3,7,19.0,4b1793b0,Lars Unnerstall,,True
+Feyenoord,Fortuna Sittard,1638719100,nl NED,24-256,90,10,5,5,50.0,3.3,7,13,53.8,30,2,40.0,35.2,8,12.5,18.4,17,0,0.0,2,22.3,f1655231,Yanick van Osch,,True
+Willem II,Cambuur,1639162800,nl NED,29-171,90,4,1,3,75.0,1.0,5,15,33.3,40,4,32.5,32.7,6,33.3,29.7,10,0,0.0,0,13.0,7566ef9b,Sonny Stevens,,True
+Utrecht,Go Ahead Eagles,1639244700,sr SUR,29-179,90,8,0,8,100.0,1.1,14,22,63.6,42,7,42.9,37.3,7,57.1,44.7,26,1,3.8,0,10.7,4117e3f3,Warner Hahn,,True
+Heerenveen,Sparta Rotterdam,1639249200,nl NED,30-245,90,4,0,4,100.0,0.6,6,15,40.0,23,2,60.9,42.5,2,50.0,45.5,15,0,0.0,0,9.0,4c0199a5,Tim Coremans,,True
+Zwolle,Fortuna Sittard,1639252800,nl NED,24-262,90,1,0,1,100.0,0.3,10,22,45.5,24,1,75.0,45.8,5,80.0,53.6,26,1,3.8,2,18.8,f1655231,Yanick van Osch,,True
+Twente,RKC Waalwijk,1639307700,nl NED,26-139,90,9,2,7,77.8,2.3,7,22,31.8,50,12,38.0,37.0,8,37.5,39.5,12,1,8.3,7,20.4,5622d68b,Etienne Vaessen,,True
+Vitesse,Heracles Almelo,1639315800,de GER,30-224,90,5,2,3,80.0,1.9,7,15,46.7,32,2,31.3,29.7,8,62.5,45.8,7,0,0.0,6,27.4,663e080e,Janis Blaswich,,True
+Groningen,Feyenoord,1639315800,nl NED,23-324,90,3,1,2,66.7,1.2,5,15,33.3,29,7,44.8,38.2,3,66.7,60.0,6,0,0.0,0,12.5,53d93280,Justin Bijlow,,True
+Ajax,AZ Alkmaar,1639323900,dk DEN,23-299,90,8,1,7,87.5,2.6,12,34,35.3,47,7,51.1,39.3,15,66.7,52.3,30,4,13.3,0,6.3,7b433ed0,Peter Vindahl Jensen,,True
+NEC Nijmegen,PSV Eindhoven,1639335600,nl NED,25-026,90,6,1,5,83.3,2.2,1,7,14.3,17,2,41.2,35.5,2,0.0,15.0,3,0,0.0,1,16.5,510c6a3f,Joel Drommel,,True
+Fortuna Sittard,Utrecht,1639841400,nl NED,23-218,90,3,2,1,33.3,1.7,12,19,63.2,35,6,45.7,34.7,4,75.0,48.3,17,1,5.9,3,14.4,eb343262,Maarten Paes,,True
+Sparta Rotterdam,Vitesse,1639849500,nl NED,25-303,90,7,2,5,71.4,1.6,2,23,8.7,25,3,68.0,45.0,8,75.0,50.6,16,0,0.0,0,4.0,6d8ec266,Jeroen Houwen,,True
+Heracles Almelo,Groningen,1639854000,nl NED,27-270,90,10,4,7,60.0,2.6,8,20,40.0,45,7,35.6,30.7,5,80.0,54.0,20,1,5.0,2,17.8,b7135640,Peter Leeuwenburgh,,True
+AZ Alkmaar,Willem II,1639854000,de GER,26-015,90,3,4,0,-33.3,1.2,6,16,37.5,30,2,46.7,41.2,12,16.7,28.3,23,1,4.3,2,16.3,2f18d0b8,Timon Wellenreuther,,True
+Zwolle,Twente,1639857600,de GER,31-151,90,2,1,1,50.0,0.4,6,15,40.0,14,4,57.1,39.6,11,63.6,42.5,22,2,9.1,0,5.5,4b1793b0,Lars Unnerstall,,True
+Cambuur,Heerenveen,1639912500,nl NED,26-137,90,4,1,3,75.0,1.1,5,9,55.6,21,6,33.3,35.9,6,33.3,43.7,11,0,0.0,0,6.0,76609a3c,Xavier Mous,,True
+Feyenoord,Ajax,1639920600,nl NED,38-041,90,1,0,1,100.0,0.1,14,22,63.6,56,9,37.5,32.3,3,33.3,24.0,9,2,22.2,2,17.5,3392603d,Remko Pasveer,,True
+Go Ahead Eagles,NEC Nijmegen,1639920600,nl NED,27-353,90,2,0,2,100.0,0.2,4,22,18.2,26,7,46.2,37.9,14,71.4,49.5,21,0,0.0,0,9.2,b74a2c78,Mattijs Branderhorst,,True
+RKC Waalwijk,PSV Eindhoven,1639928700,nl NED,25-033,90,4,1,3,75.0,0.7,3,10,30.0,20,5,35.0,34.7,4,75.0,51.5,8,1,12.5,0,2.0,510c6a3f,Joel Drommel,,True
+Vitesse,Zwolle,1640108700,gr GRE,30-094,90,4,1,3,75.0,2.0,7,25,28.0,32,2,56.3,42.5,7,100.0,68.1,5,1,20.0,0,12.2,f9508440,Kostas Lamprou,,True
+AZ Alkmaar,Groningen,1640116800,nl NED,27-273,90,6,1,5,83.3,1.0,12,40,30.0,30,2,93.3,57.5,13,92.3,66.0,26,2,7.7,0,9.0,b7135640,Peter Leeuwenburgh,,True
+Heerenveen,Feyenoord,1640195100,nl NED,23-334,90,1,0,1,100.0,0.4,7,16,43.8,27,5,40.7,32.8,7,71.4,48.3,8,0,0.0,0,16.0,53d93280,Justin Bijlow,,True
+Willem II,NEC Nijmegen,1640195100,nl NED,27-356,90,1,0,1,100.0,0.2,2,9,22.2,16,6,31.3,30.9,10,40.0,39.0,27,2,7.4,0,5.5,b74a2c78,Mattijs Branderhorst,,True
+Heracles Almelo,Cambuur,1640199600,nl NED,29-183,90,7,1,6,85.7,2.3,13,30,43.3,43,5,53.5,37.5,10,70.0,55.2,27,2,7.4,0,5.2,7566ef9b,Sonny Stevens,,True
+Ajax,Fortuna Sittard,1640203200,nl NED,24-273,90,12,5,7,66.7,4.2,12,26,46.2,36,1,58.3,39.8,10,50.0,35.3,18,0,0.0,0,15.0,f1655231,Yanick van Osch,,True
+Utrecht,Twente,1640203200,de GER,31-155,90,5,1,4,80.0,1.4,9,26,34.6,27,4,66.7,45.9,10,80.0,50.0,31,1,3.2,3,18.2,4b1793b0,Lars Unnerstall,,True
+PSV Eindhoven,Go Ahead Eagles,1640281500,sr SUR,29-191,90,7,2,5,71.4,2.0,8,16,50.0,38,4,31.6,32.7,8,50.0,37.5,17,0,0.0,1,9.7,4117e3f3,Warner Hahn,,True
+Sparta Rotterdam,RKC Waalwijk,1640289600,nl NED,26-150,90,7,1,6,85.7,1.5,11,22,50.0,42,15,28.6,34.8,13,76.9,46.5,19,0,0.0,1,15.9,5622d68b,Etienne Vaessen,,True
+Zwolle,Willem II,1642186800,de GER,26-042,90,4,2,2,50.0,1.4,13,27,48.1,43,5,55.8,40.5,6,50.0,47.7,16,2,12.5,4,16.1,2f18d0b8,Timon Wellenreuther,,True
+NEC Nijmegen,Heracles Almelo,1642268700,de GER,30-258,90,1,0,1,100.0,0.4,3,19,15.8,28,4,39.3,32.1,8,100.0,59.9,7,0,0.0,0,,663e080e,Janis Blaswich,,True
+Twente,Heerenveen,1642273200,nl NED,26-164,90,5,2,3,80.0,2.2,5,23,21.7,21,3,61.9,42.5,17,58.8,46.3,9,1,11.1,0,5.3,76609a3c,Xavier Mous,,True
+Feyenoord,Vitesse,1642273200,nl NED,25-331,90,3,0,3,100.0,0.2,7,24,29.2,30,7,56.7,42.0,17,41.2,37.8,17,1,5.9,0,11.0,6d8ec266,Jeroen Houwen,,True
+Go Ahead Eagles,RKC Waalwijk,1642276800,nl NED,26-173,90,4,0,4,100.0,0.4,10,30,33.3,33,3,72.7,50.2,7,85.7,60.6,20,0,0.0,1,14.3,5622d68b,Etienne Vaessen,,True
+Utrecht,Ajax,1642331700,nl NED,38-069,90,1,0,1,100.0,0.0,4,13,30.8,63,3,20.6,27.6,3,0.0,14.3,10,0,0.0,2,26.7,3392603d,Remko Pasveer,,True
+Groningen,PSV Eindhoven,1642339800,nl NED,25-061,90,0,0,0,,0.0,6,18,33.3,24,5,58.3,46.0,5,80.0,52.2,10,0,0.0,0,15.5,510c6a3f,Joel Drommel,,True
+Cambuur,Sparta Rotterdam,1642339800,nl NED,30-281,90,3,1,3,66.7,0.2,4,16,25.0,21,0,66.7,47.0,9,22.2,37.0,10,1,10.0,1,11.5,4c0199a5,Tim Coremans,,True
+Fortuna Sittard,AZ Alkmaar,1642347900,dk DEN,23-334,90,5,1,4,80.0,1.3,9,21,42.9,29,3,48.3,40.0,9,77.8,50.1,15,0,0.0,1,16.0,7b433ed0,Peter Vindahl Jensen,,True
+Vitesse,Groningen,1642873500,nl NED,27-305,90,2,1,1,50.0,0.9,7,29,24.1,62,8,40.3,34.9,6,66.7,51.2,14,2,14.3,2,13.2,b7135640,Peter Leeuwenburgh,,True
+AZ Alkmaar,Cambuur,1642878000,nl NED,29-214,90,5,0,5,100.0,0.8,16,26,61.5,42,6,40.5,34.9,11,81.8,51.1,42,1,2.4,2,15.6,7566ef9b,Sonny Stevens,,True
+Heerenveen,Zwolle,1642878000,gr GRE,30-126,90,4,0,4,100.0,1.0,10,17,58.8,29,4,48.3,35.8,7,42.9,30.0,12,2,16.7,0,9.5,f9508440,Kostas Lamprou,,True
+Willem II,Twente,1642881600,nl NED,23-296,90,1,0,1,100.0,0.0,6,24,25.0,38,6,55.3,38.3,3,100.0,61.7,19,1,5.3,7,18.2,c31cf14b,Jeffrey De Lange,,True
+NEC Nijmegen,Feyenoord,1642936500,nl NED,24-001,90,4,1,3,75.0,0.8,3,13,23.1,19,2,63.2,38.0,2,50.0,38.5,4,0,0.0,0,12.0,53d93280,Justin Bijlow,,True
+PSV Eindhoven,Ajax,1642944600,nl NED,38-076,90,4,1,3,75.0,0.9,5,12,41.7,37,7,29.7,27.8,3,33.3,33.7,9,0,0.0,0,10.7,3392603d,Remko Pasveer,,True
+Heracles Almelo,Go Ahead Eagles,1642944600,nl NED,27-291,90,4,1,3,75.0,2.1,4,9,44.4,21,4,38.1,32.3,9,11.1,28.6,16,1,6.3,0,6.4,2dc9d6fb,Andries Noppert,,True
+Sparta Rotterdam,Utrecht,1642952700,nl NED,21-258,90,1,0,1,100.0,0.1,8,20,40.0,29,5,41.4,32.0,14,57.1,44.4,16,1,6.3,0,10.5,fdfc9ace,Fabian de Keijzer,,True
+RKC Waalwijk,Fortuna Sittard,1642964400,nl NED,25-051,90,6,2,4,66.7,2.0,6,12,50.0,31,1,32.3,30.6,8,25.0,26.4,5,0,0.0,2,23.3,424595d5,Michael Verrips,,True
+Utrecht,Cambuur,1644075000,nl NED,29-228,90,5,3,2,40.0,2.3,7,16,43.8,41,5,31.7,33.9,5,60.0,43.8,29,1,3.4,4,16.5,7566ef9b,Sonny Stevens,,True
+Fortuna Sittard,Heerenveen,1644083100,nl NED,26-185,90,3,2,1,33.3,0.9,1,12,8.3,27,8,25.9,30.0,8,62.5,42.9,13,1,7.7,2,19.8,76609a3c,Xavier Mous,,True
+Zwolle,NEC Nijmegen,1644087600,nl NED,28-036,90,5,1,4,80.0,1.4,4,15,26.7,35,9,37.1,30.7,8,25.0,20.9,19,0,0.0,1,21.5,b74a2c78,Mattijs Branderhorst,,True
+PSV Eindhoven,AZ Alkmaar,1644087600,dk DEN,23-354,90,4,1,3,75.0,0.7,9,28,32.1,39,6,46.2,36.7,12,83.3,56.3,11,1,9.1,3,22.0,7b433ed0,Peter Vindahl Jensen,,True
+Twente,Vitesse,1644091200,nl NED,25-352,90,5,3,2,60.0,3.4,10,25,40.0,30,6,66.7,44.2,9,55.6,44.8,11,0,0.0,0,11.6,6d8ec266,Jeroen Houwen,,True
+Feyenoord,Sparta Rotterdam,1644146100,ng NGA,22-162,90,6,4,2,33.3,2.5,11,22,50.0,25,10,48.0,42.1,13,76.9,56.8,10,1,10.0,0,13.2,ab5c36dd,Maduka Okoye,,True
+Groningen,Go Ahead Eagles,1644154200,nl NED,27-305,90,5,2,3,60.0,1.7,8,19,42.1,31,8,38.7,37.5,9,77.8,54.4,15,1,6.7,0,7.0,2dc9d6fb,Andries Noppert,,True
+Willem II,RKC Waalwijk,1644154200,nl NED,26-195,90,4,3,1,25.0,1.9,6,13,46.2,25,9,32.0,34.1,7,71.4,59.0,14,2,14.3,3,16.1,5622d68b,Etienne Vaessen,,True
+Ajax,Heracles Almelo,1644162300,de GER,30-280,90,12,3,8,75.0,4.3,9,16,56.3,31,8,41.9,36.8,9,33.3,35.1,12,0,0.0,0,6.3,663e080e,Janis Blaswich,,True
+Heracles Almelo,Utrecht,1644606000,nl NED,21-277,90,5,1,4,80.0,1.5,4,18,22.2,31,5,48.4,35.0,11,27.3,25.4,18,1,5.6,0,7.0,fdfc9ace,Fabian de Keijzer,,True
+Groningen,Fortuna Sittard,1644687900,nl NED,24-325,90,7,0,7,100.0,1.4,19,35,54.3,26,1,73.1,47.4,16,100.0,62.6,32,1,3.1,0,9.2,f1655231,Yanick van Osch,,True
+Cambuur,Zwolle,1644687900,gr GRE,30-147,90,4,3,2,50.0,1.5,10,26,38.5,42,2,45.2,36.9,7,100.0,64.4,15,1,6.7,2,12.6,f9508440,Kostas Lamprou,,True
+Vitesse,PSV Eindhoven,1644692400,nl NED,25-088,90,2,0,2,100.0,0.3,5,18,27.8,25,4,44.0,36.7,8,87.5,51.8,23,1,4.3,0,10.3,510c6a3f,Joel Drommel,,True
+Go Ahead Eagles,AZ Alkmaar,1644750900,dk DEN,23-362,90,4,1,3,75.0,0.5,7,25,28.0,30,5,66.7,46.0,5,100.0,69.4,15,2,13.3,0,7.5,7b433ed0,Peter Vindahl Jensen,,True
+Sparta Rotterdam,Willem II,1644750900,de GER,26-072,90,5,1,4,80.0,0.9,11,27,40.7,40,9,55.0,40.1,6,83.3,52.8,7,0,0.0,7,26.6,2f18d0b8,Timon Wellenreuther,,True
+RKC Waalwijk,Feyenoord,1644759000,nl NED,24-022,90,4,0,4,100.0,0.8,1,5,20.0,26,7,11.5,24.8,7,28.6,35.4,15,0,0.0,1,11.7,53d93280,Justin Bijlow,,True
+Heerenveen,NEC Nijmegen,1644759000,nl NED,28-044,90,4,0,4,100.0,0.7,2,11,18.2,17,4,29.4,31.9,16,37.5,37.1,22,2,9.1,0,11.3,b74a2c78,Mattijs Branderhorst,,True
+Ajax,Twente,1644767100,de GER,31-208,90,11,5,6,54.5,5.3,7,17,41.2,28,4,50.0,36.3,8,37.5,33.9,19,0,0.0,3,18.0,4b1793b0,Lars Unnerstall,,True
+NEC Nijmegen,RKC Waalwijk,1645284600,nl NED,26-208,90,5,1,4,80.0,0.5,8,32,25.0,26,2,92.3,56.1,8,100.0,69.6,19,1,5.3,0,7.0,5622d68b,Etienne Vaessen,,True
+Willem II,Ajax,1645292700,nl NED,38-103,90,1,0,1,100.0,0.0,4,9,44.4,30,8,26.7,27.2,9,11.1,22.8,6,0,0.0,0,10.0,3392603d,Remko Pasveer,,True
+AZ Alkmaar,Heracles Almelo,1645300800,de GER,30-293,90,5,2,3,60.0,1.5,5,21,23.8,45,6,35.6,34.4,11,45.5,38.3,11,0,0.0,1,24.0,663e080e,Janis Blaswich,,True
+Zwolle,Groningen,1645355700,nl NED,27-334,90,4,1,3,75.0,1.2,7,38,18.4,37,2,67.6,47.2,16,81.3,57.2,10,0,0.0,0,8.0,b7135640,Peter Leeuwenburgh,,True
+Feyenoord,Cambuur,1645363800,nl NED,29-243,90,11,3,8,72.7,3.0,9,14,64.3,41,11,31.7,29.9,9,11.1,23.9,12,1,8.3,1,15.0,7566ef9b,Sonny Stevens,,True
+Twente,Go Ahead Eagles,1645363800,nl NED,27-319,90,5,2,4,60.0,0.7,16,37,43.2,28,1,82.1,48.0,15,93.3,59.7,36,0,0.0,0,5.8,2dc9d6fb,Andries Noppert,,True
+Utrecht,Vitesse,1645371900,nl NED,26-002,90,2,1,1,50.0,1.9,8,19,42.1,19,1,68.4,50.6,6,100.0,63.3,12,0,0.0,0,10.0,6d8ec266,Jeroen Houwen,,True
+PSV Eindhoven,Heerenveen,1645371900,nl NED,32-354,90,4,3,1,25.0,1.5,5,9,55.6,34,6,23.5,28.4,14,7.1,19.4,16,0,0.0,0,9.0,b3576b7c,Erwin Mulder,,True
+RKC Waalwijk,Twente,1645815600,de GER,31-220,90,6,1,5,83.3,1.3,8,21,38.1,22,4,72.7,45.1,8,62.5,48.6,13,2,15.4,3,16.0,4b1793b0,Lars Unnerstall,,True
+Heracles Almelo,Zwolle,1645889400,gr GRE,30-161,90,8,2,6,75.0,1.8,5,12,41.7,38,5,15.8,26.1,16,37.5,34.3,15,2,13.3,2,19.6,f9508440,Kostas Lamprou,,True
+Groningen,Willem II,1645897500,de GER,26-085,90,5,1,4,80.0,0.8,17,32,53.1,36,7,58.3,40.7,12,91.7,57.9,19,1,5.3,2,15.0,2f18d0b8,Timon Wellenreuther,,True
+Cambuur,Fortuna Sittard,1645905600,nl NED,24-339,90,9,2,7,77.8,2.6,5,12,41.7,19,4,47.4,37.6,6,50.0,40.0,16,0,0.0,0,5.0,f1655231,Yanick van Osch,,True
+AZ Alkmaar,Feyenoord,1645960500,nl NED,24-036,90,3,2,1,100.0,2.6,9,18,50.0,48,3,31.3,34.7,5,60.0,43.4,8,0,0.0,0,17.0,53d93280,Justin Bijlow,,True
+Vitesse,NEC Nijmegen,1645960500,nl NED,28-058,90,8,4,4,50.0,2.8,4,21,19.0,20,6,60.0,43.7,11,81.8,52.3,24,1,4.2,2,13.8,b74a2c78,Mattijs Branderhorst,,True
+Sparta Rotterdam,PSV Eindhoven,1645968600,nl NED,25-103,90,4,1,3,75.0,1.2,3,9,33.3,13,4,38.5,37.7,8,50.0,38.8,8,1,12.5,0,4.0,510c6a3f,Joel Drommel,,True
+Go Ahead Eagles,Ajax,1645976700,cm CMR,25-331,90,4,2,2,50.0,1.9,2,5,40.0,21,5,23.8,28.5,3,0.0,11.3,14,1,7.1,2,16.3,e9c0c1b2,André Onana,,True
+Heerenveen,Utrecht,1645988400,nl NED,21-293,90,6,1,5,100.0,1.6,3,11,27.3,22,4,45.5,37.5,6,16.7,27.7,18,0,0.0,0,15.5,fdfc9ace,Fabian de Keijzer,,True
+Willem II,Heerenveen,1646494200,nl NED,33-002,90,5,0,5,100.0,0.9,7,17,41.2,16,2,68.8,46.3,14,42.9,35.9,30,0,0.0,1,13.0,b3576b7c,Erwin Mulder,,True
+Go Ahead Eagles,Utrecht,1646502300,nl NED,21-299,90,3,1,2,66.7,0.5,10,17,58.8,34,5,47.1,36.9,5,20.0,21.0,17,0,0.0,0,10.5,fdfc9ace,Fabian de Keijzer,,True
+Feyenoord,Groningen,1646510400,nl NED,27-347,90,5,1,4,80.0,1.4,8,22,36.4,46,5,32.6,34.9,12,58.3,48.3,31,1,3.2,0,5.5,b7135640,Peter Leeuwenburgh,,True
+PSV Eindhoven,Heracles Almelo,1646565300,nl NED,25-261,90,14,3,11,78.6,4.2,8,19,42.1,44,13,29.5,33.0,8,75.0,52.0,17,3,17.6,0,8.0,1da4fe81,Koen Bucker,,True
+Twente,Cambuur,1646573400,nl NED,29-257,81,4,1,3,75.0,0.9,8,17,47.1,42,5,33.3,32.0,9,33.3,27.9,19,3,15.8,2,11.6,7566ef9b,Sonny Stevens,,True
+Twente,Cambuur,1646573400,nl NED,25-011,9,0,0,0,,0.0,3,5,60.0,4,1,50.0,38.3,3,100.0,64.7,1,0,0.0,0,,6718689b,Pieter Bos,,True
+NEC Nijmegen,AZ Alkmaar,1646581500,dk DEN,24-018,90,5,1,4,80.0,0.3,7,19,36.8,38,7,36.8,33.1,7,71.4,48.9,12,0,0.0,1,10.7,7b433ed0,Peter Vindahl Jensen,,True
+Ajax,RKC Waalwijk,1646581500,ma MAR,22-033,90,14,3,11,85.7,4.8,14,36,38.9,28,3,85.7,52.9,19,63.2,52.1,29,0,0.0,1,41.0,30bbed87,Issam El Maach,,True
+Fortuna Sittard,Zwolle,1646593200,gr GRE,30-169,90,3,0,3,100.0,0.4,8,29,27.6,41,4,56.1,39.5,10,60.0,40.2,19,1,5.3,3,20.8,f9508440,Kostas Lamprou,,True
+Cambuur,Ajax,1647025200,cm CMR,25-343,90,3,2,1,33.3,2.0,4,7,57.1,26,3,23.1,29.7,2,50.0,42.0,8,0,0.0,0,12.5,e9c0c1b2,André Onana,,True
+Sparta Rotterdam,Go Ahead Eagles,1647099000,nl NED,27-339,90,5,1,4,80.0,1.6,2,17,11.8,33,9,42.4,37.8,6,50.0,35.5,13,0,0.0,0,8.0,2dc9d6fb,Andries Noppert,,True
+Groningen,NEC Nijmegen,1647107100,nl NED,28-071,90,6,4,2,33.3,1.4,6,23,26.1,17,2,70.6,50.8,11,100.0,65.7,26,3,11.5,0,5.5,b74a2c78,Mattijs Branderhorst,,True
+RKC Waalwijk,Heerenveen,1647115200,nl NED,33-009,90,0,0,0,,0.0,7,21,33.3,33,4,45.5,36.9,7,85.7,57.4,12,0,0.0,1,14.8,b3576b7c,Erwin Mulder,,True
+Fortuna Sittard,Willem II,1647170100,de GER,26-100,90,2,1,1,50.0,0.4,5,30,16.7,43,6,58.1,44.0,7,71.4,46.4,8,1,12.5,0,13.3,2f18d0b8,Timon Wellenreuther,,True
+Utrecht,PSV Eindhoven,1647178200,nl NED,25-117,90,3,0,3,100.0,0.3,3,17,17.6,18,4,50.0,43.4,8,100.0,66.4,14,2,14.3,1,15.3,510c6a3f,Joel Drommel,,True
+Heracles Almelo,Vitesse,1647178200,de GER,23-274,90,1,0,1,100.0,0.0,12,19,63.2,39,9,35.9,32.4,8,62.5,50.0,22,2,9.1,0,7.3,289b90cd,Markus Schubert,,True
+Zwolle,Feyenoord,1647186300,il ISR,32-157,90,3,1,2,66.7,0.4,4,14,28.6,19,5,57.9,43.4,3,100.0,60.0,16,0,0.0,0,,00d4e7b3,Ofir Marciano,,True
+AZ Alkmaar,Twente,1647198000,de GER,31-236,90,0,0,0,,0.0,5,16,31.3,30,4,50.0,40.4,2,50.0,50.5,14,2,14.3,2,14.5,4b1793b0,Lars Unnerstall,,True
+Heerenveen,Heracles Almelo,1647630000,nl NED,25-273,90,7,2,5,71.4,1.4,3,8,37.5,27,9,22.2,35.0,3,66.7,44.0,21,1,4.8,0,6.0,1da4fe81,Koen Bucker,,True
+Go Ahead Eagles,Cambuur,1647711900,nl NED,25-024,90,5,3,2,40.0,1.4,0,13,0.0,30,5,33.3,33.2,9,33.3,32.8,15,0,0.0,1,21.4,6718689b,Pieter Bos,,True
+Twente,Zwolle,1647716400,gr GRE,30-182,90,6,1,5,83.3,1.9,15,31,48.4,44,7,50.0,41.2,10,90.0,61.1,10,0,0.0,3,19.0,f9508440,Kostas Lamprou,,True
+NEC Nijmegen,Sparta Rotterdam,1647720000,ng NGA,22-203,90,5,0,5,100.0,0.3,6,22,27.3,21,2,76.2,51.2,6,100.0,66.5,25,1,4.0,0,8.0,ab5c36dd,Maduka Okoye,,True
+Utrecht,Groningen,1647774900,nl NED,27-362,90,6,1,5,83.3,0.8,6,22,27.3,35,10,45.7,37.3,11,54.5,41.9,19,1,5.3,3,13.9,b7135640,Peter Leeuwenburgh,,True
+Ajax,Feyenoord,1647783000,il ISR,32-164,90,8,3,5,62.5,2.2,10,33,30.3,28,2,82.1,54.5,10,100.0,67.2,17,3,17.6,0,7.6,00d4e7b3,Ofir Marciano,,True
+Vitesse,RKC Waalwijk,1647791100,nl NED,26-237,90,3,1,2,66.7,1.0,13,31,41.9,32,4,59.4,44.2,16,75.0,59.5,23,2,8.7,0,11.7,5622d68b,Etienne Vaessen,,True
+PSV Eindhoven,Fortuna Sittard,1647791100,nl NED,24-361,90,15,5,10,66.7,6.0,5,10,50.0,31,5,25.8,30.1,11,18.2,27.5,27,1,3.7,1,9.5,f1655231,Yanick van Osch,,True
+Willem II,AZ Alkmaar,1647802800,dk DEN,24-032,90,2,2,0,0.0,1.7,2,6,33.3,22,8,27.3,32.0,6,0.0,16.7,10,0,0.0,0,12.5,7b433ed0,Peter Vindahl Jensen,,True
+Groningen,Ajax,1648909800,cm CMR,26-000,90,3,1,2,66.7,0.8,10,28,35.7,37,0,67.6,46.4,5,60.0,39.0,11,1,9.1,0,8.3,e9c0c1b2,André Onana,,True
+Twente,PSV Eindhoven,1648917900,nl NED,25-137,90,5,3,2,40.0,2.1,3,12,25.0,25,7,44.0,33.5,4,25.0,30.0,7,0,0.0,2,13.5,510c6a3f,Joel Drommel,,True
+RKC Waalwijk,Utrecht,1648922400,nl NED,21-327,90,2,1,1,50.0,0.4,4,13,30.8,22,3,50.0,40.5,4,50.0,45.5,20,0,0.0,0,19.0,fdfc9ace,Fabian de Keijzer,,True
+AZ Alkmaar,Vitesse,1648922400,nl NED,26-043,90,2,3,0,0.0,1.2,7,16,43.8,50,5,32.0,30.8,3,0.0,22.0,11,0,0.0,4,25.3,6d8ec266,Jeroen Houwen,,True
+Feyenoord,Willem II,1648926000,de GER,26-120,90,9,2,7,77.8,2.1,8,21,38.1,24,8,50.0,42.9,17,52.9,42.6,23,2,8.7,3,14.5,2f18d0b8,Timon Wellenreuther,,True
+Zwolle,Go Ahead Eagles,1648980900,nl NED,27-361,90,1,0,1,100.0,0.1,8,23,34.8,26,3,65.4,49.2,6,100.0,59.8,19,5,26.3,0,5.2,2dc9d6fb,Andries Noppert,,True
+Sparta Rotterdam,Heerenveen,1648989000,nl NED,33-031,90,3,1,1,100.0,1.9,3,11,27.3,26,7,42.3,34.5,2,0.0,22.5,15,0,0.0,2,16.6,b3576b7c,Erwin Mulder,,True
+Fortuna Sittard,Heracles Almelo,1648989000,nl NED,25-289,90,5,0,5,100.0,0.6,7,22,31.8,31,4,41.9,40.4,10,90.0,64.0,13,1,7.7,1,13.0,1da4fe81,Koen Bucker,,True
+Cambuur,NEC Nijmegen,1648997100,nl NED,28-093,90,4,1,3,75.0,1.2,8,18,44.4,18,4,66.7,44.9,8,75.0,51.6,18,1,5.6,0,5.0,b74a2c78,Mattijs Branderhorst,,True
+Go Ahead Eagles,Willem II,1649440800,de GER,26-126,90,8,4,4,50.0,2.8,7,14,50.0,29,3,41.4,36.9,4,50.0,34.0,11,1,9.1,1,13.5,2f18d0b8,Timon Wellenreuther,,True
+Utrecht,Fortuna Sittard,1649522700,nl NED,25-016,90,5,1,4,80.0,0.8,4,8,50.0,30,3,16.7,24.0,10,30.0,28.0,19,0,0.0,0,7.8,f1655231,Yanick van Osch,,True
+Ajax,Sparta Rotterdam,1649527200,ng NGA,22-224,90,5,2,3,80.0,1.8,12,39,30.8,30,1,83.3,53.5,14,100.0,67.2,26,1,3.8,0,5.3,ab5c36dd,Maduka Okoye,,True
+NEC Nijmegen,Twente,1649530800,de GER,31-263,90,3,0,3,100.0,0.8,1,12,8.3,15,3,60.0,40.4,4,75.0,46.8,5,0,0.0,0,14.0,4b1793b0,Lars Unnerstall,,True
+Heerenveen,Groningen,1649585700,nl NED,28-018,90,6,3,3,50.0,2.0,5,6,83.3,37,10,10.8,25.7,3,66.7,41.0,15,1,6.7,4,18.4,b7135640,Peter Leeuwenburgh,,True
+Vitesse,Cambuur,1649593800,nl NED,25-046,90,14,1,13,92.9,2.6,5,19,26.3,28,10,42.9,38.7,10,70.0,51.7,24,1,4.2,0,4.0,6718689b,Pieter Bos,,True
+PSV Eindhoven,RKC Waalwijk,1649593800,nl NED,26-258,90,8,2,6,75.0,2.0,13,21,61.9,34,6,41.2,35.6,11,63.6,44.8,14,1,7.1,2,11.9,5622d68b,Etienne Vaessen,,True
+Heracles Almelo,Feyenoord,1649601900,il ISR,32-185,90,7,1,6,85.7,2.1,0,1,0.0,30,13,3.3,22.6,4,0.0,15.8,19,0,0.0,1,14.7,00d4e7b3,Ofir Marciano,,True
+Zwolle,AZ Alkmaar,1649613600,dk DEN,24-053,90,7,2,5,71.4,2.1,10,23,43.5,28,6,53.6,38.6,12,66.7,49.3,12,0,0.0,0,11.0,7b433ed0,Peter Vindahl Jensen,,True
+Fortuna Sittard,Sparta Rotterdam,1650127500,ng NGA,22-231,90,4,3,1,25.0,1.1,3,9,33.3,9,5,55.6,38.9,5,80.0,62.2,21,0,0.0,0,8.7,ab5c36dd,Maduka Okoye,,True
+Vitesse,Sparta Rotterdam,1650386700,ng NGA,22-234,90,8,0,7,100.0,1.8,11,43,25.6,34,4,88.2,58.0,13,100.0,68.0,31,4,12.9,0,10.0,ab5c36dd,Maduka Okoye,,True
+Twente,Sparta Rotterdam,1650650400,ng NGA,22-237,90,7,2,5,71.4,1.1,13,33,39.4,25,0,84.0,55.2,12,100.0,70.2,22,1,4.5,0,12.0,ab5c36dd,Maduka Okoye,,True
+NEC Nijmegen,Ajax,1650724200,nl NED,39-213,90,2,0,2,100.0,0.2,3,7,42.9,23,5,30.4,31.2,5,0.0,18.0,9,0,0.0,0,,fefce889,Maarten Stekelenburg,,True
+AZ Alkmaar,Heerenveen,1650732300,nl NED,33-051,90,8,2,6,75.0,1.6,7,18,38.9,26,1,38.5,34.5,19,42.1,34.2,17,0,0.0,1,23.5,b3576b7c,Erwin Mulder,,True
+RKC Waalwijk,Zwolle,1650736800,gr GRE,30-217,90,5,0,5,100.0,1.1,19,30,63.3,41,7,56.1,43.7,8,87.5,60.3,10,2,20.0,2,15.2,f9508440,Kostas Lamprou,,True
+Cambuur,PSV Eindhoven,1650740400,ch SUI,27-321,90,3,1,2,66.7,0.6,2,8,25.0,14,2,35.7,31.7,4,75.0,55.0,6,1,16.7,1,17.5,dc29b608,Yvon Mvogo,,True
+Willem II,Vitesse,1650795300,de GER,23-316,90,2,1,1,50.0,0.3,6,15,40.0,54,8,22.2,28.7,8,37.5,34.6,14,1,7.1,3,16.3,289b90cd,Markus Schubert,,True
+Feyenoord,Utrecht,1650803400,nl NED,21-349,90,7,2,6,71.4,1.7,8,25,32.0,29,6,65.5,46.5,9,66.7,50.0,22,1,4.5,0,8.7,fdfc9ace,Fabian de Keijzer,,True
+Groningen,Heracles Almelo,1650803400,nl NED,25-310,90,2,0,2,100.0,0.3,9,25,36.0,30,6,56.7,49.0,8,100.0,69.6,18,2,11.1,3,17.6,1da4fe81,Koen Bucker,,True
+Fortuna Sittard,Go Ahead Eagles,1650811500,nl NED,28-017,90,4,1,3,75.0,0.5,7,16,43.8,47,12,23.4,31.5,11,45.5,36.1,13,2,15.4,3,19.7,2dc9d6fb,Andries Noppert,,True
+Utrecht,NEC Nijmegen,1651255200,nl NED,28-119,90,8,1,7,87.5,2.4,5,14,35.7,23,7,43.5,34.8,8,50.0,36.9,27,0,0.0,0,12.3,b74a2c78,Mattijs Branderhorst,,True
+Ajax,Zwolle,1651337100,gr GRE,30-224,90,9,3,6,66.7,2.8,6,27,22.2,47,4,53.2,38.0,7,28.6,27.4,9,0,0.0,0,7.7,f9508440,Kostas Lamprou,,True
+Heracles Almelo,Twente,1651341600,de GER,31-284,90,2,1,1,50.0,1.1,2,5,40.0,16,2,25.0,24.8,5,20.0,25.4,8,0,0.0,0,10.5,4b1793b0,Lars Unnerstall,,True
+Sparta Rotterdam,AZ Alkmaar,1651345200,dk DEN,24-073,90,4,1,3,75.0,1.3,4,16,25.0,33,9,33.3,32.1,11,45.5,39.1,16,0,0.0,1,16.0,7b433ed0,Peter Vindahl Jensen,,True
+Heerenveen,Cambuur,1651400100,nl NED,29-313,90,7,3,4,57.1,1.6,7,15,46.7,26,4,26.9,32.8,13,61.5,46.9,18,0,0.0,1,19.3,7566ef9b,Sonny Stevens,,True
+Go Ahead Eagles,Vitesse,1651408200,de GER,23-323,90,7,1,6,85.7,0.9,4,26,15.4,45,8,42.2,39.2,10,70.0,51.2,18,1,5.6,3,19.0,289b90cd,Markus Schubert,,True
+PSV Eindhoven,Willem II,1651408200,de GER,26-149,90,6,4,3,33.3,2.2,12,24,50.0,45,4,46.7,36.0,4,75.0,52.8,15,1,6.7,6,19.5,2f18d0b8,Timon Wellenreuther,,True
+Fortuna Sittard,Feyenoord,1651416300,il ISR,32-206,90,2,1,1,50.0,0.8,7,19,36.8,19,3,68.4,47.6,9,66.7,50.1,18,1,5.6,0,3.0,00d4e7b3,Ofir Marciano,,True
+RKC Waalwijk,Groningen,1651428000,nl NED,28-039,90,3,3,0,0.0,1.2,7,15,46.7,47,8,27.7,29.7,11,18.2,29.9,13,0,0.0,1,13.5,b7135640,Peter Leeuwenburgh,,True
+Cambuur,RKC Waalwijk,1651860000,nl NED,26-284,90,4,1,3,75.0,0.5,15,29,51.7,34,4,64.7,46.3,8,87.5,66.0,13,3,23.1,4,14.5,5622d68b,Etienne Vaessen,,True
+Twente,Fortuna Sittard,1651941900,nl NED,25-044,90,4,1,3,75.0,0.5,15,33,45.5,21,2,76.2,47.0,18,94.4,59.8,28,1,3.6,0,7.5,f1655231,Yanick van Osch,,True
+Zwolle,Utrecht,1651946400,nl NED,21-362,44,2,,2,,0.3,6,15,40.0,12,,75.0,44.8,8,75.0,48.9,8,,,1,22.0,fdfc9ace,Fabian de Keijzer,,True
+Zwolle,Utrecht,1651946400,de GER,26-229,46,5,1,4,80.0,0.9,3,8,37.5,11,6,18.2,27.1,6,100.0,71.0,18,0,0.0,0,8.2,dbb329c6,Eric Oelschlägel,,True
+Willem II,Heracles Almelo,1651946400,nl NED,25-323,90,11,2,9,81.8,2.3,7,17,41.2,28,6,35.7,38.3,9,77.8,58.9,17,1,5.9,0,7.0,1da4fe81,Koen Bucker,,True
+Groningen,Sparta Rotterdam,1651950000,ng NGA,22-252,90,5,1,4,80.0,1.5,14,32,43.8,21,1,90.5,62.7,16,81.3,57.3,33,0,0.0,0,5.0,ab5c36dd,Maduka Okoye,,True
+NEC Nijmegen,Go Ahead Eagles,1652004900,nl NED,28-031,90,7,1,6,85.7,1.8,4,14,28.6,39,9,30.8,30.4,5,40.0,33.0,11,2,18.2,0,7.0,2dc9d6fb,Andries Noppert,,True
+AZ Alkmaar,Ajax,1652013000,nl NED,39-228,90,4,2,2,50.0,1.7,6,12,50.0,35,7,31.4,30.0,7,14.3,23.3,12,1,8.3,1,16.3,fefce889,Maarten Stekelenburg,,True
+Vitesse,Heerenveen,1652013000,nl NED,33-066,90,5,1,4,100.0,1.3,8,23,34.8,29,4,58.6,46.1,6,100.0,65.0,12,0,0.0,2,21.5,b3576b7c,Erwin Mulder,,True
+Feyenoord,PSV Eindhoven,1652021100,ch SUI,27-336,90,7,2,5,85.7,4.3,6,21,28.6,13,2,84.6,48.4,10,100.0,64.1,19,0,0.0,0,3.0,dc29b608,Yvon Mvogo,,True
+Go Ahead Eagles,Feyenoord,1652292000,il ISR,32-216,90,2,0,2,100.0,0.3,5,26,19.2,39,10,48.7,39.4,14,50.0,45.2,6,0,0.0,5,26.8,00d4e7b3,Ofir Marciano,,True
+Utrecht,AZ Alkmaar,1652292000,dk DEN,24-084,90,4,2,2,50.0,1.5,7,29,24.1,42,4,59.5,41.6,7,57.1,41.7,28,2,7.1,0,5.4,7b433ed0,Peter Vindahl Jensen,,True
+PSV Eindhoven,NEC Nijmegen,1652292000,nl NED,28-131,90,6,3,3,50.0,2.9,3,9,33.3,23,6,34.8,32.6,8,12.5,22.3,11,0,0.0,0,4.0,b74a2c78,Mattijs Branderhorst,,True
+Cambuur,Willem II,1652292000,de GER,26-159,90,2,1,1,50.0,0.9,9,22,40.9,36,5,44.4,34.6,6,100.0,56.2,5,2,40.0,0,5.5,2f18d0b8,Timon Wellenreuther,,True
+Fortuna Sittard,Vitesse,1652292000,de GER,23-333,90,4,1,3,100.0,1.2,8,19,42.1,29,7,41.4,36.2,8,87.5,58.9,17,2,11.8,1,11.1,289b90cd,Markus Schubert,,True
+RKC Waalwijk,Heracles Almelo,1652292000,nl NED,25-327,90,5,2,3,60.0,1.7,3,9,33.3,21,8,28.6,31.0,9,33.3,36.2,21,0,0.0,0,11.3,1da4fe81,Koen Bucker,,True
+Ajax,Heerenveen,1652292000,nl NED,33-069,90,7,5,2,42.9,4.0,8,16,50.0,35,5,37.1,32.9,11,27.3,26.1,16,0,0.0,0,,b3576b7c,Erwin Mulder,,True
+Sparta Rotterdam,Zwolle,1652292000,gr GRE,30-235,90,2,2,0,0.0,1.0,6,8,75.0,36,13,19.4,25.1,7,14.3,20.6,13,1,7.7,4,22.7,f9508440,Kostas Lamprou,,True
+Twente,Groningen,1652292000,nl NED,28-049,90,9,3,6,66.7,2.6,9,31,29.0,46,4,54.3,41.4,10,60.0,52.6,11,0,0.0,1,14.2,b7135640,Peter Leeuwenburgh,,True
+Heerenveen,Go Ahead Eagles,1652617800,nl NED,28-038,90,7,3,4,57.1,3.2,3,10,30.0,31,5,22.6,31.5,5,60.0,51.8,15,1,6.7,2,14.1,2dc9d6fb,Andries Noppert,,True
+Groningen,Cambuur,1652617800,nl NED,29-327,90,4,2,2,50.0,1.1,8,25,32.0,20,2,70.0,47.4,14,78.6,60.1,19,1,5.3,1,15.0,7566ef9b,Sonny Stevens,,True
+AZ Alkmaar,RKC Waalwijk,1652617800,nl NED,26-293,90,6,1,5,83.3,1.7,11,34,32.4,37,3,62.2,46.1,12,91.7,65.4,23,1,4.3,0,7.0,5622d68b,Etienne Vaessen,,True
+Vitesse,Ajax,1652617800,nl NED,21-350,90,6,2,4,66.7,2.5,0,4,0.0,30,9,13.3,27.8,2,0.0,26.5,7,1,14.3,1,20.7,e0ee850b,Jay Gorter,,True
+Feyenoord,Twente,1652617800,de GER,31-299,90,3,1,2,66.7,1.4,9,28,32.1,31,7,64.5,46.7,10,80.0,53.0,16,1,6.3,3,21.8,4b1793b0,Lars Unnerstall,,True
+Zwolle,PSV Eindhoven,1652617800,ch SUI,27-343,90,12,1,11,91.7,2.2,4,13,30.8,22,2,36.4,37.7,7,71.4,48.4,19,1,5.3,0,7.8,dc29b608,Yvon Mvogo,,True
+Heracles Almelo,Sparta Rotterdam,1652617800,ng NGA,22-260,90,5,1,4,80.0,1.0,8,22,36.4,11,1,72.7,56.3,14,100.0,70.4,43,0,0.0,0,2.5,ab5c36dd,Maduka Okoye,,True
+Willem II,Utrecht,1652617800,de GER,26-237,90,6,3,4,50.0,1.9,3,9,33.3,20,2,25.0,32.4,12,33.3,34.3,13,0,0.0,3,13.9,dbb329c6,Eric Oelschlägel,,True
+NEC Nijmegen,Fortuna Sittard,1652617800,nl NED,25-052,90,6,0,6,100.0,0.5,17,29,58.6,22,2,68.2,51.2,15,93.3,64.3,28,1,3.6,0,9.0,f1655231,Yanick van Osch,,True
+Heerenveen,AZ Alkmaar,1652978700,dk DEN,24-092,90,4,3,1,25.0,2.2,4,8,50.0,14,1,28.6,29.9,7,57.1,39.1,13,0,0.0,0,9.3,7b433ed0,Peter Vindahl Jensen,,True
+Utrecht,Vitesse,1652986800,nl NED,26-090,90,6,3,3,66.7,2.1,5,14,35.7,41,10,31.7,28.7,3,33.3,38.0,21,0,0.0,4,16.0,6d8ec266,Jeroen Houwen,,True
+AZ Alkmaar,Heerenveen,1653222600,nl NED,33-080,90,3,2,1,33.3,1.4,3,9,33.3,22,6,31.8,34.1,10,20.0,27.1,13,0,0.0,0,,b3576b7c,Erwin Mulder,,True
+Vitesse,Utrecht,1653235200,de GER,26-244,90,8,3,5,62.5,1.6,12,20,60.0,19,2,57.9,42.8,12,75.0,49.4,20,1,5.0,2,16.0,dbb329c6,Eric Oelschlägel,,True
+Vitesse,AZ Alkmaar,1653588000,dk DEN,24-099,90,3,2,1,33.3,0.9,7,12,58.3,26,4,38.5,34.5,3,66.7,35.3,8,0,0.0,1,16.3,7b433ed0,Peter Vindahl Jensen,,True
+AZ Alkmaar,Vitesse,1653827400,nl NED,26-100,90,14,6,8,57.1,4.6,3,15,20.0,28,6,46.4,37.6,8,25.0,35.0,13,0,0.0,1,11.4,6d8ec266,Jeroen Houwen,,True
