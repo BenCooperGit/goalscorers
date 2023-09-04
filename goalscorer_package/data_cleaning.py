@@ -146,6 +146,9 @@ def add_season(df: pd.DataFrame) -> pd.DataFrame:
 
 def add_npg(df: pd.DataFrame) -> pd.DataFrame:
     df["npg"] = df.goals - df.pens_made
+    df.npxg = np.where(
+        (df.npg != 0) & (df.npxg == 0), 0.03, df.npxg
+    )  # npxg gets rounded to 0, but a non-penalty goal is scored
     return df
 
 
@@ -157,4 +160,4 @@ def calc_main_position(df: pd.DataFrame) -> pd.DataFrame:
 
 
 def calc_main_squad(df: pd.DataFrame) -> pd.DataFrame:
-    return df.groupby("player_id", as_index=False).agg(position=("squad", mode))
+    return df.groupby("player_id", as_index=False).agg(squad=("squad", mode))

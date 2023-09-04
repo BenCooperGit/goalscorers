@@ -316,10 +316,6 @@ if __name__ == "__main__":
     seasons_leagues = [
         # SeasonLeague(SEASON_17_18, EUROPEAN_EUROPA_LEAGUE, xg_league_bool=True),
         # SeasonLeague(SEASON_20, AMERICAN_MLS, xg_league_bool=True),
-        SeasonLeague(SEASON_20, BRAZILIAN_SERIE_A, xg_league_bool=True),
-        SeasonLeague(SEASON_19, AMERICAN_MLS, xg_league_bool=True),
-        SeasonLeague(SEASON_19, BRAZILIAN_SERIE_A, xg_league_bool=True),
-        SeasonLeague(SEASON_18, AMERICAN_MLS, xg_league_bool=True),
-        SeasonLeague(SEASON_18, BRAZILIAN_SERIE_A, xg_league_bool=True),
+        SeasonLeague(SEASON_17_18, FRENCH_LIGUE_1, xg_league_bool=True),
     ]
     main(seasons_leagues)

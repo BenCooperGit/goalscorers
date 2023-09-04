@@ -3,6 +3,10 @@ class FilePath:
     FBREF_EDITED = (
         r"C:\Users\benja\Documents\projects\goalscorers\data\files\edited\fbref\\"
     )
+    FOOTBALL_DATA_RAW = (
+        r"C:\Users\benja\Documents\projects\goalscorers\data\files\raw\football-data\\"
+    )
+    FOOTBALL_DATA_EDITED = r"C:\Users\benja\Documents\projects\goalscorers\data\files\edited\football-data\\"
 
 
 class League:
@@ -32,6 +36,9 @@ class SeasonLeague:
         self.season = season
         self.league = league
         self.xg_league_bool = xg_league_bool
+
+    def __str__(self):
+        return f"{self.league.league_name} {self.season.season_str}"
 
 
 XG_DATA_START_YEAR = {
@@ -98,30 +105,36 @@ SEASONS_LEAGUES = [
     SeasonLeague(SEASON_22_23, ENGLISH_CHAMPIONSHIP, xg_league_bool=True),
     SeasonLeague(SEASON_22_23, ITALIAN_SERIE_A, xg_league_bool=True),
     SeasonLeague(SEASON_22_23, SPANISH_LA_LIGA, xg_league_bool=True),
+    SeasonLeague(SEASON_22_23, FRENCH_LIGUE_1, xg_league_bool=True),
     SeasonLeague(SEASON_22_23, GERMAN_BUNDESLIGA, xg_league_bool=True),
     SeasonLeague(SEASON_21_22, ENGLISH_PREMIER_LEAGUE, xg_league_bool=True),
     SeasonLeague(SEASON_21_22, ENGLISH_CHAMPIONSHIP, xg_league_bool=True),
     SeasonLeague(SEASON_21_22, ITALIAN_SERIE_A, xg_league_bool=True),
     SeasonLeague(SEASON_21_22, SPANISH_LA_LIGA, xg_league_bool=True),
+    SeasonLeague(SEASON_21_22, FRENCH_LIGUE_1, xg_league_bool=True),
     SeasonLeague(SEASON_21_22, GERMAN_BUNDESLIGA, xg_league_bool=True),
     SeasonLeague(SEASON_20_21, ENGLISH_PREMIER_LEAGUE, xg_league_bool=True),
     SeasonLeague(SEASON_20_21, ENGLISH_CHAMPIONSHIP, xg_league_bool=True),
     SeasonLeague(SEASON_20_21, ITALIAN_SERIE_A, xg_league_bool=True),
     SeasonLeague(SEASON_20_21, SPANISH_LA_LIGA, xg_league_bool=True),
+    SeasonLeague(SEASON_20_21, FRENCH_LIGUE_1, xg_league_bool=True),
     SeasonLeague(SEASON_20_21, GERMAN_BUNDESLIGA, xg_league_bool=True),
     SeasonLeague(SEASON_19_20, ENGLISH_PREMIER_LEAGUE, xg_league_bool=True),
     SeasonLeague(SEASON_19_20, ENGLISH_CHAMPIONSHIP, xg_league_bool=True),
     SeasonLeague(SEASON_19_20, ITALIAN_SERIE_A, xg_league_bool=True),
     SeasonLeague(SEASON_19_20, SPANISH_LA_LIGA, xg_league_bool=True),
+    SeasonLeague(SEASON_19_20, FRENCH_LIGUE_1, xg_league_bool=True),
     SeasonLeague(SEASON_19_20, GERMAN_BUNDESLIGA, xg_league_bool=True),
     SeasonLeague(SEASON_18_19, ENGLISH_PREMIER_LEAGUE, xg_league_bool=True),
     SeasonLeague(SEASON_18_19, ENGLISH_CHAMPIONSHIP, xg_league_bool=True),
     SeasonLeague(SEASON_18_19, ITALIAN_SERIE_A, xg_league_bool=True),
     SeasonLeague(SEASON_18_19, SPANISH_LA_LIGA, xg_league_bool=True),
+    SeasonLeague(SEASON_18_19, FRENCH_LIGUE_1, xg_league_bool=True),
     SeasonLeague(SEASON_18_19, GERMAN_BUNDESLIGA, xg_league_bool=True),
     SeasonLeague(SEASON_17_18, ENGLISH_PREMIER_LEAGUE, xg_league_bool=True),
     SeasonLeague(SEASON_17_18, ITALIAN_SERIE_A, xg_league_bool=True),
     SeasonLeague(SEASON_17_18, SPANISH_LA_LIGA, xg_league_bool=True),
+    SeasonLeague(SEASON_17_18, FRENCH_LIGUE_1, xg_league_bool=True),
     SeasonLeague(SEASON_17_18, GERMAN_BUNDESLIGA, xg_league_bool=True),
     ## Lesser leagues
     SeasonLeague(SEASON_22_23, PORTUGUESE_PREMIERA_LIGA, xg_league_bool=True),
@@ -164,7 +177,6 @@ SEASONS_LEAGUES = [
     SeasonLeague(SEASON_19, AMERICAN_MLS, xg_league_bool=True),
     SeasonLeague(SEASON_19, BRAZILIAN_SERIE_A, xg_league_bool=True),
     SeasonLeague(SEASON_18, AMERICAN_MLS, xg_league_bool=True),
-    SeasonLeague(SEASON_18, BRAZILIAN_SERIE_A, xg_league_bool=True),
 ]
 
 # SEASONS = [
@@ -202,11 +214,12 @@ SEASONS_LEAGUES = [
 #             seasons_leagues.append(season_league)
 
 FOOTBALL_DATA_TO_FBREF_TEAM_NAME_MAP = {
+    # Prem
     "Brighton": "Brighton & Hove Albion",
     "Cardiff": "Cardiff City",
     "Huddersfield": "Huddersfield Town",
     "Leeds": "Leeds United",
-    "Leicester": "Leicester United",
+    "Leicester": "Leicester City",
     "Man City": "Manchester City",
     "Man United": "Manchester United",
     "Newcastle": "Newcastle United",
@@ -217,5 +230,38 @@ FOOTBALL_DATA_TO_FBREF_TEAM_NAME_MAP = {
     "Tottenham": "Tottenham Hotspur",
     "West Brom": "West Bromwich Albion",
     "West Ham": "West Ham United",
-    "Wolves": "Wolverhamption Wanderers",
+    "Wolves": "Wolverhampton Wanderers",
+    # Serie A
+    "Verona": "Hellas Verona",
+    "Inter": "Internazionale",
+    "spal": "SPAL",
+    # La Liga
+    "Alaves": "Alavés",
+    "Almeria": "Almería",
+    "Ath Bilbao": "Athletic Club",
+    "Ath Madrid": "Atlético Madrid",
+    "Betis": "Real Betis",
+    "Cadiz": "Cádiz",
+    "Celta": "Celta Vigo",
+    "Espanol": "Espanyol",
+    "La Coruna": "Deportivo La Coruña",
+    "Leganes": "Leganés",
+    "Malaga": "Málaga",
+    "Sociedad": "Real Sociedad",
+    "Vallecano": "Rayo Vallecano",
+    # Ligue 1
+    # Bundesliga
+    "Bielefeld": "Arminia",
+    "Ein Frankfurt": "Eintracht Frankfurt",
+    "FC Koln": "Köln",
+    "Fortuna Dusseldorf": "Düsseldorf",
+    "Greuther Furth": "Greuther Fürth",
+    "Hamburg": "Hamburger SV",
+    "Hannover": "Hannover 96",
+    "Hertha": "Hertha BSC",
+    "Leverkusen": "Bayer Leverkusen",
+    "M'gladbach": "Mönchengladbach",
+    "Mainz": "Mainz 05",
+    "Nurnberg": "Nürnberg",
+    "Paderborn": "Paderborn 07",
 }
