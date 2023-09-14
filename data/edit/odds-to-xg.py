@@ -22,8 +22,11 @@ pd.options.display.float_format = "{: ,.3f}".format
 def add_datetime(df: pd.DataFrame) -> pd.DataFrame:
     return df.assign(
         # Convert "date" and "time" columns to datetime format
-        date=lambda x: pd.to_datetime(x.Date, format="%d/%m/%Y"),
-        time=lambda x: pd.to_datetime(x.Time, format="%H:%M").dt.time,
+        # date=lambda x: pd.to_datetime(x.Date, format="%d/%m/%Y"),
+        date=lambda x: pd.to_datetime(x.Date, format="mixed"),
+        time=lambda x: pd.to_datetime(x.Time, format="%H:%M").dt.time
+        if "Time" in x.columns
+        else [dt.time(0, 0, 0, 0) for _ in range(len(x))],
         # Combine "date" and "time" columns to create "datetime" columns
         datetime=lambda x: pd.to_datetime(
             x.date.astype(str) + " " + x.time.astype(str)
@@ -168,17 +171,39 @@ def get_ou_book(row: dict) -> str:
     if "BbMx<2.5" in row:
         if np.isnan(row["BbMx<2.5"]) == False:
             return "BbMx"
+    if "Max<2.5" in row:
+        if np.isnan(row["Max<2.5"]) == False:
+            return "Max"
+
+
+def get_wdw_book(row: dict) -> str:
+    if "PSH" in row:
+        if np.isnan(row["PSH"]) == False:
+            return "PS"
+    if "MaxH" in row:
+        if np.isnan(row["MaxH"]) == False:
+            return "Max"
+    if "BbMxH" in row:
+        if np.isnan(row["BbMxH"]) == False:
+            return "BbMx"
+    if "PSCH" in row:
+        if np.isnan(row["PSCH"]) == False:
+            return "PSC"
+    if "MaxCH" in row:
+        if np.isnan(row["MaxCH"]) == False:
+            return "MaxC"
 
 
 def odds_to_xg(df: pd.DataFrame) -> pd.DataFrame:
     output = list()
     for _, row in df.iterrows():
         ou_book = get_ou_book(row)
+        wdw_book = get_wdw_book(row)
 
         res = goal_expectation(
-            row["PSH"],
-            row["PSD"],
-            row["PSA"],
+            row[f"{wdw_book}H"],
+            row[f"{wdw_book}D"],
+            row[f"{wdw_book}A"],
             row[f"{ou_book}>2.5"],
             row[f"{ou_book}<2.5"],
         )
@@ -197,6 +222,15 @@ def odds_to_xg(df: pd.DataFrame) -> pd.DataFrame:
 
     df_output = pd.DataFrame(output)
     return df_output
+
+
+def print_failed_rows(df_exp: pd.DataFrame) -> None:
+    df_failed = df_exp.query("success == False")
+    if len(df_failed) > 0:
+        print(
+            "Failed rows:",
+            "\n",
+        )
 
 
 def main(seasons_leagues: list[SeasonLeague]) -> None:
@@ -218,11 +252,14 @@ def main(seasons_leagues: list[SeasonLeague]) -> None:
             + f"{season}-league-{comp_id}-historic-odds.csv",
             index=False,
         )
-    print("Complete")
+
+        print_failed_rows(df_exp)
+
+    print("Complete", "\n")
 
 
 if __name__ == "__main__":
     seasons_leagues = [
-        SeasonLeague(SEASON_20_21, GERMAN_BUNDESLIGA, xg_league_bool=True),
+        SeasonLeague(SEASON_21_22, GERMAN_BUNDESLIGA, xg_league_bool=True),
     ]
     main(seasons_leagues)

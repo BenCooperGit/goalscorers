@@ -73,6 +73,37 @@ def load_seasons_leagues_files(
     return df
 
 
+#### Expectancies ####
+
+
+def load_match_expectancies_df(seasons_leagues: list[c.SeasonLeague]) -> pd.DataFrame:
+    df_exp = pd.concat(
+        [
+            pd.read_csv(
+                c.FilePath.FOOTBALL_DATA_EDITED
+                + f"{season_league.season.season_str}-league-{season_league.league.league_id}-historic-odds.csv"
+            )
+            for season_league in seasons_leagues
+        ],
+        ignore_index=True,
+    )
+    df_exp = df_exp.assign(
+        datetime=lambda x: pd.to_datetime(x.datetime),
+        date=lambda x: x.datetime.dt.date,
+        time=lambda x: x.datetime.dt.time,
+    ).drop(columns=["datetime"])
+    return df_exp
+
+
+def add_expectancies(df: pd.DataFrame, df_exp: pd.DataFrame) -> pd.DataFrame:
+    return df.merge(
+        df_exp, how="left", on=["date", "home_team", "away_team"], validate="m:1"
+    ).assign(
+        team_exp=lambda x: np.where(x.home == 0, x.away_exp, x.home_exp),
+        opp_team_exp=lambda x: np.where(x.home == 0, x.home_exp, x.away_exp),
+    )
+
+
 ### Clean DataFrame ###
 
 
