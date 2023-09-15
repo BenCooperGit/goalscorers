@@ -30,6 +30,18 @@ class Season:
         else:
             return 2
 
+    def __sub__(self, other) -> int:
+        if self.num_years() == other.num_years():
+            return self.start_year - other.start_year
+        else:
+            ValueError("Season types are of differing lengths")
+
+    def __ge__(self, other) -> bool:
+        self.start_year >= other.start_year
+
+    def __str__(self):
+        return f"Season {self.season_str} across {self.num_years()} years"
+
 
 class SeasonLeague:
     def __init__(self, season: Season, league: League, xg_league_bool: bool):
@@ -234,7 +246,7 @@ FOOTBALL_DATA_TO_FBREF_TEAM_NAME_MAP = {
     # Serie A
     "Verona": "Hellas Verona",
     "Inter": "Internazionale",
-    "spal": "SPAL",
+    "Spal": "SPAL",
     # La Liga
     "Alaves": "Alavés",
     "Almeria": "Almería",

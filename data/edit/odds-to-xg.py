@@ -23,7 +23,7 @@ def add_datetime(df: pd.DataFrame) -> pd.DataFrame:
     return df.assign(
         # Convert "date" and "time" columns to datetime format
         # date=lambda x: pd.to_datetime(x.Date, format="%d/%m/%Y"),
-        date=lambda x: pd.to_datetime(x.Date, format="mixed"),
+        date=lambda x: pd.to_datetime(x.Date, format="mixed", dayfirst=True),
         time=lambda x: pd.to_datetime(x.Time, format="%H:%M").dt.time
         if "Time" in x.columns
         else [dt.time(0, 0, 0, 0) for _ in range(len(x))],
@@ -247,10 +247,14 @@ def main(seasons_leagues: list[SeasonLeague]) -> None:
             season_league.season.season_str,
             season_league.league.league_id,
         )
-        df_exp.to_csv(
+        # df_exp.to_csv(
+        #     FilePath.FOOTBALL_DATA_EDITED
+        #     + f"{season}-league-{comp_id}-historic-odds.csv",
+        #     index=False,
+        # )
+        df_exp.to_parquet(
             FilePath.FOOTBALL_DATA_EDITED
-            + f"{season}-league-{comp_id}-historic-odds.csv",
-            index=False,
+            + f"{season}-league-{comp_id}-historic-odds.parquet",
         )
 
         print_failed_rows(df_exp)
@@ -260,6 +264,40 @@ def main(seasons_leagues: list[SeasonLeague]) -> None:
 
 if __name__ == "__main__":
     seasons_leagues = [
+        SeasonLeague(SEASON_17_18, ENGLISH_PREMIER_LEAGUE, xg_league_bool=True),
+        SeasonLeague(SEASON_17_18, ITALIAN_SERIE_A, xg_league_bool=True),
+        SeasonLeague(SEASON_17_18, SPANISH_LA_LIGA, xg_league_bool=True),
+        SeasonLeague(SEASON_17_18, FRENCH_LIGUE_1, xg_league_bool=True),
+        SeasonLeague(SEASON_17_18, GERMAN_BUNDESLIGA, xg_league_bool=True),
+        SeasonLeague(SEASON_22_23, ENGLISH_PREMIER_LEAGUE, xg_league_bool=True),
+        SeasonLeague(SEASON_22_23, ENGLISH_CHAMPIONSHIP, xg_league_bool=True),
+        SeasonLeague(SEASON_22_23, ITALIAN_SERIE_A, xg_league_bool=True),
+        SeasonLeague(SEASON_22_23, SPANISH_LA_LIGA, xg_league_bool=True),
+        SeasonLeague(SEASON_22_23, FRENCH_LIGUE_1, xg_league_bool=True),
+        SeasonLeague(SEASON_22_23, GERMAN_BUNDESLIGA, xg_league_bool=True),
+        SeasonLeague(SEASON_21_22, ENGLISH_PREMIER_LEAGUE, xg_league_bool=True),
+        SeasonLeague(SEASON_21_22, ENGLISH_CHAMPIONSHIP, xg_league_bool=True),
+        SeasonLeague(SEASON_21_22, ITALIAN_SERIE_A, xg_league_bool=True),
+        SeasonLeague(SEASON_21_22, SPANISH_LA_LIGA, xg_league_bool=True),
+        SeasonLeague(SEASON_21_22, FRENCH_LIGUE_1, xg_league_bool=True),
         SeasonLeague(SEASON_21_22, GERMAN_BUNDESLIGA, xg_league_bool=True),
+        SeasonLeague(SEASON_20_21, ENGLISH_PREMIER_LEAGUE, xg_league_bool=True),
+        SeasonLeague(SEASON_20_21, ENGLISH_CHAMPIONSHIP, xg_league_bool=True),
+        SeasonLeague(SEASON_20_21, ITALIAN_SERIE_A, xg_league_bool=True),
+        SeasonLeague(SEASON_20_21, SPANISH_LA_LIGA, xg_league_bool=True),
+        SeasonLeague(SEASON_20_21, FRENCH_LIGUE_1, xg_league_bool=True),
+        SeasonLeague(SEASON_20_21, GERMAN_BUNDESLIGA, xg_league_bool=True),
+        SeasonLeague(SEASON_19_20, ENGLISH_PREMIER_LEAGUE, xg_league_bool=True),
+        SeasonLeague(SEASON_19_20, ENGLISH_CHAMPIONSHIP, xg_league_bool=True),
+        SeasonLeague(SEASON_19_20, ITALIAN_SERIE_A, xg_league_bool=True),
+        SeasonLeague(SEASON_19_20, SPANISH_LA_LIGA, xg_league_bool=True),
+        SeasonLeague(SEASON_19_20, FRENCH_LIGUE_1, xg_league_bool=True),
+        SeasonLeague(SEASON_19_20, GERMAN_BUNDESLIGA, xg_league_bool=True),
+        SeasonLeague(SEASON_18_19, ENGLISH_PREMIER_LEAGUE, xg_league_bool=True),
+        SeasonLeague(SEASON_18_19, ENGLISH_CHAMPIONSHIP, xg_league_bool=True),
+        SeasonLeague(SEASON_18_19, ITALIAN_SERIE_A, xg_league_bool=True),
+        SeasonLeague(SEASON_18_19, SPANISH_LA_LIGA, xg_league_bool=True),
+        SeasonLeague(SEASON_18_19, FRENCH_LIGUE_1, xg_league_bool=True),
+        SeasonLeague(SEASON_18_19, GERMAN_BUNDESLIGA, xg_league_bool=True),
     ]
     main(seasons_leagues)

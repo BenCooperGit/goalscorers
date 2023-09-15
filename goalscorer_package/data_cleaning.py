@@ -76,22 +76,19 @@ def load_seasons_leagues_files(
 #### Expectancies ####
 
 
-def load_match_expectancies_df(seasons_leagues: list[c.SeasonLeague]) -> pd.DataFrame:
+def load_match_expectancies_df(
+    seasons_leagues: list[c.SeasonLeague],
+) -> pd.DataFrame:
     df_exp = pd.concat(
         [
-            pd.read_csv(
+            pd.read_parquet(
                 c.FilePath.FOOTBALL_DATA_EDITED
-                + f"{season_league.season.season_str}-league-{season_league.league.league_id}-historic-odds.csv"
+                + f"{season_league.season.season_str}-league-{season_league.league.league_id}-historic-odds.parquet"
             )
             for season_league in seasons_leagues
         ],
         ignore_index=True,
     )
-    df_exp = df_exp.assign(
-        datetime=lambda x: pd.to_datetime(x.datetime),
-        date=lambda x: x.datetime.dt.date,
-        time=lambda x: x.datetime.dt.time,
-    ).drop(columns=["datetime"])
     return df_exp
 
 
@@ -180,6 +177,42 @@ def add_npg(df: pd.DataFrame) -> pd.DataFrame:
     df.npxg = np.where(
         (df.npg != 0) & (df.npxg == 0), 0.03, df.npxg
     )  # npxg gets rounded to 0, but a non-penalty goal is scored
+    return df
+
+
+def add_datetime(df: pd.DataFrame) -> pd.DataFrame:
+    return df.assign(
+        epoch_datetime=lambda x: x.datetime,
+        datetime=lambda x: pd.to_datetime(x.datetime, unit="s"),
+        date=lambda x: x.datetime.dt.date,
+    )
+
+
+def add_match_number(df: pd.DataFrame) -> pd.DataFrame:
+    df_matches = (
+        df[["datetime", "home_team", "away_team"]]
+        .drop_duplicates(ignore_index=True)
+        .sort_values(["datetime", "home_team"], ignore_index=True)
+        .assign(match_number=lambda x: range(1, len(x) + 1))
+    )
+    df = df.merge(
+        df_matches,
+        how="left",
+        on=["datetime", "home_team", "away_team"],
+        validate="m:1",
+    ).sort_values(["match_number", "home", "position"], ignore_index=True)
+    return df
+
+
+def add_t(df: pd.DataFrame, num_intervals=38) -> pd.DataFrame:
+    df = df.assign(time_interval=lambda x: pd.qcut(x.match_number, q=num_intervals))
+    df_interval_to_t = pd.DataFrame(
+        {
+            "t": range(1, num_intervals + 1),
+            "time_interval": np.sort(df.time_interval.unique()),
+        }
+    )
+    df = df.merge(df_interval_to_t, how="left", on=["time_interval"], validate="m:1")
     return df
 
 
